@@ -4,4 +4,4 @@
 
 Visit https://pontoon.mozilla.org/projects/foundation-website/ to contribute to translations.
 
-Use [pip-tools]() to update dependencies.
+Use [pip-tools](https://github.com/jazzband/pip-tools) to update dependencies.
