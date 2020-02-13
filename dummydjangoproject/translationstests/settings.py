@@ -133,5 +133,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Pontoon Slack webhook
-TRAVIS_LOGS_URL = env('TRAVIS_LOGS_URL')
+TRAVIS_JOB_WEB_URL = env('TRAVIS_JOB_WEB_URL', default='')
 SLACK_WEBHOOK_PONTOON = env('SLACK_WEBHOOK_PONTOON')

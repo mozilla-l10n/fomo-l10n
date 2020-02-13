@@ -13,7 +13,7 @@ class Command(BaseCommand):
         try:
             call_command("compilemessages", verbosity=1)
         except CommandError as err:
-            travis_logs_url = settings.TRAVIS_LOGS_URL
+            travis_job_web_url = settings.TRAVIS_JOB_WEB_URL
             slack_webhook = settings.SLACK_WEBHOOK_PONTOON
 
             slack_payload = {
@@ -22,7 +22,7 @@ class Command(BaseCommand):
                         'fallback': '<!here> An error occurred while compiling `.po` files for '
                                     'donate-wagtail\n'
                                     f'Error message: ```{err}```\n'
-                                    f'URL: {travis_logs_url}',
+                                    f'URL: {travis_job_web_url}',
                         'pretext':  '<!here> An error occurred while compiling `.po` files for '
                                     'donate-wagtail\n',
                         'title':    f'Travis logs\n',
@@ -32,7 +32,7 @@ class Command(BaseCommand):
                             {
                                 'type': 'button',
                                 'text': 'View logs',
-                                'url': f'{travis_logs_url}'
+                                'url': f'{travis_job_web_url}'
                             }
                         ]
                     }
