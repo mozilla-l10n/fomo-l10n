@@ -1,0 +1,5 @@
+locales = [ "nl"]
+
+[[paths]]
+reference = "dummydjangoproject/translationstests/networkapi/mozfest/locale/django.pot"
+l10n = "dummydjangoproject/translationstests/networkapi/mozfest/locale/{locale}/LC_MESSAGES/django.po"
