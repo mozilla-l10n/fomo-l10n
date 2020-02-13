@@ -6,11 +6,11 @@ cache:
 install:
 - pip install -r requirements.txt
 script:
-  - cd ./dummydjangoproject
-  - ./manage.py test_compilemessages_ci
+- cd ./dummydjangoproject
+- "./manage.py test_compilemessages_ci"
 env:
   global:
-    - ALLOWED_HOSTS=localhost
-    - DEBUG=False
-    - SECRET_KEY=secret
-    - secure: KeLHXKyLXq/vJ2Z6Gus718QJjYM1AAwL8G6gocLuWNpQ31sPALuCEihT2Q3nU/P6q/TjUFW5Rr2f1Hqu6z+U5PIYFhWnlqQ+2IBhL4QTvJo9tvRDvfUcwld5pVtI+bYfQwOeVqL3ZeBzVcQcH0dcafxMRnGvotJ9Wp72nbRK4zZPBeOE0HCl8E26P+ojxpW4i12Z6p3b8I/sXRoizpgAiscVrpIbWGFEKJ3zyPxp/4oQNy2zT+viXR76dc8/Cd83v/bWgIo2ahW4UDdcKj+2bi66SiOV17RJ8uPGcf/HZpkhrHvONplGWKwzWTlQ02k316IXMIcNMuFebgvG1pQ+xvEk4nZ5+20S9LJ7BgB87vRljIyIMMqSz/WCUjDkhLCOkSmwmDi4vJzSxbGdyBl4VXJ++A1jGEbD3GXbsAUqQ3DKvxJ1fKbfpJroajyQepJL9UmwBUE50jgpCmOYKt50YqxbguxswmnP9rT36raej4MrDmduVU2m84sVjOMtwfjRHXIhnSdKaTgDBZSIIjH58ikBDr/b9FRBHo/r3WqJPgbtzeEjLnU6AGir30jRpFmaVb0iwU4EyVTNmSJxfO5fZ5XZux0zhRH62FivaKL1daMaPGLhIGb4kvJgrRKrpixWcqKjQ8uAJLl6hnRWEtYBpFCw2EIeRYrqC4BcNkmqf/Q=
+  - ALLOWED_HOSTS=localhost
+  - DEBUG=False
+  - SECRET_KEY=secret
+  - secure: sRjeywA1eP5J5uuPF17p4lt9Zi/vEF1ABmK0Q+uDRj2B3/+AEIoOL/iGmBtYdqgkcSnPhkyYO8Hslx8bcwa4ABg6wd4QclSz8CMSNg5ItONIyuAi9gFtwJe1rvLgAkPh8hEfgJvvpLoAsfYkAmBjv7pw94LwfS8l/6EH/wKz3MXBFksOavVPpSsv2wPilPh1WTrnK73bZYJhGUowI5+SBV+kLcYq/JTF4KRVz2aV0+BtoErgf3fvWmDUpgfrRuakmKs+mXaNiw7LZNrkq/Nuo3ara4w4O+CrkaCRDil+14EqVrhjHX6LTcQ936h/rzK60GLCVmkC5QSVxxvgkPepOnwOiXwmmzO0SStvbvEeht49xoA34Cv3Xkn3/NdE3DYNLe+EOfd2t3VD35aUlaraZLSk29KJLfDfJExXs4MtLmV+gqCgLo3pIRiLU+QuOX4DkQkw5fTHUCWxjZ4I/C/03AU/FSxZR9LY4Asdqz8HSmMLcmGN9AN96npEfZ5nZiNXZOy8kn3Uq9Tl9TRiF4c38lEGIK6SDKozgL/HiJHV2NpYba+llWqni+aIGMXjQLwHREo06GVkqOh/W39ppN7k2B+t++O+Tl5DTOYquHO0SKi51y28Dt8MnQ2wpf6Sm5X8VwkyOa8Efy5V1YQUja8GqAARBdoxrTJWXpQUBhich5Y=
