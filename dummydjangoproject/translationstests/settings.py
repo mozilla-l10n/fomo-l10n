@@ -131,3 +131,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# Pontoon Slack webhook
+TRAVIS_LOGS_URL = env('TRAVIS_LOGS_URL')
+SLACK_WEBHOOK_PONTOON = env('SLACK_WEBHOOK_PONTOON')
