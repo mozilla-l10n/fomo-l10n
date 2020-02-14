@@ -5,7 +5,7 @@ cache:
   pip: true
 install:
 - pip install -r requirements.txt
-script: "python3 ./dummydjangoproject/manage.py test_compilemessages_ci"
+script: "python3 ./dummydjangoproject/manage.py compilemessages_ci"
 before_deploy: "./archive.sh"
 deploy:
   provider: s3

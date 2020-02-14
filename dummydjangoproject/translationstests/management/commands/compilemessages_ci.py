@@ -22,7 +22,7 @@ class DoubleOutput:
 
 
 class Command(BaseCommand):
-    help = 'Send a message to Slack if compilemessages returns an error.'
+    help = 'Run compilemessages and send a message to Slack if it returns an error.'
 
     def handle(self, *args, **options):
         output = io.StringIO()
