@@ -8,12 +8,12 @@ install:
 script:
 - cd ./dummydjangoproject
 - "./manage.py test_compilemessages_ci"
-before_deploy: pwd
+before_deploy: "../archive.sh"
 deploy:
   provider: s3
   access_key_id: "${AWS_ACCESS_KEY}"
   secret_access_key: "${AWS_SECRET_KEY}"
-  bucket: foundation-site-translations
+  bucket: "foundation-site-translations"
   glob: translations.tgz
 env:
   global:
