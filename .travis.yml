@@ -8,7 +8,9 @@ install:
 script:
 - cd ./dummydjangoproject
 - "./manage.py test_compilemessages_ci"
-before_deploy: "../archive.sh"
+before_deploy:
+  - "cd .."
+  - "./archive.sh"
 deploy:
   provider: s3
   access_key_id: "${AWS_ACCESS_KEY}"
