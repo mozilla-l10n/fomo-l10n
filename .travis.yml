@@ -16,7 +16,8 @@ deploy:
   access_key_id: "${AWS_ACCESS_KEY}"
   secret_access_key: "${AWS_SECRET_KEY}"
   bucket: "foundation-site-translations"
-  glob: translations.tgz
+  file_glob: true
+  file: translations.tgz
 env:
   global:
   - ALLOWED_HOSTS=localhost
