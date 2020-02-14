@@ -8,6 +8,8 @@ install:
 script:
 - cd ./dummydjangoproject
 - "./manage.py test_compilemessages_ci"
+# TODO Make the deploy step only available on master
+before_deploy: ./archive.sh
 env:
   global:
   - ALLOWED_HOSTS=localhost
