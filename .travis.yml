@@ -13,6 +13,7 @@ deploy:
   secret_access_key: "${AWS_SECRET_KEY}"
   bucket: "foundation-site-translations"
   local_dir: to_upload
+  skip_cleanup: true
   acl: public_read
 env:
   global:
