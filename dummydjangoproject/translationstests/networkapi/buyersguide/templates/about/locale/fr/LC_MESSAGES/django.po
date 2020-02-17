@@ -1,0 +1,539 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-17 15:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:13
+msgid "Why we made this guide"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:14
+msgid "How to use this guide"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:15
+msgid "Minimum Security Standards explained"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:16
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:213
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:38
+msgid "Methodology"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:17
+msgid "Contact us"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:18
+#: network-api/networkapi/buyersguide/templates/about/press.html:9
+msgid "Press"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/contact.html:9
+msgid "Contact Us"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/contact.html:13
+#, python-format
+msgid "For any questions about the guide or to offer constructive feedback, please email Jen Caltrider at <a href=\"mailto:%(email)s\">%(email)s</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/contact.html:19
+#, python-format
+msgid "For members of the press with questions about this guide, please email Corey Nord at <a href=\"mailto:%(email)s\">%(email)s</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/contact.html:25
+msgid "We don’t want to miss any products that might be important to you. Tell us what connected products you want reviewed in our holiday buyer’s guide and we’ll do our best to include them."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/contact.html:26
+msgid "Submit a product"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:9
+msgid "How to Use This Guide"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:13
+msgid "Need help understanding how to use this guide? Here you go:"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:17
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:37
+msgid "Our Minimum Security Standards"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:19
+#, python-format
+msgid "We developed a set of minimum security standards we think all connected products should meet at the <em>very</em> least. Think of it as a “you must be this tall to ride” set of standards. These include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy. If you would like to learn more about our minimum security standards, <a href=\"%(url)s\">go here</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:31
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:74
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:46
+msgid "Encryption"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:33
+msgid "Encryption is your friend. It protects your private and personal information by scrambling it up into a code so that the only people or machines who can read it are the ones on the other end who have the key to unscramble that code. Products that don’t use encryption send personal information over the internet unscrambled so anyone can see it."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:43
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:85
+msgid "Security updates"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:45
+msgid "Sometimes security vulnerabilities are found in products after they are sold to the public. For that reason, companies should have a way to quickly push a security update out to the product automatically so it fixes the security vulnerability without the consumer ever needing to worry about it."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:54
+msgid "Strong Password"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:56
+msgid "Remembering passwords might be annoying, but having a good password is still one of the best lines of defense we have when it comes to protecting our privacy and security. It’s great when a password is required. But default passwords that are the same for all consumers and never change can be just as bad. You should be required to change the default password to a strong password. Products with a default password that does not require changing can leave users’ personal information exposed."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:67
+msgid "Manages vulnerabilities"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:69
+#, python-format
+msgid "Security vulnerabilities in products happen. It’s how companies manage them when they arise that matter. We looked at whether or not companies have a system in place to manage vulnerabilities in the product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:80
+msgid "Privacy policies"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:82
+msgid "Privacy policies detail a lot of important information about how companies collect, use, and share your personal information. Because of that, this information should be easily found and easily understood."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:90
+msgid "Creep-O-Meter"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:92
+msgid "Our Creep-O-Meter is for you to share your opinion. Read the review of the product, then rate how creepy or not creepy you think the product is and how likely you are to buy it. Click vote to see how your opinion stacks up to others."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:101
+msgid "Can it snoop on me?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:103
+msgid "Just because a device has a camera, microphone, or tracks location doesn’t mean it will snoop on you. It simply means it <em>could</em> and you should be aware of that. Also, many connected devices are controlled by apps on your phone. The apps often ask to use the phone’s camera, microphone or location tracking. Keep an eye on that, as some of the permissions the apps ask for might surprise you."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:114
+msgid "How does it handle privacy?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:116
+msgid "Security and privacy are two separate concerns when it comes to connected products. A company can take measures to make a device secure, while also being questionable on how it handles the data that device might collect on you. Consumers should ask questions like what data does the device collect, how does the company use that data, who does it share that data with, and can you delete the data they collect?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:126
+msgid "How does it share data?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:128
+msgid "Nearly every company collects some kind of information on its users. That’s how the internet works. It’s how they use and care for this information that matters. You should know whether a company shares or sells your personal information to others and for what reasons."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:137
+msgid "Can you delete your data?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:139
+msgid "Companies collect a lot of data on their consumers. Who controls that data? Being able to contact a company and ask them to delete any data they have on you is a very good thing."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:147
+msgid "Collects biometrics data?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:149
+msgid "Your voice, heart rate, activity levels, stress levels, sleep patterns, menstrual cycles, even your fingerprint and facial features are some of the most intimate, sensitive data devices can collect on you. You should be aware if a device collects this data and how that data is used after it is collected."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:158
+msgid "Parental controls"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:160
+msgid "Parental controls on toys, tablets, smart speakers, and many other connected devices can be a very good way to protect the privacy and security of both young and old. Not all products need parental controls, but parents should look to see if they are an option for connected products they will buy and let their children use."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:169
+msgid "User friendly privacy info?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:171
+msgid "Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. Privacy policies are often written more for lawyers than consumers. That’s why it’s nice to see more and more companies creating consumer-friendly privacy pages to outline how they handle your personal information and the data they collected on their users. We hope to see this trend continue."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:181
+msgid "What could happen if something goes wrong"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:183
+msgid "It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. We lay out a potential worst-case scenario for each product, in some cases for fun and in some cases based on things that have already happened with the product."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:192
+msgid "Updates"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:194
+msgid "When news breaks or we come across a relevant article about a product in this guide, we will share it in the updates section on each product page."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:202
+msgid "Comments"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:204
+msgid "We love to hear your thoughts and feedback on the products in this guide. And other users might like to join you in a conversation about any experiences or concerns you’ve had with a product. Please join the conversation in the comment section at the bottom of each product page."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:215
+#, python-format
+msgid "If you would like to read more about the research methodology we used to create this guide, please check out our <a href=\"%(url)s\">methodology section</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:223
+msgid "Monetization of the Guide"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:225
+#, python-format
+msgid "Mozilla Foundation does not receive any money from the companies featured in this guide or from linking to sites where users purchase products. We are currently experimenting with Web Monetization on a small number of our properties. Web Monetization is an open standard that enables publishers and platforms to compensate creators directly, outside of the dominant advertising model. Only users with a Web Monetization enabled extension in their browsers will be aware of the implementation. Read more about our Web Monetization experiment <a%(link_args)s>here</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:236
+msgid "Further reading"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:238
+#, python-format
+msgid "If you’d like to know how connected devices are created, and what could actually be done to make them better, check out Mozilla’s Internet Health Report special edition: <a%(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:9
+msgid "About our Methodology"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:14
+msgid "The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart — and safe — for products that connect to the Internet. Many companies don’t provide clear information about the privacy and security of the connected devices they sell. Is your personal data being used in ways you may not have anticipated or expected? What are the risks of buying a product that collects your health data? How does the company regularly test for and fix security vulnerabilities?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:24
+msgid "It’s difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. With this guide, we hoped to help consumers navigate this landscape by understanding what questions they should ask before buying a device."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:32
+msgid "Here is the methodology we used to develop this guide."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:42
+msgid "Product Selection"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:44
+msgid "There are 76 products in the 2019 version of our <em>*Privacy Not Included</em> buyer’s guide. These products fit into six categories — Toys & Games, Smart Home, Entertainment, Wearables, Health & Exercise, and Pets."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:50
+#, python-format
+msgid "The goal was to select connected products that were likely to be popular during the holiday season and beyond. We selected products that were top sellers on <a href=%(amazon)s>Amazon</a> Prime Day, products featured in the <a href=%(targetopenhouse)s>Target Open House</a>, and products that were highly rated across a variety of consumer product websites such as <a href=%(wirecutter)s>Wirecutter</a>, <a href=%(toyinsider)s>The Toy Insider</a>, <a href=%(pcmag)s>PC Magazine</a>, <a href=%(techradar)s>Tech Radar</a>, and <a href=%(gearbrain)s>Gear Brain</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:64
+msgid "Minimum Security Requirements"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:68
+#, python-format
+msgid "Mozilla has established a set of <a href=%(sec_standards)s>Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We evaluated each product on our list against five criteria:"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:76
+msgid "Device should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped or modified in transit. User data should be encrypted when it is stored."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:87
+msgid "The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:96
+msgid "Strong passwords"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:98
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:71
+msgid "If the product uses passwords for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:108
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:81
+msgid "Vulnerability management"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:110
+msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:119
+msgid "Privacy Policy"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:121
+msgid "The product must have a privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:131
+msgid "Privacy"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:135
+msgid "We evaluated the privacy documentation — which included privacy policies, privacy pages, FAQs – for each company selling these products to determine (1) how data is shared with third parties, (2) whether or not users could request deletion of their data, and (3) the accessibility/readability of the privacy information. Where relevant, we also looked at whether (4) biometric data is collected, and (5) parental controls are in place."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:144
+msgid "1) How does it share data?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:146
+msgid "How do companies collect and share customer data with third parties? For this question, we analyzed the privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than standard vendors."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:153
+msgid "For instance, if a company can share or sell personal customer data with third parties, use  data for targeted advertising, or if third parties can use data for commercial purposes, then we noted this. We also noted where the company is permitted to sell or share aggregated, de-identified data. Even if the data is not personally identifiable, consumers have a right to know how their information may be used."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:163
+msgid "2) Can you delete your data?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:165
+msgid "Does the company provide a way for users to request deletion of their data? We looked for language around this in the privacy policy and/or whether the company had an online portal that lets users delete their data quickly."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:173
+msgid "3) User-friendly privacy information"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:175
+msgid "How easy is it to find clear information about a device’s privacy? How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:185
+msgid "4) Biometric information"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:187
+msgid "Biometric data is data that describes our bodies and distinctive personal characteristics. Many devices collect sensitive data about our heart rate, our sleep patterns, and our menstrual cycle, for instance. Some even use data about our face and voice to identify us. We noted which products collect biometric data."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:196
+msgid "5) Parental controls?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:198
+msgid "For products that are intended for children, can parents change and control the settings of the device?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:205
+msgid "Permissions"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:209
+msgid "We looked into a set of criteria for each product across five questions."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:213
+msgid "The device/app uses:"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:215
+msgid "This looks at whether a device or app uses a camera, microphone, or location tracking."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:218
+msgid "For you to set up your new device, you will probably need to download an app. Both of these (the device and the app) will most likely need data to make things work. The app will typically need to request permissions for it to access your more sensitive data."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:225
+#, python-format
+msgid "In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product website and we used the <a href=%(url)s>Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:238
+msgid "Worst-case scenario"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:242
+msgid "What could happen if something goes wrong?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:244
+msgid "We included this section to help people understand risk scenarios related to their privacy and each particular product. We aimed to identify risks that would feel relevant to consumers. It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. This question looks a potential worst-case scenarios for each product, in some cases for fun and in some cases based on things that have already happened with the product."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:9
+msgid "Minimum Security Guidelines Explained"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:14
+#, python-format
+msgid "Despite growing concerns about the safety and security of internet-connected devices, many companies still build and sell connected products that are insecure. Take the <a href=%(npr)s>FREDI wireless baby camera monitor</a>, for instance, which has been repeatedly hacked. Further, many companies don’t provide clear information about the data privacy of the devices they sell. Is your personal data being used in ways you may not have anticipated or expected?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:24
+#, python-format
+msgid "In 2018, <a href=%(mozilla)s>Mozilla</a>, <a href=%(ci)s>Consumers International</a>, and the <a href=%(isoc)s>Internet Society</a>, decided to take a more proactive approach to these gaps. We believe that industry should start talking about what some of the initial ‘red lines’ are in this space, and should phase out practices that lead to the most egregious failings in connected devices."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:33
+msgid "Together, the three organizations proposed five minimum guidelines that companies making connected devices should reasonably be expected to satisfy."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:42
+msgid "Minimum Security Standards"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:48
+msgid "The product must use encryption for all of its network communications functions and capabilities. This ensures that all communications are not eavesdropped or modified in transit. The product must also use encryption at rest to ensure that customer data is protected in storage."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:57
+msgid "Security updates [1]"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:59
+msgid "The product must support automatic updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified and then installed seamlessly. Updates must not make the product unavailable for an extended period."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:69
+msgid "Strong passwords [2]"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:83
+msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or an equivalent bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:92
+msgid "Privacy Practices [3]"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:94
+msgid "The product must have privacy information that applies specifically to the device, not a generic privacy policy that is written to cover just the company web properties."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:105
+msgid "<b>[1]</b> Automatic updates are critical to creating a secure product ecosystem. Nonetheless, we have heard concerns that automatic updates can also be used in ways that are adversarial towards users. This guideline is not intended in any way to encourage or condone the use of update mechanisms to push software that would weaken the privacy properties of products or modify security or privacy settings in ways that are inconsistent with users’ choices and expectations."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:117
+msgid "<b>[2]</b> The guideline is also not intended to require that all devices have a password. It is intended for devices that use passwords for remote authentication, rather than devices that are in hand. For instance, many connected devices use secure methods for Bluetooth authentication that does not involve passwords."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:127
+msgid "<b>[3]</b> In the Mozilla *Privacy Not Included Buyer’s Guide, we evaluate additional privacy considerations including how data is shared with third parties, whether data can be deleted, and the readability of the privacy information."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/press.html:13
+#, python-format
+msgid "If you’re a member of the press interested in learning more about *Privacy Not Included, please email Corey Nord at <a href=\"mailto:%(email)s\">%(email)s</a>. Below, peruse past coverage of *Privacy Not Included:"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/press.html:52
+#, python-format
+msgid "Seeking more background? Mozilla’s Internet Health Report have created a brief companion piece to our guide called <a%(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:9
+msgid "Why We Made This Guide"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:14
+#, python-format
+msgid "Welcome to the third edition of <a%(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:21
+msgid "Three years ago when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart home products. Turns out, they were. And it wasn’t just people who were interested. We discovered companies were too. We’re happy to see both consumers and companies increasingly value connected products that are safe, secure, and private."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:30
+msgid "What can you expect in <em>*Privacy Not Included</em> this year?"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:39
+#, python-format
+msgid "We realize people want to <em>just know</em> which products are safe and which aren’t. We are Mozilla—not a consumer product review company—so we won’t say “Buy this, don’t buy that.” Instead, we used our technical expertise to create a set of <a href=%(url)s>Minimum Security Standards</a> we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy. Look for the “Meets Our Minimum Security Standards” badge on products in the guide. This year we’ve also added a star rating near the top of each product page so you can glance at a product and see just how well it does on our Minimum Security Standards."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:53
+msgid "There is a Creep-O-Meter."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:55
+msgid "We want users of this guide to be able to share their opinion too. It’s important that companies, and other consumers, see which products people think are safe, and which products people feel are a bit creepy. So we created our Creep-O-Meter—a user rating on each product—to let folks give their opinion. Companies are paying attention, so let them know if you think their product is creepy or not and if you’re likely to buy it."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:65
+msgid "Bigger and better."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:67
+msgid "Our product list has grown to 76 connected products across six categories. You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:81
+#, python-format
+msgid "We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. If you want to dig deeper, our friends on Mozilla’s Internet Health Report team have created a companion to our buyer’s guide that explains what can be done to make things better. It’s called <a%(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:90
+msgid "We as consumers need to demand that value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:97
+msgid "Thank you!"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:98
+msgid "The Team at Mozilla"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:103
+#, python-format
+msgid "Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a%(mofo_url)s>Mozilla Foundation</a> which relies on <a%(donate_url)s>donations</a> from people like you to do our work. You can also visit <a%(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:114
+#, python-format
+msgid "For any questions about the guide or to offer constructive feedback, please email <a href=\"mailto:%(email)s\">%(email)s</a>"
+msgstr ""
