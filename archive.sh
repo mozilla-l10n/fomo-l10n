@@ -15,6 +15,8 @@ mv ./foundation/translations/locale/pt_BR/ ./foundation/translations/locale/pt/
 # Buyers' guide
 rm -rf ./foundation/translations/networkapi/buyersguide/locale/pt/
 mv ./foundation/translations/networkapi/buyersguide/locale/pt_BR/ ./foundation/translations/networkapi/buyersguide/locale/pt/
+rm -rf ./foundation/translations/networkapi/buyersguide/templates/about/locale/pt/
+mv ./foundation/translations/networkapi/buyersguide/templates/about/locale/pt_BR/ ./foundation/translations/networkapi/buyersguide/templates/about/locale/pt/
 # Mozfest
 rm -rf ./foundation/translations/networkapi/mozfest/locale/pt/
 mv ./foundation/translations/networkapi/mozfest/locale/pt_BR/ ./foundation/translations/networkapi/mozfest/locale/pt/
