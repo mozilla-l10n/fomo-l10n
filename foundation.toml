@@ -1,9 +1,5 @@
-locales = [ "de", "es", "fr", "nl", "pl", "pt_BR"]
+locales = [ "de", "es", "fr", "pl", "pt_BR"]
 
 [[paths]]
 reference = "foundation/translations/locale/django.pot"
 l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/django.po"
-
-[[paths]]
-reference = "foundation/translations/locale/messages.ftl"
-l10n = "foundation/translations/locale/{locale}/messages.ftl"
