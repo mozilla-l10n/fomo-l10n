@@ -1,9 +1,9 @@
 locales = [ "de", "es", "fr", "nl", "pl", "pt_BR"]
 
 [[paths]]
-reference = "dummydjangoproject/translationstests/locale/django.pot"
-l10n = "dummydjangoproject/translationstests/locale/{locale}/LC_MESSAGES/django.po"
+reference = "foundation/translations/locale/django.pot"
+l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/django.po"
 
 [[paths]]
-reference = "dummydjangoproject/translationstests/locale/messages.ftl"
-l10n = "dummydjangoproject/translationstests/locale/{locale}/messages.ftl"
+reference = "foundation/translations/locale/messages.ftl"
+l10n = "foundation/translations/locale/{locale}/messages.ftl"

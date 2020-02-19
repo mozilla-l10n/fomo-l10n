@@ -9,5 +9,5 @@ touch ${TRAVIS_COMMIT}
 mkdir -p to_upload
 
 echo "Archiving files"
-tar -C dummydjangoproject/translationstests -cvf ./to_upload/translations.tar ./locale ./networkapi
+tar -C foundation/translations -cvf ./to_upload/translations.tar ./locale ./networkapi
 tar rvf ./to_upload/translations.tar ./${TRAVIS_COMMIT}
