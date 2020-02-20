@@ -1,4 +1,4 @@
-# Translations for mozilla.foundation.org
+# Translations for foundation.mozilla.org
 
 [![Build Status](https://travis-ci.org/mozilla-l10n/fomo-l10n.svg?branch=master)](https://travis-ci.org/mozilla-l10n/fomo-l10n)
 
