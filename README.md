@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mozilla-l10n/fomo-l10n.svg?branch=master)](https://travis-ci.org/mozilla-l10n/fomo-l10n)
 
-Process mozilla.foundation.org's translations and upload them to S3.
+Process foundation.mozilla.org's translations and upload them to S3.
 
 ## Contributing
 Visit https://pontoon.mozilla.org/projects/mozilla-foundation-website/ to contribute to translations.
