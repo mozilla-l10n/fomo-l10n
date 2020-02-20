@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # Keep the commit hash
-touch ${TRAVIS_COMMIT}
+touch translations_github_commit_${TRAVIS_COMMIT}
 
 # Selecting only a file in travis doesn't seem to work, using a dir instead
 mkdir -p to_upload
