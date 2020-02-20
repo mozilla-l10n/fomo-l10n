@@ -23,5 +23,5 @@ mv ./foundation/translations/networkapi/mozfest/locale/pt_BR/ ./foundation/trans
 
 echo "Archiving files"
 tar -C foundation/translations -cvf ./to_upload/translations.tar ./locale ./networkapi
-tar rvf ./to_upload/translations.tar ./${TRAVIS_COMMIT}
+tar rvf ./to_upload/translations.tar ./translations_github_commit_${TRAVIS_COMMIT}
 echo "Done!"
