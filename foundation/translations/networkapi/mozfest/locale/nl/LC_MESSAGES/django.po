@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-28 10:18+0000\n"
+"POT-Creation-Date: 2020-03-04 00:24+0000\n"
 "PO-Revision-Date: 2020-02-22 18:38+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,41 +19,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/mozfest/templates/fragments/twitter_feed.html:3
-msgid "Mozilla Festival Tweets"
-msgstr "Tweets van Mozilla Festival"
-
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:6
 #, python-format
 msgid "Mozilla Festival %(year)s - Page Not Found"
 msgstr "Mozilla Festival %(year)s – Pagina niet gevonden"
 
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:24
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:50
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:43
 msgid "Home"
 msgstr "Startpagina"
 
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:25
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:53
-msgid "Spaces"
-msgstr "Spaces"
-
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:27
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:54
-msgid "Team"
-msgstr "Team"
-
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:28
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:55
-msgid "Tickets"
-msgstr "Kaartjes"
-
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:31
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:56
-msgid "Sponsors"
-msgstr "Sponsors"
-
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:61
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:46
 msgid "Submit proposal"
 msgstr "Voorstel indienen"
 
@@ -66,34 +42,49 @@ msgstr "Mozilla Festival %(year)s"
 msgid "Watch Video"
 msgstr "Video bekijken"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:30
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:29
 msgid "Email"
 msgstr "E-mailadres"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:34
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:33
 msgid "Donate"
 msgstr "Doneren"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:35
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:34
 msgid "Legal"
 msgstr "Juridisch"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:36
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:35
 msgid "License"
 msgstr "Licentie"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:37
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:36
 msgid "Participation Guidelines"
 msgstr "Richtlijnen voor deelname"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:38
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:37
 msgid "Media Center"
 msgstr "Mediacentrum"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:39
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:38
 msgid "Privacy"
 msgstr "Privacy"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:40
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:39
 msgid "Cookies"
 msgstr "Cookies"
+
+#~ msgid "Mozilla Festival Tweets"
+#~ msgstr "Tweets van Mozilla Festival"
+
+#~ msgid "Spaces"
+#~ msgstr "Spaces"
+
+#~ msgid "Team"
+#~ msgstr "Team"
+
+#~ msgid "Tickets"
+#~ msgstr "Kaartjes"
+
+#~ msgid "Sponsors"
+#~ msgstr "Sponsors"
