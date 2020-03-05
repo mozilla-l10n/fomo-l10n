@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-05 14:42+0000\n"
+"POT-Creation-Date: 2020-03-05 23:41+0000\n"
 "PO-Revision-Date: 2020-02-21 17:06+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,9 +19,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
 
+#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:17
+msgctxt "Pause button for video"
+msgid "PAUSE VIDEO"
+msgstr ""
+
+#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:20
+msgctxt "Play button for video"
+msgid "PLAY VIDEO"
+msgstr ""
+
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:6
-#, python-format
-msgid "Mozilla Festival %(year)s - Page Not Found"
+#, fuzzy
+#| msgid "Mozilla Festival %(year)s - Page Not Found"
+msgid "Mozilla Festival - Page Not Found"
 msgstr "Mozilla Festival %(year)s - Page introuvable"
 
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:24
@@ -34,11 +45,12 @@ msgid "Submit proposal"
 msgstr "Soumettre une proposition"
 
 #: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:15
-#, python-format
-msgid "Mozilla Festival %(year)s"
-msgstr "Mozilla Festival %(year)s"
+#, fuzzy
+#| msgid "Mozilla Festival Tweets"
+msgid "Mozilla Festival"
+msgstr "Tweets du Mozilla Festival"
 
-#: network-api/networkapi/mozfest/templates/partials/homepage_banner.html:9
+#: network-api/networkapi/mozfest/templates/partials/homepage_banner.html:10
 msgid "Watch Video"
 msgstr "Regarder la vidéo"
 
@@ -74,8 +86,13 @@ msgstr "Confidentialité"
 msgid "Cookies"
 msgstr "Cookies"
 
-#~ msgid "Mozilla Festival Tweets"
-#~ msgstr "Tweets du Mozilla Festival"
+#: network-api/networkapi/mozfest/templates/partials/signup.html:5
+msgctxt "Sticky button in mobile view on MozFest homepage"
+msgid "SIGN UP"
+msgstr ""
+
+#~ msgid "Mozilla Festival %(year)s"
+#~ msgstr "Mozilla Festival %(year)s"
 
 #~ msgid "Spaces"
 #~ msgstr "Espaces"

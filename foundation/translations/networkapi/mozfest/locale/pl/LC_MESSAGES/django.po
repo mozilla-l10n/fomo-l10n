@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-05 14:42+0000\n"
+"POT-Creation-Date: 2020-03-05 23:41+0000\n"
 "PO-Revision-Date: 2020-02-23 10:43+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,9 +19,20 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pontoon\n"
 
+#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:17
+msgctxt "Pause button for video"
+msgid "PAUSE VIDEO"
+msgstr ""
+
+#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:20
+msgctxt "Play button for video"
+msgid "PLAY VIDEO"
+msgstr ""
+
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:6
-#, python-format
-msgid "Mozilla Festival %(year)s - Page Not Found"
+#, fuzzy
+#| msgid "Mozilla Festival %(year)s - Page Not Found"
+msgid "Mozilla Festival - Page Not Found"
 msgstr "Festiwal Mozilli %(year)s — nie odnaleziono strony"
 
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:24
@@ -34,11 +45,12 @@ msgid "Submit proposal"
 msgstr "Prześlij propozycję"
 
 #: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:15
-#, python-format
-msgid "Mozilla Festival %(year)s"
-msgstr "Festiwal Mozilli %(year)s"
+#, fuzzy
+#| msgid "Mozilla Festival Tweets"
+msgid "Mozilla Festival"
+msgstr "Tweety z Festiwalu Mozilli"
 
-#: network-api/networkapi/mozfest/templates/partials/homepage_banner.html:9
+#: network-api/networkapi/mozfest/templates/partials/homepage_banner.html:10
 msgid "Watch Video"
 msgstr "Obejrzyj film"
 
@@ -74,8 +86,13 @@ msgstr "Prywatność"
 msgid "Cookies"
 msgstr "Ciasteczka"
 
-#~ msgid "Mozilla Festival Tweets"
-#~ msgstr "Tweety z Festiwalu Mozilli"
+#: network-api/networkapi/mozfest/templates/partials/signup.html:5
+msgctxt "Sticky button in mobile view on MozFest homepage"
+msgid "SIGN UP"
+msgstr ""
+
+#~ msgid "Mozilla Festival %(year)s"
+#~ msgstr "Festiwal Mozilli %(year)s"
 
 #~ msgid "Spaces"
 #~ msgstr "Miejsca"
