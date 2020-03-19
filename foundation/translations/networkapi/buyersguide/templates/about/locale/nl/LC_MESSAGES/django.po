@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-03 22:09+0000\n"
+"POT-Creation-Date: 2020-03-19 23:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 #: network-api/networkapi/buyersguide/templates/about/about_nav.html:13
 msgid "Why we made this guide"
 msgstr ""
@@ -50,12 +51,12 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:13
 #, python-format
-msgid "For any questions about the guide or to offer constructive feedback, please email Jen Caltrider at <a href=\"mailto:%(email)s\">%(email)s</a>."
+msgid "For any questions about the guide or to offer constructive feedback, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:19
 #, python-format
-msgid "For members of the press with questions about this guide, please email Corey Nord at <a href=\"mailto:%(email)s\">%(email)s</a>."
+msgid "For members of the press with questions about this guide, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:25
@@ -385,7 +386,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:225
 #, python-format
-msgid "In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product website and we used the <a href=%(url)s>Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
+msgid "In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product website and we used the <a href=\"%(url)s\">Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:238
@@ -464,7 +465,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/press.html:13
 #, python-format
-msgid "If you’re a member of the press interested in learning more about *Privacy Not Included, please email Corey Nord at <a href=\"mailto:%(email)s\">%(email)s</a>. Below, peruse past coverage of *Privacy Not Included:"
+msgid "If you’re a member of the press interested in learning more about *Privacy Not Included, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>. Below, peruse past coverage of *Privacy Not Included:"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/press.html:52

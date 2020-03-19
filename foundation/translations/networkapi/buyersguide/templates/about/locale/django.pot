@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-17 15:25+0000\n"
+"POT-Creation-Date: 2020-03-19 23:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,12 +50,12 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:13
 #, python-format
-msgid "For any questions about the guide or to offer constructive feedback, please email Jen Caltrider at <a href=\"mailto:%(email)s\">%(email)s</a>."
+msgid "For any questions about the guide or to offer constructive feedback, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:19
 #, python-format
-msgid "For members of the press with questions about this guide, please email Corey Nord at <a href=\"mailto:%(email)s\">%(email)s</a>."
+msgid "For members of the press with questions about this guide, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:25
@@ -227,7 +227,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:225
 #, python-format
-msgid "Mozilla Foundation does not receive any money from the companies featured in this guide or from linking to sites where users purchase products. We are currently experimenting with Web Monetization on a small number of our properties. Web Monetization is an open standard that enables publishers and platforms to compensate creators directly, outside of the dominant advertising model. Only users with a Web Monetization enabled extension in their browsers will be aware of the implementation. Read more about our Web Monetization experiment <a%(link_args)s>here</a>."
+msgid "Mozilla Foundation does not receive any money from the companies featured in this guide or from linking to sites where users purchase products. We are currently experimenting with Web Monetization on a small number of our properties. Web Monetization is an open standard that enables publishers and platforms to compensate creators directly, outside of the dominant advertising model. Only users with a Web Monetization enabled extension in their browsers will be aware of the implementation. Read more about our Web Monetization experiment <a %(link_args)s>here</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:236
@@ -236,7 +236,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:238
 #, python-format
-msgid "If you’d like to know how connected devices are created, and what could actually be done to make them better, check out Mozilla’s Internet Health Report special edition: <a%(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgid "If you’d like to know how connected devices are created, and what could actually be done to make them better, check out Mozilla’s Internet Health Report special edition: <a %(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:9
@@ -265,7 +265,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:50
 #, python-format
-msgid "The goal was to select connected products that were likely to be popular during the holiday season and beyond. We selected products that were top sellers on <a href=%(amazon)s>Amazon</a> Prime Day, products featured in the <a href=%(targetopenhouse)s>Target Open House</a>, and products that were highly rated across a variety of consumer product websites such as <a href=%(wirecutter)s>Wirecutter</a>, <a href=%(toyinsider)s>The Toy Insider</a>, <a href=%(pcmag)s>PC Magazine</a>, <a href=%(techradar)s>Tech Radar</a>, and <a href=%(gearbrain)s>Gear Brain</a>."
+msgid "The goal was to select connected products that were likely to be popular during the holiday season and beyond. We selected products that were top sellers on <a href=\"%(amazon)s\">Amazon</a> Prime Day, products featured in the <a href=\"%(targetopenhouse)s\">Target Open House</a>, and products that were highly rated across a variety of consumer product websites such as <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(toyinsider)s\">The Toy Insider</a>, <a href=\"%(pcmag)s\">PC Magazine</a>, <a href=\"%(techradar)s\">Tech Radar</a>, and <a href=\"%(gearbrain)s\">Gear Brain</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:64
@@ -274,7 +274,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:68
 #, python-format
-msgid "Mozilla has established a set of <a href=%(sec_standards)s>Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We evaluated each product on our list against five criteria:"
+msgid "Mozilla has established a set of <a href=\"%(sec_standards)s\">Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We evaluated each product on our list against five criteria:"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:76
@@ -385,7 +385,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:225
 #, python-format
-msgid "In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product website and we used the <a href=%(url)s>Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
+msgid "In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product website and we used the <a href=\"%(url)s\">Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:238
@@ -401,21 +401,21 @@ msgid "We included this section to help people understand risk scenarios related
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:9
-msgid "Minimum Security Guidelines Explained"
+msgid "Minimum Security Standards Explained"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:14
 #, python-format
-msgid "Despite growing concerns about the safety and security of internet-connected devices, many companies still build and sell connected products that are insecure. Take the <a href=%(npr)s>FREDI wireless baby camera monitor</a>, for instance, which has been repeatedly hacked. Further, many companies don’t provide clear information about the data privacy of the devices they sell. Is your personal data being used in ways you may not have anticipated or expected?"
+msgid "Despite growing concerns about the safety and security of internet-connected devices, many companies still build and sell connected products that are insecure. Take the <a href=\"%(npr)s\">FREDI wireless baby camera monitor</a>, for instance, which has been repeatedly hacked. Further, many companies don’t provide clear information about the data privacy of the devices they sell. Is your personal data being used in ways you may not have anticipated or expected?"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:24
 #, python-format
-msgid "In 2018, <a href=%(mozilla)s>Mozilla</a>, <a href=%(ci)s>Consumers International</a>, and the <a href=%(isoc)s>Internet Society</a>, decided to take a more proactive approach to these gaps. We believe that industry should start talking about what some of the initial ‘red lines’ are in this space, and should phase out practices that lead to the most egregious failings in connected devices."
+msgid "In 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a>, and the <a href=\"%(isoc)s\">Internet Society</a>, decided to take a more proactive approach to these gaps. We believe that industry should start talking about what some of the initial ‘red lines’ are in this space, and should phase out practices that lead to the most egregious failings in connected devices."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:33
-msgid "Together, the three organizations proposed five minimum guidelines that companies making connected devices should reasonably be expected to satisfy."
+msgid "Together, the three organizations proposed five minimum standards that companies making connected devices should reasonably be expected to satisfy."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:42
@@ -451,11 +451,11 @@ msgid "The product must have privacy information that applies specifically to th
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:105
-msgid "<b>[1]</b> Automatic updates are critical to creating a secure product ecosystem. Nonetheless, we have heard concerns that automatic updates can also be used in ways that are adversarial towards users. This guideline is not intended in any way to encourage or condone the use of update mechanisms to push software that would weaken the privacy properties of products or modify security or privacy settings in ways that are inconsistent with users’ choices and expectations."
+msgid "<b>[1]</b> Automatic updates are critical to creating a secure product ecosystem. Nonetheless, we have heard concerns that automatic updates can also be used in ways that are adversarial towards users. These standards are not intended in any way to encourage or condone the use of update mechanisms to push software that would weaken the privacy properties of products or modify security or privacy settings in ways that are inconsistent with users’ choices and expectations."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:117
-msgid "<b>[2]</b> The guideline is also not intended to require that all devices have a password. It is intended for devices that use passwords for remote authentication, rather than devices that are in hand. For instance, many connected devices use secure methods for Bluetooth authentication that does not involve passwords."
+msgid "<b>[2]</b> These standards are also not intended to require that all devices have a password. It is intended for devices that use passwords for remote authentication, rather than devices that are in hand. For instance, many connected devices use secure methods for Bluetooth authentication that does not involve passwords."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:127
@@ -464,12 +464,12 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/press.html:13
 #, python-format
-msgid "If you’re a member of the press interested in learning more about *Privacy Not Included, please email Corey Nord at <a href=\"mailto:%(email)s\">%(email)s</a>. Below, peruse past coverage of *Privacy Not Included:"
+msgid "If you’re a member of the press interested in learning more about *Privacy Not Included, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>. Below, peruse past coverage of *Privacy Not Included:"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/press.html:52
 #, python-format
-msgid "Seeking more background? Mozilla’s Internet Health Report have created a brief companion piece to our guide called <a%(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgid "Seeking more background? Mozilla’s Internet Health Report have created a brief companion piece to our guide called <a %(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:9
@@ -478,7 +478,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:14
 #, python-format
-msgid "Welcome to the third edition of <a%(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
+msgid "Welcome to the third edition of <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:21
@@ -491,7 +491,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:39
 #, python-format
-msgid "We realize people want to <em>just know</em> which products are safe and which aren’t. We are Mozilla—not a consumer product review company—so we won’t say “Buy this, don’t buy that.” Instead, we used our technical expertise to create a set of <a href=%(url)s>Minimum Security Standards</a> we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy. Look for the “Meets Our Minimum Security Standards” badge on products in the guide. This year we’ve also added a star rating near the top of each product page so you can glance at a product and see just how well it does on our Minimum Security Standards."
+msgid "We realize people want to <em>just know</em> which products are safe and which aren’t. We are Mozilla—not a consumer product review company—so we won’t say “Buy this, don’t buy that.” Instead, we used our technical expertise to create a set of <a href=\"%(url)s\">Minimum Security Standards</a> we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy. Look for the “Meets Our Minimum Security Standards” badge on products in the guide. This year we’ve also added a star rating near the top of each product page so you can glance at a product and see just how well it does on our Minimum Security Standards."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:53
@@ -512,7 +512,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:81
 #, python-format
-msgid "We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. If you want to dig deeper, our friends on Mozilla’s Internet Health Report team have created a companion to our buyer’s guide that explains what can be done to make things better. It’s called <a%(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgid "We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. If you want to dig deeper, our friends on Mozilla’s Internet Health Report team have created a companion to our buyer’s guide that explains what can be done to make things better. It’s called <a %(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:90
@@ -529,7 +529,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:103
 #, python-format
-msgid "Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a%(mofo_url)s>Mozilla Foundation</a> which relies on <a%(donate_url)s>donations</a> from people like you to do our work. You can also visit <a%(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
+msgid "Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a %(mofo_url)s>Mozilla Foundation</a> which relies on <a %(donate_url)s>donations</a> from people like you to do our work. You can also visit <a %(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:114

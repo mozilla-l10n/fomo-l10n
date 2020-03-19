@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-03 22:09+0000\n"
+"POT-Creation-Date: 2020-03-19 23:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 #: network-api/networkapi/buyersguide/templates/bg_base.html:7
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
@@ -58,9 +59,13 @@ msgid "The %(emoji)s below shows how creepy users find these products."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:77
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:80
 #, python-format
 msgid "link to %(product)s"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:80
+#, python-format
+msgid "link to %(product_name)s"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:95
@@ -100,7 +105,8 @@ msgstr ""
 #: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
 #: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
 #: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:21
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:28
 #: network-api/networkapi/buyersguide/templatetags/yes_no.py:15
 #: network-api/networkapi/buyersguide/templatetags/yes_no.py:28
 msgid "No"
@@ -115,6 +121,7 @@ msgctxt "Label"
 msgid "Email"
 msgstr ""
 
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:12
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:14
 msgctxt "Unknown rating"
 msgid "Unknown"
@@ -125,7 +132,8 @@ msgstr ""
 msgid "N/A"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:20
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:22
 #: network-api/networkapi/buyersguide/templatetags/yes_no.py:15
 #: network-api/networkapi/buyersguide/templatetags/yes_no.py:26
 msgid "Yes"
