@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 23:28+0000\n"
-"PO-Revision-Date: 2020-03-24 11:47+0000\n"
+"PO-Revision-Date: 2020-03-24 11:58+0000\n"
 "Last-Translator: Benoit Leseul <benoit.leseul@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -133,26 +133,33 @@ msgid ""
 "Security vulnerabilities in products happen. It’s how companies manage them when they arise that matter. We looked at whether or not companies have a system in place to manage vulnerabilities in the"
 " product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program</a>."
 msgstr ""
+"Des failles de sécurité dans les produits peuvent toujours arriver. C’est la manière dont les entreprises les gèrent lorsqu’elles surviennent qui importe. Nous avons cherché à savoir si les "
+"entreprises avaient ou non un système en place pour gérer les vulnérabilités du produit lorsqu’elles étaient détectées. Cela implique d’avoir un point de contact pour signaler les vulnérabilités ou "
+"un <a href=\"%(url)s\">programme de prime aux bogues</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:80
 msgid "Privacy policies"
-msgstr ""
+msgstr "Politiques de confidentialité"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:82
 msgid ""
 "Privacy policies detail a lot of important information about how companies collect, use, and share your personal information. Because of that, this information should be easily found and easily "
 "understood."
 msgstr ""
+"Les politiques de confidentialité contiennent de nombreuses informations importantes sur la manière dont les entreprises collectent, utilisent et partagent vos informations personnelles. Pour cette "
+"raison, ces informations doivent être facilement trouvables et compréhensibles."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:90
 msgid "Creep-O-Meter"
-msgstr ""
+msgstr "Flippomètre"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:92
 msgid ""
 "Our Creep-O-Meter is for you to share your opinion. Read the review of the product, then rate how creepy or not creepy you think the product is and how likely you are to buy it. Click vote to see "
 "how your opinion stacks up to others."
 msgstr ""
+"Notre flippomètre vous permet de partager votre opinion. Lisez la critique du produit, puis évaluez à quel point vous pensez que le produit est effrayant ou non, et à quel point vous seriez "
+"susceptible de l’acheter. Cliquez sur voter pour voir comment votre opinion se compare aux autres."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:101
 msgid "Can it snoop on me?"
@@ -206,7 +213,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:158
 msgid "Parental controls"
-msgstr ""
+msgstr "Contrôle parental"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:160
 msgid ""
@@ -245,7 +252,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:202
 msgid "Comments"
-msgstr ""
+msgstr "Commentaires"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:204
 msgid ""
