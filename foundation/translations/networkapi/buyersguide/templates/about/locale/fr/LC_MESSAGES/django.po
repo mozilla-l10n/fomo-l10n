@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 23:28+0000\n"
-"PO-Revision-Date: 2020-03-27 11:50+0000\n"
+"PO-Revision-Date: 2020-03-27 15:29+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -620,6 +620,8 @@ msgstr "Pourquoi avons-nous créé ce guide"
 msgid ""
 "Welcome to the third edition of <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
 msgstr ""
+"Bienvenue dans la troisième édition du guide d’achat <em>*Confidentialité non incluse</em> de <a %(link_args)s>Mozilla</a>. Notre objectif est de vous aider à faire des achats malins (et sûrs) de "
+"produits qui se connectent à Internet."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:21
 msgid ""
@@ -630,7 +632,7 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:30
 msgid "What can you expect in <em>*Privacy Not Included</em> this year?"
-msgstr ""
+msgstr "Que pouvez-vous attendre de <em>*Confidentialité non incluse</em> cette année ?"
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:39
 #, python-format
@@ -697,4 +699,4 @@ msgstr ""
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:114
 #, python-format
 msgid "For any questions about the guide or to offer constructive feedback, please email <a href=\"mailto:%(email)s\">%(email)s</a>"
-msgstr ""
+msgstr "Pour toute question concernant le guide ou pour formuler des commentaires constructifs, veuillez envoyer un courriel à <a href=\"mailto:%(email)s\">%(email)s</a>."
