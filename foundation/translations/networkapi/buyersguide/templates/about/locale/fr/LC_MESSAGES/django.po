@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-19 23:28+0000\n"
-"PO-Revision-Date: 2020-03-29 15:30+0000\n"
+"PO-Revision-Date: 2020-04-02 11:01+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -315,6 +315,8 @@ msgid ""
 "If you’d like to know how connected devices are created, and what could actually be done to make them better, check out Mozilla’s Internet Health Report special edition: <a %(link_args)s>*Privacy "
 "Included: Rethinking the Smart Home</a>."
 msgstr ""
+"Si vous souhaitez savoir comment les objets connectés sont créés et ce qui pourrait réellement être fait pour les améliorer, consultez l’édition spéciale du Bulletin de santé d’Internet de Mozilla :"
+" <a %(link_args)s>*Confidentialité incluse : repenser la maison intelligente</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:9
 msgid "About our Methodology"
@@ -326,12 +328,18 @@ msgid ""
 "information about the privacy and security of the connected devices they sell. Is your personal data being used in ways you may not have anticipated or expected? What are the risks of buying a "
 "product that collects your health data? How does the company regularly test for and fix security vulnerabilities?"
 msgstr ""
+"L’objectif du guide d’achat <em>*Confidentialité non incluse</em> de Mozilla est d’aider les consommateurs à faire des achats malins (et sûrs) de produits qui se connectent à Internet. De nombreuses"
+" entreprises ne fournissent pas d’informations claires sur la confidentialité et la sécurité des objets connectés qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que "
+"vous n’avez peut-être pas prévue ou attendue ? Quels sont les risques liés à l’achat d’un produit qui collecte vos données de santé ? Comment l’entreprise procède-t-elle régulièrement à des tests et"
+" corrige-t-elle les failles de sécurité ?"
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:24
 msgid ""
 "It’s difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. With this guide, we hoped to help consumers navigate this "
 "landscape by understanding what questions they should ask before buying a device."
 msgstr ""
+"Il est difficile pour les consommateurs d’obtenir des entreprises des informations claires et concrètes sur la sécurité et la confidentialité de leurs objets connectés. Avec ce guide, nous espérons "
+"aider les consommateurs à se repérer dans ce domaine en comprenant les questions à se poser avant d’acheter un appareil."
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:32
 msgid "Here is the methodology we used to develop this guide."
@@ -346,6 +354,8 @@ msgid ""
 "There are 76 products in the 2019 version of our <em>*Privacy Not Included</em> buyer’s guide. These products fit into six categories — Toys & Games, Smart Home, Entertainment, Wearables, Health & "
 "Exercise, and Pets."
 msgstr ""
+"La version 2019 de notre guide d’achat <em>*Confidentialité non incluse</em> contient 76 produits. Ces produits se répartissent en 6 catégories : jouets et jeux, maison intelligente, divertissement,"
+" technologies prêtes-à-porter, santé et exercice, et animaux de compagnie."
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:50
 #, python-format
@@ -366,6 +376,8 @@ msgid ""
 "Mozilla has established a set of <a href=\"%(sec_standards)s\">Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We evaluated each "
 "product on our list against five criteria:"
 msgstr ""
+"Mozilla a établi un ensemble de <a href=\"%(sec_standards)s\">critères élémentaires de sécurité</a> qui devraient être respectés par tout fabricant d’objets connectés. Nous avons évalué chaque "
+"produit de notre liste selon cinq critères :"
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:76
 msgid ""
