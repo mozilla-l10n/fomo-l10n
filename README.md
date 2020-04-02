@@ -5,7 +5,10 @@
 Process foundation.mozilla.org's translations and upload them to S3.
 
 ## Contributing
-Visit https://pontoon.mozilla.org/projects/mozilla-foundation-website/ to contribute to translations.
+Visit the following projects to contribute translations:
+- https://pontoon.mozilla.org/projects/mozilla-foundation-website/
+- https://pontoon.mozilla.org/projects/privacy-not-included/
+- https://pontoon.mozilla.org/projects/mozilla-festival/
 
 ## Updating dependencies for this project
 *Django's version must be the same as the foundation site.*
