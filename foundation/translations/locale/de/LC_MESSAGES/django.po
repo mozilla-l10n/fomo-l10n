@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 23:28+0000\n"
+"POT-Creation-Date: 2020-04-15 18:43+0000\n"
 "PO-Revision-Date: 2020-02-28 11:55+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
@@ -177,8 +177,10 @@ msgid "Related content"
 msgstr "Verwandte Inhalte"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:36
-msgid "Happening now"
-msgstr "Gerade aktuell"
+#, fuzzy
+#| msgid "Load more stories"
+msgid "Featured stories"
+msgstr "Mehr Storys laden"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:72
 msgid "Trending projects"
@@ -266,3 +268,6 @@ msgstr "MozFest"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
 msgid "Loading form…"
 msgstr "Formular wird geladen…"
+
+#~ msgid "Happening now"
+#~ msgstr "Gerade aktuell"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-19 23:28+0000\n"
+"POT-Creation-Date: 2020-04-15 18:43+0000\n"
 "PO-Revision-Date: 2020-03-11 19:20+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -177,8 +177,10 @@ msgid "Related content"
 msgstr "Articles connexes"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:36
-msgid "Happening now"
-msgstr "En ce moment"
+#, fuzzy
+#| msgid "Load more stories"
+msgid "Featured stories"
+msgstr "Afficher plus de témoignages"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:72
 msgid "Trending projects"
@@ -266,3 +268,6 @@ msgstr "MozFest"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
 msgid "Loading form…"
 msgstr "Chargement du formulaire…"
+
+#~ msgid "Happening now"
+#~ msgstr "En ce moment"
