@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-16 21:25+0000\n"
+"POT-Creation-Date: 2020-04-21 10:42+0000\n"
 "PO-Revision-Date: 2020-04-16 22:14+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -50,12 +50,8 @@ msgstr "écusson des critères élémentaires de sécurité"
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:24
 #, python-format
-msgid ""
-"How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for "
-"products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
-msgstr ""
-"À quel point cette enceinte connectée, ce bracelet connecté ou ce casque sans fil sont-ils flippants ? Nous avons conçu ce guide pour vous permettre d’acheter des objets connectés sûrs. Ce symbole "
-"%(image)s identifie les produits qui respectent nos <a href=\"%(url)s\">critères élémentaires de sécurité</a>."
+msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
+msgstr "À quel point cette enceinte connectée, ce bracelet connecté ou ce casque sans fil sont-ils flippants ? Nous avons conçu ce guide pour vous permettre d’acheter des objets connectés sûrs. Ce symbole %(image)s identifie les produits qui respectent nos <a href=\"%(url)s\">critères élémentaires de sécurité</a>."
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:34
 #, python-format
@@ -88,7 +84,8 @@ msgstr "Proposer un produit"
 msgid "The information provided here is pulled directly from the product website."
 msgstr "Les informations affichées ici proviennent directement du site web du produit."
 
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7 network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "ce produit comporte du contenu réservé aux adultes"
 
@@ -104,10 +101,14 @@ msgstr "Application :"
 msgid "Phone Number"
 msgstr "Numéro de téléphone"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:26 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:28
-#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15 network-api/networkapi/buyersguide/templatetags/yes_no.py:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:28
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:28
 msgid "No"
 msgstr "Non"
 
@@ -120,25 +121,31 @@ msgctxt "Label"
 msgid "Email"
 msgstr "Adresse électronique"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:12 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:14
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:12
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:14
 msgctxt "Unknown rating"
 msgid "Unknown"
 msgstr "Inconnu"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templatetags/yes_no.py:24
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:24
 msgid "N/A"
 msgstr "Ne s’applique pas"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:20 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:22
-#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15 network-api/networkapi/buyersguide/templatetags/yes_no.py:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:20
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:22
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:26
 msgid "Yes"
 msgstr "Oui"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:7 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:7
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:8
 msgid "this related product meets our minimum security standards"
 msgstr "ce produit lié respecte nos critères élémentaires de sécurité"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:7 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:7
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:8
 msgid "this product meets our minimum security standards"
 msgstr "ce produit respecte nos critères élémentaires de sécurité"
 
@@ -245,8 +252,6 @@ msgid "What is required to sign up?"
 msgstr "Que faut-il pour s’inscrire ?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:115
-#| msgctxt "Label"
-#| msgid "Email"
 msgid "Email"
 msgstr "Adresse électronique"
 
@@ -295,16 +300,16 @@ msgid "Alerts when calls are being recorded?"
 msgstr "Des alertes sont-elles émises lorsque les appels sont enregistrés ?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:149
-msgid "Compliant with US medical privacy laws?"
+#, fuzzy
+#| msgid "Compliant with US medical privacy laws?"
+msgid "Does the platform say it is compliant with US medical privacy laws?"
 msgstr "Conforme aux lois américaines sur la confidentialité médicale ?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:160
-#| msgid "Parental controls?"
 msgid "Can I control it?"
 msgstr "Que puis-je contrôler ?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:163
-#| msgid "Parental controls?"
 msgid "Host controls"
 msgstr "Contrôles de l’hôte"
 
@@ -328,6 +333,7 @@ msgstr "Actualités"
 msgid "Compare products"
 msgstr "Comparer les produits"
 
-#: network-api/networkapi/buyersguide/templatetags/yes_no.py:11 network-api/networkapi/buyersguide/templatetags/yes_no.py:22
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:11
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:22
 msgid "Unknown"
 msgstr "Inconnu"
