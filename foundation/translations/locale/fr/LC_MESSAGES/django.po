@@ -1,10 +1,10 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-21 10:42+0000\n"
-"PO-Revision-Date: 2020-03-11 19:20+0000\n"
+"PO-Revision-Date: 2020-04-29 11:51+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -22,9 +22,7 @@ msgstr "Page introuvable"
 msgid "Language"
 msgstr "Langue"
 
-#: network-api/networkapi/templates/pages/base.html:9
-#: network-api/networkapi/templates/partials/footer.html:30
-#: network-api/networkapi/templates/partials/primary_nav.html:42
+#: network-api/networkapi/templates/pages/base.html:9 network-api/networkapi/templates/partials/footer.html:30 network-api/networkapi/templates/partials/primary_nav.html:42
 msgid "Mozilla Foundation"
 msgstr "Fondation Mozilla"
 
@@ -77,8 +75,7 @@ msgstr "Instagram"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/partials/footer.html:50
-#: network-api/networkapi/templates/partials/primary_nav.html:63
+#: network-api/networkapi/templates/partials/footer.html:50 network-api/networkapi/templates/partials/primary_nav.html:63
 msgid "Donate"
 msgstr "Faire un don"
 
@@ -104,15 +101,18 @@ msgstr "Cookies"
 
 #: network-api/networkapi/templates/partials/footer.html:72
 #, python-format
-msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
-msgstr "Mozilla est une organisation internationale à but non lucratif, déterminée à vous faire reprendre le contrôle de votre vie numérique en ligne et à définir l’avenir du Web dans l’intérêt de tous. Plus d’informations sur <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
+msgid ""
+"Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a "
+"href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
+msgstr ""
+"Mozilla est une organisation internationale à but non lucratif, déterminée à vous faire reprendre le contrôle de votre vie numérique en ligne et à définir l’avenir du Web dans l’intérêt de tous. "
+"Plus d’informations sur <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:17
 msgid "Home"
 msgstr "Accueil"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:19
-#: network-api/networkapi/templates/partials/primary_nav.html:64
+#: network-api/networkapi/templates/partials/primary_nav.html:19 network-api/networkapi/templates/partials/primary_nav.html:64
 msgid "Newsletter"
 msgstr "Lettre d’information"
 
@@ -124,19 +124,16 @@ msgstr "Ouvrir le menu"
 msgid "No thanks"
 msgstr "Non merci"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55 network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "J’AGIS"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:14
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:72
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:14 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:72
 msgid "More from our blog"
 msgstr "Plus d’articles de notre blog"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:44
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27 network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:44
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr "%(title)s par @mozilla"
@@ -155,14 +152,12 @@ msgstr "Par %(author)s le %(date)s"
 msgid "Latest news"
 msgstr "Dernières actualités"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:31
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:58
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:31 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:58
 #, python-format
 msgid "by %(author)s"
 msgstr "par %(author)s"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:33
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:60
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:33 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:60
 #, python-format
 msgid "on %(date)s"
 msgstr "le %(date)s"
@@ -178,14 +173,13 @@ msgstr "Articles connexes"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:36
 msgid "Featured stories"
-msgstr ""
+msgstr "Articles et projets mis en avant"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:72
 msgid "Trending projects"
 msgstr "Projets en tendance"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:75
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:86
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:75 network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:86
 msgid "Add your project"
 msgstr "Ajouter votre projet"
 
@@ -225,8 +219,7 @@ msgstr "Afficher plus de résultats"
 msgid "Load more stories"
 msgstr "Afficher plus de témoignages"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:36
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:36 network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:37
 msgid "Join Mozilla"
 msgstr "Rejoindre Mozilla"
 
@@ -236,10 +229,10 @@ msgstr "Faire défiler"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:47
 msgid "28 reasons why YouTube must change: startling stories of YouTube’s recommendations leading people down bizarre and dangerous paths"
-msgstr "28 raisons pour lesquelles YouTube doit changer : des témoignages édifiants qui racontent comment les recommandations YouTube ont pu mener les internautes sur des voies étranges et dangereuses"
+msgstr ""
+"28 raisons pour lesquelles YouTube doit changer : des témoignages édifiants qui racontent comment les recommandations YouTube ont pu mener les internautes sur des voies étranges et dangereuses"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:30
-#: network-api/networkapi/wagtailpages/utils.py:77
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:30 network-api/networkapi/wagtailpages/utils.py:77
 msgid "Overview"
 msgstr "Vue d’ensemble"
 
