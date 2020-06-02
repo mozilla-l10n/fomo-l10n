@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-21 10:42+0000\n"
+"POT-Creation-Date: 2020-06-02 11:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,11 +32,16 @@ msgstr "*Privacidad no incluida: una guía de compra de productos con conexión"
 msgid "Smart home gadgets, fitness trackers, toys and more, rated for their privacy & security"
 msgstr "Dispositivos para casas inteligentes, pulseras de fitness, juguetes y más, clasificados por sus características de privacidad y seguridad"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:83
+#: network-api/networkapi/buyersguide/templates/bg_base.html:79
+msgctxt "Tooltip on menu items"
+msgid "site navigation"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/bg_base.html:84
 msgid "Home"
 msgstr "Página principal"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:86
+#: network-api/networkapi/buyersguide/templates/bg_base.html:87
 msgid "About the Guide"
 msgstr "Sobre la guía"
 
@@ -58,29 +63,24 @@ msgstr "¿Deberías tener miedo de ese altavoz inteligente, esa pulsera de fitne
 msgid "The %(emoji)s below shows how creepy users find these products."
 msgstr "El emoji %(emoji)s de más abajo muestra la valoración que hacen los usuarios de estos productos."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:78
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:81
 #, python-format
 msgid "link to %(product)s"
 msgstr "enlace a %(product)s"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:81
-#, python-format
-msgid "link to %(product_name)s"
-msgstr "enlace a %(product_name)s"
-
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:96
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:99
 msgid "Don’t see the product you’re looking for?"
 msgstr "¿No encuentras el producto que buscas?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:97
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:100
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr "Haznos saber qué producto te gustaría encontrar en las valoraciones de la guía."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:98
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:101
 msgid "Submit a product"
 msgstr "Enviar un producto"
 
-#: network-api/networkapi/buyersguide/templates/category_page.html:45
+#: network-api/networkapi/buyersguide/templates/category_page.html:49
 msgid "The information provided here is pulled directly from the product website."
 msgstr "La información que proporcionamos aquí procede directamente de la página web del producto."
 
@@ -139,33 +139,21 @@ msgstr "N/A"
 msgid "Yes"
 msgstr "Sí"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:7
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this related product meets our minimum security standards"
 msgstr "este producto relacionado cumple con nuestros estándares mínimos de seguridad"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:7
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this product meets our minimum security standards"
 msgstr "este producto cumple con nuestros estándares mínimos de seguridad"
 
-#: network-api/networkapi/buyersguide/templates/primary_nav.html:13
-msgid "Help us keep the Internet healthy"
-msgstr "Ayúdanos a mantener un Internet sano"
-
-#: network-api/networkapi/buyersguide/templates/primary_nav.html:14
-msgid "Mozilla is a nonprofit organization fighting for a healthy internet."
-msgstr "Mozilla es una organización sin ánimo de lucro que lucha por conseguir un Internet sano."
-
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:15
-msgid "Donate"
-msgstr "Donar"
-
-#: network-api/networkapi/buyersguide/templates/primary_nav.html:16
 msgid "Newsletter"
 msgstr "Boletín"
 
-#: network-api/networkapi/buyersguide/templates/primary_nav.html:35
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:29
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
@@ -176,158 +164,158 @@ msgctxt "This can be localized. This is a reference to the “*batteries not inc
 msgid "privacy not included - %(product.name)s"
 msgstr "privacidad no incluida - %(product.name)s"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:41
+#: network-api/networkapi/buyersguide/templates/product_page.html:40
 msgid "link copied!"
 msgstr "¡enlace copiado!"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:41
+#: network-api/networkapi/buyersguide/templates/product_page.html:40
 msgid "copy & share link"
 msgstr "copiar y compartir enlace"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:45
+#: network-api/networkapi/buyersguide/templates/product_page.html:44
 #, python-format
 msgctxt "Short date format (e.g. 2003/12/31)"
 msgid "Review Date %(date)s"
 msgstr "Fecha de la reseña %(date)s"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:55
+#: network-api/networkapi/buyersguide/templates/product_page.html:54
 msgid "Minimum Security Standards"
 msgstr "Estándares mínimos de seguridad"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:60
+#: network-api/networkapi/buyersguide/templates/product_page.html:59
 msgid "Five basic steps every company should take to protect consumer privacy."
 msgstr "Cinco pasos básicos que todas las empresas deberían tomar para proteger la privacidad de los clientes."
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:61
+#: network-api/networkapi/buyersguide/templates/product_page.html:60
 msgid "Learn more."
 msgstr "Más información."
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:68
+#: network-api/networkapi/buyersguide/templates/product_page.html:67
 msgid "Overall Security Rating"
 msgstr "Calificación general de seguridad"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:72
+#: network-api/networkapi/buyersguide/templates/product_page.html:75
 msgctxt "Used as a noun. Accessibility label for star image"
 msgid "star"
 msgstr "estrella"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:75
+#: network-api/networkapi/buyersguide/templates/product_page.html:79
 msgid "Encryption"
 msgstr "Cifrado"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:76
+#: network-api/networkapi/buyersguide/templates/product_page.html:80
 msgid "Security updates"
 msgstr "Actualizaciones de seguridad"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:77
+#: network-api/networkapi/buyersguide/templates/product_page.html:81
 msgid "Strong password"
 msgstr "Contraseña fuerte"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:78
+#: network-api/networkapi/buyersguide/templates/product_page.html:82
 msgid "Manages vulnerabilities"
 msgstr "Gestiona las vulnerabilidades"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:79
+#: network-api/networkapi/buyersguide/templates/product_page.html:83
 msgid "Privacy policy"
 msgstr "Política de privacidad"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:102
+#: network-api/networkapi/buyersguide/templates/product_page.html:106
 msgid "Can it snoop on me?"
 msgstr "¿Me puede espiar?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:104
+#: network-api/networkapi/buyersguide/templates/product_page.html:108
 msgid "Camera"
 msgstr "Cámara"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:105
+#: network-api/networkapi/buyersguide/templates/product_page.html:109
 msgid "Microphone"
 msgstr "Micrófono"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:106
+#: network-api/networkapi/buyersguide/templates/product_page.html:110
 msgid "Tracks Location"
 msgstr "Hace seguimiento de la ubicación"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:113
+#: network-api/networkapi/buyersguide/templates/product_page.html:117
 msgid "What is required to sign up?"
 msgstr "¿Qué se requiere para registrarse?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:115
+#: network-api/networkapi/buyersguide/templates/product_page.html:119
 msgid "Email"
 msgstr "Correo electrónico"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:116
+#: network-api/networkapi/buyersguide/templates/product_page.html:120
 msgid "Phone"
 msgstr "Teléfono"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:117
+#: network-api/networkapi/buyersguide/templates/product_page.html:121
 msgid "Third party account"
 msgstr "Cuenta de terceros"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:128
+#: network-api/networkapi/buyersguide/templates/product_page.html:132
 msgid "How does it handle privacy?"
 msgstr "¿Cómo gestiona la privacidad?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:131
+#: network-api/networkapi/buyersguide/templates/product_page.html:135
 msgid "How does it share data?"
 msgstr "¿Cómo comparte datos?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:132
+#: network-api/networkapi/buyersguide/templates/product_page.html:136
 msgid "Links to privacy information"
 msgstr "Enlaces a información de privacidad"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:135
+#: network-api/networkapi/buyersguide/templates/product_page.html:139
 msgid "Can you delete your data?"
 msgstr "¿Puedes borrar tus datos?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:136
+#: network-api/networkapi/buyersguide/templates/product_page.html:140
 msgid "Parental controls?"
 msgstr "¿Controles parentales?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:137
+#: network-api/networkapi/buyersguide/templates/product_page.html:141
 msgid "Collects biometrics data?"
 msgstr "¿Recopila datos biométricos?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:138
+#: network-api/networkapi/buyersguide/templates/product_page.html:142
 msgid "User friendly privacy info?"
 msgstr "¿La información de privacidad es fácil de entender?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:147
+#: network-api/networkapi/buyersguide/templates/product_page.html:151
 msgid "How are your recordings handled?"
 msgstr "¿Cómo se gestionan tus grabaciones?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:148
+#: network-api/networkapi/buyersguide/templates/product_page.html:152
 msgid "Alerts when calls are being recorded?"
 msgstr "¿Te avisa cuando las llamadas están siendo grabadas?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:149
+#: network-api/networkapi/buyersguide/templates/product_page.html:153
 msgid "Does the platform say it is compliant with US medical privacy laws?"
 msgstr "¿La plataforma dice que cumple con las leyes de privacidad médica de los Estados Unidos?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:160
+#: network-api/networkapi/buyersguide/templates/product_page.html:164
 msgid "Can I control it?"
 msgstr "¿Puedo controlarlo?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:163
+#: network-api/networkapi/buyersguide/templates/product_page.html:167
 msgid "Host controls"
 msgstr "Controles de host"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:164
+#: network-api/networkapi/buyersguide/templates/product_page.html:168
 msgid "Is it easy to learn and use the features?"
 msgstr "¿Es fácil aprender y usar las funciones?"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:176
+#: network-api/networkapi/buyersguide/templates/product_page.html:180
 msgid "What could happen if something went wrong"
 msgstr "Qué podría pasar si algo falla"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:181
+#: network-api/networkapi/buyersguide/templates/product_page.html:185
 msgid "How to contact the company"
 msgstr "Cómo ponerte en contacto con la empresa"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:197
+#: network-api/networkapi/buyersguide/templates/product_page.html:201
 msgid "Updates"
 msgstr "Actualizaciones"
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:215
+#: network-api/networkapi/buyersguide/templates/product_page.html:219
 msgid "Compare products"
 msgstr "Comparar productos"
 
@@ -335,3 +323,15 @@ msgstr "Comparar productos"
 #: network-api/networkapi/buyersguide/templatetags/yes_no.py:22
 msgid "Unknown"
 msgstr "Desconocido"
+
+#~ msgid "link to %(product_name)s"
+#~ msgstr "enlace a %(product_name)s"
+
+#~ msgid "Help us keep the Internet healthy"
+#~ msgstr "Ayúdanos a mantener un Internet sano"
+
+#~ msgid "Mozilla is a nonprofit organization fighting for a healthy internet."
+#~ msgstr "Mozilla es una organización sin ánimo de lucro que lucha por conseguir un Internet sano."
+
+#~ msgid "Donate"
+#~ msgstr "Donar"

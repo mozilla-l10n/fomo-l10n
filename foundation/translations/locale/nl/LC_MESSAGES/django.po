@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-21 10:42+0000\n"
+"POT-Creation-Date: 2020-06-02 11:15+0000\n"
 "PO-Revision-Date: 2020-04-16 05:46+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgid "Language"
 msgstr "Taal"
 
 #: network-api/networkapi/templates/pages/base.html:9
-#: network-api/networkapi/templates/partials/footer.html:30
+#: network-api/networkapi/templates/partials/footer.html:31
 #: network-api/networkapi/templates/partials/primary_nav.html:42
 msgid "Mozilla Foundation"
 msgstr "Mozilla Foundation"
@@ -50,64 +50,64 @@ msgstr "<a href=\"mailto:%(email)s\">Neem contact met ons op</a> of …"
 msgid "Go to home page"
 msgstr "Naar startpagina"
 
-#: network-api/networkapi/templates/partials/footer.html:11
+#: network-api/networkapi/templates/partials/footer.html:12
 msgid "We all love the Web. Join Mozilla in defending it."
 msgstr "We zijn allemaal gek op het web. Help Mozilla het te verdedigen."
 
-#: network-api/networkapi/templates/partials/footer.html:12
+#: network-api/networkapi/templates/partials/footer.html:13
 msgid "Let’s protect the world’s largest resource for future generations."
 msgstr "Laten we ’s werelds grootste hulpbron voor toekomstige generaties beschermen."
 
-#: network-api/networkapi/templates/partials/footer.html:14
+#: network-api/networkapi/templates/partials/footer.html:15
 msgid "Donate now"
 msgstr "Nu doneren"
 
-#: network-api/networkapi/templates/partials/footer.html:30
+#: network-api/networkapi/templates/partials/footer.html:31
 msgid "Return to Homepage"
 msgstr "Terug naar startpagina"
 
-#: network-api/networkapi/templates/partials/footer.html:38
+#: network-api/networkapi/templates/partials/footer.html:39
 msgid "More about us"
 msgstr "Meer over ons"
 
-#: network-api/networkapi/templates/partials/footer.html:41
+#: network-api/networkapi/templates/partials/footer.html:42
 msgid "Twitter"
 msgstr "Twitter"
 
-#: network-api/networkapi/templates/partials/footer.html:42
+#: network-api/networkapi/templates/partials/footer.html:43
 msgid "Instagram"
 msgstr "Instagram"
 
-#: network-api/networkapi/templates/partials/footer.html:43
+#: network-api/networkapi/templates/partials/footer.html:44
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/partials/footer.html:50
+#: network-api/networkapi/templates/partials/footer.html:51
 #: network-api/networkapi/templates/partials/primary_nav.html:63
 msgid "Donate"
 msgstr "Doneren"
 
-#: network-api/networkapi/templates/partials/footer.html:51
+#: network-api/networkapi/templates/partials/footer.html:52
 msgid "Legal"
 msgstr "Juridisch"
 
-#: network-api/networkapi/templates/partials/footer.html:52
+#: network-api/networkapi/templates/partials/footer.html:53
 msgid "License"
 msgstr "Licentie"
 
-#: network-api/networkapi/templates/partials/footer.html:53
+#: network-api/networkapi/templates/partials/footer.html:54
 msgid "Participation Guidelines"
 msgstr "Richtlijnen voor deelname"
 
-#: network-api/networkapi/templates/partials/footer.html:54
+#: network-api/networkapi/templates/partials/footer.html:55
 msgid "Privacy"
 msgstr "Privacy"
 
-#: network-api/networkapi/templates/partials/footer.html:55
+#: network-api/networkapi/templates/partials/footer.html:56
 msgid "Cookies"
 msgstr "Cookies"
 
-#: network-api/networkapi/templates/partials/footer.html:72
+#: network-api/networkapi/templates/partials/footer.html:73
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
 msgstr "Mozilla is een wereldwijde non-profitorganisatie, toegewijd aan het behouden van de controle over uw onlinebeleving en het vormen van de toekomst van het internet in het algemeen belang. Bezoek ons op <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
@@ -120,6 +120,11 @@ msgstr "Startpagina"
 #: network-api/networkapi/templates/partials/primary_nav.html:64
 msgid "Newsletter"
 msgstr "Nieuwsbrief"
+
+#: network-api/networkapi/templates/partials/primary_nav.html:29
+msgctxt "Tooltip on menu items"
+msgid "main site navigation"
+msgstr ""
 
 #: network-api/networkapi/templates/partials/primary_nav.html:37
 msgid "Open menu"
@@ -156,21 +161,23 @@ msgstr "Door %(author)s"
 msgid "By %(author)s on %(date)s"
 msgstr "Door %(author)s op %(date)s"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:8
-msgid "Latest news"
-msgstr "Laatste nieuws"
-
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:26
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:31
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:58
 #, python-format
 msgid "by %(author)s"
 msgstr "door %(author)s"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:33
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:60
 #, python-format
 msgid "on %(date)s"
 msgstr "op %(date)s"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:8
+msgid "Latest news"
+msgstr "Laatste nieuws"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/ih_cta.html:6
 #, python-format
@@ -206,23 +213,23 @@ msgstr "Om misbruik te voorkomen, willen we gebruikers de kennis en de macht gev
 msgid "Rishab Nithyanand, Mozilla Fellow"
 msgstr "Rishab Nithyanand, Mozilla Fellow"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:32
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:34
 #, python-format
 msgid "%(total_entries)s result"
 msgid_plural "%(total_entries)s results"
 msgstr[0] "%(total_entries)s resultaat"
 msgstr[1] "%(total_entries)s resultaten"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:39
 msgctxt "Following “xx results” and followed by searched terms. Full string example: “12 results for Advocacy”"
 msgid "for"
 msgstr "voor"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:48
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:50
 msgid "clear filters"
 msgstr "filters wissen"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:68
 msgid "Load more results"
 msgstr "Meer resultaten laden"
 
