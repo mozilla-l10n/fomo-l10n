@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-02 11:15+0000\n"
+"POT-Creation-Date: 2020-07-22 14:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,7 +91,7 @@ msgid "We developed a set of minimum security standards we think all connected p
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:31
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:74
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:79
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:46
 msgid "Encryption"
 msgstr ""
@@ -101,7 +101,7 @@ msgid "Encryption is your friend. It protects your private and personal informat
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:43
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:85
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:93
 msgid "Security updates"
 msgstr ""
 
@@ -261,148 +261,148 @@ msgstr ""
 msgid "Here is the methodology we used to develop this guide."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:42
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:43
 msgid "Product Selection"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:44
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:47
 msgid "There are 76 products in the 2019 version of our <em>*Privacy Not Included</em> buyer’s guide. These products fit into six categories — Toys & Games, Smart Home, Entertainment, Wearables, Health & Exercise, and Pets."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:50
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:54
 #, python-format
 msgid "The goal was to select connected products that were likely to be popular during the holiday season and beyond. We selected products that were top sellers on <a href=\"%(amazon)s\">Amazon</a> Prime Day, products featured in the <a href=\"%(targetopenhouse)s\">Target Open House</a>, and products that were highly rated across a variety of consumer product websites such as <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(toyinsider)s\">The Toy Insider</a>, <a href=\"%(pcmag)s\">PC Magazine</a>, <a href=\"%(techradar)s\">Tech Radar</a>, and <a href=\"%(gearbrain)s\">Gear Brain</a>."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:64
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:68
 msgid "Minimum Security Requirements"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:68
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:72
 #, python-format
 msgid "Mozilla has established a set of <a href=\"%(sec_standards)s\">Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We evaluated each product on our list against five criteria:"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:76
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:83
 msgid "Device should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped or modified in transit. User data should be encrypted when it is stored."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:87
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:97
 msgid "The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:96
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:107
 msgid "Strong passwords"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:98
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:111
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:71
 msgid "If the product uses passwords for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:108
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:122
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:81
 msgid "Vulnerability management"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:110
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:126
 msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:119
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:136
 msgid "Privacy Policy"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:121
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:140
 msgid "The product must have a privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:131
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:150
 msgid "Privacy"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:135
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:154
 msgid "We evaluated the privacy documentation — which included privacy policies, privacy pages, FAQs – for each company selling these products to determine (1) how data is shared with third parties, (2) whether or not users could request deletion of their data, and (3) the accessibility/readability of the privacy information. Where relevant, we also looked at whether (4) biometric data is collected, and (5) parental controls are in place."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:144
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:164
 msgid "1) How does it share data?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:146
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:168
 msgid "How do companies collect and share customer data with third parties? For this question, we analyzed the privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than standard vendors."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:153
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:176
 msgid "For instance, if a company can share or sell personal customer data with third parties, use  data for targeted advertising, or if third parties can use data for commercial purposes, then we noted this. We also noted where the company is permitted to sell or share aggregated, de-identified data. Even if the data is not personally identifiable, consumers have a right to know how their information may be used."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:163
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:187
 msgid "2) Can you delete your data?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:165
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:191
 msgid "Does the company provide a way for users to request deletion of their data? We looked for language around this in the privacy policy and/or whether the company had an online portal that lets users delete their data quickly."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:173
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:200
 msgid "3) User-friendly privacy information"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:175
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:204
 msgid "How easy is it to find clear information about a device’s privacy? How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:185
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:215
 msgid "4) Biometric information"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:187
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:219
 msgid "Biometric data is data that describes our bodies and distinctive personal characteristics. Many devices collect sensitive data about our heart rate, our sleep patterns, and our menstrual cycle, for instance. Some even use data about our face and voice to identify us. We noted which products collect biometric data."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:196
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:229
 msgid "5) Parental controls?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:198
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:233
 msgid "For products that are intended for children, can parents change and control the settings of the device?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:205
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:240
 msgid "Permissions"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:209
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:244
 msgid "We looked into a set of criteria for each product across five questions."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:213
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:249
 msgid "The device/app uses:"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:215
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:253
 msgid "This looks at whether a device or app uses a camera, microphone, or location tracking."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:218
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:257
 msgid "For you to set up your new device, you will probably need to download an app. Both of these (the device and the app) will most likely need data to make things work. The app will typically need to request permissions for it to access your more sensitive data."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:225
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:265
 #, python-format
 msgid "In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product website and we used the <a href=\"%(url)s\">Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:238
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:278
 msgid "Worst-case scenario"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:242
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:283
 msgid "What could happen if something goes wrong?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:244
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:287
 msgid "We included this section to help people understand risk scenarios related to their privacy and each particular product. We aimed to identify risks that would feel relevant to consumers. It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. This question looks a potential worst-case scenarios for each product, in some cases for fun and in some cases based on things that have already happened with the product."
 msgstr ""
 

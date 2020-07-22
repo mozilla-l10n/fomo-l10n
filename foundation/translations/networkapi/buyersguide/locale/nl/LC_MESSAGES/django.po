@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-02 11:15+0000\n"
+"POT-Creation-Date: 2020-07-22 14:39+0000\n"
 "PO-Revision-Date: 2020-06-02 12:21+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,7 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 #: network-api/networkapi/buyersguide/templates/bg_base.html:7
+#: network-api/networkapi/buyersguide/views.py:144
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy niet inbegrepen"
@@ -46,42 +47,38 @@ msgstr "Startpagina"
 msgid "About the Guide"
 msgstr "Over de gids"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:17
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:24
 msgid "Be Smart. Shop Safe."
 msgstr "Wees slim. Winkel veilig."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:22
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:29
 msgid "minimum security standards badge"
 msgstr "badge voor minimale beveiligingsnormen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:24
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:31
 #, python-format
-msgid ""
-"How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for "
-"products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
-msgstr ""
-"Hoe eng is die slimme luidspreker, die fitnesstracker, die draadloze koptelefoon? We hebben deze gids gemaakt om u te helpen bij de aankoop van veilige, beveiligde verbonden producten. Zoek naar dit"
-" symbool %(image)s voor producten die voldoen aan onze <a href=\"%(url)s\">Minimale beveiligingsnormen</a>."
+msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
+msgstr "Hoe eng is die slimme luidspreker, die fitnesstracker, die draadloze koptelefoon? We hebben deze gids gemaakt om u te helpen bij de aankoop van veilige, beveiligde verbonden producten. Zoek naar dit symbool %(image)s voor producten die voldoen aan onze <a href=\"%(url)s\">Minimale beveiligingsnormen</a>."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:34
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:41
 #, python-format
 msgid "The %(emoji)s below shows how creepy users find these products."
 msgstr "De onderstaande %(emoji)s geeft aan hoe eng gebruikers deze producten vinden."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:81
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:88
 #, python-format
 msgid "link to %(product)s"
 msgstr "koppeling naar %(product)s"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:99
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:106
 msgid "Don’t see the product you’re looking for?"
 msgstr "Ziet u het product dat u zoekt niet?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:100
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:107
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr "Laat ons weten welk product u in de gids beoordeeld wilt zien."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:101
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:108
 msgid "Submit a product"
 msgstr "Een product voorstellen"
 
@@ -89,7 +86,8 @@ msgstr "Een product voorstellen"
 msgid "The information provided here is pulled directly from the product website."
 msgstr "De hier getoonde informatie is rechtstreeks van de productwebsite afkomstig."
 
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7 network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "dit product bevat inhoud voor volwassenen"
 
@@ -105,10 +103,14 @@ msgstr "App:"
 msgid "Phone Number"
 msgstr "Telefoonnummer"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:26 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:28
-#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15 network-api/networkapi/buyersguide/templatetags/yes_no.py:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:28
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:28
 msgid "No"
 msgstr "Nee"
 
@@ -121,25 +123,31 @@ msgctxt "Label"
 msgid "Email"
 msgstr "E-mailadres"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:12 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:14
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:12
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:14
 msgctxt "Unknown rating"
 msgid "Unknown"
 msgstr "Onbekend"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templatetags/yes_no.py:24
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:24
 msgid "N/A"
 msgstr "Niet beschikbaar"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:20 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:22
-#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15 network-api/networkapi/buyersguide/templatetags/yes_no.py:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:20
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:22
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:15
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:26
 msgid "Yes"
 msgstr "Ja"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this related product meets our minimum security standards"
 msgstr "dit gerelateerde product voldoet aan onze minimale beveiligingsnormen"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this product meets our minimum security standards"
 msgstr "dit product voldoet aan onze minimale beveiligingsnormen"
 
@@ -313,7 +321,8 @@ msgstr "Updates"
 msgid "Compare products"
 msgstr "Vergelijk producten"
 
-#: network-api/networkapi/buyersguide/templatetags/yes_no.py:11 network-api/networkapi/buyersguide/templatetags/yes_no.py:22
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:11
+#: network-api/networkapi/buyersguide/templatetags/yes_no.py:22
 msgid "Unknown"
 msgstr "Onbekend"
 

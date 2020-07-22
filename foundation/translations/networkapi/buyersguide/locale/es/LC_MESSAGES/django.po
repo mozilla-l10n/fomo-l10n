@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-02 11:15+0000\n"
+"POT-Creation-Date: 2020-07-22 14:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: network-api/networkapi/buyersguide/templates/bg_base.html:7
+#: network-api/networkapi/buyersguide/views.py:144
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
@@ -45,38 +46,38 @@ msgstr "Página principal"
 msgid "About the Guide"
 msgstr "Sobre la guía"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:17
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:24
 msgid "Be Smart. Shop Safe."
 msgstr "Sé inteligente. Compra con seguridad."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:22
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:29
 msgid "minimum security standards badge"
 msgstr "insignia de estándares mínimos de seguridad"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:24
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:31
 #, python-format
 msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
 msgstr "¿Deberías tener miedo de ese altavoz inteligente, esa pulsera de fitness o esos auriculares inalámbricos? Hemos creado esta guía para ayudarte a comprar productos con conexión seguros. Busca este símbolo %(image)s y sabrás que es un producto que cumple con nuestros <a href=\"%(url)s\">estándares mínimos de seguridad</a>."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:34
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:41
 #, python-format
 msgid "The %(emoji)s below shows how creepy users find these products."
 msgstr "El emoji %(emoji)s de más abajo muestra la valoración que hacen los usuarios de estos productos."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:81
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:88
 #, python-format
 msgid "link to %(product)s"
 msgstr "enlace a %(product)s"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:99
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:106
 msgid "Don’t see the product you’re looking for?"
 msgstr "¿No encuentras el producto que buscas?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:100
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:107
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr "Haznos saber qué producto te gustaría encontrar en las valoraciones de la guía."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:101
+#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:108
 msgid "Submit a product"
 msgstr "Enviar un producto"
 

@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-02 11:15+0000\n"
+"POT-Creation-Date: 2020-07-22 14:39+0000\n"
 "PO-Revision-Date: 2020-06-02 11:25+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -19,7 +19,6 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 #: network-api/networkapi/buyersguide/templates/about/about_nav.html:12
-#| msgid "Product Selection"
 msgctxt "Tooltip on menu items"
 msgid "about sections"
 msgstr "sections À propos"
@@ -36,7 +35,8 @@ msgstr "Comment utiliser ce guide"
 msgid "Minimum Security Standards explained"
 msgstr "Comprendre les critères élémentaires de sécurité"
 
-#: network-api/networkapi/buyersguide/templates/about/about_nav.html:16 network-api/networkapi/buyersguide/templates/about/how_to_use.html:213
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:16
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:213
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:38
 msgid "Methodology"
 msgstr "Méthodologie"
@@ -45,7 +45,8 @@ msgstr "Méthodologie"
 msgid "Contact us"
 msgstr "Nous contacter"
 
-#: network-api/networkapi/buyersguide/templates/about/about_nav.html:18 network-api/networkapi/buyersguide/templates/about/press.html:9
+#: network-api/networkapi/buyersguide/templates/about/about_nav.html:18
+#: network-api/networkapi/buyersguide/templates/about/press.html:9
 msgid "Press"
 msgstr "Presse"
 
@@ -65,9 +66,7 @@ msgstr "Pour les membres de la presse qui ont des questions sur ce guide, veuill
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:25
 msgid "We don’t want to miss any products that might be important to you. Tell us what connected products you want reviewed in our holiday buyer’s guide and we’ll do our best to include them."
-msgstr ""
-"Nous ne voulons manquer aucun produit qui pourrait être important pour vous. Dites-nous quels objets connectés vous souhaiteriez voir apparaitre dans notre guide d’achat et nous ferons de notre "
-"mieux pour les inclure."
+msgstr "Nous ne voulons manquer aucun produit qui pourrait être important pour vous. Dites-nous quels objets connectés vous souhaiteriez voir apparaitre dans notre guide d’achat et nous ferons de notre mieux pour les inclure."
 
 #: network-api/networkapi/buyersguide/templates/about/contact.html:26
 msgid "Submit a product"
@@ -81,63 +80,42 @@ msgstr "Comment utiliser ce guide"
 msgid "Need help understanding how to use this guide? Here you go:"
 msgstr "Besoin d’aide pour comprendre comment utiliser ce guide ? Voici :"
 
-#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:17 network-api/networkapi/buyersguide/templates/about/why_we_made.html:37
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:17
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:37
 msgid "Our Minimum Security Standards"
 msgstr "Nos critères élémentaires de sécurité"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:19
 #, python-format
-msgid ""
-"We developed a set of minimum security standards we think all connected products should meet at the <em>very</em> least. Think of it as a “you must be this tall to ride” set of standards. These "
-"include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must "
-"have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy. If you would like to learn more about our minimum security standards, "
-"<a href=\"%(url)s\">go here</a>."
-msgstr ""
-"Nous avons développé un ensemble de critères élémentaires de sécurité que nous pensons que tous les objets connectés devraient <em>à tout le moins</em> respecter. Considérez que cette barre est le "
-"minimum qu’ils doivent atteindre. Ces critères comprennent cinq éléments de base : le produit doit utiliser un chiffrement, l’entreprise doit fournir des mises à jour de sécurité automatiques, si un"
-" produit utilise un mot de passe, il doit exiger un mot de passe fort, l’entreprise doit avoir un moyen de gérer les failles de sécurité trouvées dans ses produits, et l’entreprise doit avoir une "
-"politique de confidentialité accessible. Si vous souhaitez en savoir plus sur nos critères élémentaires de sécurité, <a href=\"%(url)s\">rendez-vous ici</a>."
+msgid "We developed a set of minimum security standards we think all connected products should meet at the <em>very</em> least. Think of it as a “you must be this tall to ride” set of standards. These include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy. If you would like to learn more about our minimum security standards, <a href=\"%(url)s\">go here</a>."
+msgstr "Nous avons développé un ensemble de critères élémentaires de sécurité que nous pensons que tous les objets connectés devraient <em>à tout le moins</em> respecter. Considérez que cette barre est le minimum qu’ils doivent atteindre. Ces critères comprennent cinq éléments de base : le produit doit utiliser un chiffrement, l’entreprise doit fournir des mises à jour de sécurité automatiques, si un produit utilise un mot de passe, il doit exiger un mot de passe fort, l’entreprise doit avoir un moyen de gérer les failles de sécurité trouvées dans ses produits, et l’entreprise doit avoir une politique de confidentialité accessible. Si vous souhaitez en savoir plus sur nos critères élémentaires de sécurité, <a href=\"%(url)s\">rendez-vous ici</a>."
 
-#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:31 network-api/networkapi/buyersguide/templates/about/methodology.html:74
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:31
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:79
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:46
 msgid "Encryption"
 msgstr "Chiffrement"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:33
-msgid ""
-"Encryption is your friend. It protects your private and personal information by scrambling it up into a code so that the only people or machines who can read it are the ones on the other end who "
-"have the key to unscramble that code. Products that don’t use encryption send personal information over the internet unscrambled so anyone can see it."
-msgstr ""
-"Le chiffrement est votre ami. Il protège vos informations privées et personnelles en les brouillant dans un code afin que les seules personnes ou machines qui puissent les lire soient celles de "
-"l’autre côté qui ont la clé pour déchiffrer ce code. Les produits qui n’utilisent pas de chiffrement envoient des informations personnelles sur Internet sans être brouillées, de sorte que tout le "
-"monde peut les voir."
+msgid "Encryption is your friend. It protects your private and personal information by scrambling it up into a code so that the only people or machines who can read it are the ones on the other end who have the key to unscramble that code. Products that don’t use encryption send personal information over the internet unscrambled so anyone can see it."
+msgstr "Le chiffrement est votre ami. Il protège vos informations privées et personnelles en les brouillant dans un code afin que les seules personnes ou machines qui puissent les lire soient celles de l’autre côté qui ont la clé pour déchiffrer ce code. Les produits qui n’utilisent pas de chiffrement envoient des informations personnelles sur Internet sans être brouillées, de sorte que tout le monde peut les voir."
 
-#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:43 network-api/networkapi/buyersguide/templates/about/methodology.html:85
+#: network-api/networkapi/buyersguide/templates/about/how_to_use.html:43
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:93
 msgid "Security updates"
 msgstr "Mises à jour de sécurité"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:45
-msgid ""
-"Sometimes security vulnerabilities are found in products after they are sold to the public. For that reason, companies should have a way to quickly push a security update out to the product "
-"automatically so it fixes the security vulnerability without the consumer ever needing to worry about it."
-msgstr ""
-"Parfois, des failles de sécurité sont détectées dans les produits après leur vente au public. Pour cette raison, les entreprises devraient avoir un moyen de transférer rapidement une mise à jour de "
-"sécurité vers le produit afin de corriger la vulnérabilité de sécurité sans que le consommateur ait à s’en préoccuper."
+msgid "Sometimes security vulnerabilities are found in products after they are sold to the public. For that reason, companies should have a way to quickly push a security update out to the product automatically so it fixes the security vulnerability without the consumer ever needing to worry about it."
+msgstr "Parfois, des failles de sécurité sont détectées dans les produits après leur vente au public. Pour cette raison, les entreprises devraient avoir un moyen de transférer rapidement une mise à jour de sécurité vers le produit afin de corriger la vulnérabilité de sécurité sans que le consommateur ait à s’en préoccuper."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:54
 msgid "Strong Password"
 msgstr "Mot de passe robuste"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:56
-msgid ""
-"Remembering passwords might be annoying, but having a good password is still one of the best lines of defense we have when it comes to protecting our privacy and security. It’s great when a password"
-" is required. But default passwords that are the same for all consumers and never change can be just as bad. You should be required to change the default password to a strong password. Products with"
-" a default password that does not require changing can leave users’ personal information exposed."
-msgstr ""
-"Se souvenir des mots de passe peut être fastidieux, mais avoir un bon mot de passe reste l’une des meilleures lignes de défense que nous ayons lorsqu’il s’agit de protéger notre vie privée et notre "
-"sécurité. C’est bien de demander un mot de passe, mais les mots de passe par défaut qui sont les mêmes pour tous les consommateurs et qui ne changent jamais peuvent être tout aussi mauvais que pas "
-"de mot de passe du tout. Le produit doit vous inviter à remplacer le mot de passe par défaut par un mot de passe fort. Les produits qui conservent un mot de passe par défaut sans demander de le "
-"changer peuvent laisser les informations personnelles des utilisateurs exposées."
+msgid "Remembering passwords might be annoying, but having a good password is still one of the best lines of defense we have when it comes to protecting our privacy and security. It’s great when a password is required. But default passwords that are the same for all consumers and never change can be just as bad. You should be required to change the default password to a strong password. Products with a default password that does not require changing can leave users’ personal information exposed."
+msgstr "Se souvenir des mots de passe peut être fastidieux, mais avoir un bon mot de passe reste l’une des meilleures lignes de défense que nous ayons lorsqu’il s’agit de protéger notre vie privée et notre sécurité. C’est bien de demander un mot de passe, mais les mots de passe par défaut qui sont les mêmes pour tous les consommateurs et qui ne changent jamais peuvent être tout aussi mauvais que pas de mot de passe du tout. Le produit doit vous inviter à remplacer le mot de passe par défaut par un mot de passe fort. Les produits qui conservent un mot de passe par défaut sans demander de le changer peuvent laisser les informations personnelles des utilisateurs exposées."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:67
 msgid "Manages vulnerabilities"
@@ -145,77 +123,48 @@ msgstr "Gestion des vulnérabilités"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:69
 #, python-format
-msgid ""
-"Security vulnerabilities in products happen. It’s how companies manage them when they arise that matter. We looked at whether or not companies have a system in place to manage vulnerabilities in the"
-" product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program</a>."
-msgstr ""
-"Des failles de sécurité dans les produits peuvent toujours arriver. C’est la manière dont les entreprises les gèrent lorsqu’elles surviennent qui importe. Nous avons cherché à savoir si les "
-"entreprises avaient ou non un système en place pour gérer les vulnérabilités du produit lorsqu’elles étaient détectées. Cela implique d’avoir un point de contact pour signaler les vulnérabilités ou "
-"un <a href=\"%(url)s\">programme de prime aux bogues</a>."
+msgid "Security vulnerabilities in products happen. It’s how companies manage them when they arise that matter. We looked at whether or not companies have a system in place to manage vulnerabilities in the product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program</a>."
+msgstr "Des failles de sécurité dans les produits peuvent toujours arriver. C’est la manière dont les entreprises les gèrent lorsqu’elles surviennent qui importe. Nous avons cherché à savoir si les entreprises avaient ou non un système en place pour gérer les vulnérabilités du produit lorsqu’elles étaient détectées. Cela implique d’avoir un point de contact pour signaler les vulnérabilités ou un <a href=\"%(url)s\">programme de prime aux bogues</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:80
 msgid "Privacy policies"
 msgstr "Politiques de confidentialité"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:82
-msgid ""
-"Privacy policies detail a lot of important information about how companies collect, use, and share your personal information. Because of that, this information should be easily found and easily "
-"understood."
-msgstr ""
-"Les politiques de confidentialité contiennent de nombreuses informations importantes sur la manière dont les entreprises collectent, utilisent et partagent vos informations personnelles. Pour cette "
-"raison, ces informations doivent être facilement trouvables et compréhensibles."
+msgid "Privacy policies detail a lot of important information about how companies collect, use, and share your personal information. Because of that, this information should be easily found and easily understood."
+msgstr "Les politiques de confidentialité contiennent de nombreuses informations importantes sur la manière dont les entreprises collectent, utilisent et partagent vos informations personnelles. Pour cette raison, ces informations doivent être facilement trouvables et compréhensibles."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:90
 msgid "Creep-O-Meter"
 msgstr "Flippomètre"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:92
-msgid ""
-"Our Creep-O-Meter is for you to share your opinion. Read the review of the product, then rate how creepy or not creepy you think the product is and how likely you are to buy it. Click vote to see "
-"how your opinion stacks up to others."
-msgstr ""
-"Notre flippomètre vous permet de partager votre opinion. Lisez la critique du produit, puis évaluez à quel point vous pensez que le produit est effrayant ou non, et à quel point vous seriez "
-"susceptible de l’acheter. Cliquez sur voter pour voir comment votre opinion se compare aux autres."
+msgid "Our Creep-O-Meter is for you to share your opinion. Read the review of the product, then rate how creepy or not creepy you think the product is and how likely you are to buy it. Click vote to see how your opinion stacks up to others."
+msgstr "Notre flippomètre vous permet de partager votre opinion. Lisez la critique du produit, puis évaluez à quel point vous pensez que le produit est effrayant ou non, et à quel point vous seriez susceptible de l’acheter. Cliquez sur voter pour voir comment votre opinion se compare aux autres."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:101
 msgid "Can it snoop on me?"
 msgstr "Ce produit peut-il m’espionner ?"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:103
-msgid ""
-"Just because a device has a camera, microphone, or tracks location doesn’t mean it will snoop on you. It simply means it <em>could</em> and you should be aware of that. Also, many connected devices "
-"are controlled by apps on your phone. The apps often ask to use the phone’s camera, microphone or location tracking. Keep an eye on that, as some of the permissions the apps ask for might surprise "
-"you."
-msgstr ""
-"Ce n’est pas parce qu’un appareil est équipé d’une caméra, d’un microphone ou d'un système de localisation qu’il vous surveillera. Cela signifie simplement que cela <em>pourrait</em> être le cas et "
-"que vous devez en avoir conscience. De plus, de nombreux objets connectés sont contrôlés par des applications sur votre téléphone. Ces applications demandent souvent d’utiliser la caméra, le "
-"microphone ou le suivi de localisation du téléphone. Gardez un œil là-dessus, car certaines des autorisations demandées par les applications pourraient vous surprendre."
+msgid "Just because a device has a camera, microphone, or tracks location doesn’t mean it will snoop on you. It simply means it <em>could</em> and you should be aware of that. Also, many connected devices are controlled by apps on your phone. The apps often ask to use the phone’s camera, microphone or location tracking. Keep an eye on that, as some of the permissions the apps ask for might surprise you."
+msgstr "Ce n’est pas parce qu’un appareil est équipé d’une caméra, d’un microphone ou d'un système de localisation qu’il vous surveillera. Cela signifie simplement que cela <em>pourrait</em> être le cas et que vous devez en avoir conscience. De plus, de nombreux objets connectés sont contrôlés par des applications sur votre téléphone. Ces applications demandent souvent d’utiliser la caméra, le microphone ou le suivi de localisation du téléphone. Gardez un œil là-dessus, car certaines des autorisations demandées par les applications pourraient vous surprendre."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:114
 msgid "How does it handle privacy?"
 msgstr "Comment ce produit gère-t-il la vie privée ?"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:116
-msgid ""
-"Security and privacy are two separate concerns when it comes to connected products. A company can take measures to make a device secure, while also being questionable on how it handles the data that"
-" device might collect on you. Consumers should ask questions like what data does the device collect, how does the company use that data, who does it share that data with, and can you delete the data"
-" they collect?"
-msgstr ""
-"La sécurité et la vie privée sont deux préoccupations distinctes en ce qui concerne les objets connectés. Une entreprise peut prendre des mesures pour sécuriser un appareil, tout en ayant des "
-"pratiques discutables sur la manière dont elle gère les données que cet appareil pourrait collecter sur vous. Les consommateurs devraient se poser des questions sur la nature des données collectées "
-"par l’appareil, la manière dont l’entreprise les utilise, avec qui elle les partage, et la possibilité de supprimer les données collectées."
+msgid "Security and privacy are two separate concerns when it comes to connected products. A company can take measures to make a device secure, while also being questionable on how it handles the data that device might collect on you. Consumers should ask questions like what data does the device collect, how does the company use that data, who does it share that data with, and can you delete the data they collect?"
+msgstr "La sécurité et la vie privée sont deux préoccupations distinctes en ce qui concerne les objets connectés. Une entreprise peut prendre des mesures pour sécuriser un appareil, tout en ayant des pratiques discutables sur la manière dont elle gère les données que cet appareil pourrait collecter sur vous. Les consommateurs devraient se poser des questions sur la nature des données collectées par l’appareil, la manière dont l’entreprise les utilise, avec qui elle les partage, et la possibilité de supprimer les données collectées."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:126
 msgid "How does it share data?"
 msgstr "Comment ce produit partage-t-il les données ?"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:128
-msgid ""
-"Nearly every company collects some kind of information on its users. That’s how the internet works. It’s how they use and care for this information that matters. You should know whether a company "
-"shares or sells your personal information to others and for what reasons."
-msgstr ""
-"Presque toutes les entreprises collectent des informations sur leurs utilisateurs. C’est ainsi que fonctionne Internet. Ce qui importe c’est la manière dont elles utilisent et prennent soin de ces "
-"informations. Vous devez savoir si une entreprise partage ou vend vos informations personnelles à des tiers et pour quelles raisons."
+msgid "Nearly every company collects some kind of information on its users. That’s how the internet works. It’s how they use and care for this information that matters. You should know whether a company shares or sells your personal information to others and for what reasons."
+msgstr "Presque toutes les entreprises collectent des informations sur leurs utilisateurs. C’est ainsi que fonctionne Internet. Ce qui importe c’est la manière dont elles utilisent et prennent soin de ces informations. Vous devez savoir si une entreprise partage ou vend vos informations personnelles à des tiers et pour quelles raisons."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:137
 msgid "Can you delete your data?"
@@ -223,61 +172,39 @@ msgstr "Pouvez-vous supprimer vos données ?"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:139
 msgid "Companies collect a lot of data on their consumers. Who controls that data? Being able to contact a company and ask them to delete any data they have on you is a very good thing."
-msgstr ""
-"Les entreprises collectent de nombreuses données sur leurs consommateurs. Qui contrôle ces données ? Pouvoir contacter une entreprise et lui demander de supprimer toutes les données qu’elle détient "
-"sur vous est une très bonne chose."
+msgstr "Les entreprises collectent de nombreuses données sur leurs consommateurs. Qui contrôle ces données ? Pouvoir contacter une entreprise et lui demander de supprimer toutes les données qu’elle détient sur vous est une très bonne chose."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:147
 msgid "Collects biometrics data?"
 msgstr "Collecte-t-il des données biométriques ?"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:149
-msgid ""
-"Your voice, heart rate, activity levels, stress levels, sleep patterns, menstrual cycles, even your fingerprint and facial features are some of the most intimate, sensitive data devices can collect "
-"on you. You should be aware if a device collects this data and how that data is used after it is collected."
-msgstr ""
-"Votre voix, votre fréquence cardiaque, vos niveaux d’activité ou de stress, vos habitudes de sommeil, vos cycles menstruels, même vos empreintes digitales et vos traits du visage sont parmi les "
-"données les plus intimes et sensibles que les appareils peuvent collecter sur vous. Vous devez savoir si un appareil collecte ces données et comment ces données sont utilisées après leur collecte."
+msgid "Your voice, heart rate, activity levels, stress levels, sleep patterns, menstrual cycles, even your fingerprint and facial features are some of the most intimate, sensitive data devices can collect on you. You should be aware if a device collects this data and how that data is used after it is collected."
+msgstr "Votre voix, votre fréquence cardiaque, vos niveaux d’activité ou de stress, vos habitudes de sommeil, vos cycles menstruels, même vos empreintes digitales et vos traits du visage sont parmi les données les plus intimes et sensibles que les appareils peuvent collecter sur vous. Vous devez savoir si un appareil collecte ces données et comment ces données sont utilisées après leur collecte."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:158
 msgid "Parental controls"
 msgstr "Contrôle parental"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:160
-msgid ""
-"Parental controls on toys, tablets, smart speakers, and many other connected devices can be a very good way to protect the privacy and security of both young and old. Not all products need parental "
-"controls, but parents should look to see if they are an option for connected products they will buy and let their children use."
-msgstr ""
-"Le contrôle parental des jouets, des tablettes, des haut-parleurs intelligents et de nombreux autres objets connectés peut être un très bon moyen de protéger la vie privée et la sécurité des jeunes "
-"et des moins jeunes. Tous les produits n’ont pas besoin d’un contrôle parental, mais les parents devraient vérifier qu’ils sont disponibles pour les produits connectés qu’ils achèteront et "
-"laisseront leurs enfants utiliser."
+msgid "Parental controls on toys, tablets, smart speakers, and many other connected devices can be a very good way to protect the privacy and security of both young and old. Not all products need parental controls, but parents should look to see if they are an option for connected products they will buy and let their children use."
+msgstr "Le contrôle parental des jouets, des tablettes, des haut-parleurs intelligents et de nombreux autres objets connectés peut être un très bon moyen de protéger la vie privée et la sécurité des jeunes et des moins jeunes. Tous les produits n’ont pas besoin d’un contrôle parental, mais les parents devraient vérifier qu’ils sont disponibles pour les produits connectés qu’ils achèteront et laisseront leurs enfants utiliser."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:169
 msgid "User friendly privacy info?"
 msgstr "Les informations relatives à la vie privée sont-elles accessibles et compréhensibles ?"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:171
-msgid ""
-"Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. Privacy policies are often written more for lawyers than consumers. "
-"That’s why it’s nice to see more and more companies creating consumer-friendly privacy pages to outline how they handle your personal information and the data they collected on their users. We hope "
-"to see this trend continue."
-msgstr ""
-"Les informations sur le respect de la vie privée doivent être claires, lisibles et communiquer des informations de base aux consommateurs sur ce qui arrive à leurs données. Les politiques de "
-"confidentialité sont souvent écrites davantage pour les avocats que pour les consommateurs. C’est pourquoi il est agréable de voir de plus en plus d’entreprises créer des pages de confidentialité "
-"conviviales pour décrire comment elles traitent vos informations personnelles et les données qu’elles ont collectées sur leurs utilisateurs. Nous espérons voir cette tendance se poursuivre."
+msgid "Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. Privacy policies are often written more for lawyers than consumers. That’s why it’s nice to see more and more companies creating consumer-friendly privacy pages to outline how they handle your personal information and the data they collected on their users. We hope to see this trend continue."
+msgstr "Les informations sur le respect de la vie privée doivent être claires, lisibles et communiquer des informations de base aux consommateurs sur ce qui arrive à leurs données. Les politiques de confidentialité sont souvent écrites davantage pour les avocats que pour les consommateurs. C’est pourquoi il est agréable de voir de plus en plus d’entreprises créer des pages de confidentialité conviviales pour décrire comment elles traitent vos informations personnelles et les données qu’elles ont collectées sur leurs utilisateurs. Nous espérons voir cette tendance se poursuivre."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:181
 msgid "What could happen if something goes wrong"
 msgstr "Ce qu’il pourrait se passer en cas de problème"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:183
-msgid ""
-"It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. We lay out a potential "
-"worst-case scenario for each product, in some cases for fun and in some cases based on things that have already happened with the product."
-msgstr ""
-"Il est probable que rien de grave ne se produira avec la plupart des produits de ce guide. Cependant, cela vaut également la peine de réfléchir à ce qui <em>pourrait</em> se passer en cas de "
-"problème. Nous exposons un scénario potentiel le plus défavorable pour chaque produit, dans certains cas juste pour le plaisir, mais parfois en fonction de choses qui sont déjà arrivées avec le "
-"produit."
+msgid "It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. We lay out a potential worst-case scenario for each product, in some cases for fun and in some cases based on things that have already happened with the product."
+msgstr "Il est probable que rien de grave ne se produira avec la plupart des produits de ce guide. Cependant, cela vaut également la peine de réfléchir à ce qui <em>pourrait</em> se passer en cas de problème. Nous exposons un scénario potentiel le plus défavorable pour chaque produit, dans certains cas juste pour le plaisir, mais parfois en fonction de choses qui sont déjà arrivées avec le produit."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:192
 msgid "Updates"
@@ -292,12 +219,8 @@ msgid "Comments"
 msgstr "Commentaires"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:204
-msgid ""
-"We love to hear your thoughts and feedback on the products in this guide. And other users might like to join you in a conversation about any experiences or concerns you’ve had with a product. Please"
-" join the conversation in the comment section at the bottom of each product page."
-msgstr ""
-"Nous sommes impatients de lire vos avis et vos commentaires sur les produits présentés dans ce guide. Et d’autres utilisateurs pourraient se joindre à vous pour discuter de vos expériences ou de vos"
-" préoccupations concernant un produit. Vous pouvez participer dans la section « Commentaires » au bas de chaque page produit."
+msgid "We love to hear your thoughts and feedback on the products in this guide. And other users might like to join you in a conversation about any experiences or concerns you’ve had with a product. Please join the conversation in the comment section at the bottom of each product page."
+msgstr "Nous sommes impatients de lire vos avis et vos commentaires sur les produits présentés dans ce guide. Et d’autres utilisateurs pourraient se joindre à vous pour discuter de vos expériences ou de vos préoccupations concernant un produit. Vous pouvez participer dans la section « Commentaires » au bas de chaque page produit."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:215
 #, python-format
@@ -310,15 +233,8 @@ msgstr "Monétisation du guide"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:225
 #, python-format
-msgid ""
-"Mozilla Foundation does not receive any money from the companies featured in this guide or from linking to sites where users purchase products. We are currently experimenting with Web Monetization "
-"on a small number of our properties. Web Monetization is an open standard that enables publishers and platforms to compensate creators directly, outside of the dominant advertising model. Only users"
-" with a Web Monetization enabled extension in their browsers will be aware of the implementation. Read more about our Web Monetization experiment <a %(link_args)s>here</a>."
-msgstr ""
-"La Fondation Mozilla ne reçoit pas d’argent des entreprises présentées dans ce guide ni des liens vers les sites où les utilisateurs achètent des produits. Nous testons actuellement Web Monetization"
-" sur un petit nombre de nos sites. Web Monetization est un standard ouvert qui permet aux éditeurs et aux plateformes de rémunérer directement les créateurs, en dehors du modèle publicitaire "
-"dominant. Seules les personnes disposant d’une extension prenant en charge Web Monetization dans leur navigateur seront informées de sa mise en œuvre. Apprenez-en plus sur notre test de Web "
-"Monetization <a %(link_args)s>ici</a>."
+msgid "Mozilla Foundation does not receive any money from the companies featured in this guide or from linking to sites where users purchase products. We are currently experimenting with Web Monetization on a small number of our properties. Web Monetization is an open standard that enables publishers and platforms to compensate creators directly, outside of the dominant advertising model. Only users with a Web Monetization enabled extension in their browsers will be aware of the implementation. Read more about our Web Monetization experiment <a %(link_args)s>here</a>."
+msgstr "La Fondation Mozilla ne reçoit pas d’argent des entreprises présentées dans ce guide ni des liens vers les sites où les utilisateurs achètent des produits. Nous testons actuellement Web Monetization sur un petit nombre de nos sites. Web Monetization est un standard ouvert qui permet aux éditeurs et aux plateformes de rémunérer directement les créateurs, en dehors du modèle publicitaire dominant. Seules les personnes disposant d’une extension prenant en charge Web Monetization dans leur navigateur seront informées de sa mise en œuvre. Apprenez-en plus sur notre test de Web Monetization <a %(link_args)s>ici</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:236
 msgid "Further reading"
@@ -326,266 +242,169 @@ msgstr "Lectures complémentaires"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:238
 #, python-format
-msgid ""
-"If you’d like to know how connected devices are created, and what could actually be done to make them better, check out Mozilla’s Internet Health Report special edition: <a %(link_args)s>*Privacy "
-"Included: Rethinking the Smart Home</a>."
-msgstr ""
-"Si vous souhaitez savoir comment les objets connectés sont créés et ce qui pourrait réellement être fait pour les améliorer, consultez l’édition spéciale du Bulletin de santé d’Internet de Mozilla :"
-" <a %(link_args)s>*Confidentialité incluse : repenser la maison intelligente</a>."
+msgid "If you’d like to know how connected devices are created, and what could actually be done to make them better, check out Mozilla’s Internet Health Report special edition: <a %(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgstr "Si vous souhaitez savoir comment les objets connectés sont créés et ce qui pourrait réellement être fait pour les améliorer, consultez l’édition spéciale du Bulletin de santé d’Internet de Mozilla : <a %(link_args)s>*Confidentialité incluse : repenser la maison intelligente</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:9
 msgid "About our Methodology"
 msgstr "À propos de notre méthodologie"
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:14
-msgid ""
-"The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart — and safe — for products that connect to the Internet. Many companies don’t provide clear "
-"information about the privacy and security of the connected devices they sell. Is your personal data being used in ways you may not have anticipated or expected? What are the risks of buying a "
-"product that collects your health data? How does the company regularly test for and fix security vulnerabilities?"
-msgstr ""
-"L’objectif du guide d’achat <em>*Confidentialité non incluse</em> de Mozilla est d’aider les consommateurs à faire des achats malins (et sûrs) de produits qui se connectent à Internet. De nombreuses"
-" entreprises ne fournissent pas d’informations claires sur la confidentialité et la sécurité des objets connectés qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que "
-"vous n’avez peut-être pas prévue ou attendue ? Quels sont les risques liés à l’achat d’un produit qui collecte vos données de santé ? Comment l’entreprise procède-t-elle régulièrement à des tests et"
-" corrige-t-elle les failles de sécurité ?"
+msgid "The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart — and safe — for products that connect to the Internet. Many companies don’t provide clear information about the privacy and security of the connected devices they sell. Is your personal data being used in ways you may not have anticipated or expected? What are the risks of buying a product that collects your health data? How does the company regularly test for and fix security vulnerabilities?"
+msgstr "L’objectif du guide d’achat <em>*Confidentialité non incluse</em> de Mozilla est d’aider les consommateurs à faire des achats malins (et sûrs) de produits qui se connectent à Internet. De nombreuses entreprises ne fournissent pas d’informations claires sur la confidentialité et la sécurité des objets connectés qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que vous n’avez peut-être pas prévue ou attendue ? Quels sont les risques liés à l’achat d’un produit qui collecte vos données de santé ? Comment l’entreprise procède-t-elle régulièrement à des tests et corrige-t-elle les failles de sécurité ?"
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:24
-msgid ""
-"It’s difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. With this guide, we hoped to help consumers navigate this "
-"landscape by understanding what questions they should ask before buying a device."
-msgstr ""
-"Il est difficile pour les consommateurs d’obtenir des entreprises des informations claires et concrètes sur la sécurité et la confidentialité de leurs objets connectés. Avec ce guide, nous espérons "
-"aider les consommateurs à se repérer dans ce domaine en comprenant les questions à se poser avant d’acheter un appareil."
+msgid "It’s difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. With this guide, we hoped to help consumers navigate this landscape by understanding what questions they should ask before buying a device."
+msgstr "Il est difficile pour les consommateurs d’obtenir des entreprises des informations claires et concrètes sur la sécurité et la confidentialité de leurs objets connectés. Avec ce guide, nous espérons aider les consommateurs à se repérer dans ce domaine en comprenant les questions à se poser avant d’acheter un appareil."
 
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:32
 msgid "Here is the methodology we used to develop this guide."
 msgstr "Voici la méthodologie que nous avons utilisée pour développer ce guide."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:42
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:43
 msgid "Product Selection"
 msgstr "Sélection de produits"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:44
-msgid ""
-"There are 76 products in the 2019 version of our <em>*Privacy Not Included</em> buyer’s guide. These products fit into six categories — Toys & Games, Smart Home, Entertainment, Wearables, Health & "
-"Exercise, and Pets."
-msgstr ""
-"La version 2019 de notre guide d’achat <em>*Confidentialité non incluse</em> contient 76 produits. Ces produits se répartissent en 6 catégories : jouets et jeux, maison intelligente, divertissement,"
-" technologies prêtes-à-porter, santé et exercice, et animaux de compagnie."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:47
+msgid "There are 76 products in the 2019 version of our <em>*Privacy Not Included</em> buyer’s guide. These products fit into six categories — Toys & Games, Smart Home, Entertainment, Wearables, Health & Exercise, and Pets."
+msgstr "La version 2019 de notre guide d’achat <em>*Confidentialité non incluse</em> contient 76 produits. Ces produits se répartissent en 6 catégories : jouets et jeux, maison intelligente, divertissement, technologies prêtes-à-porter, santé et exercice, et animaux de compagnie."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:50
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:54
 #, python-format
-msgid ""
-"The goal was to select connected products that were likely to be popular during the holiday season and beyond. We selected products that were top sellers on <a href=\"%(amazon)s\">Amazon</a> Prime "
-"Day, products featured in the <a href=\"%(targetopenhouse)s\">Target Open House</a>, and products that were highly rated across a variety of consumer product websites such as <a "
-"href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(toyinsider)s\">The Toy Insider</a>, <a href=\"%(pcmag)s\">PC Magazine</a>, <a href=\"%(techradar)s\">Tech Radar</a>, and <a "
-"href=\"%(gearbrain)s\">Gear Brain</a>."
-msgstr ""
-"L’objectif était de sélectionner des objets connectés susceptibles d’être populaires pendant la période des fêtes et au-delà. Nous avons sélectionné les produits les plus vendus pendant <a "
-"href=\"%(amazon)s\">Amazon</a> Prime Day, des produits présentés par <a href=\"%(targetopenhouse)s\">Target Open House</a>, et des produits qui ont été très bien notés sur une variété de sites web "
-"de produits de consommation tels que <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(toyinsider)s\">The Toy Insider</a>, <a href=\"%(pcmag)s\">PC Magazine</a>, <a href=\"%(techradar)s\">Tech "
-"Radar</a> et <a href=\"%(gearbrain)s\">Gear Brain</a>."
+msgid "The goal was to select connected products that were likely to be popular during the holiday season and beyond. We selected products that were top sellers on <a href=\"%(amazon)s\">Amazon</a> Prime Day, products featured in the <a href=\"%(targetopenhouse)s\">Target Open House</a>, and products that were highly rated across a variety of consumer product websites such as <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(toyinsider)s\">The Toy Insider</a>, <a href=\"%(pcmag)s\">PC Magazine</a>, <a href=\"%(techradar)s\">Tech Radar</a>, and <a href=\"%(gearbrain)s\">Gear Brain</a>."
+msgstr "L’objectif était de sélectionner des objets connectés susceptibles d’être populaires pendant la période des fêtes et au-delà. Nous avons sélectionné les produits les plus vendus pendant <a href=\"%(amazon)s\">Amazon</a> Prime Day, des produits présentés par <a href=\"%(targetopenhouse)s\">Target Open House</a>, et des produits qui ont été très bien notés sur une variété de sites web de produits de consommation tels que <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(toyinsider)s\">The Toy Insider</a>, <a href=\"%(pcmag)s\">PC Magazine</a>, <a href=\"%(techradar)s\">Tech Radar</a> et <a href=\"%(gearbrain)s\">Gear Brain</a>."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:64
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:68
 msgid "Minimum Security Requirements"
 msgstr "Critères élémentaires de sécurité"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:68
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:72
 #, python-format
-msgid ""
-"Mozilla has established a set of <a href=\"%(sec_standards)s\">Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We evaluated each "
-"product on our list against five criteria:"
-msgstr ""
-"Mozilla a établi un ensemble de <a href=\"%(sec_standards)s\">critères élémentaires de sécurité</a> qui devraient être respectés par tout fabricant d’objets connectés. Nous avons évalué chaque "
-"produit de notre liste selon cinq critères :"
+msgid "Mozilla has established a set of <a href=\"%(sec_standards)s\">Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We evaluated each product on our list against five criteria:"
+msgstr "Mozilla a établi un ensemble de <a href=\"%(sec_standards)s\">critères élémentaires de sécurité</a> qui devraient être respectés par tout fabricant d’objets connectés. Nous avons évalué chaque produit de notre liste selon cinq critères :"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:76
-msgid ""
-"Device should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications"
-" aren’t eavesdropped or modified in transit. User data should be encrypted when it is stored."
-msgstr ""
-"L’appareil doit utiliser le chiffrement pendant le transport et au repos (lorsque cela s’applique). Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication "
-"réseau, garantissant que les communications ne sont pas écoutées ou modifiées pendant leur acheminement. Les données utilisateur doivent être chiffrées lors de leur stockage."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:83
+msgid "Device should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped or modified in transit. User data should be encrypted when it is stored."
+msgstr "L’appareil doit utiliser le chiffrement pendant le transport et au repos (lorsque cela s’applique). Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication réseau, garantissant que les communications ne sont pas écoutées ou modifiées pendant leur acheminement. Les données utilisateur doivent être chiffrées lors de leur stockage."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:87
-msgid ""
-"The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security "
-"updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
-msgstr ""
-"Le produit doit permettre, par défaut, des mises à jour de sécurité automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant "
-"peut proposer aux consommateurs des mises à jour de sécurité, qui sont vérifiées (à l’aide d’une forme de cryptographie), puis installées en toute simplicité."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:97
+msgid "The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
+msgstr "Le produit doit permettre, par défaut, des mises à jour de sécurité automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant peut proposer aux consommateurs des mises à jour de sécurité, qui sont vérifiées (à l’aide d’une forme de cryptographie), puis installées en toute simplicité."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:96
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:107
 msgid "Strong passwords"
 msgstr "Mots de passe robustes"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:98 network-api/networkapi/buyersguide/templates/about/minimum_security.html:71
-msgid ""
-"If the product uses passwords for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also "
-"be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device."
-msgstr ""
-"Si le produit utilise des mots de passe pour l’authentification à distance, il doit exiger l’utilisation de mots de passe forts et s’appuyer sur des critères de force des mots de passe. Tout mot de "
-"passe par défaut non unique doit également être réinitialisé lors de la configuration initiale de l’appareil. Cela aide à protéger l’appareil contre les attaques consistant à deviner les mots de "
-"passe, ce qui pourrait compromettre l’appareil."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:111
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:71
+msgid "If the product uses passwords for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device."
+msgstr "Si le produit utilise des mots de passe pour l’authentification à distance, il doit exiger l’utilisation de mots de passe forts et s’appuyer sur des critères de force des mots de passe. Tout mot de passe par défaut non unique doit également être réinitialisé lors de la configuration initiale de l’appareil. Cela aide à protéger l’appareil contre les attaques consistant à deviner les mots de passe, ce qui pourrait compromettre l’appareil."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:108 network-api/networkapi/buyersguide/templates/about/minimum_security.html:81
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:122
+#: network-api/networkapi/buyersguide/templates/about/minimum_security.html:81
 msgid "Vulnerability management"
 msgstr "Gestion des vulnérabilités"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:110
-msgid ""
-"The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that "
-"vendors are actively managing vulnerabilities throughout the product’s lifecycle."
-msgstr ""
-"L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer d’un programme de"
-" <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:126
+msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
+msgstr "L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer d’un programme de <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:119
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:136
 msgid "Privacy Policy"
 msgstr "Politique de confidentialité"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:121
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:140
 msgid "The product must have a privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating."
-msgstr ""
-"Le produit doit disposer d’une politique de confidentialité et/ou d’une page séparée dédiée à la confidentialité qui s’applique spécifiquement à l’appareil, à l’application ou au service que nous "
-"analysons."
+msgstr "Le produit doit disposer d’une politique de confidentialité et/ou d’une page séparée dédiée à la confidentialité qui s’applique spécifiquement à l’appareil, à l’application ou au service que nous analysons."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:131
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:150
 msgid "Privacy"
 msgstr "Vie privée"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:135
-msgid ""
-"We evaluated the privacy documentation — which included privacy policies, privacy pages, FAQs – for each company selling these products to determine (1) how data is shared with third parties, (2) "
-"whether or not users could request deletion of their data, and (3) the accessibility/readability of the privacy information. Where relevant, we also looked at whether (4) biometric data is "
-"collected, and (5) parental controls are in place."
-msgstr ""
-"Nous avons évalué les informations liées au respect de la vie privée (les politiques de confidentialité, les pages traitant de la confidentialité, les FAQ) pour chaque entreprise vendant ces "
-"produits afin de déterminer (1) comment les données sont partagées avec des tiers, (2) si les utilisateurs peuvent ou non demander la suppression de leurs données, et (3) l’accessibilité / la "
-"lisibilité des informations liées à la confidentialité. Le cas échéant, nous avons également examiné si (4) des données biométriques étaient collectées et si (5) des contrôles parentaux étaient "
-"disponibles."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:154
+msgid "We evaluated the privacy documentation — which included privacy policies, privacy pages, FAQs – for each company selling these products to determine (1) how data is shared with third parties, (2) whether or not users could request deletion of their data, and (3) the accessibility/readability of the privacy information. Where relevant, we also looked at whether (4) biometric data is collected, and (5) parental controls are in place."
+msgstr "Nous avons évalué les informations liées au respect de la vie privée (les politiques de confidentialité, les pages traitant de la confidentialité, les FAQ) pour chaque entreprise vendant ces produits afin de déterminer (1) comment les données sont partagées avec des tiers, (2) si les utilisateurs peuvent ou non demander la suppression de leurs données, et (3) l’accessibilité / la lisibilité des informations liées à la confidentialité. Le cas échéant, nous avons également examiné si (4) des données biométriques étaient collectées et si (5) des contrôles parentaux étaient disponibles."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:144
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:164
 msgid "1) How does it share data?"
 msgstr "1) Comment ce produit partage-t-il les données ?"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:146
-msgid ""
-"How do companies collect and share customer data with third parties? For this question, we analyzed the privacy documentation to determine how and when personal customer data is shared with third "
-"parties for reasons other than standard vendors."
-msgstr ""
-"Comment les entreprises collectent-elles et partagent-elles les données des clients avec des tiers ? Pour cette question, nous avons analysé les informations de confidentialité afin de déterminer "
-"comment et quand les données personnelles des clients sont partagées avec des tiers pour des raisons autres que le partage avec des sous-traitants classiques."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:168
+msgid "How do companies collect and share customer data with third parties? For this question, we analyzed the privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than standard vendors."
+msgstr "Comment les entreprises collectent-elles et partagent-elles les données des clients avec des tiers ? Pour cette question, nous avons analysé les informations de confidentialité afin de déterminer comment et quand les données personnelles des clients sont partagées avec des tiers pour des raisons autres que le partage avec des sous-traitants classiques."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:153
-msgid ""
-"For instance, if a company can share or sell personal customer data with third parties, use  data for targeted advertising, or if third parties can use data for commercial purposes, then we noted "
-"this. We also noted where the company is permitted to sell or share aggregated, de-identified data. Even if the data is not personally identifiable, consumers have a right to know how their "
-"information may be used."
-msgstr ""
-"Par exemple, si une entreprise peut partager ou vendre des données personnelles de clients avec des tiers, utiliser des données pour de la publicité ciblée ou si des tiers peuvent utiliser des "
-"données à des fins commerciales, nous l’avons indiqué. Nous avons également indiqué lorsque l’entreprise est autorisée à vendre ou à partager des données agrégées et anonymisées. Même si les données"
-" ne sont pas personnellement identifiables, les consommateurs ont le droit de savoir comment leurs informations peuvent être utilisées."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:176
+msgid "For instance, if a company can share or sell personal customer data with third parties, use  data for targeted advertising, or if third parties can use data for commercial purposes, then we noted this. We also noted where the company is permitted to sell or share aggregated, de-identified data. Even if the data is not personally identifiable, consumers have a right to know how their information may be used."
+msgstr "Par exemple, si une entreprise peut partager ou vendre des données personnelles de clients avec des tiers, utiliser des données pour de la publicité ciblée ou si des tiers peuvent utiliser des données à des fins commerciales, nous l’avons indiqué. Nous avons également indiqué lorsque l’entreprise est autorisée à vendre ou à partager des données agrégées et anonymisées. Même si les données ne sont pas personnellement identifiables, les consommateurs ont le droit de savoir comment leurs informations peuvent être utilisées."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:163
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:187
 msgid "2) Can you delete your data?"
 msgstr "2) Pouvez-vous supprimer vos données ?"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:165
-msgid ""
-"Does the company provide a way for users to request deletion of their data? We looked for language around this in the privacy policy and/or whether the company had an online portal that lets users "
-"delete their data quickly."
-msgstr ""
-"L’entreprise offre-t-elle un moyen aux utilisateurs de demander la suppression de leurs données ? Nous avons cherché une mention à ce sujet dans la politique de confidentialité et / ou si "
-"l’entreprise dispose d’un portail en ligne qui permet aux utilisateurs de supprimer rapidement leurs données."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:191
+msgid "Does the company provide a way for users to request deletion of their data? We looked for language around this in the privacy policy and/or whether the company had an online portal that lets users delete their data quickly."
+msgstr "L’entreprise offre-t-elle un moyen aux utilisateurs de demander la suppression de leurs données ? Nous avons cherché une mention à ce sujet dans la politique de confidentialité et / ou si l’entreprise dispose d’un portail en ligne qui permet aux utilisateurs de supprimer rapidement leurs données."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:173
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:200
 msgid "3) User-friendly privacy information"
 msgstr "3) Informations relatives à la vie privée accessibles et compréhensibles"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:175
-msgid ""
-"How easy is it to find clear information about a device’s privacy? How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to "
-"consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page."
-msgstr ""
-"Est-il facile de trouver des informations claires sur la confidentialité d’un appareil ? Quelle est la clarté de ces informations ? Les informations de confidentialité doivent être claires, lisibles"
-" et communiquer des informations de base aux consommateurs sur ce qui arrive à leurs données. Nous avons regardé si l’entreprise fournissait des informations de confidentialité faciles à lire, soit "
-"dans la politique de confidentialité, soit dans une autre page dédiée."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:204
+msgid "How easy is it to find clear information about a device’s privacy? How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page."
+msgstr "Est-il facile de trouver des informations claires sur la confidentialité d’un appareil ? Quelle est la clarté de ces informations ? Les informations de confidentialité doivent être claires, lisibles et communiquer des informations de base aux consommateurs sur ce qui arrive à leurs données. Nous avons regardé si l’entreprise fournissait des informations de confidentialité faciles à lire, soit dans la politique de confidentialité, soit dans une autre page dédiée."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:185
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:215
 msgid "4) Biometric information"
 msgstr "4) Informations biométriques"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:187
-msgid ""
-"Biometric data is data that describes our bodies and distinctive personal characteristics. Many devices collect sensitive data about our heart rate, our sleep patterns, and our menstrual cycle, for "
-"instance. Some even use data about our face and voice to identify us. We noted which products collect biometric data."
-msgstr ""
-"Les données biométriques sont des informations qui décrivent notre corps et nos caractéristiques physiques distinctives. De nombreux appareils collectent des données sensibles sur notre fréquence "
-"cardiaque, nos habitudes de sommeil et notre cycle menstruel, par exemple. Certains utilisent même des données relatives à notre visage et à notre voix pour nous identifier. Nous avons identifié "
-"quels produits collectent des données biométriques."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:219
+msgid "Biometric data is data that describes our bodies and distinctive personal characteristics. Many devices collect sensitive data about our heart rate, our sleep patterns, and our menstrual cycle, for instance. Some even use data about our face and voice to identify us. We noted which products collect biometric data."
+msgstr "Les données biométriques sont des informations qui décrivent notre corps et nos caractéristiques physiques distinctives. De nombreux appareils collectent des données sensibles sur notre fréquence cardiaque, nos habitudes de sommeil et notre cycle menstruel, par exemple. Certains utilisent même des données relatives à notre visage et à notre voix pour nous identifier. Nous avons identifié quels produits collectent des données biométriques."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:196
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:229
 msgid "5) Parental controls?"
 msgstr "5) Contrôle parental"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:198
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:233
 msgid "For products that are intended for children, can parents change and control the settings of the device?"
 msgstr "Pour les produits destinés aux enfants, les parents peuvent-ils modifier et contrôler les paramètres de l’appareil ?"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:205
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:240
 msgid "Permissions"
 msgstr "Permissions"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:209
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:244
 msgid "We looked into a set of criteria for each product across five questions."
 msgstr "Nous avons examiné un ensemble de critères pour chaque produit à travers cinq questions."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:213
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:249
 msgid "The device/app uses:"
 msgstr "L’appareil / l’application utilise :"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:215
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:253
 msgid "This looks at whether a device or app uses a camera, microphone, or location tracking."
 msgstr "Cette section observe si l’appareil ou l’application utilise la caméra, le microphone ou des données de localisation."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:218
-msgid ""
-"For you to set up your new device, you will probably need to download an app. Both of these (the device and the app) will most likely need data to make things work. The app will typically need to "
-"request permissions for it to access your more sensitive data."
-msgstr ""
-"Pour configurer votre nouvel appareil, vous devrez probablement télécharger une application. L’appareil et l’application auront très probablement tous les deux besoin de données pour fonctionner. "
-"L’application devra généralement demander des autorisations pour accéder à vos données sensibles."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:257
+msgid "For you to set up your new device, you will probably need to download an app. Both of these (the device and the app) will most likely need data to make things work. The app will typically need to request permissions for it to access your more sensitive data."
+msgstr "Pour configurer votre nouvel appareil, vous devrez probablement télécharger une application. L’appareil et l’application auront très probablement tous les deux besoin de données pour fonctionner. L’application devra généralement demander des autorisations pour accéder à vos données sensibles."
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:225
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:265
 #, python-format
-msgid ""
-"In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product "
-"website and we used the <a href=\"%(url)s\">Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based "
-"location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
-msgstr ""
-"Dans nos analyses, nous avons évalué si l’appareil ou l’application demande un accès à la <b>caméra</b>, au <b>microphone</b> ou aux <b>données de localisation GPS</b>. Nous avons évalué l’appareil "
-"à partir du site web du produit et nous avons utilisé le <a href=\"%(url)s\">Google Play Store d’Android</a> pour vérifier les autorisations demandées par chaque application. (<b>Remarque </b>: les "
-"applications peuvent accéder à une localisation « approximative » ou « en fonction du réseau ». « Piste la géolocalisation » affiche « Oui » à partir du moment où une application demande des données"
-" de localisation, même approximatives.)"
+msgid "In our ratings, we evaluated if the device or the app required access to the <b>camera</b>, <b>microphone</b>, or <b>GPS location</b> information. We evaluated the device based on the product website and we used the <a href=\"%(url)s\">Google Play store for Android</a> to check on the permissions requested by each app. (<b>Note</b>: apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <b>any</b> location information, including approximate location.)"
+msgstr "Dans nos analyses, nous avons évalué si l’appareil ou l’application demande un accès à la <b>caméra</b>, au <b>microphone</b> ou aux <b>données de localisation GPS</b>. Nous avons évalué l’appareil à partir du site web du produit et nous avons utilisé le <a href=\"%(url)s\">Google Play Store d’Android</a> pour vérifier les autorisations demandées par chaque application. (<b>Remarque </b>: les applications peuvent accéder à une localisation « approximative » ou « en fonction du réseau ». « Piste la géolocalisation » affiche « Oui » à partir du moment où une application demande des données de localisation, même approximatives.)"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:238
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:278
 msgid "Worst-case scenario"
 msgstr "Pire scénario"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:242
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:283
 msgid "What could happen if something goes wrong?"
 msgstr "Que pourrait-il se passer en cas de problème ?"
 
-#: network-api/networkapi/buyersguide/templates/about/methodology.html:244
-msgid ""
-"We included this section to help people understand risk scenarios related to their privacy and each particular product. We aimed to identify risks that would feel relevant to consumers. It’s likely "
-"nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. This question looks a potential worst-"
-"case scenarios for each product, in some cases for fun and in some cases based on things that have already happened with the product."
-msgstr ""
-"Nous avons inclus cette section pour aider les gens à comprendre les scénarios de risque liés à leur vie privée et à chaque produit particulier. Notre objectif est d’identifier les risques qui "
-"semblent pertinents pour les consommateurs. Il est probable que rien de grave ne se produira avec la plupart des produits de ce guide. Cependant, il est également bon de réfléchir à ce qui "
-"<em>pourrait</em> se produire en cas de problème. Cette question se penche sur ce qu’il pourrait arriver de pire pour chaque produit, dans certains cas pour le plaisir et dans d’autres, en fonction "
-"de choses qui sont déjà arrivées avec le produit."
+#: network-api/networkapi/buyersguide/templates/about/methodology.html:287
+msgid "We included this section to help people understand risk scenarios related to their privacy and each particular product. We aimed to identify risks that would feel relevant to consumers. It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. This question looks a potential worst-case scenarios for each product, in some cases for fun and in some cases based on things that have already happened with the product."
+msgstr "Nous avons inclus cette section pour aider les gens à comprendre les scénarios de risque liés à leur vie privée et à chaque produit particulier. Notre objectif est d’identifier les risques qui semblent pertinents pour les consommateurs. Il est probable que rien de grave ne se produira avec la plupart des produits de ce guide. Cependant, il est également bon de réfléchir à ce qui <em>pourrait</em> se produire en cas de problème. Cette question se penche sur ce qu’il pourrait arriver de pire pour chaque produit, dans certains cas pour le plaisir et dans d’autres, en fonction de choses qui sont déjà arrivées avec le produit."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:9
 msgid "Minimum Security Standards Explained"
@@ -593,26 +412,13 @@ msgstr "Comprendre les critères élémentaires de sécurité"
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:14
 #, python-format
-msgid ""
-"Despite growing concerns about the safety and security of internet-connected devices, many companies still build and sell connected products that are insecure. Take the <a href=\"%(npr)s\">FREDI "
-"wireless baby camera monitor</a>, for instance, which has been repeatedly hacked. Further, many companies don’t provide clear information about the data privacy of the devices they sell. Is your "
-"personal data being used in ways you may not have anticipated or expected?"
-msgstr ""
-"Malgré les préoccupations croissantes concernant la sûreté et la sécurité des appareils connectés à Internet, de nombreuses entreprises continuent de fabriquer et de vendre des objets connectés qui "
-"ne sont pas sécurisés. Citons par exemple le <a href=\"%(npr)s\">baby-phone sans fil FREDI</a>, qui a été piraté à plusieurs reprises. De plus, de nombreuses entreprises ne fournissent pas "
-"d’informations claires sur la confidentialité des données des appareils qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que vous n’auriez peut-être pas prévue ou "
-"envisagée ?"
+msgid "Despite growing concerns about the safety and security of internet-connected devices, many companies still build and sell connected products that are insecure. Take the <a href=\"%(npr)s\">FREDI wireless baby camera monitor</a>, for instance, which has been repeatedly hacked. Further, many companies don’t provide clear information about the data privacy of the devices they sell. Is your personal data being used in ways you may not have anticipated or expected?"
+msgstr "Malgré les préoccupations croissantes concernant la sûreté et la sécurité des appareils connectés à Internet, de nombreuses entreprises continuent de fabriquer et de vendre des objets connectés qui ne sont pas sécurisés. Citons par exemple le <a href=\"%(npr)s\">baby-phone sans fil FREDI</a>, qui a été piraté à plusieurs reprises. De plus, de nombreuses entreprises ne fournissent pas d’informations claires sur la confidentialité des données des appareils qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que vous n’auriez peut-être pas prévue ou envisagée ?"
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:24
 #, python-format
-msgid ""
-"In 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a>, and the <a href=\"%(isoc)s\">Internet Society</a>, decided to take a more proactive approach to these "
-"gaps. We believe that industry should start talking about what some of the initial ‘red lines’ are in this space, and should phase out practices that lead to the most egregious failings in connected"
-" devices."
-msgstr ""
-"En 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a> et <a href=\"%(isoc)s\">Internet Society</a> ont décidé d’adopter une approche plus proactive de ces "
-"insuffisances. Nous pensons que l’industrie devrait commencer à définir certaines « lignes rouges » à ne pas franchir dans ce domaine et devrait éliminer progressivement les pratiques qui conduisent"
-" aux problèmes les plus flagrants des objets connectés."
+msgid "In 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a>, and the <a href=\"%(isoc)s\">Internet Society</a>, decided to take a more proactive approach to these gaps. We believe that industry should start talking about what some of the initial ‘red lines’ are in this space, and should phase out practices that lead to the most egregious failings in connected devices."
+msgstr "En 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a> et <a href=\"%(isoc)s\">Internet Society</a> ont décidé d’adopter une approche plus proactive de ces insuffisances. Nous pensons que l’industrie devrait commencer à définir certaines « lignes rouges » à ne pas franchir dans ce domaine et devrait éliminer progressivement les pratiques qui conduisent aux problèmes les plus flagrants des objets connectés."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:33
 msgid "Together, the three organizations proposed five minimum standards that companies making connected devices should reasonably be expected to satisfy."
@@ -623,36 +429,24 @@ msgid "Minimum Security Standards"
 msgstr "Critères élémentaires de sécurité"
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:48
-msgid ""
-"The product must use encryption for all of its network communications functions and capabilities. This ensures that all communications are not eavesdropped or modified in transit. The product must "
-"also use encryption at rest to ensure that customer data is protected in storage."
-msgstr ""
-"Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication réseau. Cela garantit que les communications ne sont pas écoutées ou modifiées pendant leur "
-"acheminement. Le produit doit également utiliser le chiffrement lorsqu’il n’est pas utilisé pour garantir la protection des données client lors du stockage."
+msgid "The product must use encryption for all of its network communications functions and capabilities. This ensures that all communications are not eavesdropped or modified in transit. The product must also use encryption at rest to ensure that customer data is protected in storage."
+msgstr "Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication réseau. Cela garantit que les communications ne sont pas écoutées ou modifiées pendant leur acheminement. Le produit doit également utiliser le chiffrement lorsqu’il n’est pas utilisé pour garantir la protection des données client lors du stockage."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:57
 msgid "Security updates [1]"
 msgstr "Mises à jour de sécurité [1]"
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:59
-msgid ""
-"The product must support automatic updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates "
-"available for consumers, which are verified and then installed seamlessly. Updates must not make the product unavailable for an extended period."
-msgstr ""
-"Le produit doit permettre, par défaut, des mises à jour automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant peut proposer"
-" des mises à jour de sécurité aux consommateurs, qui sont vérifiées puis installées en toute simplicité. Les mises à jour ne doivent pas rendre le produit inutilisable pendant une longue période."
+msgid "The product must support automatic updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified and then installed seamlessly. Updates must not make the product unavailable for an extended period."
+msgstr "Le produit doit permettre, par défaut, des mises à jour automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant peut proposer des mises à jour de sécurité aux consommateurs, qui sont vérifiées puis installées en toute simplicité. Les mises à jour ne doivent pas rendre le produit inutilisable pendant une longue période."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:69
 msgid "Strong passwords [2]"
 msgstr "Mots de passe robustes [2]"
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:83
-msgid ""
-"The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or an equivalent bug bounty program. This "
-"ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
-msgstr ""
-"L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer de l’équivalent "
-"d’un programme de <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
+msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or an equivalent bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
+msgstr "L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer de l’équivalent d’un programme de <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:92
 msgid "Privacy Practices [3]"
@@ -660,53 +454,29 @@ msgstr "Pratiques en matière de confidentialité [3]"
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:94
 msgid "The product must have privacy information that applies specifically to the device, not a generic privacy policy that is written to cover just the company web properties."
-msgstr ""
-"Le produit doit disposer d’informations de confidentialité qui s’appliquent spécifiquement à l’appareil, et non une politique de confidentialité générique rédigée pour couvrir uniquement les sites "
-"web de l’entreprise."
+msgstr "Le produit doit disposer d’informations de confidentialité qui s’appliquent spécifiquement à l’appareil, et non une politique de confidentialité générique rédigée pour couvrir uniquement les sites web de l’entreprise."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:105
-msgid ""
-"<b>[1]</b> Automatic updates are critical to creating a secure product ecosystem. Nonetheless, we have heard concerns that automatic updates can also be used in ways that are adversarial towards "
-"users. These standards are not intended in any way to encourage or condone the use of update mechanisms to push software that would weaken the privacy properties of products or modify security or "
-"privacy settings in ways that are inconsistent with users’ choices and expectations."
-msgstr ""
-"<b>[1]</b> Les mises à jour automatiques sont essentielles pour créer un écosystème de produits sécurisé. Néanmoins, nous avons relevé des préoccupations quant au fait que les mises à jour "
-"automatiques peuvent également être utilisées de manière à nuire aux utilisateurs. Ces critères ne visent en aucun cas à encourager ou à tolérer l’utilisation de mécanismes de mise à jour pour "
-"déployer des logiciels qui affaibliraient les mécanismes de confidentialité des produits ou modifieraient les paramètres de sécurité ou de confidentialité d’une manière incompatible avec les choix "
-"et les attentes des utilisateurs."
+msgid "<b>[1]</b> Automatic updates are critical to creating a secure product ecosystem. Nonetheless, we have heard concerns that automatic updates can also be used in ways that are adversarial towards users. These standards are not intended in any way to encourage or condone the use of update mechanisms to push software that would weaken the privacy properties of products or modify security or privacy settings in ways that are inconsistent with users’ choices and expectations."
+msgstr "<b>[1]</b> Les mises à jour automatiques sont essentielles pour créer un écosystème de produits sécurisé. Néanmoins, nous avons relevé des préoccupations quant au fait que les mises à jour automatiques peuvent également être utilisées de manière à nuire aux utilisateurs. Ces critères ne visent en aucun cas à encourager ou à tolérer l’utilisation de mécanismes de mise à jour pour déployer des logiciels qui affaibliraient les mécanismes de confidentialité des produits ou modifieraient les paramètres de sécurité ou de confidentialité d’une manière incompatible avec les choix et les attentes des utilisateurs."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:117
-msgid ""
-"<b>[2]</b> These standards are also not intended to require that all devices have a password. It is intended for devices that use passwords for remote authentication, rather than devices that are in"
-" hand. For instance, many connected devices use secure methods for Bluetooth authentication that does not involve passwords."
-msgstr ""
-"<b>[2]</b> Ces critères ne visent pas non plus à exiger que tous les appareils aient un mot de passe. Ils sont destinés aux appareils qui utilisent des mots de passe pour l’authentification à "
-"distance, plutôt qu’aux appareils qui peuvent être pris en main. Par exemple, de nombreux objets connectés utilisent des méthodes sécurisées pour l’authentification Bluetooth qui ne font pas appel à"
-" des mots de passe."
+msgid "<b>[2]</b> These standards are also not intended to require that all devices have a password. It is intended for devices that use passwords for remote authentication, rather than devices that are in hand. For instance, many connected devices use secure methods for Bluetooth authentication that does not involve passwords."
+msgstr "<b>[2]</b> Ces critères ne visent pas non plus à exiger que tous les appareils aient un mot de passe. Ils sont destinés aux appareils qui utilisent des mots de passe pour l’authentification à distance, plutôt qu’aux appareils qui peuvent être pris en main. Par exemple, de nombreux objets connectés utilisent des méthodes sécurisées pour l’authentification Bluetooth qui ne font pas appel à des mots de passe."
 
 #: network-api/networkapi/buyersguide/templates/about/minimum_security.html:127
-msgid ""
-"<b>[3]</b> In the Mozilla *Privacy Not Included Buyer’s Guide, we evaluate additional privacy considerations including how data is shared with third parties, whether data can be deleted, and the "
-"readability of the privacy information."
-msgstr ""
-"<b>[3]</b> Dans le guide d’achat de Mozilla *Confidentialité non incluse, nous évaluons d’autres aspects liés à la vie privée, notamment la manière dont les données sont partagées avec des tiers, la"
-" possibilité de supprimer des données et la lisibilité des informations de confidentialité."
+msgid "<b>[3]</b> In the Mozilla *Privacy Not Included Buyer’s Guide, we evaluate additional privacy considerations including how data is shared with third parties, whether data can be deleted, and the readability of the privacy information."
+msgstr "<b>[3]</b> Dans le guide d’achat de Mozilla *Confidentialité non incluse, nous évaluons d’autres aspects liés à la vie privée, notamment la manière dont les données sont partagées avec des tiers, la possibilité de supprimer des données et la lisibilité des informations de confidentialité."
 
 #: network-api/networkapi/buyersguide/templates/about/press.html:13
 #, python-format
-msgid ""
-"If you’re a member of the press interested in learning more about *Privacy Not Included, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>. Below, peruse past coverage of *Privacy "
-"Not Included:"
-msgstr ""
-"Si vous êtes journaliste et souhaitez en savoir plus sur *Confidentialité non incluse, vous pouvez contacter %(name)s à l’adresse <a href=\"mailto:%(email)s\">%(email)s</a>. Ci-dessous, consultez la"
-" couverture médiatique passée de *Confidentialité non incluse :"
+msgid "If you’re a member of the press interested in learning more about *Privacy Not Included, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>. Below, peruse past coverage of *Privacy Not Included:"
+msgstr "Si vous êtes journaliste et souhaitez en savoir plus sur *Confidentialité non incluse, vous pouvez contacter %(name)s à l’adresse <a href=\"mailto:%(email)s\">%(email)s</a>. Ci-dessous, consultez la couverture médiatique passée de *Confidentialité non incluse :"
 
 #: network-api/networkapi/buyersguide/templates/about/press.html:52
 #, python-format
 msgid "Seeking more background? Mozilla’s Internet Health Report have created a brief companion piece to our guide called <a %(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
-msgstr ""
-"Vous recherchez plus d’informations ? L’équipe du Bulletin de santé d’Internet de Mozilla a créé un document complémentaire à notre guide intitulé <a %(link_args)s>*Confidentialité incluse : "
-"repenser la maison intelligente</a>."
+msgstr "Vous recherchez plus d’informations ? L’équipe du Bulletin de santé d’Internet de Mozilla a créé un document complémentaire à notre guide intitulé <a %(link_args)s>*Confidentialité incluse : repenser la maison intelligente</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:9
 msgid "Why We Made This Guide"
@@ -714,21 +484,12 @@ msgstr "Pourquoi avons-nous créé ce guide"
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:14
 #, python-format
-msgid ""
-"Welcome to the third edition of <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
-msgstr ""
-"Bienvenue dans la troisième édition du guide d’achat <em>*Confidentialité non incluse</em> de <a %(link_args)s>Mozilla</a>. Notre objectif est de vous aider à faire des achats malins (et sûrs) de "
-"produits qui se connectent à Internet."
+msgid "Welcome to the third edition of <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
+msgstr "Bienvenue dans la troisième édition du guide d’achat <em>*Confidentialité non incluse</em> de <a %(link_args)s>Mozilla</a>. Notre objectif est de vous aider à faire des achats malins (et sûrs) de produits qui se connectent à Internet."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:21
-msgid ""
-"Three years ago when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart "
-"home products. Turns out, they were. And it wasn’t just people who were interested. We discovered companies were too. We’re happy to see both consumers and companies increasingly value connected "
-"products that are safe, secure, and private."
-msgstr ""
-"Il y a trois ans, lorsque nous avons lancé <em>*Confidentialité non incluse</em>, nous ne savions pas quel serait l’intérêt pour un guide sur la vie privée et la sécurité des jouets, gadgets et "
-"produits domestiques intelligents connectés. Il s’est avéré que l’intérêt était important. Et pas seulement de la part du public, nous avons découvert que les entreprises s’y intéressaient aussi. "
-"Nous sommes ravis de constater que les consommateurs et les entreprises privilégient de plus en plus les objets connectés sûrs, sécurisés et privés."
+msgid "Three years ago when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart home products. Turns out, they were. And it wasn’t just people who were interested. We discovered companies were too. We’re happy to see both consumers and companies increasingly value connected products that are safe, secure, and private."
+msgstr "Il y a trois ans, lorsque nous avons lancé <em>*Confidentialité non incluse</em>, nous ne savions pas quel serait l’intérêt pour un guide sur la vie privée et la sécurité des jouets, gadgets et produits domestiques intelligents connectés. Il s’est avéré que l’intérêt était important. Et pas seulement de la part du public, nous avons découvert que les entreprises s’y intéressaient aussi. Nous sommes ravis de constater que les consommateurs et les entreprises privilégient de plus en plus les objets connectés sûrs, sécurisés et privés."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:30
 msgid "What can you expect in <em>*Privacy Not Included</em> this year?"
@@ -736,69 +497,33 @@ msgstr "Que pouvez-vous attendre de <em>*Confidentialité non incluse</em> cette
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:39
 #, python-format
-msgid ""
-"We realize people want to <em>just know</em> which products are safe and which aren’t. We are Mozilla—not a consumer product review company—so we won’t say “Buy this, don’t buy that.” Instead, we "
-"used our technical expertise to create a set of <a href=\"%(url)s\">Minimum Security Standards</a> we think all products should meet in order to be sold in stores. Those standards include using "
-"encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy. Look for the “Meets Our Minimum Security "
-"Standards” badge on products in the guide. This year we’ve also added a star rating near the top of each product page so you can glance at a product and see just how well it does on our Minimum "
-"Security Standards."
-msgstr ""
-"Nous savons que le public veut savoir quels produits sont sûrs et lesquels ne le sont pas. Nous sommes Mozilla, pas une organisation spécialisée dans l’évaluation de produits de consommation, donc "
-"nous ne dirons pas « Achetez ceci, n’achetez pas cela ». Nous avons plutôt utilisé notre expertise technique pour créer un ensemble de <a href=\"%(url)s\">critères élémentaires de sécurité</a> "
-"auxquels nous pensons que tous les produits devraient répondre pour être vendus en magasin. Ces critères comprennent l’utilisation du chiffrement, les mises à jour de sécurité automatiques, "
-"l’exigence de mots de passe robustes, la mise en place d’un système de gestion des vulnérabilités et une politique de confidentialité accessible. Prêtez attention au badge « Respecte nos critères "
-"élémentaires de sécurité » sur les produits du guide. Cette année, nous avons également ajouté un classement par étoiles en haut de chaque page de produit afin que vous puissiez repérer d’un coup "
-"d’œil si un produit respecte nos critères élémentaires de sécurité."
+msgid "We realize people want to <em>just know</em> which products are safe and which aren’t. We are Mozilla—not a consumer product review company—so we won’t say “Buy this, don’t buy that.” Instead, we used our technical expertise to create a set of <a href=\"%(url)s\">Minimum Security Standards</a> we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy. Look for the “Meets Our Minimum Security Standards” badge on products in the guide. This year we’ve also added a star rating near the top of each product page so you can glance at a product and see just how well it does on our Minimum Security Standards."
+msgstr "Nous savons que le public veut savoir quels produits sont sûrs et lesquels ne le sont pas. Nous sommes Mozilla, pas une organisation spécialisée dans l’évaluation de produits de consommation, donc nous ne dirons pas « Achetez ceci, n’achetez pas cela ». Nous avons plutôt utilisé notre expertise technique pour créer un ensemble de <a href=\"%(url)s\">critères élémentaires de sécurité</a> auxquels nous pensons que tous les produits devraient répondre pour être vendus en magasin. Ces critères comprennent l’utilisation du chiffrement, les mises à jour de sécurité automatiques, l’exigence de mots de passe robustes, la mise en place d’un système de gestion des vulnérabilités et une politique de confidentialité accessible. Prêtez attention au badge « Respecte nos critères élémentaires de sécurité » sur les produits du guide. Cette année, nous avons également ajouté un classement par étoiles en haut de chaque page de produit afin que vous puissiez repérer d’un coup d’œil si un produit respecte nos critères élémentaires de sécurité."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:53
 msgid "There is a Creep-O-Meter."
 msgstr "Nous avons ajouté un flippomètre"
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:55
-msgid ""
-"We want users of this guide to be able to share their opinion too. It’s important that companies, and other consumers, see which products people think are safe, and which products people feel are a "
-"bit creepy. So we created our Creep-O-Meter—a user rating on each product—to let folks give their opinion. Companies are paying attention, so let them know if you think their product is creepy or "
-"not and if you’re likely to buy it."
-msgstr ""
-"Nous souhaitons que ce guide d’achat puisse également permettre de partager son opinion. Il est important que les entreprises et les autres consommateurs sachent quels produits le public pense être "
-"sûrs et quels produits ils considèrent être un peu flippants. Nous avons donc créé notre flippomètre (une évaluation des utilisateurs sur chaque produit) pour permettre aux gens de donner leur avis."
-" Les entreprises y sont attentives, alors faites-leur savoir si vous pensez que leur produit est flippant ou non et si vous êtes susceptible de l’acheter."
+msgid "We want users of this guide to be able to share their opinion too. It’s important that companies, and other consumers, see which products people think are safe, and which products people feel are a bit creepy. So we created our Creep-O-Meter—a user rating on each product—to let folks give their opinion. Companies are paying attention, so let them know if you think their product is creepy or not and if you’re likely to buy it."
+msgstr "Nous souhaitons que ce guide d’achat puisse également permettre de partager son opinion. Il est important que les entreprises et les autres consommateurs sachent quels produits le public pense être sûrs et quels produits ils considèrent être un peu flippants. Nous avons donc créé notre flippomètre (une évaluation des utilisateurs sur chaque produit) pour permettre aux gens de donner leur avis. Les entreprises y sont attentives, alors faites-leur savoir si vous pensez que leur produit est flippant ou non et si vous êtes susceptible de l’acheter."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:65
 msgid "Bigger and better."
 msgstr "Du mieux à tous les niveaux"
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:67
-msgid ""
-"Our product list has grown to 76 connected products across six categories. You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks "
-"your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and "
-"expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, "
-"and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand."
-msgstr ""
-"Notre liste de produits est passée à 76 objets connectés dans six catégories. Vous remarquerez que de nombreuses recherches ont été effectuées pour réaliser ce guide d’achat. Nous avons couvert un "
-"large éventail de sujets, allant de l’utilisation de l’appareil photo ou du microphone, à la localisation ou aux données biométriques, en passant par la description de ce qui pourrait se passer en "
-"cas de problème avec un produit. Heureusement, nous avons des chercheurs et une expertise de renom chez Mozilla pour approfondir ce sujet afin que vous n’ayez pas à le faire. Nos chercheurs ont "
-"passé au peigne fin les politiques de confidentialité, ont contacté les entreprises pour leur poser des questions sur le chiffrement et les programmes de <em>bug bounty</em>, et ont passé au crible "
-"les spécifications des produits et des applications. Nous avons fait de notre mieux pour que le résultat de toutes ces recherches soit facile à comprendre."
+msgid "Our product list has grown to 76 connected products across six categories. You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand."
+msgstr "Notre liste de produits est passée à 76 objets connectés dans six catégories. Vous remarquerez que de nombreuses recherches ont été effectuées pour réaliser ce guide d’achat. Nous avons couvert un large éventail de sujets, allant de l’utilisation de l’appareil photo ou du microphone, à la localisation ou aux données biométriques, en passant par la description de ce qui pourrait se passer en cas de problème avec un produit. Heureusement, nous avons des chercheurs et une expertise de renom chez Mozilla pour approfondir ce sujet afin que vous n’ayez pas à le faire. Nos chercheurs ont passé au peigne fin les politiques de confidentialité, ont contacté les entreprises pour leur poser des questions sur le chiffrement et les programmes de <em>bug bounty</em>, et ont passé au crible les spécifications des produits et des applications. Nous avons fait de notre mieux pour que le résultat de toutes ces recherches soit facile à comprendre."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:81
 #, python-format
-msgid ""
-"We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. If you want to dig deeper, our friends on Mozilla’s"
-" Internet Health Report team have created a companion to our buyer’s guide that explains what can be done to make things better. It’s called <a %(link_args)s>*Privacy Included: Rethinking the Smart "
-"Home</a>."
-msgstr ""
-"Nous espérons que vous utiliserez et apprécierez ce guide pour vous aider à réfléchir, à faire des achats et à acheter des produits à des entreprises qui montrent qu’elles accordent de l’importance "
-"à la protection de la vie privée et à la sécurité. Si vous souhaitez approfondir la question, nos collègues de l’équipe du Bulletin de santé d’Internet de Mozilla ont créé un compagnon à notre guide"
-" d’achat qui explique ce qui peut être fait pour améliorer les choses. Ils l’ont nommé <a %(link_args)s>*Confidentialité incluse : repenser la maison intelligente</a>."
+msgid "We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. If you want to dig deeper, our friends on Mozilla’s Internet Health Report team have created a companion to our buyer’s guide that explains what can be done to make things better. It’s called <a %(link_args)s>*Privacy Included: Rethinking the Smart Home</a>."
+msgstr "Nous espérons que vous utiliserez et apprécierez ce guide pour vous aider à réfléchir, à faire des achats et à acheter des produits à des entreprises qui montrent qu’elles accordent de l’importance à la protection de la vie privée et à la sécurité. Si vous souhaitez approfondir la question, nos collègues de l’équipe du Bulletin de santé d’Internet de Mozilla ont créé un compagnon à notre guide d’achat qui explique ce qui peut être fait pour améliorer les choses. Ils l’ont nommé <a %(link_args)s>*Confidentialité incluse : repenser la maison intelligente</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:90
-msgid ""
-"We as consumers need to demand that value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every "
-"day here at Mozilla."
-msgstr ""
-"En tant que consommateurs, nous devons exiger ces valeurs des personnes qui fabriquent nos produits. C’est ainsi que nous commencerons à rendre Internet, et nos vies, un peu plus sûrs dans ce monde "
-"numérique. C’est notre objectif quotidien chez Mozilla."
+msgid "We as consumers need to demand that value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
+msgstr "En tant que consommateurs, nous devons exiger ces valeurs des personnes qui fabriquent nos produits. C’est ainsi que nous commencerons à rendre Internet, et nos vies, un peu plus sûrs dans ce monde numérique. C’est notre objectif quotidien chez Mozilla."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:97
 msgid "Thank you!"
@@ -810,13 +535,8 @@ msgstr "L’équipe Mozilla"
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:103
 #, python-format
-msgid ""
-"Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a %(mofo_url)s>Mozilla Foundation</a> which relies on <a "
-"%(donate_url)s>donations</a> from people like you to do our work. You can also visit <a %(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
-msgstr ""
-"Mozilla se bat quotidiennement pour un Internet plus sain en tant qu’entreprise tech à but non lucratif qui fait passer les gens avant les profits. Ce guide a été créé par la <a "
-"%(mofo_url)s>Fondation Mozilla</a> qui dépend <a %(donate_url)s>des dons</a> de personnes comme vous pour mener notre mission à bien. Vous pouvez également consulter <a "
-"%(mozilla_url)s>Mozilla.org</a> pour en savoir plus sur nos produits qui servent des missions spécifiques, tels que Firefox et Common Voice."
+msgid "Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a %(mofo_url)s>Mozilla Foundation</a> which relies on <a %(donate_url)s>donations</a> from people like you to do our work. You can also visit <a %(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
+msgstr "Mozilla se bat quotidiennement pour un Internet plus sain en tant qu’entreprise tech à but non lucratif qui fait passer les gens avant les profits. Ce guide a été créé par la <a %(mofo_url)s>Fondation Mozilla</a> qui dépend <a %(donate_url)s>des dons</a> de personnes comme vous pour mener notre mission à bien. Vous pouvez également consulter <a %(mozilla_url)s>Mozilla.org</a> pour en savoir plus sur nos produits qui servent des missions spécifiques, tels que Firefox et Common Voice."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:114
 #, python-format
