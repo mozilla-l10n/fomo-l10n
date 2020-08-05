@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-05 10:08+0000\n"
-"PO-Revision-Date: 2020-03-06 11:35+0000\n"
+"PO-Revision-Date: 2020-08-05 17:44+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -33,8 +33,7 @@ msgstr "VIDEO ABSPIELEN"
 msgid "Mozilla Festival - Page Not Found"
 msgstr "Mozilla Festival – Seite nicht gefunden"
 
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:24
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:43
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:24 network-api/networkapi/mozfest/templates/mozfest/404.html:43
 msgid "Home"
 msgstr "Startseite"
 
@@ -71,10 +70,9 @@ msgid "Participation Guidelines"
 msgstr "Richtlinien zum Mitmachen"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:37
-#, fuzzy
 #| msgid "Media Center"
 msgid "Press Center"
-msgstr "Medienzentrum"
+msgstr "Pressezentrum"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:38
 msgid "Privacy"
