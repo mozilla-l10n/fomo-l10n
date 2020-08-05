@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-22 14:39+0000\n"
+"POT-Creation-Date: 2020-08-05 10:08+0000\n"
 "PO-Revision-Date: 2020-06-02 18:47+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
@@ -83,28 +83,29 @@ msgid "Donate"
 msgstr "Spenden"
 
 #: network-api/networkapi/templates/partials/footer.html:52
-msgid "Legal"
-msgstr "Rechtliches"
+msgid "Cookies"
+msgstr "Cookies"
 
 #: network-api/networkapi/templates/partials/footer.html:53
-msgid "License"
-msgstr "Lizenz"
+msgid "Legal"
+msgstr "Rechtliches"
 
 #: network-api/networkapi/templates/partials/footer.html:54
 msgid "Participation Guidelines"
 msgstr "Richtlinien zum Mitmachen"
 
 #: network-api/networkapi/templates/partials/footer.html:55
+msgid "Press Center"
+msgstr ""
+
+#: network-api/networkapi/templates/partials/footer.html:56
 msgid "Privacy"
 msgstr "Datenschutz"
 
-#: network-api/networkapi/templates/partials/footer.html:56
-msgid "Cookies"
-msgstr "Cookies"
-
-#: network-api/networkapi/templates/partials/footer.html:73
-#, python-format
-msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
+#: network-api/networkapi/templates/partials/footer.html:74
+#, fuzzy, python-format
+#| msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
+msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla ist eine weltweite, gemeinnützige Organisation, die sich dafür einsetzt, dass Sie Ihr Online-Erlebnis bestimmen und die Zukunft des Internets im Sinne aller gestaltet wird. Besuchen Sie uns auf <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:17
@@ -273,6 +274,9 @@ msgstr "MozFest"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
 msgid "Loading form…"
 msgstr "Formular wird geladen…"
+
+#~ msgid "License"
+#~ msgstr "Lizenz"
 
 #~ msgid "Happening now"
 #~ msgstr "Gerade aktuell"

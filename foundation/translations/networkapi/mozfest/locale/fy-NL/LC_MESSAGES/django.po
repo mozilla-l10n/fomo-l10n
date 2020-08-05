@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-22 14:39+0000\n"
+"POT-Creation-Date: 2020-08-05 10:08+0000\n"
 "PO-Revision-Date: 2020-07-23 09:27+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,8 @@ msgstr "FIDEO ÔFSPYLJE"
 msgid "Mozilla Festival - Page Not Found"
 msgstr "Mozilla Festival – Side net fûn"
 
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:24 network-api/networkapi/mozfest/templates/mozfest/404.html:43
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:24
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:43
 msgid "Home"
 msgstr "Startside"
 
@@ -58,30 +59,31 @@ msgid "Donate"
 msgstr "Donearje"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:34
-msgid "Legal"
-msgstr "Juridysk"
+msgid "Cookies"
+msgstr "Cookies"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:35
-msgid "License"
-msgstr "Lisinsje"
+msgid "Legal"
+msgstr "Juridysk"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:36
 msgid "Participation Guidelines"
 msgstr "Rjochtlinen foar dielname"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:37
-msgid "Media Center"
+#, fuzzy
+#| msgid "Media Center"
+msgid "Press Center"
 msgstr "Mediasintrum"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:38
 msgid "Privacy"
 msgstr "Privacy"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:39
-msgid "Cookies"
-msgstr "Cookies"
-
 #: network-api/networkapi/mozfest/templates/partials/signup.html:5
 msgctxt "Sticky button in mobile view on MozFest homepage"
 msgid "SIGN UP"
 msgstr "YNSKRIUWE"
+
+#~ msgid "License"
+#~ msgstr "Lisinsje"

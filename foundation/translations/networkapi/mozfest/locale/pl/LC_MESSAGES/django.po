@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-22 14:39+0000\n"
+"POT-Creation-Date: 2020-08-05 10:08+0000\n"
 "PO-Revision-Date: 2020-03-06 13:06+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,33 +59,34 @@ msgid "Donate"
 msgstr "Przekaż datek"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:34
-msgid "Legal"
-msgstr "Podstawa prawna"
+msgid "Cookies"
+msgstr "Ciasteczka"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:35
-msgid "License"
-msgstr "Licencja"
+msgid "Legal"
+msgstr "Podstawa prawna"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:36
 msgid "Participation Guidelines"
 msgstr "Wytyczne uczestnictwa"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:37
-msgid "Media Center"
+#, fuzzy
+#| msgid "Media Center"
+msgid "Press Center"
 msgstr "Centrum multimedialne"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:38
 msgid "Privacy"
 msgstr "Prywatność"
 
-#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:39
-msgid "Cookies"
-msgstr "Ciasteczka"
-
 #: network-api/networkapi/mozfest/templates/partials/signup.html:5
 msgctxt "Sticky button in mobile view on MozFest homepage"
 msgid "SIGN UP"
 msgstr "Zapisz się"
+
+#~ msgid "License"
+#~ msgstr "Licencja"
 
 #~ msgid "Mozilla Festival %(year)s"
 #~ msgstr "Festiwal Mozilli %(year)s"
