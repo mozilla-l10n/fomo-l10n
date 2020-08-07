@@ -18,3 +18,11 @@ Use [pip-tools](https://github.com/jazzband/pip-tools) to update dependencies:
 - Edit the `requirements.in` file
 - Run `pip compile`
 - Open a PR with both `requirements.in` and `requirements.txt`
+
+
+## Enabling a new locale
+- Add folders using the ab-CD format in all locations, whether it will be enabled in the .toml file or not
+- Add symlinks using the ab_CD format, each pointing to the associated ab-CD folder
+- Update the .toml file and add your new locale to the appropriate project(s)
+- Run `inv makemessages` from the code repository
+- Make sure correct plural rules (i.e not the default one) are populated in each of the new .po files, or else Wagtail is going to choke on it
