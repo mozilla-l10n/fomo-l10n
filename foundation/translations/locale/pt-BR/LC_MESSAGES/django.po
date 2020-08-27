@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-05 10:08+0000\n"
+"POT-Creation-Date: 2020-08-27 12:01+0000\n"
 "PO-Revision-Date: 2020-08-05 13:14+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -26,7 +26,9 @@ msgstr "Página não encontrada"
 msgid "Language"
 msgstr "Idioma"
 
-#: network-api/networkapi/templates/pages/base.html:9 network-api/networkapi/templates/partials/footer.html:31 network-api/networkapi/templates/partials/primary_nav.html:42
+#: network-api/networkapi/templates/pages/base.html:9
+#: network-api/networkapi/templates/partials/footer.html:31
+#: network-api/networkapi/templates/partials/primary_nav.html:42
 msgid "Mozilla Foundation"
 msgstr "Fundação Mozilla"
 
@@ -79,7 +81,8 @@ msgstr "Instagram"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/partials/footer.html:51 network-api/networkapi/templates/partials/primary_nav.html:63
+#: network-api/networkapi/templates/partials/footer.html:51
+#: network-api/networkapi/templates/partials/primary_nav.html:63
 msgid "Donate"
 msgstr "Doar"
 
@@ -105,21 +108,15 @@ msgstr "Privacidade"
 
 #: network-api/networkapi/templates/partials/footer.html:74
 #, python-format
-#| msgid ""
-#| "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a "
-#| "href=\"%(foundation_website_url)s\">%(foundation_website)s</a>"
-msgid ""
-"Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a "
-"href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
-msgstr ""
-"A Mozilla é uma organização global sem fins lucrativos, dedicada a colocar você no controle da sua experiência online e moldar o futuro da web para o bem público. Visite-nos em <a "
-"href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. A maioria do conteúdo está disponível sob uma <a href=\"%(cc_website_url)s\">licença Creative Commons</a>."
+msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
+msgstr "A Mozilla é uma organização global sem fins lucrativos, dedicada a colocar você no controle da sua experiência online e moldar o futuro da web para o bem público. Visite-nos em <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. A maioria do conteúdo está disponível sob uma <a href=\"%(cc_website_url)s\">licença Creative Commons</a>."
 
 #: network-api/networkapi/templates/partials/primary_nav.html:17
 msgid "Home"
 msgstr "Início"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:19 network-api/networkapi/templates/partials/primary_nav.html:64
+#: network-api/networkapi/templates/partials/primary_nav.html:19
+#: network-api/networkapi/templates/partials/primary_nav.html:64
 msgid "Newsletter"
 msgstr "Boletim informativo"
 
@@ -136,78 +133,71 @@ msgstr "Abrir menu"
 msgid "No thanks"
 msgstr "Não, obrigado"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55 network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "TOME UMA ATITUDE"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:14 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:72
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:14
 msgid "More from our blog"
 msgstr "Mais do nosso blog"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25 network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr "%(title)s por @mozilla"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:32
-#, python-format
-msgid "By %(author)s"
-msgstr "Por %(author)s"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:20
+msgid "By"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_card.html:37
-#, python-format
-msgid "By %(author)s on %(date)s"
-msgstr "Por %(author)s em %(date)s"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22
+msgid "and"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:26 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:31
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:58
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:26
 #, python-format
 msgid "by %(author)s"
 msgstr "por %(author)s"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:33
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:60
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
 #, python-format
 msgid "on %(date)s"
 msgstr "em %(date)s"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:8
-msgid "Latest news"
-msgstr "Últimas notícias"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
+msgid "Learn more →"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_areas.html:5
+msgid "Our areas of focus"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/ih_cta.html:6
 #, python-format
 msgid "This is part of a broader movement for a healthy internet. <a %(see_more_link)s>See more</a>."
 msgstr "Isso faz parte de um movimento mais amplo por uma internet saudável. <a %(see_more_link)s>Veja mais</a>."
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:5
+msgid "News you can use"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:74
+#, fuzzy
+#| msgid "Load more results"
+msgid "Read more news"
+msgstr "Carregar mais resultados"
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
 msgstr "Conteúdo relacionado"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:36
-msgid "Featured stories"
-msgstr "Histórias em destaque"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:72
-msgid "Trending projects"
-msgstr "Projetos em alta"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:75 network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:86
-msgid "Add your project"
-msgstr "Adicione seu projeto"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:85
-msgid "More from our network"
-msgstr "Mais da nossa rede"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:95
-msgid "We want to give users the knowledge and the power to make informed decisions by themselves to prevent abusive practices."
-msgstr "Queremos dar aos usuários o conhecimento e o poder de tomar decisões informadas por si mesmos para evitar práticas abusivas."
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:96
-msgid "Rishab Nithyanand, Mozilla Fellow"
-msgstr "Rishab Nithyanand, colega da Mozilla"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
+msgid "Spotlight"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:34
 #, python-format
@@ -233,7 +223,8 @@ msgstr "Carregar mais resultados"
 msgid "Load more stories"
 msgstr "Carregar mais histórias"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:36 network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:36
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:37
 msgid "Join Mozilla"
 msgstr "Junte-se à Mozilla"
 
@@ -245,7 +236,8 @@ msgstr "Rolar"
 msgid "28 reasons why YouTube must change: startling stories of YouTube’s recommendations leading people down bizarre and dangerous paths"
 msgstr "28 razões pelas quais o YouTube precisa mudar: histórias surpreendentes das recomendações do YouTube levando pessoas a trilharem caminhos bizarros e perigosos"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37 network-api/networkapi/wagtailpages/utils.py:83
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
+#: network-api/networkapi/wagtailpages/utils.py:83
 msgid "Overview"
 msgstr "Visão geral"
 
@@ -272,6 +264,33 @@ msgstr "MozFest"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
 msgid "Loading form…"
 msgstr "Carregando formulário…"
+
+#~ msgid "By %(author)s"
+#~ msgstr "Por %(author)s"
+
+#~ msgid "By %(author)s on %(date)s"
+#~ msgstr "Por %(author)s em %(date)s"
+
+#~ msgid "Latest news"
+#~ msgstr "Últimas notícias"
+
+#~ msgid "Featured stories"
+#~ msgstr "Histórias em destaque"
+
+#~ msgid "Trending projects"
+#~ msgstr "Projetos em alta"
+
+#~ msgid "Add your project"
+#~ msgstr "Adicione seu projeto"
+
+#~ msgid "More from our network"
+#~ msgstr "Mais da nossa rede"
+
+#~ msgid "We want to give users the knowledge and the power to make informed decisions by themselves to prevent abusive practices."
+#~ msgstr "Queremos dar aos usuários o conhecimento e o poder de tomar decisões informadas por si mesmos para evitar práticas abusivas."
+
+#~ msgid "Rishab Nithyanand, Mozilla Fellow"
+#~ msgstr "Rishab Nithyanand, colega da Mozilla"
 
 #~ msgid "License"
 #~ msgstr "Licença"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-05 10:08+0000\n"
+"POT-Creation-Date: 2020-08-27 12:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -140,42 +140,39 @@ msgid "TAKE ACTION"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:14
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:72
 msgid "More from our blog"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:32
-#, python-format
-msgid "By %(author)s"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:20
+msgid "By"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_card.html:37
-#, python-format
-msgid "By %(author)s on %(date)s"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22
+msgid "and"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:26
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:31
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:58
 #, python-format
 msgid "by %(author)s"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:33
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:60
 #, python-format
 msgid "on %(date)s"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/featured_blogs.html:8
-msgid "Latest news"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
+msgid "Learn more →"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_areas.html:5
+msgid "Our areas of focus"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/ih_cta.html:6
@@ -183,33 +180,21 @@ msgstr ""
 msgid "This is part of a broader movement for a healthy internet. <a %(see_more_link)s>See more</a>."
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:5
+msgid "News you can use"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:74
+msgid "Read more news"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:36
-msgid "Featured stories"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:72
-msgid "Trending projects"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:75
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:86
-msgid "Add your project"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:85
-msgid "More from our network"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:95
-msgid "We want to give users the knowledge and the power to make informed decisions by themselves to prevent abusive practices."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/homepage.html:96
-msgid "Rishab Nithyanand, Mozilla Fellow"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
+msgid "Spotlight"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:34
