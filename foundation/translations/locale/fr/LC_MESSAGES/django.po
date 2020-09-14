@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-27 12:01+0000\n"
+"POT-Creation-Date: 2020-09-14 20:14+0000\n"
 "PO-Revision-Date: 2020-08-27 14:00+0200\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -150,6 +150,7 @@ msgid "By"
 msgstr "Par"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/publication_page.html:53
 msgid "and"
 msgstr "et"
 
@@ -217,16 +218,16 @@ msgstr "Afficher plus de résultats"
 msgid "Load more stories"
 msgstr "Afficher plus de témoignages"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:36
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:37
-msgid "Join Mozilla"
-msgstr "Rejoindre Mozilla"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:43
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_base.html:44
 msgid "Scroll"
 msgstr "Faire défiler"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:47
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:11
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:12
+msgid "Join Mozilla"
+msgstr "Rejoindre Mozilla"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:16
 msgid "28 reasons why YouTube must change: startling stories of YouTube’s recommendations leading people down bizarre and dangerous paths"
 msgstr "28 raisons pour lesquelles YouTube doit changer : des témoignages édifiants qui racontent comment les recommandations YouTube ont pu mener les internautes sur des voies étranges et dangereuses"
 
