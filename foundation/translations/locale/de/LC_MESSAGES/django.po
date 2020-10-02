@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-14 20:14+0000\n"
+"POT-Creation-Date: 2020-10-02 10:35+0000\n"
 "PO-Revision-Date: 2020-08-27 12:13+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
@@ -82,27 +82,31 @@ msgstr "GitHub"
 msgid "Donate"
 msgstr "Spenden"
 
-#: network-api/networkapi/templates/partials/footer.html:52
+#: network-api/networkapi/templates/partials/footer.html:53
+msgid "Careers"
+msgstr ""
+
+#: network-api/networkapi/templates/partials/footer.html:54
 msgid "Cookies"
 msgstr "Cookies"
 
-#: network-api/networkapi/templates/partials/footer.html:53
+#: network-api/networkapi/templates/partials/footer.html:55
 msgid "Legal"
 msgstr "Rechtliches"
 
-#: network-api/networkapi/templates/partials/footer.html:54
+#: network-api/networkapi/templates/partials/footer.html:56
 msgid "Participation Guidelines"
 msgstr "Richtlinien zum Mitmachen"
 
-#: network-api/networkapi/templates/partials/footer.html:55
+#: network-api/networkapi/templates/partials/footer.html:57
 msgid "Press Center"
 msgstr "Pressezentrum"
 
-#: network-api/networkapi/templates/partials/footer.html:56
+#: network-api/networkapi/templates/partials/footer.html:58
 msgid "Privacy"
 msgstr "Datenschutz"
 
-#: network-api/networkapi/templates/partials/footer.html:74
+#: network-api/networkapi/templates/partials/footer.html:76
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla ist eine weltweite, gemeinnützige Organisation, die sich dafür einsetzt, dass Sie Ihr Online-Erlebnis bestimmen und die Zukunft des Internets im Sinne aller gestaltet wird. Besuchen Sie uns auf <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a> Die meisten Inhalte stehen unter einer <a href=\"%(cc_website_url)s\">Creative-Commons-Lizenz</a>."
@@ -182,7 +186,7 @@ msgid "News you can use"
 msgstr "Nachrichten, die Sie verwenden können"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:74
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:82
 msgid "Read more news"
 msgstr "Mehr Neuigkeiten lesen"
 
