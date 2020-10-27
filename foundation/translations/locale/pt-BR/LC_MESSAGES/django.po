@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-27 07:55+0000\n"
-"PO-Revision-Date: 2020-10-27 09:25+0000\n"
+"PO-Revision-Date: 2020-10-27 09:36+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -35,10 +35,9 @@ msgid "Footnotes"
 msgstr "Notas de rodapé"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:12 network-api/networkapi/templates/fragments/footnotes.html:15
-#, fuzzy
 #| msgid "Related content"
 msgid "Back to content"
-msgstr "Conteúdo relacionado"
+msgstr "Voltar ao conteúdo"
 
 #: network-api/networkapi/templates/fragments/language_switcher.html:6
 msgid "Language"
@@ -169,7 +168,7 @@ msgstr "%(title)s por @mozilla"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:24
 msgid "SUMMARY"
-msgstr ""
+msgstr "RESUMO"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55 network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
 msgctxt "Sticky button in mobile view on campaign pages"
@@ -201,7 +200,7 @@ msgstr "em %(date)s"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
 #, python-format
 msgid "Learn more about: %(name)s"
-msgstr ""
+msgstr "Saiba mais sobre: %(name)s"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
 msgid "Learn more →"
@@ -226,11 +225,11 @@ msgstr "Leia mais notícias"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:56
 msgid "Written by"
-msgstr ""
+msgstr "Escrito por"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
 msgid "Download Full PDF"
-msgstr ""
+msgstr "Baixar PDF completo"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
