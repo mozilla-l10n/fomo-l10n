@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-27 07:55+0000\n"
-"PO-Revision-Date: 2020-10-27 09:44+0000\n"
+"PO-Revision-Date: 2020-10-27 09:46+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -285,10 +285,9 @@ msgid "Can this product be used offline?"
 msgstr "Este produto pode ser usado offline?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:176
-#, fuzzy
 #| msgid "User friendly privacy info?"
 msgid "User friendly privacy information?"
-msgstr "Informações de privacidade amigáveis?"
+msgstr "Informações de privacidade fáceis de entender?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:181
 msgid "Links to privacy information"
@@ -307,16 +306,15 @@ msgid "Is it easy to learn and use the features?"
 msgstr "É fácil aprender e usar os recursos?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:202
-#, fuzzy
 #| msgid "Security updates"
 msgid "Security"
-msgstr "Atualizações de segurança"
+msgstr "Segurança"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:203
-#, fuzzy, python-format
+#, python-format
 #| msgid "this product meets our minimum security standards"
 msgid "Does this product meet our <a id=\"mss-link\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr "este produto atende aos nossos padrões mínimos de segurança"
+msgstr "Este produto atende aos nossos <a id=\"mss-link\" href=\"%(url)s\">padrões mínimos de segurança</a>?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:208
 msgctxt "Accessibility label for an accordion toggle"
@@ -368,10 +366,9 @@ msgid "Updates"
 msgstr "Atualizações"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:284
-#, fuzzy
 #| msgid "Compare products"
 msgid "Related products"
-msgstr "Comparar produtos"
+msgstr "Produtos relacionados"
 
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
 msgid "Unknown"
