@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-02 10:35+0000\n"
+"POT-Creation-Date: 2020-10-27 07:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,23 @@ msgstr ""
 
 #: network-api/networkapi/templates/404.html:4
 msgid "Page Not Found"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/article_prev_next.html:8
+msgid "Previous"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/article_prev_next.html:16
+msgid "Next"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/footnotes.html:9
+msgid "Footnotes"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/footnotes.html:12
+#: network-api/networkapi/templates/fragments/footnotes.html:15
+msgid "Back to content"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/language_switcher.html:6
@@ -133,8 +150,24 @@ msgstr ""
 msgid "Open menu"
 msgstr ""
 
+#: network-api/networkapi/templates/partials/primary_nav.html:42
+msgid "Mozilla Foundation Homepage"
+msgstr ""
+
 #: network-api/networkapi/templates/partials/primary_nav.html:84
 msgid "No thanks"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:22
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:53
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
+#, python-format
+msgid "%(title)s by @mozilla"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:24
+msgid "SUMMARY"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
@@ -147,18 +180,12 @@ msgstr ""
 msgid "More from our blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
-#, python-format
-msgid "%(title)s by @mozilla"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:20
 msgid "By"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/publication_page.html:53
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:61
 msgid "and"
 msgstr ""
 
@@ -170,6 +197,11 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
 #, python-format
 msgid "on %(date)s"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
+#, python-format
+msgid "Learn more about: %(name)s"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
@@ -192,6 +224,14 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:82
 msgid "Read more news"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:56
+msgid "Written by"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
+msgid "Download Full PDF"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
@@ -226,7 +266,7 @@ msgstr ""
 msgid "Load more stories"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_base.html:44
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_base.html:47
 msgid "Scroll"
 msgstr ""
 
@@ -240,7 +280,7 @@ msgid "28 reasons why YouTube must change: startling stories of YouTube’s reco
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
-#: network-api/networkapi/wagtailpages/utils.py:83
+#: network-api/networkapi/wagtailpages/utils.py:86
 msgid "Overview"
 msgstr ""
 
