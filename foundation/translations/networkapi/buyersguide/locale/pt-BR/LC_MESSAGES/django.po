@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-27 07:55+0000\n"
-"PO-Revision-Date: 2020-09-15 03:02+0000\n"
+"PO-Revision-Date: 2020-10-27 09:44+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -19,8 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:7
-#: network-api/networkapi/buyersguide/views.py:145
+#: network-api/networkapi/buyersguide/templates/bg_base.html:7 network-api/networkapi/buyersguide/views.py:145
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidade não incluída"
@@ -41,7 +40,7 @@ msgstr "navegação no site"
 
 #: network-api/networkapi/buyersguide/templates/bg_base.html:86
 msgid "All"
-msgstr ""
+msgstr "Tudo"
 
 #: network-api/networkapi/buyersguide/templates/bg_base.html:89
 msgid "About the Guide"
@@ -61,8 +60,12 @@ msgstr "emblema de padrões mínimos de segurança"
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:31
 #, python-format
-msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
-msgstr "Quão assustador é aquela caixa de som inteligente, aquele monitor de esportes, aqueles fones de ouvido sem fio? Criamos este guia para ajudar a comprar produtos conectados seguros. Procure este símbolo %(image)s para encontrar produtos que atendem aos nossos <a href=\"%(url)s\">padrões mínimos de segurança</a>."
+msgid ""
+"How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for "
+"products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
+msgstr ""
+"Quão assustador é aquela caixa de som inteligente, aquele monitor de esportes, aqueles fones de ouvido sem fio? Criamos este guia para ajudar a comprar produtos conectados seguros. Procure este "
+"símbolo %(image)s para encontrar produtos que atendem aos nossos <a href=\"%(url)s\">padrões mínimos de segurança</a>."
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:41
 #, python-format
@@ -90,14 +93,13 @@ msgstr "Enviar um produto"
 msgid "The information provided here is pulled directly from the product website."
 msgstr "As informações fornecidas aqui são extraídas diretamente do site do produto."
 
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7 network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "este produto tem conteúdo adulto"
 
 #: network-api/networkapi/buyersguide/templates/fragments/article_subnav.html:21
 msgid "Summary"
-msgstr ""
+msgstr "Resumo"
 
 #: network-api/networkapi/buyersguide/templates/fragments/it_uses.html:6
 msgid "Device:"
@@ -111,14 +113,10 @@ msgstr "Aplicativo:"
 msgid "Phone Number"
 msgstr "Número de telefone"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
 msgid "No"
 msgstr "Não"
 
@@ -133,12 +131,12 @@ msgstr "E-mail"
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion.html:4
 msgid "This section requires attention."
-msgstr ""
+msgstr "Esta seção requer atenção."
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:9
 msgctxt "Unknown rating"
 msgid "Can’t determine"
-msgstr ""
+msgstr "Não se pode determinar"
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:11
 msgctxt "Unknown rating"
@@ -147,22 +145,18 @@ msgstr "Desconhecido"
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:14
 msgid "Not applicable"
-msgstr ""
+msgstr "Não aplicável"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
 msgid "Yes"
 msgstr "Sim"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this related product meets our minimum security standards"
 msgstr "este produto relacionado atende aos nossos padrões mínimos de segurança"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this product meets our minimum security standards"
 msgstr "este produto atende aos nossos padrões mínimos de segurança"
 
@@ -195,35 +189,33 @@ msgstr "privacidade não incluída - %(product.name)s"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:37
 msgid "<strong>Warning</strong>: *privacy not included with this product"
-msgstr ""
+msgstr "<strong>Aviso</strong>: *privacidade não incluída neste produto"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:49
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:52
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:58
-#, fuzzy, python-format
+#, python-format
 #| msgctxt "Short date format (e.g. 2003/12/31)"
 #| msgid "Review Date %(date)s"
 msgctxt "Short date format (e.g. 2003/12/31)"
 msgid "Review date: %(date)s"
-msgstr "Data da avaliação %(date)s"
+msgstr "Data da avaliação: %(date)s"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:65
-#, fuzzy
 #| msgid "What could happen if something went wrong"
 msgid "What could happen if something goes wrong"
-msgstr "O que pode acontecer se algo der errado?"
+msgstr "O que pode acontecer se algo der errado"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:83
-#, fuzzy
 #| msgid "Privacy policy"
 msgid "Privacy"
-msgstr "Política de privacidade"
+msgstr "Privacidade"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:87
 msgid "Can it snoop on me?"
@@ -259,41 +251,38 @@ msgstr "Conta de terceiros"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:133
 msgid "What data does it collect?"
-msgstr ""
+msgstr "Que dados coleta?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:136
 msgid "Personal"
-msgstr ""
+msgstr "Pessoal"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:137
 msgid "Biometric"
-msgstr ""
+msgstr "Biométrico"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:138
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:153
-#, fuzzy
 #| msgid "How does it share data?"
 msgid "How does it use this data?"
-msgstr "Como ele compartilha dados?"
+msgstr "Como usa esses dados?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:159
-#, fuzzy
 #| msgid "Can you delete your data?"
 msgid "How can you control your data?"
-msgstr "Você consegue excluir seus dados?"
+msgstr "Como você pode controlar seus dados?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:162
 msgid "What is the company’s known track record for protecting users’ data?"
-msgstr ""
+msgstr "Qual é o histórico conhecido da empresa na proteção de dados dos usuários?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:165
-#, fuzzy
 #| msgid "this product has adult content"
 msgid "Can this product be used offline?"
-msgstr "este produto tem conteúdo adulto"
+msgstr "Este produto pode ser usado offline?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:176
 #, fuzzy
@@ -332,7 +321,7 @@ msgstr "este produto atende aos nossos padrões mínimos de segurança"
 #: network-api/networkapi/buyersguide/templates/product_page.html:208
 msgctxt "Accessibility label for an accordion toggle"
 msgid "Toggle expandable section"
-msgstr ""
+msgstr "Alternar seção expansível"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:210
 msgid "Encryption"
@@ -356,23 +345,23 @@ msgstr "Política de privacidade"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:226
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Inteligência artificial"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:228
 msgid "Does the product use AI?"
-msgstr ""
+msgstr "O produto usa inteligência artificial?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:232
 msgid "Does the AI use your personal data to make decisions about you?"
-msgstr ""
+msgstr "A inteligência artificial usa seus dados pessoais para tomar decisões sobre você?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:235
 msgid "Does the company allow users to see how the AI works?"
-msgstr ""
+msgstr "A empresa permite que os usuários vejam como a inteligência artificial funciona?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:247
 msgid "Company contact info"
-msgstr ""
+msgstr "Informações de contato da empresa"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:266
 msgid "Updates"
@@ -384,8 +373,7 @@ msgstr "Atualizações"
 msgid "Related products"
 msgstr "Comparar produtos"
 
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
 msgid "Unknown"
 msgstr "Desconhecido"
 
@@ -396,22 +384,22 @@ msgstr "Não aplicável"
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:41
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Great"
-msgstr ""
+msgstr "Ótimo"
 
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:43
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Average"
-msgstr ""
+msgstr "Médio"
 
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:45
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Needs Improvement"
-msgstr ""
+msgstr "Precisa de melhorias"
 
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:47
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
-msgstr ""
+msgstr "Ruim"
 
 #~ msgid "Home"
 #~ msgstr "Início"
