@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-27 07:55+0000\n"
+"POT-Creation-Date: 2020-10-27 10:09+0000\n"
 "PO-Revision-Date: 2020-08-15 20:28+0000\n"
 "Last-Translator: Pablo <reyesguerreros12@gmail.com>\n"
 "Language-Team: \n"
@@ -20,22 +20,22 @@ msgstr "Página no encontrada"
 
 #: network-api/networkapi/templates/fragments/article_prev_next.html:8
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: network-api/networkapi/templates/fragments/article_prev_next.html:16
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:9
 msgid "Footnotes"
-msgstr ""
+msgstr "Notas al pie"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:12
 #: network-api/networkapi/templates/fragments/footnotes.html:15
 #, fuzzy
 #| msgid "Related content"
 msgid "Back to content"
-msgstr "Contenido relacionado"
+msgstr "Volver al contenido"
 
 #: network-api/networkapi/templates/fragments/language_switcher.html:6
 msgid "Language"
@@ -103,7 +103,7 @@ msgstr "Donar"
 
 #: network-api/networkapi/templates/partials/footer.html:53
 msgid "Careers"
-msgstr ""
+msgstr "Empleos"
 
 #: network-api/networkapi/templates/partials/footer.html:54
 msgid "Cookies"
@@ -143,7 +143,7 @@ msgstr "Boletín"
 #: network-api/networkapi/templates/partials/primary_nav.html:29
 msgctxt "Tooltip on menu items"
 msgid "main site navigation"
-msgstr ""
+msgstr "Menú de navegación del sitio principal"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:37
 msgid "Open menu"
@@ -153,7 +153,7 @@ msgstr "Abrir menú"
 #, fuzzy
 #| msgid "Mozilla Foundation"
 msgid "Mozilla Foundation Homepage"
-msgstr "Fundación Mozilla"
+msgstr "Página de inicio de la Fundación Mozilla"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:84
 msgid "No thanks"
@@ -169,7 +169,7 @@ msgstr "%(title)s por @mozilla"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:24
 msgid "SUMMARY"
-msgstr ""
+msgstr "RESUMEN"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
@@ -183,12 +183,12 @@ msgstr "Más de nuestro blog"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:20
 msgid "By"
-msgstr ""
+msgstr "Por"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:61
 msgid "and"
-msgstr ""
+msgstr "y"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:26
 #, python-format
@@ -203,15 +203,15 @@ msgstr "el %(date)s"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
 #, python-format
 msgid "Learn more about: %(name)s"
-msgstr ""
+msgstr "Más información sobre %(name)s"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
 msgid "Learn more →"
-msgstr ""
+msgstr "Más información →"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_areas.html:5
 msgid "Our areas of focus"
-msgstr ""
+msgstr "Nuestras áreas de actuación"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/ih_cta.html:6
 #, python-format
@@ -220,22 +220,22 @@ msgstr "Lo anterior forma parte de un movimiento más amplio por un Internet sal
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:5
 msgid "News you can use"
-msgstr ""
+msgstr "Noticias útiles"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:82
 #, fuzzy
 #| msgid "Load more results"
 msgid "Read more news"
-msgstr "Cargar más resultados"
+msgstr "Leer más noticias"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:56
 msgid "Written by"
-msgstr ""
+msgstr "Escrito por"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
 msgid "Download Full PDF"
-msgstr ""
+msgstr "Descargar PDF completo"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
@@ -243,7 +243,7 @@ msgstr "Contenido relacionado"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
 msgid "Spotlight"
-msgstr ""
+msgstr "Noticias destacadas"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:34
 #, python-format
