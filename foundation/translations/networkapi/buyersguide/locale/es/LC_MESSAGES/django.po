@@ -2,20 +2,21 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-27 10:09+0000\n"
+"PO-Revision-Date: 2020-10-30 17:11+0000\n"
 "Last-Translator: Paulina Rodriguez <pauli.rodriguez.c@gmail.com>\n"
+"Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language-Team: \n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Pontoon\n"
 
 #: network-api/networkapi/buyersguide/templates/bg_base.html:7 network-api/networkapi/buyersguide/views.py:145
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
@@ -58,8 +59,12 @@ msgstr "insignia de estándares mínimos de seguridad"
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:31
 #, python-format
-msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
-msgstr "¿Deberías tener miedo de ese altavoz inteligente, esa pulsera de fitness o esos auriculares inalámbricos? Hemos creado esta guía para ayudarte a comprar productos con conexión seguros. Busca este símbolo %(image)s y sabrás que es un producto que cumple con nuestros <a href=\"%(url)s\">estándares mínimos de seguridad</a>."
+msgid ""
+"How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for "
+"products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
+msgstr ""
+"¿Deberías tener miedo de ese altavoz inteligente, esa pulsera de fitness o esos auriculares inalámbricos? Hemos creado esta guía para ayudarte a comprar productos con conexión seguros. Busca este "
+"símbolo %(image)s y sabrás que es un producto que cumple con nuestros <a href=\"%(url)s\">estándares mínimos de seguridad</a>."
 
 #: network-api/networkapi/buyersguide/templates/buyersguide_home.html:41
 #, python-format
@@ -107,9 +112,10 @@ msgstr "Aplicación:"
 msgid "Phone Number"
 msgstr "Número de teléfono"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
 msgid "No"
 msgstr "No"
 
@@ -124,12 +130,12 @@ msgstr "Correo electrónico"
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion.html:4
 msgid "This section requires attention."
-msgstr "Esta sección es importante."
+msgstr "Esta sección requiere atención."
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:9
 msgctxt "Unknown rating"
 msgid "Can’t determine"
-msgstr "Se desconoce"
+msgstr "No se puede determinar"
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:11
 msgctxt "Unknown rating"
@@ -138,10 +144,10 @@ msgstr "Desconocido"
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:14
 msgid "Not applicable"
-msgstr "No aplica"
+msgstr "No aplicable"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
 msgid "Yes"
 msgstr "Sí"
 
@@ -186,7 +192,7 @@ msgstr "<strong>Advertencia</strong>: *privacidad no incluida con este producto"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:49
 msgid "Wi-Fi"
-msgstr "Wifi"
+msgstr "Wi-Fi"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:52
 msgid "Bluetooth"
@@ -244,15 +250,15 @@ msgstr "¿Qué datos recopila?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:136
 msgid "Personal"
-msgstr "Información personal"
+msgstr "Personal"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:137
 msgid "Biometric"
-msgstr "Información biométrica"
+msgstr "Biométrico"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:138
 msgid "Social"
-msgstr "Información social"
+msgstr "Social"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:153
 msgid "How does it use this data?"
@@ -330,7 +336,7 @@ msgstr "Inteligencia artificial"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:228
 msgid "Does the product use AI?"
-msgstr "¿El producto usa la inteligencia artificial?"
+msgstr "¿El producto usa AI?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:232
 msgid "Does the AI use your personal data to make decisions about you?"
@@ -342,7 +348,7 @@ msgstr "¿La compañía explica a los usuarios cómo funciona la inteligencia ar
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:247
 msgid "Company contact info"
-msgstr "Información de contacto de la compañía"
+msgstr "Información de contacto de la empresa"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:266
 msgid "Updates"
@@ -363,22 +369,22 @@ msgstr "No aplica"
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:41
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Great"
-msgstr "Excelente"
+msgstr "Genial"
 
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:43
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Average"
-msgstr "Normal"
+msgstr "Promedio"
 
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:45
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Needs Improvement"
-msgstr "Mejorable"
+msgstr "Necesita mejoras"
 
 #: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:47
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
-msgstr "Pésimo"
+msgstr "Malo"
 
 #~ msgid "Home"
 #~ msgstr "Página principal"
