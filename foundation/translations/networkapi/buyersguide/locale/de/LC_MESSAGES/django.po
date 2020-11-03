@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-03 09:12+0000\n"
-"PO-Revision-Date: 2020-10-27 19:16+0000\n"
+"PO-Revision-Date: 2020-11-03 16:37+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -19,9 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:7
-#: network-api/networkapi/buyersguide/views.py:103
-#: network-api/networkapi/buyersguide/views.py:148
+#: network-api/networkapi/buyersguide/templates/bg_base.html:7 network-api/networkapi/buyersguide/views.py:103 network-api/networkapi/buyersguide/views.py:148
 #: network-api/networkapi/buyersguide/views.py:168
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
@@ -50,10 +48,13 @@ msgid "Be Smart. Shop Safe."
 msgstr "Schlau sein. Sicher einkaufen."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:17
-#, fuzzy
-#| msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
+#| msgid ""
+#| "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for "
+#| "products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
 msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
-msgstr "Wie gruselig ist dieser intelligente Lautsprecher, dieser Fitness-Tracker, diese drahtlosen Kopfhörer? Wir haben diesen Ratgeber erstellt, um Ihnen beim Einkauf sicherer, vernetzter Produkte zu helfen. Suchen Sie nach diesem Symbol %(image)s, um Produkte zu finden, die unseren <a href=\"%(url)s\">Mindestsicherheitsstandards</a> entsprechen."
+msgstr ""
+"Wie gruselig ist dieser intelligente Lautsprecher, dieser Fitness-Tracker, diese drahtlosen Kopfhörer? Wir haben diesen Ratgeber erstellt, um Ihnen beim Einkauf sicherer, vernetzter Produkte zu "
+"helfen."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:24
 msgid "2020 Webby Award Winner Badge"
@@ -61,21 +62,18 @@ msgstr "Abzeichen: Gewinner des Webby Award 2020"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:38
 msgid "Search product name…"
-msgstr ""
+msgstr "Nach Produktname suchen…"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:53
-#, fuzzy
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #| msgid "*privacy not included"
 msgid "*privacy not included"
-msgstr "* Datenschutz nicht inbegriffen"
+msgstr "*Datenschutz nicht inbegriffen"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:68
-#: network-api/networkapi/buyersguide/templates/catalog.html:69
-#, fuzzy
+#: network-api/networkapi/buyersguide/templates/catalog.html:68 network-api/networkapi/buyersguide/templates/catalog.html:69
 #| msgid "<strong>Warning</strong>: *privacy not included with this product"
 msgid "*privacy not included with this product"
-msgstr "<strong>Warnung</strong>: *Datenschutz ist in diesem Produkt nicht inbegriffen"
+msgstr "*Datenschutz ist in diesem Produkt nicht inbegriffen"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:85
 #, python-format
@@ -94,8 +92,7 @@ msgstr "Lassen Sie uns wissen, welches Produkt Sie im Ratgeber überprüft haben
 msgid "Submit a product"
 msgstr "Ein Produkt vorschlagen"
 
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7 network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "Dieses Produkt bietet Inhalte für Erwachsene"
 
@@ -113,16 +110,16 @@ msgstr "App:"
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:4
 msgid "Sad face. No products were found."
-msgstr ""
+msgstr "Schade. Keine Produkte gefunden."
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:7
 msgid "Oh no! We didn’t find that here."
-msgstr ""
+msgstr "Oh nein! Das haben wir hier nicht gefunden."
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:12
 #, python-format
 msgid "Try going back to <a href=\"%(home_url)s\">All</a>. You might find it there."
-msgstr ""
+msgstr "Versuchen Sie es nochmal mit <a href=\"%(home_url)s\">Alle</a>. Vielleicht finden Sie es dort."
 
 #: network-api/networkapi/buyersguide/templates/fragments/pni_nav_links.html:4
 msgid "About the Guide"
@@ -132,14 +129,10 @@ msgstr "Über den Ratgeber"
 msgid "Phone Number"
 msgstr "Telefonnummer"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
 msgid "No"
 msgstr "Nein"
 
@@ -170,20 +163,16 @@ msgstr "Unbekannt"
 msgid "Not applicable"
 msgstr "Nicht anwendbar"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
 msgid "Yes"
 msgstr "Ja"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this related product meets our minimum security standards"
 msgstr "Dieses verwandte Produkt erfüllt unsere Mindestsicherheitsstandards"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this product meets our minimum security standards"
 msgstr "Dieses Produkt erfüllt unsere Mindestsicherheitsstandards"
 
@@ -205,11 +194,10 @@ msgid "*privacy not included"
 msgstr "* Datenschutz nicht inbegriffen"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:16
-#, fuzzy
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #| msgid "*privacy not included"
 msgid "Privacy Not Included"
-msgstr "* Datenschutz nicht inbegriffen"
+msgstr "Datenschutz nicht inbegriffen"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:25
 msgid "Donate"
@@ -397,8 +385,7 @@ msgstr "Aktualisierungen"
 msgid "Related products"
 msgstr "Verwandte Produkte"
 
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
 msgid "Unknown"
 msgstr "Unbekannt"
 
