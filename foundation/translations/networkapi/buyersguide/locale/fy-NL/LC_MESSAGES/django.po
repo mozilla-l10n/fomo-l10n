@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-03 09:12+0000\n"
-"PO-Revision-Date: 2020-10-28 12:21+0000\n"
+"PO-Revision-Date: 2020-11-03 13:58+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fy_NL\n"
@@ -19,9 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:7
-#: network-api/networkapi/buyersguide/views.py:103
-#: network-api/networkapi/buyersguide/views.py:148
+#: network-api/networkapi/buyersguide/templates/bg_base.html:7 network-api/networkapi/buyersguide/views.py:103 network-api/networkapi/buyersguide/views.py:148
 #: network-api/networkapi/buyersguide/views.py:168
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
@@ -50,10 +48,11 @@ msgid "Be Smart. Shop Safe."
 msgstr "Wês Tûk. Winkel feilich."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:17
-#, fuzzy
-#| msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
+#| msgid ""
+#| "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for "
+#| "products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
 msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
-msgstr "Hoe ing is dy tûke lûdsprekker, dy fitnesstracker, dy triedleaze koptelefoan? Wy hawwe dizze gids makke om jo te helpen by de oankeap fan feilige, befeilige ferbûne produkten. Sykje nei dit symboal %(image)s foar produkten dy't foldogge oan ús <a href=\"%(url)s\">Minimale befeiligingsnoarms</a>."
+msgstr "Hoe ing is dy tûke lûdsprekker, dy fitnesstracker, dy triedleaze koptelefoan? Wy hawwe dizze gids makke om jo te helpen by de oankeap fan feilige, befeilige ferbûne produkten."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:24
 msgid "2020 Webby Award Winner Badge"
@@ -61,21 +60,18 @@ msgstr "2020 Webby Award-winnersbadge"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:38
 msgid "Search product name…"
-msgstr ""
+msgstr "Produktnamme sykje…"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:53
-#, fuzzy
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #| msgid "*privacy not included"
 msgid "*privacy not included"
 msgstr "*privacy net ynbegrepen"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:68
-#: network-api/networkapi/buyersguide/templates/catalog.html:69
-#, fuzzy
+#: network-api/networkapi/buyersguide/templates/catalog.html:68 network-api/networkapi/buyersguide/templates/catalog.html:69
 #| msgid "<strong>Warning</strong>: *privacy not included with this product"
 msgid "*privacy not included with this product"
-msgstr "<strong>Warskôging</strong>: *by dit produkt is privacy net opnommen"
+msgstr "*by dit produkt is privacy net ynbegrepen"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:85
 #, python-format
@@ -94,8 +90,7 @@ msgstr "Lit ús witte hokker produkt jo yn de gids beoardiele sjen wolle."
 msgid "Submit a product"
 msgstr "In produkt foarstelle"
 
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7 network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "dit produkt befettet ynhâld foar folwoeksenen"
 
@@ -113,16 +108,16 @@ msgstr "App:"
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:4
 msgid "Sad face. No products were found."
-msgstr ""
+msgstr "Boehoe. Gjin produkten fûn."
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:7
 msgid "Oh no! We didn’t find that here."
-msgstr ""
+msgstr "Oh nee! Wy hawwe dat hjir net fûn."
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:12
 #, python-format
 msgid "Try going back to <a href=\"%(home_url)s\">All</a>. You might find it there."
-msgstr ""
+msgstr "Probearje werom te gean nei <a href=\"%(home_url)s\">Alles</a>. Miskien fine jo it dêr."
 
 #: network-api/networkapi/buyersguide/templates/fragments/pni_nav_links.html:4
 msgid "About the Guide"
@@ -132,14 +127,10 @@ msgstr "Oer de gids"
 msgid "Phone Number"
 msgstr "Telefoannûmer"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
 msgid "No"
 msgstr "Nee"
 
@@ -170,20 +161,16 @@ msgstr "Unbekend"
 msgid "Not applicable"
 msgstr "Net fan tapassing"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
 msgid "Yes"
 msgstr "Ja"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this related product meets our minimum security standards"
 msgstr "dit relatearre produkt foldocht oan ús minimale befeiligingsnoarms"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this product meets our minimum security standards"
 msgstr "dit produkt foldocht oan ús minimale befeiligingsnoarms"
 
@@ -205,15 +192,14 @@ msgid "*privacy not included"
 msgstr "*privacy net ynbegrepen"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:16
-#, fuzzy
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #| msgid "*privacy not included"
 msgid "Privacy Not Included"
-msgstr "*privacy net ynbegrepen"
+msgstr "Privacy net ynbegrepen"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:25
 msgid "Donate"
-msgstr ""
+msgstr "Donearje"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:26
 msgid "Newsletter"
@@ -397,8 +383,7 @@ msgstr "Fernijingen"
 msgid "Related products"
 msgstr "Relatearre produkten"
 
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
 msgid "Unknown"
 msgstr "Unbekend"
 
