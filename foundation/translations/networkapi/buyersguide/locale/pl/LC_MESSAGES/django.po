@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-27 07:55+0000\n"
+"POT-Creation-Date: 2020-11-03 09:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,9 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 #: network-api/networkapi/buyersguide/templates/bg_base.html:7
-#: network-api/networkapi/buyersguide/views.py:145
+#: network-api/networkapi/buyersguide/views.py:103
+#: network-api/networkapi/buyersguide/views.py:148
+#: network-api/networkapi/buyersguide/views.py:168
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr ""
@@ -42,51 +44,46 @@ msgstr ""
 msgid "All"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:89
-msgid "About the Guide"
-msgstr ""
-
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:15
-msgid "2020 Webby Award Winner Badge"
-msgstr ""
-
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:24
+#: network-api/networkapi/buyersguide/templates/catalog.html:15
 msgid "Be Smart. Shop Safe."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:29
-msgid "minimum security standards badge"
+#: network-api/networkapi/buyersguide/templates/catalog.html:17
+msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:31
-#, python-format
-msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
+#: network-api/networkapi/buyersguide/templates/catalog.html:24
+msgid "2020 Webby Award Winner Badge"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:41
-#, python-format
-msgid "The %(emoji)s below shows how creepy users find these products."
+#: network-api/networkapi/buyersguide/templates/catalog.html:38
+msgid "Search product name…"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:88
+#: network-api/networkapi/buyersguide/templates/catalog.html:53
+msgid "*privacy not included"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/catalog.html:68
+#: network-api/networkapi/buyersguide/templates/catalog.html:69
+msgid "*privacy not included with this product"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/catalog.html:85
 #, python-format
 msgid "link to %(product)s"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:106
+#: network-api/networkapi/buyersguide/templates/catalog.html:111
 msgid "Don’t see the product you’re looking for?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:107
+#: network-api/networkapi/buyersguide/templates/catalog.html:112
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/buyersguide_home.html:108
+#: network-api/networkapi/buyersguide/templates/catalog.html:113
 msgid "Submit a product"
-msgstr ""
-
-#: network-api/networkapi/buyersguide/templates/category_page.html:49
-msgid "The information provided here is pulled directly from the product website."
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
@@ -104,6 +101,23 @@ msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/fragments/it_uses.html:7
 msgid "App:"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:4
+msgid "Sad face. No products were found."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:7
+msgid "Oh no! We didn’t find that here."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:12
+#, python-format
+msgid "Try going back to <a href=\"%(home_url)s\">All</a>. You might find it there."
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/fragments/pni_nav_links.html:4
+msgid "About the Guide"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:6
@@ -177,13 +191,21 @@ msgstr ""
 msgid "Does the platform say it is compliant with US medical privacy laws?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/primary_nav.html:15
-msgid "Newsletter"
-msgstr ""
-
-#: network-api/networkapi/buyersguide/templates/primary_nav.html:29
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:9
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:16
+msgid "Privacy Not Included"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:25
+msgid "Donate"
+msgstr ""
+
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:26
+msgid "Newsletter"
 msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:6
@@ -306,61 +328,61 @@ msgstr ""
 msgid "Security"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:203
+#: network-api/networkapi/buyersguide/templates/product_page.html:204
 #, python-format
 msgid "Does this product meet our <a id=\"mss-link\" href=\"%(url)s\">Minimum Security Standards</a>?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:208
+#: network-api/networkapi/buyersguide/templates/product_page.html:209
 msgctxt "Accessibility label for an accordion toggle"
 msgid "Toggle expandable section"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:210
+#: network-api/networkapi/buyersguide/templates/product_page.html:211
 msgid "Encryption"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:211
+#: network-api/networkapi/buyersguide/templates/product_page.html:212
 msgid "Security updates"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:212
+#: network-api/networkapi/buyersguide/templates/product_page.html:213
 msgid "Strong password"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:213
+#: network-api/networkapi/buyersguide/templates/product_page.html:214
 msgid "Manages vulnerabilities"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:214
+#: network-api/networkapi/buyersguide/templates/product_page.html:215
 msgid "Privacy policy"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:226
+#: network-api/networkapi/buyersguide/templates/product_page.html:227
 msgid "Artificial Intelligence"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:228
+#: network-api/networkapi/buyersguide/templates/product_page.html:229
 msgid "Does the product use AI?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:232
+#: network-api/networkapi/buyersguide/templates/product_page.html:233
 msgid "Does the AI use your personal data to make decisions about you?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:235
+#: network-api/networkapi/buyersguide/templates/product_page.html:236
 msgid "Does the company allow users to see how the AI works?"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:247
+#: network-api/networkapi/buyersguide/templates/product_page.html:248
 msgid "Company contact info"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:266
+#: network-api/networkapi/buyersguide/templates/product_page.html:267
 msgid "Updates"
 msgstr ""
 
-#: network-api/networkapi/buyersguide/templates/product_page.html:284
+#: network-api/networkapi/buyersguide/templates/product_page.html:285
 msgid "Related products"
 msgstr ""
 
