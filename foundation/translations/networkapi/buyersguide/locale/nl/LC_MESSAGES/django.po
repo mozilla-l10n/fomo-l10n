@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-03 09:12+0000\n"
-"PO-Revision-Date: 2020-11-03 09:35+0000\n"
+"PO-Revision-Date: 2020-11-03 11:49+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -48,14 +48,11 @@ msgid "Be Smart. Shop Safe."
 msgstr "Wees slim. Winkel veilig."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:17
-#, fuzzy
 #| msgid ""
 #| "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products. Look for this symbol %(image)s for "
 #| "products that meet our <a href=\"%(url)s\">Minimum Security Standards</a>."
 msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
-msgstr ""
-"Hoe eng is die slimme luidspreker, die fitnesstracker, die draadloze koptelefoon? We hebben deze gids gemaakt om u te helpen bij de aankoop van veilige, beveiligde verbonden producten. Zoek naar dit"
-" symbool %(image)s voor producten die voldoen aan onze <a href=\"%(url)s\">Minimale beveiligingsnormen</a>."
+msgstr "Hoe eng is die slimme luidspreker, die fitnesstracker, die draadloze koptelefoon? We hebben deze gids gemaakt om u te helpen bij de aankoop van veilige, beveiligde verbonden producten."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:24
 msgid "2020 Webby Award Winner Badge"
@@ -63,7 +60,7 @@ msgstr "2020 Webby Award-winnaarsbadge"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:38
 msgid "Search product name…"
-msgstr ""
+msgstr "Productnaam zoeken…"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:53
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
@@ -72,10 +69,9 @@ msgid "*privacy not included"
 msgstr "*privacy niet inbegrepen"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:68 network-api/networkapi/buyersguide/templates/catalog.html:69
-#, fuzzy
 #| msgid "<strong>Warning</strong>: *privacy not included with this product"
 msgid "*privacy not included with this product"
-msgstr "<strong>Waarschuwing</strong>: *bij dit product is privacy niet inbegrepen"
+msgstr "*bij dit product is privacy niet inbegrepen"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:85
 #, python-format
@@ -196,11 +192,10 @@ msgid "*privacy not included"
 msgstr "*privacy niet inbegrepen"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:16
-#, fuzzy
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #| msgid "*privacy not included"
 msgid "Privacy Not Included"
-msgstr "*privacy niet inbegrepen"
+msgstr "Privacy niet inbegrepen"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:25
 msgid "Donate"
