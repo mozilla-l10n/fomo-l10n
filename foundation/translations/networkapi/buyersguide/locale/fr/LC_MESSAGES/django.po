@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-03 08:31+0000\n"
-"PO-Revision-Date: 2020-11-03 10:14+0100\n"
+"POT-Creation-Date: 2020-11-04 08:41+0000\n"
+"PO-Revision-Date: 2020-11-04 09:56+0100\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -35,12 +35,12 @@ msgstr "*confidentialité non incluse : un guide d’achat pour les objets conn
 msgid "Smart home gadgets, fitness trackers, toys and more, rated for their privacy & security"
 msgstr "Appareils pour la maison intelligente, traqueurs d’activité, jouets et bien plus, tous notés sur leur sécurité et leur respect de la vie privée"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:81
+#: network-api/networkapi/buyersguide/templates/bg_base.html:83
 msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "navigation du site"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:86
+#: network-api/networkapi/buyersguide/templates/bg_base.html:88
 msgid "All"
 msgstr "Tout"
 
@@ -60,29 +60,33 @@ msgstr "Badge de lauréat du Webby Award 2020"
 msgid "Search product name…"
 msgstr "Rechercher un nom de produit…"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:53
+#: network-api/networkapi/buyersguide/templates/catalog.html:46
+msgid "Scroll to see how creepy<br>people find these products!"
+msgstr "Faites défiler pour voir à quel point<br>les utilisateurs trouvent ces produits flippants !"
+
+#: network-api/networkapi/buyersguide/templates/catalog.html:56
 msgid "*privacy not included"
 msgstr "*confidentialité non incluse"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:68
-#: network-api/networkapi/buyersguide/templates/catalog.html:69
+#: network-api/networkapi/buyersguide/templates/catalog.html:71
+#: network-api/networkapi/buyersguide/templates/catalog.html:72
 msgid "*privacy not included with this product"
 msgstr "*confidentialité non incluse avec ce produit"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:85
+#: network-api/networkapi/buyersguide/templates/catalog.html:88
 #, python-format
 msgid "link to %(product)s"
 msgstr "lien vers %(product)s"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:111
+#: network-api/networkapi/buyersguide/templates/catalog.html:114
 msgid "Don’t see the product you’re looking for?"
 msgstr "Vous ne trouvez pas le produit que vous recherchez ?"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:112
+#: network-api/networkapi/buyersguide/templates/catalog.html:115
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr "Dites-nous quel produit vous souhaitez voir ajouté au guide."
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:113
+#: network-api/networkapi/buyersguide/templates/catalog.html:116
 msgid "Submit a product"
 msgstr "Proposer un produit"
 
@@ -417,9 +421,6 @@ msgstr "Mauvais"
 
 #~ msgid "minimum security standards badge"
 #~ msgstr "écusson des critères élémentaires de sécurité"
-
-#~ msgid "The %(emoji)s below shows how creepy users find these products."
-#~ msgstr "L’émoticône %(emoji)s ci-dessous vous indique à quel point les utilisateurs trouvent ces produits flippants."
 
 #~ msgid "The information provided here is pulled directly from the product website."
 #~ msgstr "Les informations affichées ici proviennent directement du site web des produits."
