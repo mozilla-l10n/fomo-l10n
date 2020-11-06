@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-04 08:41+0000\n"
-"PO-Revision-Date: 2020-11-04 09:56+0100\n"
+"PO-Revision-Date: 2020-11-06 14:58+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -16,11 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Pontoon\n"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:7
-#: network-api/networkapi/buyersguide/views.py:103
-#: network-api/networkapi/buyersguide/views.py:148
+#: network-api/networkapi/buyersguide/templates/bg_base.html:7 network-api/networkapi/buyersguide/views.py:103 network-api/networkapi/buyersguide/views.py:148
 #: network-api/networkapi/buyersguide/views.py:168
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
@@ -46,7 +44,7 @@ msgstr "Tout"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:15
 msgid "Be Smart. Shop Safe."
-msgstr "Soyez malins, achetez des objets sûrs."
+msgstr "Soyez malins, achetez des produits sûrs."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:17
 msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
@@ -68,8 +66,7 @@ msgstr "Faites défiler pour voir à quel point<br>les utilisateurs trouvent ces
 msgid "*privacy not included"
 msgstr "*confidentialité non incluse"
 
-#: network-api/networkapi/buyersguide/templates/catalog.html:71
-#: network-api/networkapi/buyersguide/templates/catalog.html:72
+#: network-api/networkapi/buyersguide/templates/catalog.html:71 network-api/networkapi/buyersguide/templates/catalog.html:72
 msgid "*privacy not included with this product"
 msgstr "*confidentialité non incluse avec ce produit"
 
@@ -90,8 +87,7 @@ msgstr "Dites-nous quel produit vous souhaitez voir ajouté au guide."
 msgid "Submit a product"
 msgstr "Proposer un produit"
 
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7 network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "ce produit comporte du contenu réservé aux adultes"
 
@@ -128,14 +124,10 @@ msgstr "À propos de ce guide"
 msgid "Phone Number"
 msgstr "Numéro de téléphone"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:28
 msgid "No"
 msgstr "Non"
 
@@ -166,20 +158,16 @@ msgstr "Inconnu"
 msgid "Not applicable"
 msgstr "Ne s’applique pas"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:15 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:26
 msgid "Yes"
 msgstr "Oui"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this related product meets our minimum security standards"
 msgstr "ce produit lié respecte nos critères élémentaires de sécurité"
 
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14
-#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
+#: network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:14 network-api/networkapi/buyersguide/templates/fragments/seal_of_approval.html:15
 msgid "this product meets our minimum security standards"
 msgstr "ce produit respecte nos critères élémentaires de sécurité"
 
@@ -390,8 +378,7 @@ msgstr "Actualités"
 msgid "Related products"
 msgstr "Produits similaires"
 
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:22
 msgid "Unknown"
 msgstr "Inconnu"
 
