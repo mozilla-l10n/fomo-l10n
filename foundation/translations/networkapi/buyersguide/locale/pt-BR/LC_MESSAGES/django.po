@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-04 08:41+0000\n"
-"PO-Revision-Date: 2020-11-03 14:19+0000\n"
-"Last-Translator: Vitor Alexandre <vitoratcacamargo@gmail.com>\n"
+"PO-Revision-Date: 2020-11-06 11:53+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -64,23 +64,20 @@ msgid "Search product name…"
 msgstr "Pesquisar nome do produto…"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:46
-#, fuzzy
 #| msgid "The %(emoji)s below shows how creepy users find these products."
 msgid "Scroll to see how creepy<br>people find these products!"
-msgstr "Os %(emoji)s abaixo mostram quão assustadoramente os usuários encontram esses produtos."
+msgstr "Deslize para ver o quão assustadores<br>as pessoas acham estes produtos!"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:56
-#, fuzzy
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #| msgid "*privacy not included"
 msgid "*privacy not included"
 msgstr "*privacidade não incluída"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:71 network-api/networkapi/buyersguide/templates/catalog.html:72
-#, fuzzy
 #| msgid "<strong>Warning</strong>: *privacy not included with this product"
 msgid "*privacy not included with this product"
-msgstr "<strong>Aviso</strong>: *privacidade não incluída neste produto"
+msgstr "*privacidade não incluída neste produto"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:88
 #, python-format
@@ -201,11 +198,10 @@ msgid "*privacy not included"
 msgstr "*privacidade não incluída"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:16
-#, fuzzy
 #| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #| msgid "*privacy not included"
 msgid "Privacy Not Included"
-msgstr "*privacidade não incluída"
+msgstr "Privacidade não incluída"
 
 #: network-api/networkapi/buyersguide/templates/primary_nav.html:25
 msgid "Donate"
