@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-12 09:47+0000\n"
-"PO-Revision-Date: 2020-11-12 11:54+0100\n"
+"POT-Creation-Date: 2020-11-12 11:39+0000\n"
+"PO-Revision-Date: 2020-11-12 12:40+0100\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -188,8 +188,9 @@ msgid "Our Minimum Security Standards"
 msgstr "Nos critères élémentaires de sécurité"
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:189
-msgid "We developed a set of minimum security standards we think all connected products should meet at the very least. Think of it as a “you must be this tall to ride” set of standards. These include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy. If you would like to learn more about our minimum security standards go here."
-msgstr "Nous avons développé un ensemble de critères élémentaires de sécurité que nous pensons que tous les objets connectés devraient à tout le moins respecter. Considérez que cette barre est le minimum qu’ils doivent atteindre. Ces critères comprennent cinq éléments de base : le produit doit utiliser un chiffrement, l’entreprise doit fournir des mises à jour de sécurité automatiques, si un produit utilise un mot de passe, il doit exiger un mot de passe fort, l’entreprise doit avoir un moyen de gérer les failles de sécurité trouvées dans ses produits, et l’entreprise doit avoir une politique de confidentialité accessible. Si vous souhaitez en savoir plus sur nos critères élémentaires de sécurité, rendez-vous ici."
+#, python-format
+msgid "We developed a set of minimum security standards we think all connected products should meet at the very least. Think of it as a “you must be this tall to ride” set of standards. These include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy. If you would like to learn more about our minimum security standards <a href=\"%(url)s\">go here</a>."
+msgstr "Nous avons développé un ensemble de critères élémentaires de sécurité que nous pensons que tous les objets connectés devraient à tout le moins respecter. Considérez que cette barre est le minimum qu’ils doivent atteindre. Ces critères comprennent cinq éléments de base : le produit doit utiliser un chiffrement, l’entreprise doit fournir des mises à jour de sécurité automatiques, si un produit utilise un mot de passe, il doit exiger un mot de passe fort, l’entreprise doit avoir un moyen de gérer les failles de sécurité trouvées dans ses produits, et l’entreprise doit avoir une politique de confidentialité accessible. Si vous souhaitez en savoir plus sur nos critères élémentaires de sécurité, <a href=\"%(url)s\">rendez-vous ici</a>."
 
 #: network-api/networkapi/buyersguide/templates/about/how_to_use.html:202
 #: network-api/networkapi/buyersguide/templates/about/methodology.html:135
