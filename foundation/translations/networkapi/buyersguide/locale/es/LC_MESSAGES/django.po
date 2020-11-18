@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-10 08:44+0000\n"
+"POT-Creation-Date: 2020-11-11 12:58+0000\n"
 "PO-Revision-Date: 2020-11-03 10:13+0100\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -15,13 +15,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;"
 "X-Generator: Pontoon\n"
 
 #: network-api/networkapi/buyersguide/templates/bg_base.html:7
 #: network-api/networkapi/buyersguide/views.py:111
 #: network-api/networkapi/buyersguide/views.py:157
-#: network-api/networkapi/buyersguide/views.py:178
+#: network-api/networkapi/buyersguide/views.py:170
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
@@ -35,13 +35,13 @@ msgstr "*Privacidad no incluida: una guía del comprador para productos conectad
 msgid "Smart home gadgets, fitness trackers, toys and more, rated for their privacy & security"
 msgstr "Dispositivos para casas inteligentes, pulseras de fitness, juguetes y más, clasificados por sus características de privacidad y seguridad"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:83
+#: network-api/networkapi/buyersguide/templates/bg_base.html:84
 msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "sitio de navegación"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:89
-#: network-api/networkapi/buyersguide/templates/bg_base.html:91
+#: network-api/networkapi/buyersguide/templates/bg_base.html:90
+#: network-api/networkapi/buyersguide/templates/bg_base.html:92
 msgid "All"
 msgstr "Todo"
 
@@ -59,11 +59,11 @@ msgstr "Insignia de ganador del Premio Webby 2020"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:41
 msgid "Search product name…"
-msgstr ""
+msgstr "Buscar nombre del producto..."
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:49
 msgid "Scroll to see how creepy<br>people find these products!"
-msgstr ""
+msgstr "Desplázate por la página para ver<br>lo peligrosos que son estos productos"
 
 #: network-api/networkapi/buyersguide/templates/catalog.html:59
 #: network-api/networkapi/buyersguide/templates/fragments/privacy_ding.html:7
@@ -108,16 +108,16 @@ msgstr "Aplicación:"
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:4
 msgid "Sad face. No products were found."
-msgstr ""
+msgstr "Cara triste. No se han encontrado productos."
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:7
 msgid "Oh no! We didn’t find that here."
-msgstr ""
+msgstr "¡Oh, no! No lo hemos podido encontrar aquí."
 
 #: network-api/networkapi/buyersguide/templates/fragments/no_search_results.html:12
 #, python-format
 msgid "Try going back to <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. You might find it there."
-msgstr ""
+msgstr "Prueba otra vez en <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. Quizá lo encuentres allí."
 
 #: network-api/networkapi/buyersguide/templates/fragments/pni_nav_links.html:4
 msgid "About the Guide"
@@ -217,7 +217,7 @@ msgstr "<strong>Advertencia</strong>: *privacidad no incluida con este producto"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:49
 msgid "Wi-Fi"
-msgstr "Wi-Fi"
+msgstr "Wifi"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:52
 msgid "Bluetooth"
@@ -275,7 +275,7 @@ msgstr "¿Qué datos recopila?"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:136
 msgid "Personal"
-msgstr "Personal"
+msgstr "Información personal"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:137
 msgid "Biometric"
@@ -283,7 +283,7 @@ msgstr "Biométrico"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:138
 msgid "Social"
-msgstr "Social"
+msgstr "Información social"
 
 #: network-api/networkapi/buyersguide/templates/product_page.html:153
 msgid "How does it use this data?"
