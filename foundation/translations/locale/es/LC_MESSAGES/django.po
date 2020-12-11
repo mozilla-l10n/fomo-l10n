@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-19 13:11+0000\n"
+"POT-Creation-Date: 2020-12-11 08:35+0000\n"
 "PO-Revision-Date: 2020-11-03 08:20+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -31,7 +31,6 @@ msgid "Footnotes"
 msgstr "Notas al pie"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:12
-#: network-api/networkapi/templates/fragments/footnotes.html:15
 msgid "Back to content"
 msgstr "Volver al contenido"
 
@@ -153,6 +152,18 @@ msgstr "Página de inicio de la Fundación Mozilla"
 #: network-api/networkapi/templates/partials/primary_nav.html:87
 msgid "No thanks"
 msgstr "No, gracias"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:908
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:917
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:926
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:935
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:944
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:953
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:962
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:998
+msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*privacy not included"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:22
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:53

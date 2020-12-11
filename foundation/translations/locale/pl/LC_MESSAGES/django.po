@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-19 13:11+0000\n"
+"POT-Creation-Date: 2020-12-11 08:35+0000\n"
 "PO-Revision-Date: 2020-10-28 12:53+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,6 @@ msgid "Footnotes"
 msgstr "Przypisy"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:12
-#: network-api/networkapi/templates/fragments/footnotes.html:15
 msgid "Back to content"
 msgstr "Wróć do treści"
 
@@ -154,6 +153,18 @@ msgstr "Główna strona Fundacji Mozilli"
 #: network-api/networkapi/templates/partials/primary_nav.html:87
 msgid "No thanks"
 msgstr "Nie, dziękuję"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:908
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:917
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:926
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:935
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:944
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:953
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:962
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:998
+msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*privacy not included"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:22
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:53
