@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-27 08:28+0000\n"
+"POT-Creation-Date: 2021-02-05 10:23+0000\n"
 "PO-Revision-Date: 2020-12-11 13:38+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -687,8 +687,9 @@ msgid "Why We Made This Guide"
 msgstr "Pourquoi avons-nous créé ce guide"
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:14
-#, python-format
-msgid "Welcome to the fourth edition of <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
+#, fuzzy, python-format
+#| msgid "Welcome to the fourth edition of <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
+msgid "Welcome to  <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
 msgstr "Bienvenue dans la quatrième édition du guide d’achat <em>*Confidentialité non incluse</em> de <a %(link_args)s>Mozilla</a>. Notre objectif est de vous aider à faire des achats malins (et sûrs) de produits qui se connectent à Internet."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:21
@@ -696,7 +697,9 @@ msgid "In 2017, when we first started <em>*Privacy Not Included</em>, we didn’
 msgstr "En 2017, lorsque nous avons lancé <em>*Confidentialité non incluse</em>, nous ne savions pas quel serait l’intérêt pour un guide sur la vie privée et la sécurité des jouets, gadgets et produits domestiques intelligents connectés. Il s’est avéré que l’intérêt était important. Et pas seulement de la part du public, nous avons découvert que les entreprises s’y intéressaient aussi. Nous sommes ravis de constater que les consommateurs et les entreprises privilégient de plus en plus les objets connectés sûrs, sécurisés et privés."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:31
-msgid "What can you expect in <em>*Privacy Not Included</em> this year?"
+#, fuzzy
+#| msgid "What can you expect in <em>*Privacy Not Included</em> this year?"
+msgid "What can you expect in <em>*Privacy Not Included</em>?"
 msgstr "Que pouvez-vous attendre de <em>*Confidentialité non incluse</em> cette année ?"
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:39
@@ -721,34 +724,39 @@ msgid "We want users of this guide to be able to share their opinion too. It’s
 msgstr "Nous souhaitons que ce guide d’achat puisse également permettre de partager son opinion. Il est important que les entreprises et les autres consommateurs sachent quels produits le public pense être sûrs et quels produits ils considèrent être un peu flippants. Nous avons donc créé notre flippomètre (une évaluation des utilisateurs sur chaque produit) pour permettre aux gens de donner leur avis. Les entreprises y sont attentives, alors faites-leur savoir si vous pensez que leur produit est flippant ou non."
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:82
-msgid "Bigger and better."
-msgstr "Du mieux à tous les niveaux"
+msgid "Good research from good researchers."
+msgstr ""
 
 #: network-api/networkapi/buyersguide/templates/about/why_we_made.html:84
-msgid "Our product list has grown to 136 connected products across seven categories. You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand."
+#, fuzzy
+#| msgid "Our product list has grown to 136 connected products across seven categories. You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand."
+msgid "You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand.  One other note, in <em>*Privacy Not Included</em> we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
 msgstr "Notre liste de produits est passée à 136 objets connectés dans sept catégories. Vous remarquerez que de nombreuses recherches ont été effectuées pour réaliser ce guide d’achat. Nous avons couvert un large éventail de sujets, allant de l’utilisation de l’appareil photo ou du microphone, à la localisation ou aux données biométriques, en passant par la description de ce qui pourrait se passer en cas de problème avec un produit. Heureusement, nous avons des chercheurs et une expertise de renom chez Mozilla pour approfondir ce sujet afin que vous n’ayez pas à le faire. Nos chercheurs ont passé au peigne fin les politiques de confidentialité, ont contacté les entreprises pour leur poser des questions sur le chiffrement et les programmes de <em>bug bounty</em>, et ont passé au crible les spécifications des produits et des applications. Nous avons fait de notre mieux pour que le résultat de toutes ces recherches soit facile à comprendre."
 
-#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:99
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:100
 msgid "We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. We as consumers need to demand that value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
 msgstr "Nous espérons que ce guide vous plaira et que vous l’utiliserez pour vous aider dans votre réflexion et dans l’achat de produits d’entreprise qui montrent qu’elles accordent de l’importance à la protection de la vie privée et à la sécurité. En tant que consommateurs, nous devons exiger ces valeurs des personnes qui fabriquent nos produits. C’est ainsi que nous commencerons à rendre Internet, et nos vies, un peu plus sûrs dans ce monde numérique. C’est notre objectif quotidien chez Mozilla."
 
-#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:108
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:109
 msgid "Thank you!"
 msgstr "Merci !"
 
-#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:109
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:110
 msgid "The Team at Mozilla"
 msgstr "L’équipe Mozilla"
 
-#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:114
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:115
 #, python-format
 msgid "Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a %(mofo_url)s>Mozilla Foundation</a> which relies on <a %(donate_url)s>donations</a> from people like you to do our work. You can also visit <a %(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
 msgstr "Mozilla se bat quotidiennement pour un Internet plus sain en tant qu’entreprise tech à but non lucratif qui fait passer les gens avant les profits. Ce guide a été créé par la <a %(mofo_url)s>Fondation Mozilla</a> qui dépend <a %(donate_url)s>des dons</a> de personnes comme vous pour mener notre mission à bien. Vous pouvez également consulter <a %(mozilla_url)s>Mozilla.org</a> pour en savoir plus sur nos produits qui servent des missions spécifiques, tels que Firefox et Common Voice."
 
-#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:126
+#: network-api/networkapi/buyersguide/templates/about/why_we_made.html:127
 #, python-format
 msgid "For any questions about the guide or to offer constructive feedback, please email <a href=\"mailto:%(email)s\">%(email)s</a>"
 msgstr "Pour toute question concernant le guide ou pour formuler des commentaires constructifs, veuillez envoyer un courriel à <a href=\"mailto:%(email)s\">%(email)s</a>."
+
+#~ msgid "Bigger and better."
+#~ msgstr "Du mieux à tous les niveaux"
 
 #~ msgid "How does it handle privacy?"
 #~ msgstr "Comment ce produit gère-t-il la vie privée ?"
