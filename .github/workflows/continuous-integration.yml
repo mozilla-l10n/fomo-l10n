@@ -36,4 +36,4 @@ jobs:
     - name: Generate translation package
       run: python ./foundation/manage.py compilemessages_ci && ./archive.sh
     - name: Deploy translation package to S3 bucket
-      run: aws s3 sync ./to_upload/ s3://foundation-site-translations --delete
+      run: aws s3 sync ./to_upload/ s3://foundation-site-translations --delete --acl public-read
