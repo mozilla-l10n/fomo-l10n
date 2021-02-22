@@ -34,7 +34,6 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_KEY }}
         aws-region: us-east-1
     - name: Generate translation package
-      run: python ./foundation/manage.py compilemessages_ci
-      run: ./archive.sh
+      run: python ./foundation/manage.py compilemessages_ci & ./archive.sh
     - name: Deploy translation package to S3 bucket
       run: aws s3 sync ./to_upload/ s3://foundation-site-translations --delete
