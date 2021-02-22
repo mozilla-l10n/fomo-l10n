@@ -26,7 +26,6 @@ jobs:
       run: sudo apt-get install -y gettext
     - name: Check translations
       run: python ./foundation/manage.py compilemessages_ci
-    - uses: actions/checkout@v2
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
@@ -34,6 +33,6 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_KEY }}
         aws-region: us-east-1
     - name: Generate translation package
-      run: python ./foundation/manage.py compilemessages_ci && ./archive.sh
+      run: ./archive.sh
     - name: Deploy translation package to S3 bucket
       run: aws s3 sync ./to_upload/ s3://foundation-site-translations --delete --acl public-read
