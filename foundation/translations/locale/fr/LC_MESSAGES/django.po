@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-18 08:46+0000\n"
-"PO-Revision-Date: 2021-01-08 13:13+0000\n"
+"POT-Creation-Date: 2021-02-23 13:49+0000\n"
+"PO-Revision-Date: 2021-02-23 14:52+0100\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: network-api/networkapi/templates/404.html:4
 msgid "Page Not Found"
@@ -153,17 +153,45 @@ msgstr "Page d’accueil de la Fondation Mozilla"
 msgid "No thanks"
 msgstr "Non merci"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1146
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1155
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1164
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1173
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1182
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1191
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1200
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1237
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1144
+msgctxt "*privacy not included can be localized."
+msgid "How to use *privacy not included"
+msgstr "Comment utiliser *confidentialité non incluse"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1153
+msgctxt "*privacy not included can be localized."
+msgid "Why we made *privacy not included"
+msgstr "Pourquoi avons-nous créé *confidentialité non incluse"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1160
+msgctxt "Noun, media"
+msgid "Press"
+msgstr "Presse"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1162
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1171
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1180
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1189
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1198
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*confidentialité non incluse"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1169
+msgid "Contact us"
+msgstr "Nous contacter"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1178
+msgid "Our methodology"
+msgstr "Notre méthodologie"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1187
+msgid "Our minimum security standards"
+msgstr "Nos critères élémentaires de sécurité"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1196
+msgid "Contest terms and conditions"
+msgstr "Règles et conditions du concours"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:24
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:55
@@ -238,8 +266,8 @@ msgid "Written by"
 msgstr "Rédigé par"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
-msgid "Download Full PDF"
-msgstr "Télécharger le PDF complet"
+msgid "Download PDF"
+msgstr "Télécharger le PDF"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"

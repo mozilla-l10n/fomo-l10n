@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-18 08:46+0000\n"
+"POT-Creation-Date: 2021-02-23 13:49+0000\n"
 "PO-Revision-Date: 2020-12-11 09:49+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -158,17 +158,51 @@ msgstr "Startpagina Mozilla Foundation"
 msgid "No thanks"
 msgstr "Nee, bedankt"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1146
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1155
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1164
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1173
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1182
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1191
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1200
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1237
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1144
+#, fuzzy
+#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+#| msgid "*privacy not included"
+msgctxt "*privacy not included can be localized."
+msgid "How to use *privacy not included"
+msgstr "*privacy niet inbegrepen"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1153
+#, fuzzy
+#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+#| msgid "*privacy not included"
+msgctxt "*privacy not included can be localized."
+msgid "Why we made *privacy not included"
+msgstr "*privacy niet inbegrepen"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1160
+msgctxt "Noun, media"
+msgid "Press"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1162
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1171
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1180
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1189
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1198
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy niet inbegrepen"
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1169
+msgid "Contact us"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1178
+msgid "Our methodology"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1187
+msgid "Our minimum security standards"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1196
+msgid "Contest terms and conditions"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:24
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:55
@@ -243,7 +277,9 @@ msgid "Written by"
 msgstr "Geschreven door"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
-msgid "Download Full PDF"
+#, fuzzy
+#| msgid "Download Full PDF"
+msgid "Download PDF"
 msgstr "Volledige PDF downloaden"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
