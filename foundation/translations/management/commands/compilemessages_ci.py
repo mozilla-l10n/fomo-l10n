@@ -40,10 +40,10 @@ class Command(BaseCommand):
         if send_slack_message:
             travis_job_web_url = settings.TRAVIS_JOB_WEB_URL
             slack_webhook = settings.SLACK_WEBHOOK_PONTOON
-            error_output_value = output.getValue()
+            error_output_value = output.getvalue()
 
             hash = hashlib.sha256()
-            hash.update(slack_webhook)
+            hash.update(slack_webhook.encode('UTF-8'))
             print(f'slack webhook digest: {hash.digest()}')
             print(f'sending error: {error_output_value}')
             
