@@ -4,7 +4,9 @@ import io
 from django.core.management import call_command
 from django.core.management.base import BaseCommand, CommandError
 from django.conf import settings
+
 import requests
+import hashlib
 
 
 class DoubleOutput:
@@ -25,13 +27,26 @@ class Command(BaseCommand):
     help = 'Run compilemessages and send a message to Slack if it returns an error.'
 
     def handle(self, *args, **options):
+        send_slack_message = False
+
         output = io.StringIO()
+        
         try:
             call_command("compilemessages", verbosity=1, stderr=DoubleOutput(self.stderr, output))
         except CommandError as err:
+            send_slack_message = True
+
+        # Send failure notice to Slack in a new codeblock, so we don't get nested throws.
+        if send_slack_message:
             travis_job_web_url = settings.TRAVIS_JOB_WEB_URL
             slack_webhook = settings.SLACK_WEBHOOK_PONTOON
+            error_output_value = output.getValue()
 
+            hash = hashlib.sha256()
+            hash.update(slack_webhook)
+            print(f'slack webhook digest: {hash.digest()}')
+            print(f'sending error: {error_output_value}')
+            
             slack_payload = {
                 "blocks": [
                     {
@@ -40,7 +55,7 @@ class Command(BaseCommand):
                             "type": "mrkdwn",
                             "text": "<!here> An error occurred while compiling `.po` files for "
                                     "foundation.mozilla.org on Travis:\n"
-                                    f"```{err}\n{output.getvalue()}```\n"
+                                    f"```{err}\n{error_output_value}```\n"
                         }
                     },
                     {
