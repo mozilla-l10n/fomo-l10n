@@ -40,14 +40,15 @@ class Command(BaseCommand):
 
         # Send failure notice to Slack in a new codeblock, so we don't get nested throws.
         if send_slack_message:
-            travis_job_web_url = settings.TRAVIS_JOB_WEB_URL
+            # travis_job_web_url = settings.TRAVIS_JOB_WEB_URL
             slack_webhook = settings.SLACK_WEBHOOK_PONTOON
             error_output_value = output.getvalue()
 
             hash = hashlib.sha256()
             hash.update(slack_webhook.encode('UTF-8'))
-            print(f'slack webhook digest: {hash.digest()}')
-            print(f'sending error: {error_output_value}')
+
+            print(f'Slack webhook digest: {hash.digest()}')
+            print(f'Initial compile error: {error_output_value}')
             
             slack_payload = {
                 "blocks": [
@@ -60,29 +61,35 @@ class Command(BaseCommand):
                                     f"```{compile_error}\n{error_output_value}```\n"
                         }
                     },
-                    {
-                        "type": "actions",
-                        "elements": [
-                            {
-                                "type": "button",
-                                "text": {
-                                    "type": "plain_text",
-                                    "text": "View logs"
-                                },
-                                "url": f"{travis_job_web_url}"
-                            }
-                        ]
-                    }
+                    # {
+                    #     "type": "actions",
+                    #     "elements": [
+                    #         {
+                    #             "type": "button",
+                    #             "text": {
+                    #                 "type": "plain_text",
+                    #                 "text": "View logs"
+                    #             },
+                    #             "url": f"{travis_job_web_url}"
+                    #         }
+                    #     ]
+                    # }
                 ]
             }
 
-            r = requests.post(f'{slack_webhook}',
+            r = requests.post(slack_webhook,
                               json=slack_payload,
                               headers={'Content-Type': 'application/json'}
                               )
 
+            print(f'Slack response: {r.text}')
+
             # Raise if post request was a 4xx or 5xx
-            r.raise_for_status()
+            try:
+                r.raise_for_status()
+            except requests.exceptions.HTTPError as err:
+                print(
+                
 
             # Raise exception to make travis run fail
             raise compile_error
