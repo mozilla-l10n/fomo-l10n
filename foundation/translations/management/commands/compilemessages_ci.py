@@ -89,5 +89,9 @@ class Command(BaseCommand):
                 r.raise_for_status()
             except requests.exceptions.HTTPError as err:
                 print(f'ERROR: POST request to Slack failed')
-                # Raise exception to make travis run fail
+                
+                # Error we can't discover through slack...
                 raise err
+
+            # Raise exception to make travis run fail
+            raise compile_error 
