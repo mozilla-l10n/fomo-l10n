@@ -40,7 +40,7 @@ class Command(BaseCommand):
 
         # Send failure notice to Slack in a new codeblock, so we don't get nested throws.
         if send_slack_message:
-            # travis_job_web_url = settings.TRAVIS_JOB_WEB_URL
+            travis_job_web_url = settings.TRAVIS_JOB_WEB_URL
             slack_webhook = settings.SLACK_WEBHOOK_PONTOON
             error_output_value = output.getvalue()
 
@@ -61,19 +61,19 @@ class Command(BaseCommand):
                                     f"```{compile_error}\n{error_output_value}```\n"
                         }
                     },
-                    # {
-                    #     "type": "actions",
-                    #     "elements": [
-                    #         {
-                    #             "type": "button",
-                    #             "text": {
-                    #                 "type": "plain_text",
-                    #                 "text": "View logs"
-                    #             },
-                    #             "url": f"{travis_job_web_url}"
-                    #         }
-                    #     ]
-                    # }
+                    {
+                        "type": "actions",
+                        "elements": [
+                            {
+                                "type": "button",
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": "View logs"
+                                },
+                                "url": f"{travis_job_web_url}"
+                            }
+                        ]
+                    }
                 ]
             }
 
@@ -88,7 +88,8 @@ class Command(BaseCommand):
             try:
                 r.raise_for_status()
             except requests.exceptions.HTTPError as err:
-                print(
+                print(f'ERROR: POST request to Slack failed')
+                raise err
                 
 
             # Raise exception to make travis run fail
