@@ -28,6 +28,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         send_slack_message = False
+        compile_error = False
 
         output = io.StringIO()
         
@@ -35,6 +36,7 @@ class Command(BaseCommand):
             call_command("compilemessages", verbosity=1, stderr=DoubleOutput(self.stderr, output))
         except CommandError as err:
             send_slack_message = True
+            compile_error = err
 
         # Send failure notice to Slack in a new codeblock, so we don't get nested throws.
         if send_slack_message:
@@ -55,7 +57,7 @@ class Command(BaseCommand):
                             "type": "mrkdwn",
                             "text": "<!here> An error occurred while compiling `.po` files for "
                                     "foundation.mozilla.org on Travis:\n"
-                                    f"```{err}\n{error_output_value}```\n"
+                                    f"```{compile_error}\n{error_output_value}```\n"
                         }
                     },
                     {
@@ -83,4 +85,4 @@ class Command(BaseCommand):
             r.raise_for_status()
 
             # Raise exception to make travis run fail
-            raise err
+            raise compile_error
