@@ -31,7 +31,7 @@ class Command(BaseCommand):
         compile_error = False
 
         output = io.StringIO()
-        
+
         try:
             call_command("compilemessages", verbosity=1, stderr=DoubleOutput(self.stderr, output))
         except CommandError as err:
@@ -49,7 +49,7 @@ class Command(BaseCommand):
 
             print(f'Slack webhook digest: {hash.digest()}')
             print(f'Initial compile error: {error_output_value}')
-            
+
             slack_payload = {
                 "blocks": [
                     {
@@ -57,7 +57,7 @@ class Command(BaseCommand):
                         "text": {
                             "type": "mrkdwn",
                             "text": "<!here> An error occurred while compiling `.po` files for "
-                                    "foundation.mozilla.org on Travis:\n"
+                                    "foundation.mozilla.org on Continuous Integration:\n"
                                     f"```{compile_error}\n{error_output_value}```\n"
                         }
                     },
@@ -89,9 +89,9 @@ class Command(BaseCommand):
                 r.raise_for_status()
             except requests.exceptions.HTTPError as err:
                 print(f'ERROR: POST request to Slack failed')
-                
+
                 # Error we can't discover through slack...
                 raise err
 
-            # Raise exception to make travis run fail
-            raise compile_error 
+            # Raise exception to make CI run fail
+            raise compile_error
