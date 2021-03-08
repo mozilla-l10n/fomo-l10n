@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-23 13:49+0000\n"
+"POT-Creation-Date: 2021-03-08 18:10+0000\n"
 "PO-Revision-Date: 2021-02-23 14:50+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: \n"
@@ -18,13 +18,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:7 network-api/networkapi/buyersguide/views.py:117 network-api/networkapi/buyersguide/views.py:163
-#: network-api/networkapi/buyersguide/views.py:176 network-api/networkapi/buyersguide/views.py:187
+#: network-api/networkapi/buyersguide/templates/bg_base.html:7
+#: network-api/networkapi/buyersguide/views.py:117
+#: network-api/networkapi/buyersguide/views.py:163
+#: network-api/networkapi/buyersguide/views.py:176
+#: network-api/networkapi/buyersguide/views.py:187
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy net ynbegrepen"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:16 network-api/networkapi/buyersguide/templates/bg_base.html:33 network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:19
+#: network-api/networkapi/buyersguide/templates/bg_base.html:16
+#: network-api/networkapi/buyersguide/templates/bg_base.html:33
+#: network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:19
 msgctxt "*Privacy Not Included can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included: A Buyer’s Guide for Connected Products"
 msgstr "*Privacy net ynbegrepen: in keapersgids foar ferbûne produkten"
@@ -33,82 +38,96 @@ msgstr "*Privacy net ynbegrepen: in keapersgids foar ferbûne produkten"
 msgid "Smart home gadgets, fitness trackers, toys and more, rated for their privacy & security"
 msgstr "Tûke gadgets foar yn hûs, fitnesstrackers, boartersguod en mear, beoardiele op harren privacy en befeiliging"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:96 network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:82
+#: network-api/networkapi/buyersguide/templates/bg_base.html:96
+#: network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:82
 msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "websitenavigaasje"
 
-#: network-api/networkapi/buyersguide/templates/bg_base.html:102 network-api/networkapi/buyersguide/templates/bg_base.html:104 network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:87
+#: network-api/networkapi/buyersguide/templates/bg_base.html:102
+#: network-api/networkapi/buyersguide/templates/bg_base.html:104
+#: network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:87
 #: network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:89
 msgid "All"
 msgstr "Alle"
 
 #: network-api/networkapi/buyersguide/templates/buyersguide/bg_base.html:9
-#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#| msgid "privacy not included - %(product.name)s"
 msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included | Shop smart and safe"
 msgstr "*privacy net ynbegrepen | Tûk en feilich winkelje"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:23 network-api/networkapi/buyersguide/templates/catalog.html:24
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:23
+#: network-api/networkapi/buyersguide/templates/catalog.html:24
 msgid "2020 Webby Award Winner Badge"
 msgstr "2020 Webby Award-winnersbadge"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:40 network-api/networkapi/buyersguide/templates/catalog.html:41
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:40
+#: network-api/networkapi/buyersguide/templates/catalog.html:41
 msgid "Search product name…"
 msgstr "Produktnamme sykje…"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:48 network-api/networkapi/buyersguide/templates/catalog.html:49
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:48
+#: network-api/networkapi/buyersguide/templates/catalog.html:49
 msgid "Scroll to see how creepy<br>people find these products!"
 msgstr "Skow om te sjen hoe aaklik<br>minsken dizze produkten fine!"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:58 network-api/networkapi/buyersguide/templates/catalog.html:59
-#: network-api/networkapi/buyersguide/templates/fragments/privacy_ding.html:7 network-api/networkapi/buyersguide/templates/fragments/privacy_ding.html:8
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:58
+#: network-api/networkapi/buyersguide/templates/catalog.html:59
+#: network-api/networkapi/buyersguide/templates/fragments/privacy_ding.html:7
+#: network-api/networkapi/buyersguide/templates/fragments/privacy_ding.html:8
 msgid "*privacy not included"
 msgstr "*privacy net ynbegrepen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:73 network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:74
-#: network-api/networkapi/buyersguide/templates/catalog.html:77 network-api/networkapi/buyersguide/templates/catalog.html:78
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:73
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:74
+#: network-api/networkapi/buyersguide/templates/catalog.html:77
+#: network-api/networkapi/buyersguide/templates/catalog.html:78
 msgid "*privacy not included with this product"
 msgstr "*by dit produkt is privacy net ynbegrepen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:132 network-api/networkapi/buyersguide/templates/catalog.html:94
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:132
+#: network-api/networkapi/buyersguide/templates/catalog.html:94
 #, python-format
 msgid "link to %(product)s"
 msgstr "keppeling nei %(product)s"
 
 #: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:159
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr ""
-"Yn ús konsumintegids *Privacy net ynbegrepen beoardiele wy ferbûne seksboartersguod. Dizze ynhâld is bedoeld foar lêzers âlder as 18 jier en kin gefoelige ynformaasje of ynformaasje foar "
-"folwoeksenen befetsje."
+msgstr "Yn ús konsumintegids *Privacy net ynbegrepen beoardiele wy ferbûne seksboartersguod. Dizze ynhâld is bedoeld foar lêzers âlder as 18 jier en kin gefoelige ynformaasje of ynformaasje foar folwoeksenen befetsje."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:164 network-api/networkapi/buyersguide/templates/catalog.html:120
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:164
+#: network-api/networkapi/buyersguide/templates/catalog.html:120
 msgid "Don’t see the product you’re looking for?"
 msgstr "Sjogge jo it produkt dat jo sykje net?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:165 network-api/networkapi/buyersguide/templates/catalog.html:121
+#: network-api/networkapi/buyersguide/templates/buyersguide/catalog.html:165
+#: network-api/networkapi/buyersguide/templates/catalog.html:121
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr "Lit ús witte hokker produkt jo yn de gids beoardiele sjen wolle."
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/fragments/pni_nav_links.html:4 network-api/networkapi/buyersguide/templates/fragments/pni_nav_links.html:9
+#: network-api/networkapi/buyersguide/templates/buyersguide/fragments/pni_nav_links.html:4
+#: network-api/networkapi/buyersguide/templates/fragments/pni_nav_links.html:9
 msgid "About the Guide"
 msgstr "Oer de gids"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:10 network-api/networkapi/buyersguide/templates/primary_nav.html:9
+#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:10
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:9
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy net ynbegrepen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:17 network-api/networkapi/buyersguide/templates/primary_nav.html:16
+#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:17
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:16
 msgid "Privacy Not Included"
 msgstr "Privacy net ynbegrepen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:26 network-api/networkapi/buyersguide/templates/primary_nav.html:25
+#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:26
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:25
 msgid "Donate"
 msgstr "Donearje"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:27 network-api/networkapi/buyersguide/templates/primary_nav.html:26
+#: network-api/networkapi/buyersguide/templates/buyersguide/primary_nav.html:27
+#: network-api/networkapi/buyersguide/templates/primary_nav.html:26
 msgid "Newsletter"
 msgstr "Nijsbrief"
 
@@ -118,175 +137,217 @@ msgctxt "This can be localized. This is a reference to the “*batteries not inc
 msgid "privacy not included - %(product.title)s"
 msgstr "privacy net ynbegrepen – %(product.title)s"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:50 network-api/networkapi/buyersguide/templates/product_page.html:37
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:50
+#: network-api/networkapi/buyersguide/templates/product_page.html:37
 msgid "<strong>Warning</strong>: *privacy not included with this product"
 msgstr "<strong>Warskôging</strong>: *by dit produkt is privacy net opnommen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:62 network-api/networkapi/buyersguide/templates/product_page.html:49
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:62
+#: network-api/networkapi/buyersguide/templates/product_page.html:49
 msgid "Wi-Fi"
 msgstr "Wifi"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:65 network-api/networkapi/buyersguide/templates/product_page.html:52
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:65
+#: network-api/networkapi/buyersguide/templates/product_page.html:52
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:71 network-api/networkapi/buyersguide/templates/product_page.html:58
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:71
+#: network-api/networkapi/buyersguide/templates/product_page.html:58
 #, python-format
 msgctxt "Short date format (e.g. 2003/12/31)"
 msgid "Review date: %(date)s"
 msgstr "Beoardielingsdatum: %(date)s"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:78 network-api/networkapi/buyersguide/templates/product_page.html:65
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:78
+#: network-api/networkapi/buyersguide/templates/product_page.html:65
 msgid "What could happen if something goes wrong"
 msgstr "Wat kin der barre as der wat misgiet"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:96 network-api/networkapi/buyersguide/templates/product_page.html:83
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:96
+#: network-api/networkapi/buyersguide/templates/product_page.html:83
 msgid "Privacy"
 msgstr "Privacy"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:100 network-api/networkapi/buyersguide/templates/product_page.html:87
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:100
+#: network-api/networkapi/buyersguide/templates/product_page.html:87
 msgid "Can it snoop on me?"
 msgstr "Kin it my bespionearje?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:102 network-api/networkapi/buyersguide/templates/product_page.html:89
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:102
+#: network-api/networkapi/buyersguide/templates/product_page.html:89
 msgid "Camera"
 msgstr "Kamera"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:103 network-api/networkapi/buyersguide/templates/product_page.html:90
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:103
+#: network-api/networkapi/buyersguide/templates/product_page.html:90
 msgid "Microphone"
 msgstr "Mikrofoan"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:104 network-api/networkapi/buyersguide/templates/product_page.html:91
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:104
+#: network-api/networkapi/buyersguide/templates/product_page.html:91
 msgid "Tracks Location"
 msgstr "Folget lokaasje"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:121 network-api/networkapi/buyersguide/templates/product_page.html:108
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:121
+#: network-api/networkapi/buyersguide/templates/product_page.html:108
 msgid "What is required to sign up?"
 msgstr "Wat is der nedich foar ynskriuwing?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:124 network-api/networkapi/buyersguide/templates/product_page.html:111
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:124
+#: network-api/networkapi/buyersguide/templates/product_page.html:111
 msgid "Email"
 msgstr "E-mailadres"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:125 network-api/networkapi/buyersguide/templates/product_page.html:112
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:125
+#: network-api/networkapi/buyersguide/templates/product_page.html:112
 msgid "Phone"
 msgstr "Telefoannûmer"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:126 network-api/networkapi/buyersguide/templates/product_page.html:113
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:126
+#: network-api/networkapi/buyersguide/templates/product_page.html:113
 msgid "Third party account"
 msgstr "Eksterne account"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:146 network-api/networkapi/buyersguide/templates/product_page.html:133
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:146
+#: network-api/networkapi/buyersguide/templates/product_page.html:133
 msgid "What data does it collect?"
 msgstr "Hokker gegevens wurde der sammele?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:149 network-api/networkapi/buyersguide/templates/product_page.html:136
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:149
+#: network-api/networkapi/buyersguide/templates/product_page.html:136
 msgid "Personal"
 msgstr "Persoanlike"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:150 network-api/networkapi/buyersguide/templates/product_page.html:137
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:150
+#: network-api/networkapi/buyersguide/templates/product_page.html:137
 msgid "Biometric"
 msgstr "Biometryske"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:151 network-api/networkapi/buyersguide/templates/product_page.html:138
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:151
+#: network-api/networkapi/buyersguide/templates/product_page.html:138
 msgid "Social"
 msgstr "Sosjale"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:166 network-api/networkapi/buyersguide/templates/product_page.html:153
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:166
+#: network-api/networkapi/buyersguide/templates/product_page.html:153
 msgid "How does it use this data?"
 msgstr "Hoe wurde dizze gegevens brûkt?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:172 network-api/networkapi/buyersguide/templates/product_page.html:159
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:172
+#: network-api/networkapi/buyersguide/templates/product_page.html:159
 msgid "How can you control your data?"
 msgstr "Hoe kinne jo jo gegevens beheare?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:175 network-api/networkapi/buyersguide/templates/product_page.html:162
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:175
+#: network-api/networkapi/buyersguide/templates/product_page.html:162
 msgid "What is the company’s known track record for protecting users’ data?"
 msgstr "Hoe stiet it bedriuw bekend as it giet om it beskermjen fan brûkersgegevens?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:178 network-api/networkapi/buyersguide/templates/product_page.html:165
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:178
+#: network-api/networkapi/buyersguide/templates/product_page.html:165
 msgid "Can this product be used offline?"
 msgstr "Kin dit produkt offline brûkt wurde?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:189 network-api/networkapi/buyersguide/templates/product_page.html:176
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:189
+#: network-api/networkapi/buyersguide/templates/product_page.html:176
 msgid "User friendly privacy information?"
 msgstr "Brûkersfreonlike privacy-ynformaasje?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:194 network-api/networkapi/buyersguide/templates/product_page.html:181
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:194
+#: network-api/networkapi/buyersguide/templates/product_page.html:181
 msgid "Links to privacy information"
 msgstr "Keppelingen nei privacy-ynformaasje"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:200 network-api/networkapi/buyersguide/templates/product_page.html:188
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:200
+#: network-api/networkapi/buyersguide/templates/product_page.html:188
 msgid "Can I control it?"
 msgstr "Kin ik it betsjinje?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:203 network-api/networkapi/buyersguide/templates/product_page.html:191
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:203
+#: network-api/networkapi/buyersguide/templates/product_page.html:191
 msgid "Host controls"
 msgstr "Betsjinningsmooglikheden"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:207 network-api/networkapi/buyersguide/templates/product_page.html:195
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:207
+#: network-api/networkapi/buyersguide/templates/product_page.html:195
 msgid "Is it easy to learn and use the features?"
 msgstr "Is it maklik om de funksjes te learen en te brûken?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:214 network-api/networkapi/buyersguide/templates/product_page.html:202
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:214
+#: network-api/networkapi/buyersguide/templates/product_page.html:202
 msgid "Security"
 msgstr "Befeiliging"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:216 network-api/networkapi/buyersguide/templates/product_page.html:204
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:216
+#: network-api/networkapi/buyersguide/templates/product_page.html:204
 #, python-format
 msgid "Does this product meet our <a id=\"mss-link\" href=\"%(url)s\">Minimum Security Standards</a>?"
 msgstr "Foldocht dit produkt oan ús <a id=\"mss-link\" href=\"%(url)s\">minimale befeiligingsnoarmen</a>?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:221 network-api/networkapi/buyersguide/templates/product_page.html:209
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:221
+#: network-api/networkapi/buyersguide/templates/product_page.html:209
 msgctxt "Accessibility label for an accordion toggle"
 msgid "Toggle expandable section"
 msgstr "Utklapbere seksje omskeakelje"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:223 network-api/networkapi/buyersguide/templates/product_page.html:211
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:223
+#: network-api/networkapi/buyersguide/templates/product_page.html:211
 msgid "Encryption"
 msgstr "Fersifering"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:224 network-api/networkapi/buyersguide/templates/product_page.html:212
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:224
+#: network-api/networkapi/buyersguide/templates/product_page.html:212
 msgid "Security updates"
 msgstr "Befeiligingsfernijingen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:225 network-api/networkapi/buyersguide/templates/product_page.html:213
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:225
+#: network-api/networkapi/buyersguide/templates/product_page.html:213
 msgid "Strong password"
 msgstr "Sterk wachtwurd"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:226 network-api/networkapi/buyersguide/templates/product_page.html:214
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:226
+#: network-api/networkapi/buyersguide/templates/product_page.html:214
 msgid "Manages vulnerabilities"
 msgstr "Beheart kwetsberheden"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:227 network-api/networkapi/buyersguide/templates/product_page.html:215
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:227
+#: network-api/networkapi/buyersguide/templates/product_page.html:215
 msgid "Privacy policy"
 msgstr "Privacybelied"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:239 network-api/networkapi/buyersguide/templates/product_page.html:227
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:239
+#: network-api/networkapi/buyersguide/templates/product_page.html:227
 msgid "Artificial Intelligence"
 msgstr "Keunstmjittige yntelliginsje"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:241 network-api/networkapi/buyersguide/templates/product_page.html:229
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:241
+#: network-api/networkapi/buyersguide/templates/product_page.html:229
 msgid "Does the product use AI?"
 msgstr "Brûkt it produkt AI?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:245 network-api/networkapi/buyersguide/templates/product_page.html:233
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:245
+#: network-api/networkapi/buyersguide/templates/product_page.html:233
 msgid "Does the AI use your personal data to make decisions about you?"
 msgstr "Brûkt de AI jo persoanlike gegevens om besluten oer jo te nimmen?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:248 network-api/networkapi/buyersguide/templates/product_page.html:236
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:248
+#: network-api/networkapi/buyersguide/templates/product_page.html:236
 msgid "Does the company allow users to see how the AI works?"
 msgstr "Stiet it bedriuw brûkers ta om te sjen hoe't de AI wurket?"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:260 network-api/networkapi/buyersguide/templates/product_page.html:248
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:260
+#: network-api/networkapi/buyersguide/templates/product_page.html:248
 msgid "Company contact info"
 msgstr "Bedriuwskontaktgegevens"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:279 network-api/networkapi/buyersguide/templates/product_page.html:267
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:279
+#: network-api/networkapi/buyersguide/templates/product_page.html:267
 msgid "Updates"
 msgstr "Fernijingen"
 
-#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:299 network-api/networkapi/buyersguide/templates/product_page.html:281
+#: network-api/networkapi/buyersguide/templates/buyersguide/product_page.html:299
+#: network-api/networkapi/buyersguide/templates/product_page.html:281
 msgid "Related products"
 msgstr "Relatearre produkten"
 
@@ -298,7 +359,8 @@ msgstr "Wês Tûk. Winkel feilich."
 msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
 msgstr "Hoe ing is dy tûke lûdsprekker, dy fitnesstracker, dy triedleaze koptelefoan? Wy hawwe dizze gids makke om jo te helpen by de oankeap fan feilige, befeilige ferbûne produkten."
 
-#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7 network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:7
+#: network-api/networkapi/buyersguide/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "dit produkt befettet ynhâld foar folwoeksenen"
 
@@ -331,10 +393,14 @@ msgstr "Probearje werom te gean nei <a href=\"%(home_url)s\" class=\"go-back-to-
 msgid "Phone Number"
 msgstr "Telefoannûmer"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
-#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28 network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:29
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:10
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:19
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:28
+#: network-api/networkapi/buyersguide/templates/fragments/product_contact.html:37
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:23
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:11
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:29
 msgid "No"
 msgstr "Nee"
 
@@ -351,7 +417,8 @@ msgstr "E-mailadres"
 msgid "This section requires attention."
 msgstr "Dizze seksje freget omtinken."
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:9 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:11
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:9
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:11
 msgctxt "Unknown rating"
 msgid "Can’t determine"
 msgstr "Kin net bepale"
@@ -360,8 +427,10 @@ msgstr "Kin net bepale"
 msgid "Not applicable"
 msgstr "Net fan tapassing"
 
-#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
-#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:14 network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:27
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:17
+#: network-api/networkapi/buyersguide/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:14
+#: network-api/networkapi/buyersguide/templatetags/bg_selector_tags.py:27
 msgid "Yes"
 msgstr "Ja"
 

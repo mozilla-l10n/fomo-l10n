@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-23 13:49+0000\n"
+"POT-Creation-Date: 2021-03-08 18:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,6 +157,11 @@ msgstr ""
 msgid "No thanks"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:629
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1233
+msgid "Privacy & security guide"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1144
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
@@ -197,15 +202,15 @@ msgstr ""
 msgid "Contest terms and conditions"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:24
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:55
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:58
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:26
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:28
 msgid "SUMMARY"
 msgstr ""
 
