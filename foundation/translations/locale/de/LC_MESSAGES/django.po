@@ -1,10 +1,10 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-08 18:10+0000\n"
-"PO-Revision-Date: 2021-02-23 14:16+0000\n"
+"PO-Revision-Date: 2021-03-08 19:44+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -38,9 +38,7 @@ msgstr "Zurück zum Inhalt"
 msgid "Language"
 msgstr "Sprache"
 
-#: network-api/networkapi/templates/pages/base.html:9
-#: network-api/networkapi/templates/partials/footer.html:31
-#: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/pages/base.html:9 network-api/networkapi/templates/partials/footer.html:31 network-api/networkapi/templates/partials/primary_nav.html:45
 msgid "Mozilla Foundation"
 msgstr "Mozilla Foundation"
 
@@ -93,8 +91,7 @@ msgstr "Instagram"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/partials/footer.html:51
-#: network-api/networkapi/templates/partials/primary_nav.html:66
+#: network-api/networkapi/templates/partials/footer.html:51 network-api/networkapi/templates/partials/primary_nav.html:66
 msgid "Donate"
 msgstr "Spenden"
 
@@ -124,15 +121,18 @@ msgstr "Datenschutz"
 
 #: network-api/networkapi/templates/partials/footer.html:76
 #, python-format
-msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
-msgstr "Mozilla ist eine weltweite, gemeinnützige Organisation, die sich dafür einsetzt, dass Sie Ihr Online-Erlebnis bestimmen und die Zukunft des Internets im Sinne aller gestaltet wird. Besuchen Sie uns auf <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a> Die meisten Inhalte stehen unter einer <a href=\"%(cc_website_url)s\">Creative-Commons-Lizenz</a>."
+msgid ""
+"Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a "
+"href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
+msgstr ""
+"Mozilla ist eine weltweite, gemeinnützige Organisation, die sich dafür einsetzt, dass Sie Ihr Online-Erlebnis bestimmen und die Zukunft des Internets im Sinne aller gestaltet wird. Besuchen Sie uns "
+"auf <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a> Die meisten Inhalte stehen unter einer <a href=\"%(cc_website_url)s\">Creative-Commons-Lizenz</a>."
 
 #: network-api/networkapi/templates/partials/primary_nav.html:18
 msgid "Home"
 msgstr "Startseite"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:21
-#: network-api/networkapi/templates/partials/primary_nav.html:67
+#: network-api/networkapi/templates/partials/primary_nav.html:21 network-api/networkapi/templates/partials/primary_nav.html:67
 msgid "Newsletter"
 msgstr "Newsletter"
 
@@ -153,10 +153,9 @@ msgstr "Startseite der Mozilla Foundation"
 msgid "No thanks"
 msgstr "Nein, danke"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:629
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1233
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:629 network-api/networkapi/wagtailpages/pagemodels/products.py:1233
 msgid "Privacy & security guide"
-msgstr ""
+msgstr "Leitfaden zu Datenschutz & Sicherheit"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1144
 msgctxt "*privacy not included can be localized."
@@ -173,11 +172,8 @@ msgctxt "Noun, media"
 msgid "Press"
 msgstr "Presse"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1162
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1171
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1180
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1189
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1198
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1162 network-api/networkapi/wagtailpages/pagemodels/products.py:1171 network-api/networkapi/wagtailpages/pagemodels/products.py:1180
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1189 network-api/networkapi/wagtailpages/pagemodels/products.py:1198
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "* Datenschutz nicht inbegriffen"
@@ -198,10 +194,8 @@ msgstr "Unsere Mindestsicherheitsanforderungen"
 msgid "Contest terms and conditions"
 msgstr "Wettbewerbsbedingungen"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:58
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21 network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:58
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25 network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr "%(title)s von @mozilla"
@@ -210,8 +204,7 @@ msgstr "%(title)s von @mozilla"
 msgid "SUMMARY"
 msgstr "ZUSAMMENFASSUNG"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55 network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "JETZT HANDELN"
@@ -224,8 +217,7 @@ msgstr "Mehr aus unserem Blog"
 msgid "By"
 msgstr "Von"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:61
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:61
 msgid "and"
 msgstr "und"
 
@@ -261,8 +253,7 @@ msgstr "Dies ist Teil einer umfassenderen Bewegung für ein gesundes Internet. <
 msgid "News you can use"
 msgstr "Nachrichten, die Sie verwenden können"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:82
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:82
 msgid "Read more news"
 msgstr "Mehr Neuigkeiten lesen"
 
@@ -310,8 +301,7 @@ msgstr "Mehr Storys laden"
 msgid "Scroll"
 msgstr "Scrollen"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:11
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:11 network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:12
 msgid "Join Mozilla"
 msgstr "Bei Mozilla mitmachen"
 
@@ -319,8 +309,7 @@ msgstr "Bei Mozilla mitmachen"
 msgid "28 reasons why YouTube must change: startling stories of YouTube’s recommendations leading people down bizarre and dangerous paths"
 msgstr "28 Gründe, warum YouTube sich ändern muss: erschreckende Berichte von YouTube-Empfehlungen und wie Leute dadurch auf Abwege geraten"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
-#: network-api/networkapi/wagtailpages/utils.py:86
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37 network-api/networkapi/wagtailpages/utils.py:86
 msgid "Overview"
 msgstr "Übersicht"
 
