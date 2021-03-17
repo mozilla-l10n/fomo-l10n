@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-08 18:10+0000\n"
+"POT-Creation-Date: 2021-03-17 16:29+0000\n"
 "PO-Revision-Date: 2021-02-24 10:45+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -153,48 +153,48 @@ msgstr "Página de inicio de la Fundación Mozilla"
 msgid "No thanks"
 msgstr "No, gracias"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:629
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1233
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:695
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1299
 msgid "Privacy & security guide"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1144
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1210
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Cómo usar *privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1153
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1219
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Por qué hemos elaborado *privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1160
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1226
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Prensa"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1162
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1171
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1180
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1189
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1198
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1228
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1237
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1246
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1255
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1264
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1169
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1235
 msgid "Contact us"
 msgstr "Contacta con nosotros"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1178
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1244
 msgid "Our methodology"
 msgstr "Nuestra metodología"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1187
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1253
 msgid "Our minimum security standards"
 msgstr "Nuestros estándares mínimos de seguridad"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1196
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1262
 msgid "Contest terms and conditions"
 msgstr "Términos y condiciones del concurso"
 
@@ -219,6 +219,10 @@ msgstr "ACTUAR AHORA"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:14
 msgid "More from our blog"
 msgstr "Más de nuestro blog"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:39
+msgid "Comments"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:20
 msgid "By"
@@ -320,7 +324,7 @@ msgid "28 reasons why YouTube must change: startling stories of YouTube’s reco
 msgstr "28 razones por las que YouTube debe cambiar: historias desconcertantes acerca de recomendaciones de YouTube que llevaron a las personas por rumbos extraños y peligrosos"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
-#: network-api/networkapi/wagtailpages/utils.py:86
+#: network-api/networkapi/wagtailpages/utils.py:97
 msgid "Overview"
 msgstr "Información general"
 
