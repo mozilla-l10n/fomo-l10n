@@ -4,10 +4,11 @@
 #
 #    pip-compile requirements.in
 #
+
 certifi==2019.11.28       # via requests
 chardet==3.0.4            # via requests
 django-environ==0.4.5     # via -r requirements.in
-django==2.2.14            # via -r requirements.in
+django==2.2.18            # via -r requirements.in
 idna==2.8                 # via requests
 pytz==2019.3              # via django
 requests==2.25.1          # via -r requirements.in
