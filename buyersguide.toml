@@ -1,12 +1,12 @@
 locales = ["de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR"]
 
 [[paths]]
-reference = "foundation/translations/networkapi/buyersguide/locale/django.pot"
-l10n = "foundation/translations/networkapi/buyersguide/locale/{locale}/LC_MESSAGES/django.po"
+reference = "foundation/translations/networkapi/wagtailpages/templates/buyersguide/locale/django.pot"
+l10n = "foundation/translations/networkapi/wagtailpages/templates/buyersguide/locale/{locale}/LC_MESSAGES/django.po"
 
 [[paths]]
-    reference = "foundation/translations/networkapi/buyersguide/templates/about/locale/django.pot"
-    l10n = "foundation/translations/networkapi/buyersguide/templates/about/locale/{locale}/LC_MESSAGES/django.po"
+    reference = "foundation/translations/networkapi/wagtailpages/templates/about/locale/django.pot"
+    l10n = "foundation/translations/networkapi/wagtailpages/templates/about/locale/{locale}/LC_MESSAGES/django.po"
     locales = [
         "de", "es", "fr"
     ]
