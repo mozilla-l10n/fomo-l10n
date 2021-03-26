@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-26 14:34+0000\n"
-"PO-Revision-Date: 2021-02-24 10:45+0000\n"
+"PO-Revision-Date: 2021-03-26 16:33+0100\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: network-api/networkapi/templates/404.html:4
 msgid "Page Not Found"
@@ -203,32 +203,29 @@ msgstr "Términos y condiciones del concurso"
 #: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7
 #: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
-msgstr ""
+msgstr "este producto tiene contenido para adultos"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:20
 msgid "Summary"
-msgstr ""
+msgstr "Resumen"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:9
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
-#, fuzzy
-#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#| msgid "*privacy not included"
 msgid "*privacy not included with this product"
-msgstr "*privacidad no incluida"
+msgstr "*privacidad no incluida con este producto"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:37
 #, python-format
 msgid "link to %(product)s"
-msgstr ""
+msgstr "enlace a %(product)s"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:6
 msgid "Device:"
-msgstr ""
+msgstr "Dispositivo:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:7
 msgid "App:"
-msgstr ""
+msgstr "Aplicación:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:4
 msgid "Sad face. No products were found."
@@ -245,19 +242,16 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/pni_nav_links.html:5
 msgid "About the Guide"
-msgstr ""
+msgstr "Sobre la guía"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:7
 #: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:8
-#, fuzzy
-#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#| msgid "*privacy not included"
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:6
 msgid "Phone Number"
-msgstr ""
+msgstr "Número de teléfono"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:10
 #: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:19
@@ -272,64 +266,58 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:15
 msgid "Live Chat"
-msgstr ""
+msgstr "Chat en directo"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:24
 msgctxt "Label"
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion.html:4
 msgid "This section requires attention."
-msgstr ""
+msgstr "Esta sección requiere atención."
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:9
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:11
 msgctxt "Unknown rating"
 msgid "Can’t determine"
-msgstr ""
+msgstr "No se puede determinar"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:14
 msgid "Not applicable"
-msgstr ""
+msgstr "No aplicable"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:17
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:19
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:14
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:27
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:3
 msgid "How are your recordings handled?"
-msgstr ""
+msgstr "¿Cómo se gestionan tus grabaciones?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:4
 msgid "Alerts when calls are being recorded?"
-msgstr ""
+msgstr "¿Te avisa cuando las llamadas están siendo grabadas?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:5
 msgid "Does the platform say it is compliant with US medical privacy laws?"
-msgstr ""
+msgstr "¿La plataforma dice que cumple con las leyes de privacidad médica de los Estados Unidos?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/submit_a_product.html:3
 msgid "Submit a product"
-msgstr ""
+msgstr "Enviar un producto"
 
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:11
-#, fuzzy
-#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#| msgid "*privacy not included"
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
 
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:18
-#, fuzzy
-#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#| msgid "*privacy not included"
 msgid "Privacy Not Included"
-msgstr "*privacidad no incluida"
+msgstr "Privacidad no incluida"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:58
@@ -482,7 +470,7 @@ msgstr "Cargando formulario..."
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:16
 msgid "Unknown"
-msgstr ""
+msgstr "Desconocido"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:23
 msgid "Can’t Determine"
@@ -490,29 +478,27 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:25
 msgid "N/A"
-msgstr ""
+msgstr "No aplica"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:42
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Great"
-msgstr ""
+msgstr "Genial"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:44
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Average"
-msgstr ""
+msgstr "Promedio"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:46
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Needs Improvement"
-msgstr ""
+msgstr "Necesita mejoras"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:48
-#, fuzzy
-#| msgid "and"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
-msgstr "y"
+msgstr "Malo"
 
 #, fuzzy
 #~| msgctxt "*privacy not included can be localized."

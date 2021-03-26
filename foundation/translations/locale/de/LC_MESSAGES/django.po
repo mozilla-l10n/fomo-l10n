@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-26 14:34+0000\n"
-"PO-Revision-Date: 2021-03-17 17:50+0000\n"
+"PO-Revision-Date: 2021-03-26 16:33+0100\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: network-api/networkapi/templates/404.html:4
 msgid "Page Not Found"
@@ -211,11 +211,8 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:9
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
-#, fuzzy
-#| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#| msgid "*privacy not included"
 msgid "*privacy not included with this product"
-msgstr "* Datenschutz nicht inbegriffen"
+msgstr "*Datenschutz nicht inbegriffen bei diesem Produkt"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:37
 #, python-format
