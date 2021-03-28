@@ -2,49 +2,49 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-26 15:36+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-03-28 10:35+0000\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:9
 msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included | Shop smart and safe"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno | Kupuj mądrze i bezpiecznie"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:19
 msgctxt "*Privacy Not Included can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included: A Buyer’s Guide for Connected Products"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno: przewodnik konsumenta po urządzeniach podłączonych do sieci"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:82
 msgctxt "Tooltip on menu items"
 msgid "site navigation"
-msgstr ""
+msgstr "nawigacja na stronie"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:87
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:89
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:87 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:89
 msgid "All"
-msgstr ""
+msgstr "Wszystkie"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:23
 msgid "2020 Webby Award Winner Badge"
-msgstr ""
+msgstr "Odznaka zwycięzcy nagrody Webby 2020"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:40
 msgid "Search product name…"
-msgstr ""
+msgstr "Wyszukaj nazwę produktu…"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:48
 msgid "Scroll to see how creepy<br>people find these products!"
@@ -52,15 +52,17 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:58
 msgid "*privacy not included"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:91
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
 msgstr ""
+"W naszym przewodniku konsumenta *Prywatność do nabycia osobno recenzujemy zabawki erotyczne podłączone do sieci. Ta treść jest skierowana do czytelników 18+ i może zawierać drażliwe lub dojrzałe "
+"informacje."
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:96
 msgid "Don’t see the product you’re looking for?"
-msgstr ""
+msgstr "Nie widzisz produktu, którego szukasz?"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:97
 msgid "Let us know what product you would like reviewed in the guide."
