@@ -3,3 +3,10 @@ locales = ["de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR"]
 [[paths]]
 reference = "foundation/translations/locale/django.pot"
 l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/django.po"
+
+[[paths]]
+    reference = "foundation/translations/networkapi/wagtailpages/templates/wagtailpages/pages/locale/django.pot"
+    l10n = "foundation/translations/networkapi/wagtailpages/templates/wagtailpages/pages/locale/{locale}/LC_MESSAGES/django.po"
+    locales = [
+        "de", "es", "fr", "pt-BR"
+    ]
