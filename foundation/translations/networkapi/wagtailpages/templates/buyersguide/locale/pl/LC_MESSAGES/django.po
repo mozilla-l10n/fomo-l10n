@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-26 15:36+0000\n"
+"POT-Creation-Date: 2021-05-03 12:12+0000\n"
 "PO-Revision-Date: 2021-04-10 10:48+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,8 @@ msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "nawigacja na stronie"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:87 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:89
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:87
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:89
 msgid "All"
 msgstr "Wszystkie"
 
@@ -56,9 +57,7 @@ msgstr "*Prywatność do nabycia osobno"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:91
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr ""
-"W naszym przewodniku konsumenta *Prywatność do nabycia osobno recenzujemy zabawki erotyczne podłączone do sieci. Ta treść jest skierowana do czytelników 18+ i może zawierać drażliwe lub dojrzałe "
-"informacje."
+msgstr "W naszym przewodniku konsumenta *Prywatność do nabycia osobno recenzujemy zabawki erotyczne podłączone do sieci. Ta treść jest skierowana do czytelników 18+ i może zawierać drażliwe lub dojrzałe informacje."
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:96
 msgid "Don’t see the product you’re looking for?"
@@ -95,178 +94,178 @@ msgctxt "This can be localized. This is a reference to the “*batteries not inc
 msgid "privacy not included - %(product.title)s"
 msgstr "Prywatność do nabycia osobno — %(product.title)s"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:50
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:46
 msgid "<strong>Warning</strong>: *privacy not included with this product"
 msgstr "<strong>Ostrzeżenie</strong>: *Prywatność dla tego produktu do nabycia osobno"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:62
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:58
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:65
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:61
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:71
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:67
 #, python-format
 msgctxt "Short date format (e.g. 2003/12/31)"
 msgid "Review date: %(date)s"
 msgstr "Data recenzji: %(date)s"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:78
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:74
 msgid "What could happen if something goes wrong"
 msgstr "Co się może stać, jeśli coś pójdzie nie tak"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:96
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:91
 msgid "Privacy"
 msgstr "Prywatność"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:100
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:95
 msgid "Can it snoop on me?"
 msgstr "Czy może mnie podsłuchiwać?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:102
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:97
 msgid "Camera"
 msgstr "Aparat"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:103
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:98
 msgid "Microphone"
 msgstr "Mikrofon"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:104
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:99
 msgid "Tracks Location"
 msgstr "Śledzi położenie"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:121
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:116
 msgid "What is required to sign up?"
 msgstr "Co jest wymagane do rejestracji?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:124
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:119
 msgid "Email"
 msgstr "E-mail"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:125
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:120
 msgid "Phone"
 msgstr "Telefon"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:126
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:121
 msgid "Third party account"
 msgstr "Konto firmy trzeciej"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:146
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:141
 msgid "What data does it collect?"
 msgstr "Jakie dane zbiera?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:149
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:144
 msgid "Personal"
 msgstr "Osobiste"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:150
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:145
 msgid "Biometric"
 msgstr "Biometryczne"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:151
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:146
 msgid "Social"
 msgstr "Społecznościowe"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:166
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:161
 msgid "How does it use this data?"
 msgstr "Jak wykorzystuje te dane?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:172
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:167
 msgid "How can you control your data?"
 msgstr "Jak możesz kontrolować swoje dane?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:175
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:170
 msgid "What is the company’s known track record for protecting users’ data?"
 msgstr "Jaka jest znana historia tej firmy w zakresie ochrony danych użytkowników?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:178
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:173
 msgid "Can this product be used offline?"
 msgstr "Czy ten produkt może być używany bez połączenia z siecią?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:189
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:184
 msgid "User friendly privacy information?"
 msgstr "Przyjazne dla użytkownika informacje o prywatności?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:194
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:189
 msgid "Links to privacy information"
 msgstr "Odnośniki do informacji o prywatności"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:200
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:195
 msgid "Can I control it?"
 msgstr "Czy mogę je kontrolować?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:203
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:198
 msgid "Host controls"
 msgstr "Kontrola gospodarza"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:207
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:202
 msgid "Is it easy to learn and use the features?"
 msgstr "Czy łatwo jest się nauczyć i używać funkcji?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:214
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:209
 msgid "Security"
 msgstr "Bezpieczeństwo"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:216
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:211
 #, python-format
 msgid "Does this product meet our <a id=\"mss-link\" href=\"%(url)s\">Minimum Security Standards</a>?"
 msgstr "Czy ten produkt spełnia nasze <a id=\"mss-link\" href=\"%(url)s\">minimalne standardy bezpieczeństwa</a>?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:221
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:216
 msgctxt "Accessibility label for an accordion toggle"
 msgid "Toggle expandable section"
 msgstr "Przełącz rozwijaną sekcję"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:223
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:218
 msgid "Encryption"
 msgstr "Szyfrowanie"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:224
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:219
 msgid "Security updates"
 msgstr "Aktualizacje zabezpieczeń"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:225
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:220
 msgid "Strong password"
 msgstr "Silne hasło"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:226
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:221
 msgid "Manages vulnerabilities"
 msgstr "Zajmuje się problemami z bezpieczeństwem"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:227
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:222
 msgid "Privacy policy"
 msgstr "Zasady ochrony prywatności"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:239
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:234
 msgid "Artificial Intelligence"
 msgstr "Sztuczna inteligencja"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:241
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:236
 msgid "Does the product use AI?"
 msgstr "Czy produkt wykorzystuje sztuczną inteligencję?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:245
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:240
 msgid "Does the AI use your personal data to make decisions about you?"
 msgstr "Czy sztuczna inteligencja wykorzystuje Twoje prywatne dane do podejmowania dotyczących Ciebie decyzji?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:248
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:243
 msgid "Does the company allow users to see how the AI works?"
 msgstr "Czy firma pozwala użytkownikom sprawdzić, jak działa sztuczna inteligencja?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:260
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:255
 msgid "Company contact info"
 msgstr "Dane kontaktowe firmy"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:279
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:274
 msgid "Updates"
 msgstr "Aktualizacje"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:296
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:291
 msgid "Comments"
 msgstr "Komentarze"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:300
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:295
 msgid "Related products"
 msgstr "Podobne produkty"
