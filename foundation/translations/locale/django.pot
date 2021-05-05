@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-26 15:36+0000\n"
+"POT-Creation-Date: 2021-05-03 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -159,48 +159,48 @@ msgstr ""
 msgid "No thanks"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:689
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1320
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:723
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1354
 msgid "Privacy & security guide"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1229
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1263
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1238
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1272
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1245
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1279
 msgctxt "Noun, media"
 msgid "Press"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1247
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1256
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1265
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1274
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1283
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1281
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1290
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1299
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1308
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1317
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1254
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1288
 msgid "Contact us"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1263
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1297
 msgid "Our methodology"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1272
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1306
 msgid "Our minimum security standards"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1281
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1315
 msgid "Contest terms and conditions"
 msgstr ""
 
@@ -218,7 +218,7 @@ msgstr ""
 msgid "*privacy not included with this product"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:37
+#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:29
 #, python-format
 msgid "link to %(product)s"
 msgstr ""
@@ -326,7 +326,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:58
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:36
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr ""
@@ -345,7 +345,7 @@ msgstr ""
 msgid "More from our blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:39
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:41
 msgid "Comments"
 msgstr ""
 
@@ -426,23 +426,6 @@ msgstr ""
 msgid "Load more results"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/load-more-regrets.html:4
-msgid "Load more stories"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_base.html:47
-msgid "Scroll"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:11
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:12
-msgid "Join Mozilla"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_page.html:16
-msgid "28 reasons why YouTube must change: startling stories of YouTube’s recommendations leading people down bizarre and dangerous paths"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
 #: network-api/networkapi/wagtailpages/utils.py:97
 msgid "Overview"
@@ -468,7 +451,7 @@ msgstr ""
 msgid "MozFest"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:37
 msgid "Loading form…"
 msgstr ""
 
