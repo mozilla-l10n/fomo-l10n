@@ -1,10 +1,10 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-05 08:51+0000\n"
-"PO-Revision-Date: 2021-03-26 16:00+0100\n"
+"PO-Revision-Date: 2021-05-05 09:17+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Pontoon\n"
 
 #: network-api/networkapi/templates/404.html:4
 msgid "Page Not Found"
@@ -38,9 +38,7 @@ msgstr "Retour au contenu"
 msgid "Language"
 msgstr "Langue"
 
-#: network-api/networkapi/templates/pages/base.html:9
-#: network-api/networkapi/templates/partials/footer.html:31
-#: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/pages/base.html:9 network-api/networkapi/templates/partials/footer.html:31 network-api/networkapi/templates/partials/primary_nav.html:45
 msgid "Mozilla Foundation"
 msgstr "Fondation Mozilla"
 
@@ -93,9 +91,7 @@ msgstr "Instagram"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/partials/footer.html:51
-#: network-api/networkapi/templates/partials/primary_nav.html:66
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:27
+#: network-api/networkapi/templates/partials/footer.html:51 network-api/networkapi/templates/partials/primary_nav.html:66 network-api/networkapi/wagtailpages/templates/primary_nav.html:27
 msgid "Donate"
 msgstr "Faire un don"
 
@@ -125,16 +121,18 @@ msgstr "Confidentialité"
 
 #: network-api/networkapi/templates/partials/footer.html:76
 #, python-format
-msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
-msgstr "Mozilla est une organisation internationale à but non lucratif, déterminée à vous faire reprendre le contrôle de votre vie numérique en ligne et à définir l’avenir du Web dans l’intérêt collectif. Plus d’informations sur <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. La majorité du contenu est disponible sous <a href=\"%(cc_website_url)s\">licence Creative Commons</a>."
+msgid ""
+"Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a "
+"href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
+msgstr ""
+"Mozilla est une organisation internationale à but non lucratif, déterminée à vous faire reprendre le contrôle de votre vie numérique en ligne et à définir l’avenir du Web dans l’intérêt collectif. "
+"Plus d’informations sur <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. La majorité du contenu est disponible sous <a href=\"%(cc_website_url)s\">licence Creative Commons</a>."
 
 #: network-api/networkapi/templates/partials/primary_nav.html:18
 msgid "Home"
 msgstr "Accueil"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:21
-#: network-api/networkapi/templates/partials/primary_nav.html:67
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:28
+#: network-api/networkapi/templates/partials/primary_nav.html:21 network-api/networkapi/templates/partials/primary_nav.html:67 network-api/networkapi/wagtailpages/templates/primary_nav.html:28
 msgid "Newsletter"
 msgstr "Lettre d’information"
 
@@ -155,8 +153,7 @@ msgstr "Page d’accueil de la Fondation Mozilla"
 msgid "No thanks"
 msgstr "Non merci"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:723
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1354
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:723 network-api/networkapi/wagtailpages/pagemodels/products.py:1354
 msgid "Privacy & security guide"
 msgstr "Guide d’achat pour la confidentialité et la sécurité"
 
@@ -175,11 +172,8 @@ msgctxt "Noun, media"
 msgid "Press"
 msgstr "Presse"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1281
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1290
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1299
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1308
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1317
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1281 network-api/networkapi/wagtailpages/pagemodels/products.py:1290 network-api/networkapi/wagtailpages/pagemodels/products.py:1299
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1308 network-api/networkapi/wagtailpages/pagemodels/products.py:1317
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*confidentialité non incluse"
@@ -200,8 +194,7 @@ msgstr "Nos critères élémentaires de sécurité"
 msgid "Contest terms and conditions"
 msgstr "Règles et conditions du concours"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7 network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "ce produit comporte du contenu réservé aux adultes"
 
@@ -209,8 +202,7 @@ msgstr "ce produit comporte du contenu réservé aux adultes"
 msgid "Summary"
 msgstr "Sommaire"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:9
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
+#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:9 network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
 msgid "*privacy not included with this product"
 msgstr "*confidentialité non incluse avec ce produit"
 
@@ -244,8 +236,7 @@ msgstr "Essayez de revenir à la catégorie <a href=\"%(home_url)s\" class=\"go-
 msgid "About the Guide"
 msgstr "À propos de ce guide"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:8
+#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:7 network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:8
 msgid "*privacy not included"
 msgstr "*confidentialité non incluse"
 
@@ -253,14 +244,10 @@ msgstr "*confidentialité non incluse"
 msgid "Phone Number"
 msgstr "Numéro de téléphone"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:10
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:19
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:28
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:37
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:23
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:25
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:29
+#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:10 network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:19
+#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:28 network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:37
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:23 network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11 network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:29
 msgid "No"
 msgstr "Non"
 
@@ -277,8 +264,7 @@ msgstr "Adresse électronique"
 msgid "This section requires attention."
 msgstr "Cette section nécessite votre attention."
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:9
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:11
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:9 network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:11
 msgctxt "Unknown rating"
 msgid "Can’t determine"
 msgstr "Impossible à déterminer"
@@ -287,10 +273,8 @@ msgstr "Impossible à déterminer"
 msgid "Not applicable"
 msgstr "Ne s’applique pas"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:17
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:19
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:14
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:27
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:17 network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:14 network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:27
 msgid "Yes"
 msgstr "Oui"
 
@@ -319,10 +303,8 @@ msgstr "*confidentialité non incluse"
 msgid "Privacy Not Included"
 msgstr "Confidentialité non incluse"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:58
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:36
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21 network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:58
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:25 network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:36
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr "%(title)s par @mozilla"
@@ -331,8 +313,7 @@ msgstr "%(title)s par @mozilla"
 msgid "SUMMARY"
 msgstr "SOMMAIRE"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55 network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "J’AGIS"
@@ -349,8 +330,7 @@ msgstr "Commentaires"
 msgid "By"
 msgstr "Par"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:62
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:22 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:62
 msgid "and"
 msgstr "et"
 
@@ -381,8 +361,7 @@ msgstr "Nos domaines d’action"
 msgid "News you can use"
 msgstr "Des actualités à votre service"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:82
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:82
 msgid "Read more news"
 msgstr "Afficher plus d’actualités"
 
@@ -408,7 +387,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
 msgid "Join our <b>Mozilla News</b> email list to take action and stay updated!"
-msgstr ""
+msgstr "Recevez les <b>Actualités Mozilla</b> par courriel pour vous tenir au courant et passer à l’action !"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:35
 #, python-format
@@ -430,8 +409,7 @@ msgstr "supprimer les filtres"
 msgid "Load more results"
 msgstr "Afficher plus de résultats"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
-#: network-api/networkapi/wagtailpages/utils.py:97
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37 network-api/networkapi/wagtailpages/utils.py:97
 msgid "Overview"
 msgstr "Vue d’ensemble"
 
@@ -501,105 +479,63 @@ msgstr "Mauvais"
 #~ msgstr "Rejoindre Mozilla"
 
 #~ msgid "28 reasons why YouTube must change: startling stories of YouTube’s recommendations leading people down bizarre and dangerous paths"
-#~ msgstr "28 raisons pour lesquelles YouTube doit changer : des témoignages édifiants qui racontent comment les recommandations YouTube ont pu mener les internautes sur des voies étranges et dangereuses"
+#~ msgstr ""
+#~ "28 raisons pour lesquelles YouTube doit changer : des témoignages édifiants qui racontent comment les recommandations YouTube ont pu mener les internautes sur des voies étranges et dangereuses"
 
-#, fuzzy
-#~| msgctxt "*privacy not included can be localized."
-#~| msgid "Why we made *privacy not included"
 #~ msgid "Why we made this guide"
 #~ msgstr "Pourquoi avons-nous créé *confidentialité non incluse"
 
-#, fuzzy
-#~| msgctxt "*privacy not included can be localized."
-#~| msgid "How to use *privacy not included"
 #~ msgid "How to use this guide"
 #~ msgstr "Comment utiliser *confidentialité non incluse"
 
-#, fuzzy
-#~| msgid "Our methodology"
 #~ msgid "Methodology"
 #~ msgstr "Notre méthodologie"
 
-#, fuzzy
-#~| msgid "Our minimum security standards"
 #~ msgid "Minimum Security Standards explained"
 #~ msgstr "Nos critères élémentaires de sécurité"
 
-#, fuzzy
-#~| msgctxt "Noun, media"
-#~| msgid "Press"
 #~ msgid "Press"
 #~ msgstr "Presse"
 
-#, fuzzy
-#~| msgid "Contact us"
 #~ msgid "Contact Us"
 #~ msgstr "Nous contacter"
 
-#, fuzzy
-#~| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#~| msgid "*privacy not included"
 #~ msgid "*Privacy Not Included Warning Label"
 #~ msgstr "*confidentialité non incluse"
 
-#, fuzzy
-#~| msgid "Our minimum security standards"
 #~ msgid "Our Minimum Security Standards"
 #~ msgstr "Nos critères élémentaires de sécurité"
 
-#, fuzzy
-#~| msgid "Privacy"
 #~ msgid "Privacy policies"
 #~ msgstr "Confidentialité"
 
-#, fuzzy
-#~| msgid "Our methodology"
 #~ msgid "About our Methodology"
 #~ msgstr "Notre méthodologie"
 
-#, fuzzy
-#~| msgid "Privacy"
 #~ msgid "Privacy Policy"
 #~ msgstr "Confidentialité"
 
-#, fuzzy
-#~| msgid "Our minimum security standards"
 #~ msgid "Minimum Security Standards Explained"
 #~ msgstr "Nos critères élémentaires de sécurité"
 
-#, fuzzy
-#~| msgid "Our minimum security standards"
 #~ msgid "Minimum Security Standards"
 #~ msgstr "Nos critères élémentaires de sécurité"
 
-#, fuzzy
-#~| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#~| msgid "*privacy not included"
 #~ msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
 #~ msgid "*privacy not included | Shop smart and safe"
 #~ msgstr "*confidentialité non incluse"
 
-#, fuzzy
-#~| msgctxt "Tooltip on menu items"
-#~| msgid "main site navigation"
 #~ msgctxt "Tooltip on menu items"
 #~ msgid "site navigation"
 #~ msgstr "navigation principale du site"
 
-#, fuzzy
-#~| msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#~| msgid "*privacy not included"
 #~ msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 #~ msgid "privacy not included - %(product.title)s"
 #~ msgstr "*confidentialité non incluse"
 
-#, fuzzy
-#~| msgid "Privacy"
 #~ msgid "Privacy policy"
 #~ msgstr "Confidentialité"
 
-#, fuzzy
-#~| msgid "Related content"
 #~ msgid "Related products"
 #~ msgstr "Articles connexes"
 
