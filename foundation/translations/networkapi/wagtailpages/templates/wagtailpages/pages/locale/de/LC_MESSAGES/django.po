@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-05 08:51+0000\n"
-"PO-Revision-Date: 2021-05-05 16:44+0000\n"
+"PO-Revision-Date: 2021-05-05 16:54+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -70,11 +70,13 @@ msgstr "*Bitte beachten Sie, dass nur englischsprachige Videos in unsere Analyse
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:51
 msgid "Send any extra details you would like Mozilla to know"
-msgstr ""
+msgstr "Senden Sie alle zusätzlichen Details mit, die Sie Mozilla mitteilen möchten"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:62
 msgid "With the RegretsReporter extension, you can immediately take action to send us recommended videos that you regret watching—like pseudoscience or anti-LGBTQ+ content."
 msgstr ""
+"Mit der RegretsReporter-Erweiterung können Sie sofort Maßnahmen ergreifen, um uns empfohlene Videos zu senden, die Sie sich nicht hätten ansehen wollen – wie Pseudowissenschaften oder Anti-"
+"LGBTQ+-Inhalte."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:64
 msgid ""
@@ -82,52 +84,57 @@ msgid ""
 "answer questions like: what kinds of recommended videos do users regret watching? Are there usage patterns that lead to more regrettable content being recommended? What does a YouTube rabbit hole "
 "look like, and at what point does it become something you wish you never clicked on?"
 msgstr ""
+"Das Berichtsformular wird Sie bitten, uns mehr über YouTube-Videos mitzuteilen, die Sie sich nicht hätten ansehen wollen, und Informationen über die Empfehlungen zu sammeln, die Sie zum Video "
+"geführt haben. Durch Ihre Erfahrungen können Sie uns helfen, Fragen zu beantworten wie: Welche Arten von empfohlenen Videos bereuen Nutzer, sich anzusehen? Gibt es Nutzungsmuster, die dazu führen, "
+"dass beklagenswerte Inhalte empfohlen werden? Wie sieht ein YouTube-Fass ohne Boden aus und an welchem Punkt wird es zu etwas, was Sie am liebsten niemals angeklickt haben?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:79
 msgid "To stay updated on this campaign and our other work, sign up for Mozilla’s newsletter."
-msgstr ""
+msgstr "Um über diese Kampagne und unsere anderen Tätigkeiten auf dem Laufenden zu bleiben, abonnieren Sie Mozillas Newsletter."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:93
 msgid "Let’s work together to make recommendation engines on the internet more trustworthy."
-msgstr ""
+msgstr "Lassen Sie uns zusammenarbeiten, um Empfehlungs-Engines im Internet vertrauenswürdiger zu machen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:99
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:100
 msgid "28 Reasons Why YouTube Must Change"
-msgstr ""
+msgstr "28 Gründe, warum sich YouTube ändern muss"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:103
 msgid "The New York Times"
-msgstr ""
+msgstr "The New York Times"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:104
 msgid "Can YouTube Quiet Its Conspiracy Theorists?"
-msgstr ""
+msgstr "Kann YouTube seine Verschwörungstheoretiker zum Schweigen bringen?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:107
 msgid "MIT Tech Review"
-msgstr ""
+msgstr "MIT Tech Review"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:108
 msgid "YouTube’s algorithm seems to be funneling people to alt-right videos"
-msgstr ""
+msgstr "Der YouTube-Algorithmus scheint die Nutzer zu Alt-Right-Videos zu leiten"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:111
 msgid "Bloomberg"
-msgstr ""
+msgstr "Bloomberg"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:112
 msgid "YouTube Executives Ignored Warnings, Letting Toxic Videos Run Rampant"
-msgstr ""
+msgstr "YouTube-Manager ignorierten Warnungen und ließen toxische Videos grassieren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:118
 msgid ""
 "For years, journalists, researchers, and even former YouTube employees have been telling YouTube that they need to stop their recommendation engine from sending users down racist, conspiratorial, "
 "and other regrettable rabbit holes."
 msgstr ""
+"Seit Jahren sagen Journalisten, Forscher und sogar ehemalige YouTube-Mitarbeiter YouTube, dass sie ihre Empfehlungs-Engine daran hindern müssen, Nutzer in rassistische, verschwörerungstheoretische "
+"und andere beklagenswerte Fässer ohne Boden zu schicken."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:122
 #, python-format
@@ -136,6 +143,9 @@ msgid ""
 "working. Last year, Mozilla gave YouTube <a href=\"%(ways_link)s\" target=\"_blank\">three</a> recommendations to help address this problem in a more open and transparent way. So far, YouTube has "
 "not made these changes."
 msgstr ""
+"YouTube <a href=\"%(claims_link)s\" target=\"_blank\">behauptet,</a> dieses Problem zu beheben, aber alles geschieht hinter verschlossenen Türen, ohne dass die Öffentlichkeit feststellen kann, ob es"
+" tatsächlich funktioniert. Im vergangenen Jahr gab Mozilla YouTube <a href=\"%(ways_link)s\" target=\"_blank\">drei</a> Empfehlungen, um dieses Problem offener und transparenter anzugehen. Bisher "
+"hat YouTube diese Änderungen nicht umgesetzt."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:128
 msgid ""
