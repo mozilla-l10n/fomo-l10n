@@ -5,8 +5,19 @@ reference = "foundation/translations/locale/django.pot"
 l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/django.po"
 
 [[paths]]
+reference = "foundation/translations/locale/djangojs.pot"
+l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/djangojs.po"
+
+[[paths]]
     reference = "foundation/translations/networkapi/wagtailpages/templates/wagtailpages/pages/locale/django.pot"
     l10n = "foundation/translations/networkapi/wagtailpages/templates/wagtailpages/pages/locale/{locale}/LC_MESSAGES/django.po"
     locales = [
         "de", "es", "fr", "fy-NL", "nl", "pt-BR"
+    ]
+
+[[paths]]
+    reference = "foundation/translations/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/locale/django.pot"
+    l10n = "foundation/translations/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/locale/{locale}/LC_MESSAGES/django.po"
+    locales = [
+        "de", "es", "fr", "nl", "pt-BR"
     ]
