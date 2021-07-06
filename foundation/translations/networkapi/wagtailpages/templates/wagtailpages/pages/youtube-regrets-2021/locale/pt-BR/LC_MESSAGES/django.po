@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-06 07:26+0000\n"
-"PO-Revision-Date: 2021-07-06 09:35+0000\n"
+"PO-Revision-Date: 2021-07-06 09:44+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -40,35 +40,37 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:17
 msgid "Reported Videos"
-msgstr ""
+msgstr "Vídeos denunciados"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:18
 msgid "Other Videos"
-msgstr ""
+msgstr "Outros vídeos"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:19
 msgid "views per day"
-msgstr ""
+msgstr "VISUALIZAÇÕES POR DIA"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:24
 msgid "What we do know is that reported videos seemed to accumulate views faster than those that were not."
-msgstr ""
+msgstr "O que sabemos é que os vídeos denunciados pareciam acumular visualizações mais rápido do que aqueles que não o foram."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:25
 msgid "At the time they were reported, YouTube Regrets had a median of 5,794 views per day they were on the platform, while other videos our volunteers watched had only 3,312 views per day."
 msgstr ""
+"Na época em que foram denunciados, os Arrependimentos no YouTube tinham uma média de 5.794 visualizações por dia que estavam na plataforma, enquanto outros vídeos vistos por nossos voluntários "
+"tinham apenas 3.312 visualizações por dia."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_close_button.html:2
 msgid "Close Tab"
-msgstr ""
+msgstr "Fechar aba"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_close_button.html:3
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/categories.html:8
 msgid "The most common reported category was misinformation, especially covid-19 related."
-msgstr ""
+msgstr "A categoria mais denunciada foi a desinformação, especialmente em vídeos relacionados à covid-19."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/categories.html:10
 msgid ""
@@ -77,30 +79,35 @@ msgid ""
 " which ones should either not be on YouTube or not be recommended by YouTube. Of those videos, the most common category applicable was misinformation (especially COVID-19 related). The other largest"
 " categories were violent or graphic content, hate speech, and spam/scams. Other notable categories include child safety, harassment & cyberbullying, and animal abuse."
 msgstr ""
+"Embora nosso estudo considere o amplo espectro do Arrependimentos no YouTube, é importante notar que alguns vídeos são piores do que outros. O YouTube tem Diretrizes da Comunidade que estabelecem as"
+" regras sobre o que é permitido no YouTube e o que não é. Junto com uma equipe de assistentes de pesquisa da Universidade de Exeter, avaliamos os vídeos que nos foram denunciados de acordo com as "
+"Diretrizes da Comunidade e determinamos quais vídeos deveriam ou não estar no YouTube ou não ser recomendados pelo YouTube. Desses vídeos, a principal categoria foi a desinformação (especialmente "
+"relacionada à covid-19). As outras categorias mais comuns foram conteúdo violento ou explícito, discurso de ódio e spam/scams. Outras categorias notáveis incluem segurança infantil, "
+"assédio/cyberbullying e abuso de animais."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/categories.html:16
 msgid "Types of Regretted Content"
-msgstr ""
+msgstr "Tipos de Conteúdo marcado como Arrependimento"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/categories.html:25
 msgid "Read more"
-msgstr ""
+msgstr "Leia mais"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/categories.html:26
 msgid "Read less"
-msgstr ""
+msgstr "Leia menos"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:9
 msgid "YouTube Regrets"
-msgstr ""
+msgstr "Arrependimentos no YouTube"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:11
 msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. <span class=\"fst-italic\">This is what we learned</span>."
-msgstr ""
+msgstr "A Mozilla e 37.380 usuários do YouTube realizaram um estudo para entender melhor as recomendações indesejáveis do YouTube. <span class=\"fst-italic\">Estas foram as nossas constatações.</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:16
 msgid "Download Full Report"
-msgstr ""
+msgstr "Baixe o relatório completo"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:6
 #, python-format
@@ -109,10 +116,13 @@ msgid ""
 " unhealthy body images, and become trapped in bizarre rabbit holes. The more stories we read, the more we realized how central YouTube has become to the lives of so many people — and just how much "
 "YouTube recommendations can impact their wellbeing."
 msgstr ""
+"Em 2019, a Mozilla reuniu <a %(stories_link)s>inúmeras histórias</a> de pessoas cujas vidas foram impactadas pelo algoritmo de recomendação do YouTube. As pessoas foram expostas a desinformação, "
+"criaram imagens físicas pouco saudáveis e ficaram presas em bizarros buracos negros. Quanto mais histórias lemos, mais percebemos como o YouTube tornou-se essencial para a vida de inúmeras pessoas –"
+" e o quanto as recomendações do YouTube podem afetar seu bem-estar."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:11
 msgid "Yet when confronted about its recommendation algorithm, <span class=\"fw-bold\">YouTube’s routine response is to deny and deflect</span>."
-msgstr ""
+msgstr "Porém, ao ser confrontado sobre seu algoritmo de recomendação, o <span class=\"fw-bold\">YouTube responde com negações e desvios de forma sistemática.</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:16
 #, python-format
@@ -120,14 +130,17 @@ msgid ""
 "Faced with this continuous refusal, Mozilla built a browser extension, <a %(reporter_link)s>RegretsReporter</a>, that allows people to donate data about the YouTube videos they regret watching on "
 "YouTube. Through one of the biggest crowdsourced investigations into YouTube, we’ve uncovered new information that warrants urgent attention and action from lawmakers and the public."
 msgstr ""
+"Diante dessa recusa contínua, a Mozilla desenvolveu uma extensão para navegadores, o <a %(reporter_link)s>RegretsReporter</a>, que permite que pessoas informem dados sobre vídeos do YouTube que elas"
+" se arrependem de ter visto na plataforma. Por meio de uma das maiores investigações sobre o YouTube realizadas com a colaboração pública, descobrimos novas informações que merecem a atenção e ação "
+"urgentes por parte das autoridades e do público."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:21
 msgid "We now know that YouTube is recommending videos that violate their very own policies and harm users around the world — and that needs to stop."
-msgstr ""
+msgstr "Sabemos agora que o YouTube está recomendando vídeos que violam suas próprias políticas de conteúdo e prejudicam pessoas em todo o mundo – e isso precisa acabar."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:9
 msgid "Our research is powered by real YouTube users."
-msgstr ""
+msgstr "Nossa pesquisa é baseada em usuários reais do YouTube."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:11
 msgid "Specifically: <span class=\"fw-bold\">37,380 volunteers</span> across <span class=\"fw-bold\">190 countries</span> installed Mozilla’s RegretsReporter browser extensions for Firefox and Chrome."
