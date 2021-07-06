@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-06 21:18+0000\n"
-"PO-Revision-Date: 2021-07-06 21:25+0000\n"
+"PO-Revision-Date: 2021-07-06 21:26+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -382,6 +382,8 @@ msgstr ""
 #, python-format
 msgid "Yet when confronted about its recommendation algorithm, <span class=\"fw-bold\">YouTube’s <a href=\"%(routine_response_url)s\">routine response</a> is to deny and deflect</span>."
 msgstr ""
+"Sin embargo, cuando se piden explicaciones sobre su algoritmo de recomendaciones, <span class=\"fw-bold\">YouTube <a href=\"%(routine_response_url)s\">suele responder</a> con negativas y "
+"evasivas.</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:16
 #, python-format
@@ -390,10 +392,13 @@ msgid ""
 " watching on the platform. Through one of the biggest crowdsourced investigations into YouTube, we’ve uncovered new information that warrants urgent attention and action from lawmakers and the "
 "public."
 msgstr ""
+"Ante semejante rechazo continuo, Mozilla diseñó una extensión del navegador llamada <a %(reporter_link)s>RegretsReporter</a> que permite a los usuarios proporcionar datos sobre los vídeos de YouTube"
+" que lamentan haber visto. A través de una de las mayores investigaciones colaborativas sobre YouTube, hemos sacado a la luz información nueva que justifica la atención y acción urgentes de los "
+"legisladores y del público."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:22
 msgid "We now know that YouTube is recommending videos that violate their very own content policies and harm people around the world — and that needs to stop."
-msgstr ""
+msgstr "Ahora sabemos que YouTube recomienda vídeos que infringen sus propias políticas de contenidos y perjudican a personas de todo el mundo, y esto no puede seguir así."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:9
 msgid "Our research is powered by real YouTube users."
@@ -427,6 +432,9 @@ msgid ""
 " part of our study. Their data — for example, how often they use YouTube — was essential to our understanding of how frequent regrettable experiences are on YouTube and how this varies between "
 "countries."
 msgstr ""
+"Los informes se enviaron <span class=\"fw-bold\">entre julio de 2020 y mayo de 2021</span>. Los voluntarios que descargaron la extensión pero <span class=\"fw-bold\">no</span> presentaron un informe"
+" tuvieron mucho peso en nuestro estudio; sus datos (por ejemplo, lo a menudo que usan YouTube) fueron esenciales para entender con qué frecuencia se producen experiencias lamentables en YouTube y "
+"cómo varían de un país a otro."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:44
 #, python-format
@@ -434,6 +442,9 @@ msgid ""
 "After delving into the data with a team of research assistants from the University of Exeter, Mozilla came away with three major criticisms of YouTube recommendations: from a problematic algorithm "
 "to poor corporate oversight to geographic discrimination. And our <a href=\"%(research_link)s\">past research</a> shows that these problems can inflict lasting harm on people."
 msgstr ""
+"Tras analizar los datos en profundidad junto con un equipo de asistentes de investigación de la Universidad de Exeter, Mozilla hizo tres grandes críticas a las recomendaciones de YouTube: el uso de "
+"un algoritmo problemático, la pésima supervisión corporativa y las disparidades geográficas. Nuestras <a href=\"%(research_link)s\">investigaciones pasadas</a> indican que dichos problemas pueden "
+"infligir daños duraderos a la gente."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:49
 msgid "Here’s what we found"
@@ -463,18 +474,25 @@ msgid ""
 "YouTube’s algorithm drives 700 million hours of watch time on the platform every day. The consequences of this are simply too great to trust them to fix this on their own. Below, find a summary of "
 "Mozilla’s recommendations to YouTube, policymakers, and people who use YouTube. Details on these recommendations can be found in the <a%(report_link)s>full report</a>."
 msgstr ""
+"El algoritmo de YouTube está detrás de 700 millones de horas al día en tiempo de visualización dentro de la plataforma. Las consecuencias de la negligencia algorítmica de YouTube simplemente son "
+"demasiado importantes como para confiar en que lo solucionen solos. Abajo se resumen las recomendaciones de Mozilla a YouTube, los legisladores y los usuarios de la plataforma. Encontrarás más "
+"detalles sobre estas recomendaciones en el <a%(report_link)s>informe completo</a>."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:18
 msgid ""
 "<span class=\"recommendations__accent\">Policymakers</span> must require YouTube to release adequate public data about their algorithm and create research tools and legal protections that allow for "
 "real, independent scrutiny of the platform."
 msgstr ""
+"<span class=\"recommendations__accent\">Los legisladores</span> deben exigir a YouTube que comparta públicamente la información pertinente sobre su algoritmo y crear herramientas de investigación y "
+"protecciones jurídicas que permitan llevar a cabo un escrutinio real e independiente de la plataforma."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:24
 msgid ""
 "<span class=\"recommendations__accent\">YouTube and other companies</span> must publish audits of their algorithm and give people meaningful control over how their data is used for recommendations, "
 "including allowing people to opt-out of personalized recommendations."
 msgstr ""
+"<span class=\"recommendations__accent\">YouTube y otras empresas</span> deben publicar auditorías de sus respectivos algoritmos y permitir que las personas controlen realmente cómo se usan sus datos"
+" para recibir recomendaciones, lo que incluye la posibilidad de desactivar las recomendaciones personalizadas."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:30
 #, python-format
@@ -528,7 +546,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:14
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:28
 msgid "Most of the videos people regret watching come from recommendations."
-msgstr ""
+msgstr "La mayoría de los vídeos que la gente lamenta haber visto proceden de recomendaciones."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:44
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:57
