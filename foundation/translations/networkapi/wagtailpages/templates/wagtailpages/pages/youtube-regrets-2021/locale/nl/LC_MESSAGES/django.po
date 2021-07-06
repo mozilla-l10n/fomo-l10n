@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-06 15:19+0000\n"
+"POT-Creation-Date: 2021-07-06 15:41+0000\n"
 "PO-Revision-Date: 2021-07-06 14:03+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,12 +41,12 @@ msgid "The regrets our volunteers flagged had tons of views, but it’s impossib
 msgstr "De YouTube Regrets die onze vrijwilligers rapporteerden hadden al heel veel views. Maar het is onmogelijk te achterhalen hoeveel views via het YouTube algoritme zijn gerealiseerd. <span class=\"fw-bold\">YouTube geeft deze informatie niet vrij.</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:17
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:26
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:30
 msgid "Reported Videos"
 msgstr "Gerapporteerde Video's"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:18
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:27
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:31
 msgid "Other Videos"
 msgstr "Andere video's"
 
@@ -93,50 +93,54 @@ msgstr ""
 msgid "We found that the rate of regrets is 60%% higher in countries where English is not the primary language."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:11
-msgid "This correlates with statements made by YouTube that suggest they have focused these policy changes on English-speaking countries first."
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:12
+#, python-format
+msgid ""
+"\n"
+"  This correlates with <a href=\"%(statement_link)s\">statements</a> made by YouTube that suggest they have focused these policy changes on English-speaking countries first.\n"
+"  "
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:14
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:18
 msgid "Regrets Rate by Country"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:16
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:20
 msgid "Primary-English"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:17
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:21
 msgid "Primary-non-English"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:22
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:26
 #, python-format
 msgid "*Among countries classified as having English as a primary language, the rate is 10.9 regrets per 10000 videos watched (95%% confidence interval is 10.3 to 11.6). In countries with a non-English primary language, the rate is 17.5 regrets per 10000 videos watched (95%% confidence interval is 16.8 to 18.3)"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:32
 #, python-format
 msgid "36%%"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:29
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:33
 msgid "of non-english videos were pandemic-related"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:30
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:34
 #, python-format
 msgid "14%%"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:31
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:35
 msgid "of english videos were pandemic-related"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:36
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:40
 msgid "We also found that misleading or harmful pandemic-related videos are especially prevalent among non-English regrets."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:41
 #, python-format
 msgid "Of the YouTube Regrets that we determined shouldn’t be on YouTube or shouldn’t be recommended by YouTube, we found that only 14%% of English videos were pandemic-related. But among non-English videos, the rate is 36%%."
 msgstr ""
