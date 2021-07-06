@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-06 21:18+0000\n"
+"POT-Creation-Date: 2021-07-06 23:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,12 +39,10 @@ msgid "The YouTube Regrets our volunteers flagged had tons of views, but it’s 
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:17
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:30
 msgid "Reported Videos"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:18
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:31
 msgid "Other Videos"
 msgstr ""
 
@@ -70,7 +68,7 @@ msgid "In 40%% of cases where recommended YouTube Regrets were taken down from Y
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:7
-msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over 160 average days that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
+msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over an average of 5 months that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:15
@@ -113,29 +111,29 @@ msgstr ""
 msgid "*Among countries classified as having English as a primary language, the rate is 11.0 Regrets per 10000 videos watched (95%% confidence interval is 10.4 to 11.7). In countries with a non-English primary language, the rate is 60%% higher at 17.5 Regrets per 10000 videos watched (95%% confidence interval is 16.8 to 18.3)"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:32
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:30
 #, python-format
 msgid "36%%"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:33
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:31
 msgid "of non-english videos were pandemic-related"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:34
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:32
 #, python-format
 msgid "14%%"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:33
 msgid "of english videos were pandemic-related"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:38
 msgid "We also found that misleading or harmful pandemic-related videos are especially prevalent among non-English regrets."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:41
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:39
 #, python-format
 msgid "Of the YouTube Regrets that we determined shouldn’t be on YouTube or shouldn’t be recommended by YouTube, we found that only 14%% of English videos were pandemic-related. But among non-English videos, the rate is 36%%."
 msgstr ""
@@ -211,7 +209,7 @@ msgid "Download PDF"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/downloads.html:13
-msgid "Contribute your Data to RegretsReporter"
+msgid "Contribute your data to RegretsReporter"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/downloads.html:15
@@ -230,7 +228,7 @@ msgstr ""
 msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. <span class=\"fst-italic\">This is what we learned</span>."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:16
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:15
 msgid "Download Full Report"
 msgstr ""
 
@@ -329,7 +327,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:44
 #, python-format
-msgid "After delving into the data with a team of research assistants from the University of Exeter, Mozilla came away with three major criticisms of YouTube recommendations: from a problematic algorithm to poor corporate oversight to geographic discrimination. And our <a href=\"%(research_link)s\">past research</a> shows that these problems can inflict lasting harm on people."
+msgid "After delving into the data with a team of research assistants from the University of Exeter, Mozilla came away with three major criticisms of YouTube recommendations: from a problematic algorithm to poor corporate oversight to geographic disparities. And our <a href=\"%(research_link)s\">past research</a> shows that these problems can inflict lasting harm on people."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:49
@@ -404,7 +402,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:73
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:86
-msgid "The non-English speaking world is hit the hardest."
+msgid "Non-English speakers are hit the hardest."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:102
