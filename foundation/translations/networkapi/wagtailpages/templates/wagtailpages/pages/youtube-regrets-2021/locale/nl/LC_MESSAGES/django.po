@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-06 07:26+0000\n"
+"POT-Creation-Date: 2021-07-06 11:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,45 +18,98 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:3
-msgid "YouTube Regrets are primarily a result of the recommendation algorithm, meaning videos that YouTube chooses to amplify, rather than videos that people sought out."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:4
-#, python-format
-msgid "71%% of all regret reports came from videos recommended to our users and recommended videos were 1.4 times more likely to be regretted than videos searched for."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:10
-msgid "The regrets our volunteers flagged had tons of views, but it’s impossible to tell how many of those views came from YouTube’s recommendation algorithm, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:17
-msgid "Reported Videos"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:18
-msgid "Other Videos"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:19
-msgid "views per day"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:24
-msgid "What we do know is that reported videos seemed to accumulate views faster than those that were not."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion-section-1.html:25
-msgid "At the time they were reported, YouTube Regrets had a median of 5,794 views per day they were on the platform, while other videos our volunteers watched had only 3,312 views per day."
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_close_button.html:2
 msgid "Close Tab"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_close_button.html:3
 msgid "Close"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:3
+msgid "YouTube Regrets are primarily a result of the recommendation algorithm, meaning videos that YouTube chooses to amplify, rather than videos that people sought out."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:4
+#, python-format
+msgid "71%% of all regret reports came from videos recommended to our users and recommended videos were 1.4 times more likely to be regretted than videos searched for."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:10
+msgid "The regrets our volunteers flagged had tons of views, but it’s impossible to tell how many of those views came from YouTube’s recommendation algorithm, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:17
+msgid "Reported Videos"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:18
+msgid "Other Videos"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:19
+msgid "views per day"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:24
+msgid "What we do know is that reported videos seemed to accumulate views faster than those that were not."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:25
+msgid "At the time they were reported, YouTube Regrets had a median of 5,794 views per day they were on the platform, while other videos our volunteers watched had only 3,312 views per day."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:2
+msgid "Our data shows that YouTube’s algorithm recommended several videos that were later removed from the platform for violating YouTube’s own Community Guidelines."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:4
+#, python-format
+msgid "In 40%% of cases where recommended YouTube Regrets were taken down from YouTube, YouTube did not provide data about the reason why these videos were removed."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:7
+msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over 160 average days that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:15
+msgid "views over ~160 days"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:19
+msgid "views per video"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:25
+msgid "“In coming out to myself and close friends as transgender, <span>my biggest regret was turning to YouTube to hear the stories of other trans and queer people.</span> Simply typing in the word 'transgender' brought up countless videos that were essentially describing my struggle as a mental illness and as something that shouldn't exist. YouTube reminded me why I hid in the closet for so many years."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:30
+msgid "Every now and then YouTube will continue to recommend me a video that tells me that my gender identity is wrong — and it reminds me of how much hate is squarely directed at me and people like me. I'm somewhat older, I've been dealing with these issues internally for a long time and I have therapy to work out these issues, but I can't imagine what it's like for those without access to help. <span>YouTube is a part of my pain in coming out</span> and is a reminder of how terrible this world can be to those who are different. I have to be proud in spite of places like YouTube.”"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:44
+msgid "“When my son was preschool age, he liked to watch 'Thomas the Tank Engine' videos on YouTube. One time when I checked on him, he was watching a video compilation that <span>contained graphic depictions of train wrecks.</span>”"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:57
+msgid "“My eight-year-old granddaughter was using our tablet to watch children's videos; unknowingly as grandparents we thought she was safe. The next day we watched as our granddaughter sat at the dinner table <span>speaking candidly to her parents about her fear of cancer.</span>"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:62
+msgid "As it turned out, in the middle of watching how children with medical challenges can do great, inspirational things, the video turned dark and <span>began showing horrifying, raw footage of rotting skins and disfiguration.</span> Now we are working with her to understand cancer and to not fear eating food or drinking water.”"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:76
+msgid "“My 10-year-old sweet daughter innocently searched for 'tap dance videos' and now is in this spiral of recommended videos of <span>extreme 'dance' and contortionist videos</span> that give her horrible unsafe body-harming and body-image-damaging advice... She is now restricting her eating and drinking. I don’t know <span>how I can undo the damage that’s been done</span> to her impressionable mind.”"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:89
+msgid "“My ex-wife, who has mental health problems, started watching conspiracy videos three years ago and believed every single one. YouTube just kept feeding her paranoia, fear and anxiety one video after another. I kept begging her to stop, but she didn't — she couldn't. <span>At one point she believed a helicopter near the house was the government coming to take her and my daughter away</span> (they were really checking the power lines) and called in a blind panic. Now she's convinced the world is going to end any day now and is an extreme religious fundamentalist."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:94
+msgid "She refuses to even consider professional help because she no longer trusts anyone — especially doctors, the police and any government-run organisation. <span>And YouTube just keeps feeding her more and more of the fear videos.</span> My marriage is now over. Her extraordinary fear has totally consumed her and our life together.”"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/categories.html:8
@@ -182,16 +235,16 @@ msgid "Most videos people regret watching come from recommendations."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:44
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:63
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:57
 msgid "YouTube recommends videos that violate their own policies."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:79
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:98
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:73
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:92
 msgid "The non-English speaking world is hit the hardest."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:114
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:133
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:108
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:129
 msgid "YouTube Regrets can alter people’s lives forever."
 msgstr ""
