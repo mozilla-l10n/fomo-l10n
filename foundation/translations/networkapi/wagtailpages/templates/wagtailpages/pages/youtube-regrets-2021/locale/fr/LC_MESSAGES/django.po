@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-06 15:41+0000\n"
-"PO-Revision-Date: 2021-07-06 15:44+0000\n"
+"PO-Revision-Date: 2021-07-06 15:51+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -123,15 +123,15 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:18
 msgid "Regrets Rate by Country"
-msgstr ""
+msgstr "Taux de Regrets par pays"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:20
 msgid "Primary-English"
-msgstr ""
+msgstr "Principalement anglophones"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:21
 msgid "Primary-non-English"
-msgstr ""
+msgstr "Principalement non anglophones"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:26
 #, python-format
@@ -139,28 +139,30 @@ msgid ""
 "*Among countries classified as having English as a primary language, the rate is 10.9 regrets per 10000 videos watched (95%% confidence interval is 10.3 to 11.6). In countries with a non-English "
 "primary language, the rate is 17.5 regrets per 10000 videos watched (95%% confidence interval is 16.8 to 18.3)"
 msgstr ""
+"*Parmi les pays considérés comme principalement anglophones, le taux est de 11,0 Regrets pour 10 000 vidéos visionnées (intervalle de confiance à 95 %% situé entre 10,4 et 11,7). Dans les pays dont "
+"la langue principale n’est pas l’anglais, ce taux est 1,6 fois supérieur : 17,5 Regrets pour 10 000 vidéos visionnées (intervalle de confiance à 95 %% situé entre 16,8 et 18,3)"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:32
 #, python-format
 msgid "36%%"
-msgstr ""
+msgstr "36 %%"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:33
 msgid "of non-english videos were pandemic-related"
-msgstr ""
+msgstr "DES VIDÉOS NON ANGLOPHONES CONCERNAIENT LA PANDÉMIE"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:34
 #, python-format
 msgid "14%%"
-msgstr ""
+msgstr "14 %%"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:35
 msgid "of english videos were pandemic-related"
-msgstr ""
+msgstr "DES VIDÉOS ANGLOPHONES CONCERNAIENT LA PANDÉMIE"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:40
 msgid "We also found that misleading or harmful pandemic-related videos are especially prevalent among non-English regrets."
-msgstr ""
+msgstr "Nous avons également découvert que les vidéos nocives ou fallacieuses concernant la pandémie étaient particulièrement représentées au sein des Regrets non anglophones."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:41
 #, python-format
@@ -168,14 +170,16 @@ msgid ""
 "Of the YouTube Regrets that we determined shouldn’t be on YouTube or shouldn’t be recommended by YouTube, we found that only 14%% of English videos were pandemic-related. But among non-English "
 "videos, the rate is 36%%."
 msgstr ""
+"Parmi les Regrets YouTube qui, selon nous, ne devraient pas apparaître sur YouTube ou être recommandées par YouTube, nous avons découvert que seulement 14 %% des vidéos anglophones concernent la "
+"pandémie. Ce taux monte à 36 %% pour les vidéos non anglophones."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:7
 msgid "Previous slide"
-msgstr ""
+msgstr "Écran précédent"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:10
 msgid "Next slide"
-msgstr ""
+msgstr "Écran suivant"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:25
 msgid ""
@@ -417,18 +421,25 @@ msgid ""
 "YouTube’s algorithm drives 700 million hours of watch time on the platform every day. The consequences from YouTube’s algorithmic negligence are simply too great to trust them to fix this on their "
 "own. Below, find a summary of Mozilla's recommendations to YouTube, lawmakers, and users. Details on these recommendations can be found in the <a%(report_link)s>full report</a>."
 msgstr ""
+"L’algorithme de YouTube génère 700 millions d’heures de visionnage par jour sur la plateforme. Les conséquences sont donc bien trop importantes pour que YouTube prenne l’initiative de le "
+"retravailler. Vous trouverez ci-dessous un aperçu des recommandations de Mozilla à l’adresse de YouTube, des législateurs et législatrices et des utilisateurs et utilisatrices de YouTube. Vous "
+"pouvez consulter les recommandations détaillées dans <a%(report_link)s>le rapport complet</a>."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:18
 msgid ""
 "<span class=\"recommendations__accent\">Lawmakers</span> must require YouTube to release adequate public data about their algorithm and create research tools and legal safe harbours that allow for "
 "real, independent scrutiny of the platform."
 msgstr ""
+"<span class=\"recommendations__accent\">Les législateurs et législatrices</span> doivent exiger que YouTube fournisse des données publiques au sujet de son algorithme, et créer des outils de "
+"recherche et des protections légales permettant un contrôle efficace et indépendant de la plateforme."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:24
 msgid ""
 "<span class=\"recommendations__accent\">YouTube and other companies operating open content recommendation systems</span> must publish audits of their algorithm and give people meaningful control "
 "over how their data is used for recommendations."
 msgstr ""
+"<span class=\"recommendations__accent\">YouTube et d’autres entreprises</span> doivent publier des audits de leurs algorithmes et offrir aux internautes un véritable contrôle sur la façon dont leurs"
+" données sont utilisées pour fournir des recommandations, ainsi que leur permettre de refuser les recommandations personnalisées."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:30
 #, python-format
@@ -436,12 +447,17 @@ msgid ""
 "<span class=\"recommendations__accent\">People who use YouTube</span> should <a href=\"https://www.youtube.com/watch?v=pt9YCVX7VOk\">get informed</a> about how YouTube recommendations work and <a "
 "href=\"%(download_link)s\">download RegretsReporter</a> to contribute data to future crowdsourced research."
 msgstr ""
+"<span class=\"recommendations__accent\">Les utilisateurs et utilisatrices de YouTube</span> devraient <a href=\"https://www.youtube.com/watch?v=pt9YCVX7VOk\">s’informer</a> sur le fonctionnement des"
+" recommandations YouTube et <a href=\"%(download_link)s\">télécharger RegretsReporter</a> afin de fournir des données aux futurs travaux de recherche participative."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:34
 msgid ""
 "Mozilla will continue to operate RegretsReporter as an independent tool for scrutinising YouTube’s recommendation algorithm. We plan to update the extension to give people an easier way to access "
 "YouTube’s user controls to block unwanted recommendations, and will continue to publish our analysis and future recommendations."
 msgstr ""
+"Mozilla continuera d’utiliser RegretsReporter en tant qu’outil indépendant permettant d’analyser l’algorithme de recommandation de YouTube. Nous souhaitons mettre l’extension à jour pour permettre "
+"aux utilisateurs et utilisatrices d’accéder plus facilement aux contrôles d’utilisation de YouTube afin de bloquer les recommandations indésirables. Nous continuerons également de publier nos "
+"analyses et nos recommandations futures."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/what-is.html:7
 msgid "What is a YouTube Regret?"
