@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-06 11:03+0000\n"
-"PO-Revision-Date: 2021-07-06 12:27+0000\n"
+"PO-Revision-Date: 2021-07-06 12:35+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -186,7 +186,7 @@ msgstr "Mozilla heeft samen met 37.380 YouTube gebruikers een onderzoek gedaan o
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:16
 msgid "Download Full Report"
-msgstr ""
+msgstr "Download volledig rapport"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:6
 #, python-format
@@ -195,10 +195,13 @@ msgid ""
 " unhealthy body images, and become trapped in bizarre rabbit holes. The more stories we read, the more we realized how central YouTube has become to the lives of so many people — and just how much "
 "YouTube recommendations can impact their wellbeing."
 msgstr ""
+"In 2019 heeft Mozilla <a %(stories_link)s>talloze verhalen</a> gedocumenteerd van mensen wiens leven is beïnvloed door de aanbevelingen van YouTube’s algoritme. Mensen werden blootgesteld aan "
+"desinformatie, ze ontwikkelden een ongezond zelfbeeld en kwamen vast te zitten in bizarre digitale doolhoven. Hoe meer verhalen we lazen, hoe meer we ons realiseerden dat Youtube een centrale plek "
+"inneemt in het leven van heel veel mensen en hoeveel impact YouTube aanbevelingen kunnen hebben op hun welzijn."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:11
 msgid "Yet when confronted about its recommendation algorithm, <span class=\"fw-bold\">YouTube’s routine response is to deny and deflect</span>."
-msgstr ""
+msgstr "Maar zodra YouTube wordt geconfronteerd met de aanbevelingen van hun algoritme, <span class=\"fw-bold\">dan is ontkenning en ontwijking hun standaard reactie.</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:16
 #, python-format
@@ -206,34 +209,39 @@ msgid ""
 "Faced with this continuous refusal, Mozilla built a browser extension, <a %(reporter_link)s>RegretsReporter</a>, that allows people to donate data about the YouTube videos they regret watching on "
 "YouTube. Through one of the biggest crowdsourced investigations into YouTube, we’ve uncovered new information that warrants urgent attention and action from lawmakers and the public."
 msgstr ""
+"Gevoed door deze voortdurende stroom van ontkenning, besloot Mozilla een browserextensie te ontwikkelen: <a %(reporter_link)s>RegretsReporter</a>. Deze stelt mensen in staat data te delen over de "
+"YouTube video's waar ze spijt van hebben dat ze deze hebben bekeken. Door een van de grootste onderzoeken naar YouTube met behulp van crowdsourcing, hebben we nieuwe informatie kunnen blootleggen "
+"die vraagt om dringende aandacht en actie van wetgevers en het publiek."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:21
 msgid "We now know that YouTube is recommending videos that violate their very own policies and harm users around the world — and that needs to stop."
-msgstr ""
+msgstr "We weten dat YouTube video's aanbeveelt die hun eigen contentbeleid schendt en die mensen schaadt over de hele wereld. Dit moet stoppen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:9
 msgid "Our research is powered by real YouTube users."
-msgstr ""
+msgstr "Ons onderzoek is uitgevoerd onder echte YouTube gebruikers."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:11
 msgid "Specifically: <span class=\"fw-bold\">37,380 volunteers</span> across <span class=\"fw-bold\">190 countries</span> installed Mozilla’s RegretsReporter browser extensions for Firefox and Chrome."
 msgstr ""
+"Details: <span class=\"fw-bold\">37.380 vrijwilligers</span> verdeeld over <span class=\"fw-bold\">190 landen</span> hebben Mozilla’s RegretsReporter browserextensies geïnstalleerd voor Firefox en "
+"Chrome."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:15
 msgid "For this report, We gathered from"
-msgstr ""
+msgstr "DIT RAPPORT IS GEBASEERD OP"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:23
 msgid "Reports"
-msgstr ""
+msgstr "MELDINGEN"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:27
 msgid "Volunteers"
-msgstr ""
+msgstr "VRIJWILLIGERS"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:31
 msgid "Countries"
-msgstr ""
+msgstr "LANDEN"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:39
 msgid ""
@@ -241,6 +249,9 @@ msgid ""
 " part of our study. Their passive data — for example, how often they use YouTube — was essential to our understanding of how frequent regrettable experiences are on YouTube and how this varies "
 "between countries."
 msgstr ""
+"De meldingen zijn ingestuurd tussen <span class=\"fw-bold\">juli 2020 - mei 2021</span>. De vrijwilligers die de extensies hebben gedownload, maar geen melding hebben gemaakt vormden een belangrijk "
+"onderdeel van ons onderzoek. Deze data — bijvoorbeeld hoe vaak men YouTube gebruikt — was essentieel voor ons inzicht hoe vaak betreurenswaardige ervaringen op YouTube voorkomen en hoe dit tussen "
+"landen varieert."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:44
 #, python-format
@@ -248,18 +259,21 @@ msgid ""
 "After delving into the data with a team of research assistants from the University of Exeter, Mozilla came away with three major criticisms of YouTube recommendations: from a problematic algorithm "
 "to poor corporate oversight to geographic discrimination. —And our <a href=\"%(research_link)s\">past research</a> shows that these problems can inflict lasting harm on people."
 msgstr ""
+"Nadat de data was geanalyseerd door een team van onderzoeksassistenten verbonden aan de University of Exeter, formuleerde Mozilla drie hoofdpunten van kritiek met betrekking tot YouTube "
+"aanbevelingen: van het problematische algoritme tot slecht bedrijfstoezicht en geografische ongelijkheden. En met behulp van <a href=\"%(research_link)s\">onderzoeken uit het verleden</a> weten we "
+"dat deze problemen kunnen zorgen voor blijvende schade bij mensen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:49
 msgid "Here’s what we found"
-msgstr ""
+msgstr "Dit zijn onze bevindingen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:50
 msgid "(Click to read more)"
-msgstr ""
+msgstr "(KLIK OM MEER TE LEZEN)"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/quote.html:8
 msgid "We set <span class=\"quote__highlight\">a high bar</span> for what videos we display prominently in our recommendations on the YouTube homepage or through the 'Up next' panel."
-msgstr ""
+msgstr "We stellen <span class=\"quote__highlight\">hoge eisen</span> aan de video's die prominent worden weergegeven in onze aanbevelingen op de YouTube homepage of via het 'volgende' paneel."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/quote.html:12
 msgid "Youtube’s blog"
@@ -267,7 +281,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/what-is.html:7
 msgid "What is a YouTube Regret?"
-msgstr ""
+msgstr "Wat is een YouTube Regret?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/what-is.html:10
 #, python-format
@@ -276,6 +290,9 @@ msgid ""
 " leading people down bizarre and sometimes dangerous pathways. We have intentionally steered away from strictly defining what “counts” as a YouTube Regret to allow people to define the full spectrum"
 " of regrettable experiences that they have on YouTube."
 msgstr ""
+"Het concept van een 'YouTube Regret' komt voort uit een <a href=\"%(campaign_link)s\">crowdsourcing campagne</a> uit 2019, opgezet door Mozilla. Hierbij werden gevallen gedocumenteerd waarbij "
+"YouTube’s algoritme aanbevelingen heeft gedaan, waardoor mensen bizarre en soms gevaarlijke video's te zien kregen. We zijn hierbij bewust weggebleven van een specifieke \"definitie\" voor YouTube "
+"Regret, zodat we een totaalbeeld konden krijgen van betreurenswaardige ervaringen die mensen via YouTube hebben gehad."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/what-is.html:15
 #, python-format
