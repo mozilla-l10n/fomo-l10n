@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-08 23:32+0000\n"
-"PO-Revision-Date: 2021-07-09 05:56+0000\n"
+"PO-Revision-Date: 2021-07-09 05:59+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -91,7 +91,7 @@ msgstr "weergaven in ~ 5 maanden"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:19
 msgid "views per video"
-msgstr ""
+msgstr "weergaven per video"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:4
 #, python-format
@@ -99,6 +99,8 @@ msgid ""
 "When YouTube is called out for recommending borderline content, the company usually boasts that their policy changes have led to a “70%% average drop in watch time of this content coming from non-"
 "subscribed recommendations in the U.S.” <span class=\"fw-bold\">But what about the rest of the world?</span>"
 msgstr ""
+"Zodra YouTube wordt geconfronteerd met het feit dat ze twijfelachtige inhoud aanbevelen, schept het bedrijf doorgaans op dat hun beleidsaanpassingen hebben geleid tot ‘gemiddeld 70%% vermindering "
+"van de kijktijd van dit type inhoud, via niet-geabonneerde aanbevelingen in de VS.’ <span class=\"fw-bold\">Maar hoe zit het met de rest van de wereld?</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:9
 #, python-format
@@ -108,9 +110,7 @@ msgstr "We hebben geconcludeerd dat het aantal Regrets 60%% hoger is in landen w
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:12
 #, python-format
 msgid "This correlates with <a href=\"%(statement_link)s\">statements</a> made by YouTube that suggest they have focused these policy changes on English-speaking countries first."
-msgstr ""
-"Dit houdt verband met de <a href=\"%(statement_link)s\">verklaringen</a> van YouTube die suggereren dat ze in eerste instantie met deze beleidswijzigingen hebben gefocust op niet-Engels sprekende "
-"landen."
+msgstr "Dit is in lijn met de <a href=\"%(statement_link)s\">verklaringen</a> van YouTube die suggereren dat ze in eerste instantie met deze beleidswijzigingen hebben gefocust op Engelstalige landen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:18
 msgid "Regrets Rate by Country"
@@ -118,11 +118,11 @@ msgstr "Aantal Regrets per land"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:20
 msgid "Primary-English"
-msgstr "Engels als voertaal"
+msgstr "Engelstalig"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:21
 msgid "Primary-non-English"
-msgstr "Geen Engels als voertaal"
+msgstr "Niet-Engelstalig"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:28
 #, python-format
@@ -130,8 +130,6 @@ msgid ""
 "*Among countries classified as having English as a primary language, the rate is 11.0 Regrets per 10000 videos watched (95%% confidence interval is 10.4 to 11.7). In countries with a non-English "
 "primary language, the rate is 60%% higher at 17.5 Regrets per 10000 videos watched (95%% confidence interval is 16.8 to 18.3)"
 msgstr ""
-"*Onder de landen die zijn geclassificeerd met Engels als voertaal, is de verhouding 11,0 Regrets per 10.000 bekeken video's (95%% betrouwbaarheidsinterval, van 10,4 tot 11,7). In landen waar Engels "
-"niet de voertaal is, is de verhouding 1,6 keer hoger: 17,5 Regrets per 10.000 bekeken video's (95%% betrouwbaarheidsinterval, van 16,8 tot 18,3)"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:32
 #, python-format
