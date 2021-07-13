@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-08 23:32+0000\n"
+"POT-Creation-Date: 2021-07-13 20:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,10 +241,11 @@ msgstr ""
 msgid "July 2021"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:236
-msgid "Using data contributed by 37,380 RegretsReporter users, Mozilla releases first findings into YouTube's recommendations."
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:237
+#, python-format
+msgid "Using data contributed by 37,380 RegretsReporter users, Mozilla releases first <a href=\"%(link)s\" target=\"_blank\">findings</a> into YouTube's recommendations."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:240
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:244
 msgid "next timeline segment"
 msgstr ""
