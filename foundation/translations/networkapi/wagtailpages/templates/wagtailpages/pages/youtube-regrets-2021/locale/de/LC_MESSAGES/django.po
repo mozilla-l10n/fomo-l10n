@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-13 20:31+0000\n"
+"POT-Creation-Date: 2021-09-10 07:55+0000\n"
 "PO-Revision-Date: 2021-07-07 15:57+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -140,25 +140,15 @@ msgstr "Wir haben außerdem herausgefunden, dass irreführende oder schädliche 
 msgid "Of the YouTube Regrets that we determined shouldn’t be on YouTube or shouldn’t be recommended by YouTube, we found that only 14%% of English videos were pandemic-related. But among non-English videos, the rate is 36%%."
 msgstr "Von den YouTube Regrets, die sich nach unseren Erkenntnissen nicht auf YouTube befinden sollten bzw. nicht von YouTube empfohlen werden sollten, waren laut unseren Untersuchungen nur 14 %% der englischsprachigen Videos pandemiebezogen. Unter den nicht englischsprachigen Videos liegt die Quote bei 36 %%."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:7
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:16
-msgid "Previous slide"
-msgstr "Vorherige Folie"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:10
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:19
-msgid "Next slide"
-msgstr "Nächste Folie"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:25
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:16
 msgid "“In coming out to myself and close friends as transgender, <span>my biggest regret was turning to YouTube to hear the stories of other trans and queer people.</span> Simply typing in the word 'transgender' brought up countless videos that were essentially describing my struggle as a mental illness and as something that shouldn't exist. YouTube reminded me why I hid in the closet for so many years."
 msgstr "„<span>Ich bereue, dass ich auf YouTube nach Erfahrungsberichten von anderen Leuten mit transgender oder queerem Hintergrund gesucht habe</span>, als ich mich meinen Freunden und mir selbst gegenüber als Transgender geoutet habe. Allein durch die Eingabe von „Transgender“ in das Suchfeld wurden mir zahllose Videos angezeigt, die meine Probleme als psychische Erkrankung und etwas darstellten, dass es eigentlich nicht geben sollte. YouTube machte mir klar, warum ich mich jahrelang nicht geoutet hatte."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:30
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:23
 msgid "Every now and then YouTube will continue to recommend me a video that tells me that my gender identity is wrong — and it reminds me of how much hate is squarely directed at me and people like me. I'm somewhat older, I've been dealing with these issues internally for a long time and I have therapy to work out these issues, but I can't imagine what it's like for those without access to help. <span>YouTube is a part of my pain in coming out</span> and is a reminder of how terrible this world can be to those who are different. I have to be proud in spite of places like YouTube.”"
 msgstr "Ab und an bekomme ich von YouTube immer noch Inhalte vorgeschlagen, die meine Gender-Identität als falsch bezeichnen; das erinnert mich dann an den Hass, der mir und Leuten wie mir entgegengebracht wird. Ich bin jetzt ein bisschen älter und habe mich mit diesen Problemen schon länger auseinandergesetzt – auch durch Therapie – aber kann mir gut vorstellen, wie es Leuten damit geht, die solche Hilfe nicht in Anspruch nehmen können. <span>YouTube trägt eine Mitschuld daran, dass mein Outing so schmerzhaft war</span> und erinnert mich daran, wie gemein die Welt zu denen ist, die anders sind. Ich muss trotz Plattformen wie YouTube stolz sein.“"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:44
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:41
 msgid "“When my son was preschool age, he liked to watch 'Thomas the Tank Engine' videos on YouTube. One time when I checked on him, he was watching a video compilation that <span>contained graphic depictions of train wrecks.</span>”"
 msgstr "„Im Vorschulalter schaute mein Sohn gern Videos von Thomas, der kleinen Lokomotive. Das lief auch gut, bis ich einmal sah, dass ihm nun ein Zusammenschnitt von <span>ziemlich heftigen Zugunglücken gezeigt wurde</span>.“"
 
@@ -166,21 +156,31 @@ msgstr "„Im Vorschulalter schaute mein Sohn gern Videos von Thomas, der kleine
 msgid "“My eight-year-old granddaughter was using our tablet to watch children's videos; unknowingly as grandparents we thought she was safe. The next day we watched as our granddaughter sat at the dinner table <span>speaking candidly to her parents about her fear of cancer.</span>"
 msgstr "„Meine achtjährige Enkeltochter schaute auf unserem Tablet Kindervideos. Wir als Großeltern dachten, da wäre nichts dabei. Bis wir am nächsten Tag beim Abendessen mitbekamen, wie unsere Enkeltochter <span>mit ihren Eltern über ihre Angst vor Krebs sprach.</span>"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:62
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:63
 msgid "As it turned out, in the middle of watching how children with medical challenges can do great, inspirational things, the video turned dark and <span>began showing horrifying, raw footage of rotting skins and disfiguration.</span> Now we are working with her to understand cancer and to not fear eating food or drinking water.”"
 msgstr "Es stellte sich dann heraus, dass ein Video, das zunächst davon handelte, wie Kinder mit Krankheiten tolle Dinge erreichen können, plötzlich Bilder davon zeigte, <span>was Krebs mit der Haut und den Knochen von Kindern macht. Das Video, wie unsere Enkeltochter es beschrieb, war gruselig und voller Bilder von verrottender Haut und Entstellungen.</span> Wir arbeiten jetzt mit ihr daran, Krebs als Krankheit zu verstehen und keine Angst davor zu haben, zu essen oder Wasser zu trinken.“"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:76
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:80
 msgid "“My 10-year-old sweet daughter innocently searched for 'tap dance videos' and now is in this spiral of recommended videos of <span>extreme 'dance' and contortionist videos</span> that give her horrible unsafe body-harming and body-image-damaging advice... She is now restricting her eating and drinking. I don’t know <span>how I can undo the damage that’s been done</span> to her impressionable mind.”"
 msgstr "„Meine zehnjährige Tochter hat einfach nur nach Stepptanzvideos gesucht, und ist stattdessen auf Videos gestoßen, <span>in denen Tänzer gefährliche Tipps geben</span>, die ihre Körperwahrnehmung beeinträchtigen können. … Sie hat sogar angefangen, sehr kontrolliert zu essen und zu trinken. Ich weiß nicht, <span>wie ich den Schaden, der bei ihr angerichtet wurde</span>, je wiedergutmachen kann.“"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:89
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:96
 msgid "“My ex-wife, who has mental health problems, started watching conspiracy videos three years ago and believed every single one. YouTube just kept feeding her paranoia, fear and anxiety one video after another. I kept begging her to stop, but she didn't — she couldn't. <span>At one point she believed a helicopter near the house was the government coming to take her and my daughter away</span> (they were really checking the power lines) and called in a blind panic. Now she's convinced the world is going to end any day now and is an extreme religious fundamentalist."
 msgstr "„Meine Exfrau, die Probleme mit ihrer psychischen Gesundheit hat, begann vor drei Jahren, Videos über Verschwörungen anzusehen, und glaubte jede einzelne von ihnen. YouTube trug mit jedem neuen vorgeschlagenen Video zu ihrer Paranoia und ihren Angstzuständen bei. Ich habe sie immer wieder gebeten, sich keine Videos mehr anzusehen, aber sie konnte es nicht. <span>Es wurde so schlimm, dass sie davon überzeugt war, der Hubschrauber, der irgendwo in der Nähe zu hören war, wäre die Regierung, die gekommen war, um sie und meine Tochter zu holen</span>, und rief mich panisch an (in Wirklichkeit wurden die Hochspannungsleitungen überprüft). Mittlerweile ist sie vom Untergang der Welt in naher Zukunft überzeugt und gehört einer Gruppe extrem religiöser Fundamentalisten an."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:94
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel.html:104
 msgid "She refuses to even consider professional help because she no longer trusts anyone — especially doctors, the police and any government-run organisation. <span>And YouTube just keeps feeding her more and more of the fear videos.</span> My marriage is now over. Her extraordinary fear has totally consumed her and our life together.”"
 msgstr "Sie verweigert alle Hilfe, weil sie niemandem mehr traut – insbesondere Ärzten, der Polizei oder von der Regierung beauftragten Organisationen. <span>YouTube empfiehlt ihr weiterhin Videos, die ihre Ängste verstärken.</span> Unsere Ehe ist gescheitert. Ihre Angstzustände haben unser gemeinsames Leben verschluckt.“"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel_controls.html:5
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:16
+msgid "Previous slide"
+msgstr "Vorherige Folie"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/carousel_controls.html:8
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:19
+msgid "Next slide"
+msgstr "Nächste Folie"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/categories.html:8
 msgid "The most common reported category was misinformation, especially covid-19 related."
@@ -234,49 +234,49 @@ msgstr "Mozilla führte mit Unterstützung von 37.380 YouTube-Nutzern eine Studi
 msgid "Download Full Report"
 msgstr "Vollständigen Bericht herunterladen"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:8
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:7
 msgid "Sometimes YouTube Regrets are"
 msgstr "YouTube Regrets sind unter anderem …"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:33
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:52
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:75
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:32
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:51
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:74
 msgid "Your browser does not support the video tag."
 msgstr "Ihr Browser unterstützt das Video-Tag nicht."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:34
 msgid "Global Warming: Fact or Fiction? Featuring Physicists Willie Soon and Elliott D. Bloom"
 msgstr "„Global Warming: Fact or Fiction? Featuring Physicists Willie Soon and Elliott D. Bloom“"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:38
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:37
 msgid "Misleading"
 msgstr "… irreführend"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:39
 msgid "A volunteer reported that they were surprised to see a video denying climate change suggested after they watched a Mozilla video!"
 msgstr "Ein freiwilliger Teilnehmer berichtete, von einem Klimawandelleugner-Video überrascht worden zu sein, das ihm vorgeschlagen wurde, nachdem er sich ein Mozilla-Video angesehen hatte."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:55
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:54
 msgid "Omar Connected Harvester SEEN Exchanging $200 for General Election Ballot. “We don’t care illegal.”"
 msgstr "„Omar Connected Harvester SEEN Exchanging $200 for General Election Ballot. 'We don’t care illegal'.“"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:61
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:60
 msgid "Untrue"
 msgstr "… unwahr"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:63
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:62
 msgid "A volunteer reported that despite mainly watching wilderness survival videos and no right-wing politics, they were recommended a video spreading an unfounded claim about U.S. Representative Ilhan Omar and voter fraud in the 2020 U.S. elections."
 msgstr "Ein Freiwilliger berichtete, dass ihm, obwohl er hauptsächlich Videos zum Thema Überleben in der Wildnis und keine zu rechter Politik angesehen habe, ein Video empfohlen wurde, das eine unbegründete Behauptung über den US-Abgeordneten Ilhan Omar und den Wahlbetrug bei den US-Wahlen 2020 verbreitete."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:78
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:77
 msgid "Man hum1liates f3m1n1st in v1ral video"
 msgstr "„Man hum1liates f3m1n1st in v1ral video“"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:82
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:81
 msgid "Offensive"
 msgstr "… beleidigend"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:84
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero_carousel.html:83
 msgid "A volunteer reported a video where the narrator claims to “completely shut down and embarass three women that have opinions about how society should be in first world feminist countries” that was recommended after watching videos about the U.S. military."
 msgstr "Ein Freiwilliger berichtete über ein Video, in dem der Erzähler behauptet, er habe „drei Frauen völlig bloßgestellt und blamiert, die Ansichten über das Gesellschaftsbild in feministischen Ländern der ersten Welt haben“, das empfohlen wurde, nachdem er Videos über das US-Militär gesehen hatte."
 
@@ -352,25 +352,25 @@ msgstr "YouTube-Blog"
 msgid "Our recommendation: Urgent action must be taken to rein in YouTube’s algorithm."
 msgstr "Unsere Empfehlung: Es müssen dringend Maßnahmen ergriffen werden, um den Algorithmus von YouTube zu regulieren."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:13
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:14
 #, python-format
 msgid "YouTube’s algorithm drives 700 million hours of watch time on the platform every day. The consequences of this are simply too great to trust them to fix this on their own. Below, find a summary of Mozilla’s recommendations to YouTube, policymakers, and people who use YouTube. Details on these recommendations can be found in the <a%(report_link)s>full report</a>."
 msgstr "Durch seinen Algorithmus bringt YouTube es auf eine Anzeigedauer von täglich 700 Millionen Stunden auf seiner Plattform. Die entsprechenden Auswirkungen sind schlicht zu gravierend, um es YouTube zu überlassen, das Problem selbst zu lösen. Nachfolgend finden Sie eine Zusammenfassung der Empfehlungen von Mozilla an YouTube, Entscheidungsträger und YouTube-Nutzer. Einzelheiten zu diesen Empfehlungen finden Sie im <a%(report_link)s>vollständigen Bericht</a>."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:18
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:19
 msgid "<span class=\"recommendations__accent\">Policymakers</span> must require YouTube to release adequate public data about their algorithm and create research tools and legal protections that allow for real, independent scrutiny of the platform."
 msgstr "<span class=\"recommendations__accent\">Entscheidungsträger</span> müssen von YouTube die Veröffentlichung adäquater öffentlicher Daten über seinen Algorithmus verlangen und Forschungsinstrumente und rechtliche Maßnahmen entwickeln, die eine echte, unabhängige Überprüfung der Plattform ermöglichen."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:24
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:25
 msgid "<span class=\"recommendations__accent\">YouTube and other companies</span> must publish audits of their algorithm and give people meaningful control over how their data is used for recommendations, including allowing people to opt-out of personalized recommendations."
 msgstr "<span class=\"recommendations__accent\">YouTube und andere Unternehmen</span> müssen Audits ihrer Algorithmen veröffentlichen und Nutzern die Möglichkeit bieten, die Verwendung ihrer Daten für Empfehlungen angemessen zu kontrollieren, einschließlich der Option, personalisierte Empfehlungen abzulehnen."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:30
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:31
 #, python-format
 msgid "<span class=\"recommendations__accent\">People who use YouTube</span> should <a href=\"https://www.youtube.com/watch?v=pt9YCVX7VOk\">get informed</a> about how YouTube recommendations work and <a href=\"%(download_link)s\">download RegretsReporter</a> to contribute data to future crowdsourced research."
 msgstr "<span class=\"recommendations__accent\">Menschen, die YouTube nutzen</span>, sollten über die Funktionsweise von YouTube-Empfehlungen <a href=\"https://www.youtube.com/watch?v=pt9YCVX7VOk\">informiert werden</a> und <a href=\"%(download_link)s\">RegretsReporter herunterladen</a>, um Daten zu künftigen, per Crowdsourcing finanzierten Recherchen beizutragen."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:34
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/recommendations.html:35
 msgid "Mozilla will continue to operate RegretsReporter as an independent tool for scrutinising YouTube’s recommendation algorithm. We plan to update the extension to give people an easier way to access YouTube’s user controls to block unwanted recommendations, and will continue to publish our analysis and future recommendations."
 msgstr "Mozilla wird RegretsReporter weiterhin als unabhängiges Tool zur Untersuchung des Empfehlungsalgorithmus von YouTube anbieten. Wir planen, die Erweiterung zu aktualisieren, um Menschen einen einfacheren Zugang zu den Nutzerkontrollen von YouTube zu ermöglichen und unerwünschte Empfehlungen zu blockieren, und wir werden weiterhin Analysen und Empfehlungen veröffentlichen."
 
@@ -408,7 +408,7 @@ msgid "Non-English speakers are hit the hardest."
 msgstr "Nutzer in nicht englischsprachigen Ländern sind am stärksten betroffen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:102
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:123
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:117
 msgid "YouTube Regrets can alter people’s lives forever."
 msgstr "YouTube Regrets können sich nachhaltig auf das Leben von Menschen auswirken."
 
