@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-20 14:54+0000\n"
+"POT-Creation-Date: 2021-10-22 14:21+0000\n"
 "PO-Revision-Date: 2021-06-29 12:54+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: \n"
@@ -159,48 +159,67 @@ msgstr "Startside Mozilla Foundation"
 msgid "No thanks"
 msgstr "Nee, tankewol"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:860
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1557
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:244
+msgid "Not creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:245
+msgid "A little creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:246
+msgid "Somewhat creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:247
+msgid "Very creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:248
+msgid "Super creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:901
 msgid "Privacy & security guide"
 msgstr "Privacy- en befeiligingsgids"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1444
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1543
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Gebrûk fan *privacy net ynbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1453
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1552
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Wêrom't wy *privacy net ynbegrepen makke hawwe"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1460
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1559
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Parse"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1462
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1471
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1480
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1489
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1498
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1561
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1570
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1579
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1588
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1597
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy net ynbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1469
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1568
 msgid "Contact us"
 msgstr "Kontakt"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1478
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1577
 msgid "Our methodology"
 msgstr "Us metodyk"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1487
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1586
 msgid "Our minimum security standards"
 msgstr "Us minimale befeiligingsnoarmen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1496
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1595
 msgid "Contest terms and conditions"
 msgstr "Wedstriidbetingsten"
 
@@ -253,31 +272,6 @@ msgstr "Oer de gids"
 msgid "*privacy not included"
 msgstr "*privacy net ynbegrepen"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:6
-msgid "Phone Number"
-msgstr "Telefoannûmer"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:10
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:19
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:28
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:37
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:23
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:25
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:22
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:38
-msgid "No"
-msgstr "Nee"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:15
-msgid "Live Chat"
-msgstr "Livechat"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_contact.html:24
-msgctxt "Label"
-msgid "Email"
-msgstr "E-mailadres"
-
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion.html:4
 msgid "This section requires attention."
 msgstr "Dizze seksje freget omtinken."
@@ -299,6 +293,14 @@ msgstr "Net fan tapassing"
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:36
 msgid "Yes"
 msgstr "Ja"
+
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:23
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:22
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:38
+msgid "No"
+msgstr "Nee"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:3
 msgid "How are your recordings handled?"
@@ -536,6 +538,16 @@ msgstr "Ferbettering nedich"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Min"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefoannûmer"
+
+#~ msgid "Live Chat"
+#~ msgstr "Livechat"
+
+#~ msgctxt "Label"
+#~ msgid "Email"
+#~ msgstr "E-mailadres"
 
 #~ msgid "Protect the internet as a global public resource"
 #~ msgstr "Beskermje it ynternet as in wrâldwide iepenbiere boarne"

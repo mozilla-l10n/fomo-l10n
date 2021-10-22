@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-20 14:54+0000\n"
+"POT-Creation-Date: 2021-10-22 14:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,14 +18,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:18
-msgctxt "Pause button for video"
-msgid "PAUSE VIDEO"
+#: network-api/networkapi/mozfest/templates/fragments/hero/carousel_hero.html:30
+msgid "Watch last year’s recap video"
 msgstr ""
 
-#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:21
+#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15
+msgid "Watch Video"
+msgstr ""
+
+#: network-api/networkapi/mozfest/templates/fragments/hero/hardcoded_video_hero.html:17
+msgctxt "Pause button for video"
+msgid "Pause video"
+msgstr ""
+
+#: network-api/networkapi/mozfest/templates/fragments/hero/hardcoded_video_hero.html:20
 msgctxt "Play button for video"
-msgid "PLAY VIDEO"
+msgid "Play video"
 msgstr ""
 
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:6
@@ -44,10 +52,6 @@ msgstr ""
 
 #: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:16
 msgid "Mozilla Festival"
-msgstr ""
-
-#: network-api/networkapi/mozfest/templates/partials/homepage_banner.html:10
-msgid "Watch Video"
 msgstr ""
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:28

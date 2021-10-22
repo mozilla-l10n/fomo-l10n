@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-20 14:54+0000\n"
+"POT-Creation-Date: 2021-10-22 14:21+0000\n"
 "PO-Revision-Date: 2021-02-22 10:03+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,15 +19,23 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:18
-msgctxt "Pause button for video"
-msgid "PAUSE VIDEO"
-msgstr "FIDEO PAUZEARJE"
+#: network-api/networkapi/mozfest/templates/fragments/hero/carousel_hero.html:30
+msgid "Watch last year’s recap video"
+msgstr ""
 
-#: network-api/networkapi/mozfest/templates/fragments/hero/large.html:21
+#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15
+msgid "Watch Video"
+msgstr "Fideo besjen"
+
+#: network-api/networkapi/mozfest/templates/fragments/hero/hardcoded_video_hero.html:17
+msgctxt "Pause button for video"
+msgid "Pause video"
+msgstr ""
+
+#: network-api/networkapi/mozfest/templates/fragments/hero/hardcoded_video_hero.html:20
 msgctxt "Play button for video"
-msgid "PLAY VIDEO"
-msgstr "FIDEO ÔFSPYLJE"
+msgid "Play video"
+msgstr ""
 
 #: network-api/networkapi/mozfest/templates/mozfest/404.html:6
 msgid "Mozilla Festival - Page Not Found"
@@ -46,10 +54,6 @@ msgstr "Foarstel yntsjinje"
 #: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:16
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
-
-#: network-api/networkapi/mozfest/templates/partials/homepage_banner.html:10
-msgid "Watch Video"
-msgstr "Fideo besjen"
 
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:28
 msgid "Email"
@@ -91,6 +95,14 @@ msgstr "Privacy"
 msgctxt "Sticky button in mobile view on MozFest homepage"
 msgid "SIGN UP"
 msgstr "YNSKRIUWE"
+
+#~ msgctxt "Pause button for video"
+#~ msgid "PAUSE VIDEO"
+#~ msgstr "FIDEO PAUZEARJE"
+
+#~ msgctxt "Play button for video"
+#~ msgid "PLAY VIDEO"
+#~ msgstr "FIDEO ÔFSPYLJE"
 
 #~ msgid "Become a Sponsor"
 #~ msgstr "Wurd in sponsor"
