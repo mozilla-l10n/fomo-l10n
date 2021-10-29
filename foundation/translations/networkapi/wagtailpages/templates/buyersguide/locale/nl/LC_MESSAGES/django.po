@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-22 17:56+0000\n"
+"POT-Creation-Date: 2021-10-29 07:58+0000\n"
 "PO-Revision-Date: 2021-08-05 14:02+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -112,8 +112,8 @@ msgid "Review date: %(date)s"
 msgstr "Beoordelingsdatum: %(date)s"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:74
-msgid "What could happen if something goes wrong"
-msgstr "Wat kan er gebeuren als er iets misgaat"
+msgid "What could happen if something goes wrong?"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:92
 msgid "Privacy"
@@ -246,24 +246,26 @@ msgid "Does the product use AI?"
 msgstr "Gebruikt het product AI?"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:241
-msgid "Does the AI use your personal data to make decisions about you?"
-msgstr "Gebruikt de AI uw persoonlijke gegevens om beslissingen over u te nemen?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:244
 msgid "Does the company allow users to see how the AI works?"
 msgstr "Staat het bedrijf gebruikers toe om te zien hoe de AI werkt?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:264
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:261
 msgid "Updates"
 msgstr "Updates"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:281
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:278
 msgid "Comments"
 msgstr "Opmerkingen"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:285
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:282
 msgid "Related products"
 msgstr "Gerelateerde producten"
+
+#~ msgid "What could happen if something goes wrong"
+#~ msgstr "Wat kan er gebeuren als er iets misgaat"
+
+#~ msgid "Does the AI use your personal data to make decisions about you?"
+#~ msgstr "Gebruikt de AI uw persoonlijke gegevens om beslissingen over u te nemen?"
 
 #~ msgid "Company contact info"
 #~ msgstr "Bedrijfscontactgegevens"

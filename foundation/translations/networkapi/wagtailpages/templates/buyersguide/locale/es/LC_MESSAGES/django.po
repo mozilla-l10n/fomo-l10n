@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-22 17:56+0000\n"
+"POT-Creation-Date: 2021-10-29 07:58+0000\n"
 "PO-Revision-Date: 2021-05-21 21:44+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -112,8 +112,8 @@ msgid "Review date: %(date)s"
 msgstr "Fecha de la reseña %(date)s"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:74
-msgid "What could happen if something goes wrong"
-msgstr "Qué podría pasar si algo falla"
+msgid "What could happen if something goes wrong?"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:92
 msgid "Privacy"
@@ -246,24 +246,26 @@ msgid "Does the product use AI?"
 msgstr "¿El producto usa AI?"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:241
-msgid "Does the AI use your personal data to make decisions about you?"
-msgstr "¿La inteligencia artificial utiliza tus datos personales para tomar decisiones relacionadas contigo?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:244
 msgid "Does the company allow users to see how the AI works?"
 msgstr "¿La compañía explica a los usuarios cómo funciona la inteligencia artificial?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:264
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:261
 msgid "Updates"
 msgstr "Actualizaciones"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:281
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:278
 msgid "Comments"
 msgstr "Comentarios"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:285
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:282
 msgid "Related products"
 msgstr "Productos relacionados"
+
+#~ msgid "What could happen if something goes wrong"
+#~ msgstr "Qué podría pasar si algo falla"
+
+#~ msgid "Does the AI use your personal data to make decisions about you?"
+#~ msgstr "¿La inteligencia artificial utiliza tus datos personales para tomar decisiones relacionadas contigo?"
 
 #~ msgid "Company contact info"
 #~ msgstr "Información de contacto de la empresa"

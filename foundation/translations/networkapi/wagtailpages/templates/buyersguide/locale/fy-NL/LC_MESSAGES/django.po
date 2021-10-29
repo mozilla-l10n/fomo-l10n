@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-22 17:56+0000\n"
+"POT-Creation-Date: 2021-10-29 07:58+0000\n"
 "PO-Revision-Date: 2021-03-25 10:47+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: \n"
@@ -112,8 +112,8 @@ msgid "Review date: %(date)s"
 msgstr "Beoardielingsdatum: %(date)s"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:74
-msgid "What could happen if something goes wrong"
-msgstr "Wat kin der barre as der wat misgiet"
+msgid "What could happen if something goes wrong?"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:92
 msgid "Privacy"
@@ -246,24 +246,26 @@ msgid "Does the product use AI?"
 msgstr "Brûkt it produkt AI?"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:241
-msgid "Does the AI use your personal data to make decisions about you?"
-msgstr "Brûkt de AI jo persoanlike gegevens om besluten oer jo te nimmen?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:244
 msgid "Does the company allow users to see how the AI works?"
 msgstr "Stiet it bedriuw brûkers ta om te sjen hoe't de AI wurket?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:264
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:261
 msgid "Updates"
 msgstr "Fernijingen"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:281
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:278
 msgid "Comments"
 msgstr "Opmerkingen"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:285
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:282
 msgid "Related products"
 msgstr "Relatearre produkten"
+
+#~ msgid "What could happen if something goes wrong"
+#~ msgstr "Wat kin der barre as der wat misgiet"
+
+#~ msgid "Does the AI use your personal data to make decisions about you?"
+#~ msgstr "Brûkt de AI jo persoanlike gegevens om besluten oer jo te nimmen?"
 
 #~ msgid "Company contact info"
 #~ msgstr "Bedriuwskontaktgegevens"
