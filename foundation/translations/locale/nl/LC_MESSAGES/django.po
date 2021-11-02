@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-29 07:58+0000\n"
+"POT-Creation-Date: 2021-11-02 08:37+0000\n"
 "PO-Revision-Date: 2021-10-23 12:10+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: \n"
@@ -127,7 +127,16 @@ msgstr "Perscentrum"
 msgid "Privacy"
 msgstr "Privacy"
 
-#: network-api/networkapi/templates/partials/footer.html:76
+#: network-api/networkapi/templates/partials/footer.html:64
+msgid "This website supports Web Monetization."
+msgstr ""
+
+#: network-api/networkapi/templates/partials/footer.html:66
+#, python-format
+msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
+msgstr ""
+
+#: network-api/networkapi/templates/partials/footer.html:84
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla is een wereldwijde non-profitorganisatie, toegewijd aan het geven van de controle over uw onlinebeleving en het vormen van de toekomst van het internet in het algemeen belang. Bezoek ons op <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. De meeste inhoud is beschikbaar onder een <a href=\"%(cc_website_url)s\">Creative Commons-licentie</a>."

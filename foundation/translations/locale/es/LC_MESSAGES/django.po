@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-29 07:58+0000\n"
+"POT-Creation-Date: 2021-11-02 08:37+0000\n"
 "PO-Revision-Date: 2021-07-05 19:43+0000\n"
 "Last-Translator: Paulina Rodriguez <pauli.rodriguez.c@gmail.com>\n"
 "Language-Team: \n"
@@ -123,7 +123,16 @@ msgstr "Centro de prensa"
 msgid "Privacy"
 msgstr "Privacidad"
 
-#: network-api/networkapi/templates/partials/footer.html:76
+#: network-api/networkapi/templates/partials/footer.html:64
+msgid "This website supports Web Monetization."
+msgstr ""
+
+#: network-api/networkapi/templates/partials/footer.html:66
+#, python-format
+msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
+msgstr ""
+
+#: network-api/networkapi/templates/partials/footer.html:84
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla es una organización mundial sin fines de lucro que vela por ofrecerte el control de tu experiencia en la red y forjar el futuro de Internet para beneficio del público. Visítanos en <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. La mayor parte del contenido está disponible bajo una <a href=\"%(cc_website_url)s\">licencia Creative Commons</a>."
