@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 08:06+0000\n"
-"PO-Revision-Date: 2021-10-29 14:19+0000\n"
+"PO-Revision-Date: 2021-11-03 16:49+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -32,31 +32,29 @@ msgstr "* Datenschutz nicht inbegriffen: Ein Einkaufsratgeber für vernetzte Pro
 #: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:25
 msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included | Shop smart and safe | Mozilla Foundation"
-msgstr ""
+msgstr "*Datenschutz nicht inbegriffen | Intelligent und sicher einkaufen | Mozilla Foundation"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:26
 msgid "Privacy & Security Guide | Mozilla Foundation"
-msgstr ""
+msgstr "Datenschutz- und Sicherheitsleitfaden | Mozilla Foundation"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:85
 msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "Seitennavigation"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
 msgid "All Categories"
-msgstr ""
+msgstr "Alle Kategorien"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:75
 msgid "All"
 msgstr "Alle"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:31
 msgid "Search all products"
-msgstr ""
+msgstr "Alle Produkte durchsuchen"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:36
 msgid "2020 Webby Award Winner Badge"
@@ -72,7 +70,9 @@ msgstr "*Datenschutz nicht inbegriffen"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:139
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr "In unserem Einkaufsleitfaden „* Datenschutz nicht inbegriffen“ überprüfen wir vernetzte Sexspielzeuge. Diese Inhalte richten sich an Leser ab 18 Jahren und können Informationen enthalten, die unangenehm oder für Kinder ungeeignet sind."
+msgstr ""
+"In unserem Einkaufsleitfaden „* Datenschutz nicht inbegriffen“ überprüfen wir vernetzte Sexspielzeuge. Diese Inhalte richten sich an Leser ab 18 Jahren und können Informationen enthalten, die "
+"unangenehm oder für Kinder ungeeignet sind."
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:144
 msgid "Don’t see the product you’re looking for?"
@@ -127,18 +127,17 @@ msgstr "Was könnte passieren, wenn etwas schiefgeht?"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:90
 msgid "Tips to protect yourself"
-msgstr ""
+msgstr "Tipps zu Ihrem Schutz"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:118
 msgid "Privacy"
 msgstr "Datenschutz"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:120
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:129
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:120 network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:129
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:137
 msgctxt "icon description for screen readers"
 msgid "warning"
-msgstr ""
+msgstr "Warnung"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:127
 msgid "Security"
@@ -363,7 +362,9 @@ msgstr ""
 #~ msgstr "Schlau sein. Sicher einkaufen."
 
 #~ msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
-#~ msgstr "Wie gruselig ist dieser intelligente Lautsprecher, dieser Fitness-Tracker, diese drahtlosen Kopfhörer? Wir haben diesen Ratgeber erstellt, um Ihnen beim Einkauf sicherer, vernetzter Produkte zu helfen."
+#~ msgstr ""
+#~ "Wie gruselig ist dieser intelligente Lautsprecher, dieser Fitness-Tracker, diese drahtlosen Kopfhörer? Wir haben diesen Ratgeber erstellt, um Ihnen beim Einkauf sicherer, vernetzter Produkte zu "
+#~ "helfen."
 
 #~ msgid "this product has adult content"
 #~ msgstr "Dieses Produkt bietet Inhalte für Erwachsene"
