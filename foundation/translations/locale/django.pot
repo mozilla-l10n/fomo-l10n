@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-02 08:37+0000\n"
+"POT-Creation-Date: 2021-11-03 08:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,27 +168,27 @@ msgstr ""
 msgid "No thanks"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:256
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:257
 msgid "Not creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:257
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:258
 msgid "A little creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:258
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:259
 msgid "Somewhat creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:259
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:260
 msgid "Very creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:260
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:261
 msgid "Super creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:913
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:914
 msgid "Privacy & security guide"
 msgstr ""
 
@@ -259,6 +259,10 @@ msgstr ""
 msgid "App:"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/fragments/most_voted_rating.html:5
+msgid "People voted:"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:4
 msgid "Sad face. No products were found."
 msgstr ""
@@ -285,30 +289,53 @@ msgstr ""
 msgid "This section requires attention."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:9
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:11
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:8
+msgctxt "icon description for screen readers"
+msgid "information"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:16
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:18
 msgctxt "Unknown rating"
 msgid "Can’t determine"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:14
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:21
 msgid "Not applicable"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:17
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:19
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:24
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:26
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:13
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:20
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:36
 msgid "Yes"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:23
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:25
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:30
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:32
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:22
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:38
 msgid "No"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:10
+#, python-format
+msgctxt "Date format (e.g. Nov. 19, 2020)"
+msgid "Review date: %(date)s"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:15
+#, python-format
+msgid "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hour"
+msgid_plural "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:27
+msgctxt "This string is followed by a thumb up, thumb down, or thumb on the side icon to summarize Mozilla’s review of the product"
+msgid "Mozilla says"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:3
