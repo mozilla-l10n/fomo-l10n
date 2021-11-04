@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-03 08:06+0000\n"
+"POT-Creation-Date: 2021-11-04 18:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,6 +86,7 @@ msgid "More about us"
 msgstr ""
 
 #: network-api/networkapi/templates/partials/footer.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
 msgid "Twitter"
 msgstr ""
 
@@ -367,7 +368,6 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:54
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:35
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:31
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr ""
@@ -522,19 +522,31 @@ msgstr ""
 msgid "We’re sorry, we can’t call that number. Please check that it is the right number, or try a different one."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:36
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
+msgid "Facebook"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
+msgid "Email"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
+msgid "Copy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:56
 msgid "Something went wrong…"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:57
 msgid "We’re sorry, we seem to be having some trouble. Please try again later."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:41
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:61
 msgid "Thank you for all your calls!"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:62
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
 msgstr ""
 
