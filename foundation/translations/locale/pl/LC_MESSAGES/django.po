@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-04 18:36+0000\n"
-"PO-Revision-Date: 2021-11-07 13:04+0000\n"
+"PO-Revision-Date: 2021-11-07 13:10+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -250,7 +250,7 @@ msgstr "Aplikacja:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/most_voted_rating.html:5
 msgid "People voted:"
-msgstr "Głosy:"
+msgstr "Według użytkowników:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:4
 msgid "Sad face. No products were found."
@@ -280,7 +280,7 @@ msgstr "Ta sekcja wymaga uwagi."
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:8
 msgctxt "icon description for screen readers"
 msgid "information"
-msgstr ""
+msgstr "informacje"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:16 network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:18
 msgctxt "Unknown rating"
@@ -307,20 +307,20 @@ msgstr "Nie"
 #, python-format
 msgctxt "Date format (e.g. Nov. 19, 2020)"
 msgid "Review date: %(date)s"
-msgstr ""
+msgstr "Data recenzji: %(date)s"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:15
 #, python-format
 msgid "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hour"
 msgid_plural "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hours"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "<a %(link_attrs)s>Mozilla badała przez</a> %(time_researched)s godzinę"
+msgstr[1] "<a %(link_attrs)s>Mozilla badała przez</a> %(time_researched)s godziny"
+msgstr[2] "<a %(link_attrs)s>Mozilla badała przez</a> %(time_researched)s godzin"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:27
 msgctxt "This string is followed by a thumb up, thumb down, or thumb on the side icon to summarize Mozilla’s review of the product"
 msgid "Mozilla says"
-msgstr ""
+msgstr "Według Mozilli:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:3
 msgid "How are your recordings handled?"
@@ -500,15 +500,15 @@ msgstr "Przepraszamy, nie możemy zadzwonić na ten numer. Sprawdź, czy to wła
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
 msgid "Copy"
-msgstr ""
+msgstr "Kopiuj"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:56
 msgid "Something went wrong…"
