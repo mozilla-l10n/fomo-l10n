@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-09 12:16+0000\n"
-"PO-Revision-Date: 2021-11-09 16:55+0000\n"
+"PO-Revision-Date: 2021-11-09 17:06+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -479,6 +479,9 @@ msgid ""
 "While we currently can assign a product a warning for the use of untrustworthy artificial intelligence, we don’t use that rating to factor into our decision to assign the <em>*Privacy Not "
 "Included</em> warning label as the information from companies is currently very limited and we cannot easily compare one product another with a high degree of confidence."
 msgstr ""
+"Wir können einem Produkt derzeit zwar eine Warnung wegen der Verwendung nicht vertrauenswürdiger künstlicher Intelligenz zuweisen, aber wir berücksichtigen diese Bewertung nicht bei unserer "
+"Entscheidung, das Warnetikett <em>*Datenschutz nicht inbegriffen</em>, da Informationen von Unternehmen derzeit sehr begrenzt sind und wir nicht ohne Grundlage gesicherter Informationen mehrere "
+"Produkte vergleichen können."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:105
 msgid "What could happen if something goes wrong?"
@@ -490,16 +493,21 @@ msgid ""
 "relevant to consumers specifically. While it is likely nothing bad will happen with most of the products in this guide, it is also good to think through what could happen if something goes wrong "
 "based on real life situations."
 msgstr ""
+"Wir fügen diesen Abschnitt hinzu, um Menschen zu helfen zu verstehen, was in Bezug auf Datenschutz und Sicherheit bei jedem Produkt möglicherweise richtig oder falsch sein könnte. Unser Ziel ist es,"
+" Risiken und Bedenken zu identifizieren, die speziell für Verbraucher relevant sind. Während bei den meisten Produkten in diesem Handbuch wahrscheinlich nichts Schlimmes passieren wird, ist es auch "
+"gut zu überlegen, was passieren könnte, wenn etwas schief geht, basierend auf realen Situationen."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:121
 msgid "Tips to protect yourself"
-msgstr ""
+msgstr "Tipps zu Ihrem Schutz"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:125
 msgid ""
 "We review suggestions from both the product manufacturer and draw upon published privacy and security guidance from a range of experts, both within Mozilla and outside sources, to provide a few "
 "simple tips for each product users can take to protect themselves. These tips are recommendations for protection, not guarantees."
 msgstr ""
+"Wir prüfen die Vorschläge der Produkthersteller und stützen uns auf veröffentlichte Datenschutz- und Sicherheitshinweise von einer Reihe von Experten sowohl innerhalb von Mozilla als auch außerhalb,"
+" um ein paar einfache Tipps für jeden Produktbenutzer zu geben, den sie zum eigenen Schutz verwenden können. Diese Tipps sind Empfehlungen zum Schutz, keine Garantien."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:137
 msgid "Permissions"
@@ -510,6 +518,8 @@ msgid ""
 "We look to see if it is possible the device could snoop on you if it were hacked, leaked, or not working correctly. Please note, just because a device could snoop on a user doesn’t mean it will. "
 "Simply that it is a possibility users should consider before purchasing."
 msgstr ""
+"Wir prüfen, ob es möglich ist, dass das Gerät Sie ausspioniert, wenn es gehackt, von einem Datenleck betroffen ist oder nicht richtig funktioniert. Bitte beachten Sie: Nur weil ein Gerät einen "
+"Benutzer ausspionieren könnte, bedeutet dies nicht, dass dies der Fall ist. Es heißt nur, dass es eine Möglichkeit ist, die Benutzer vor dem Kauf in Betracht ziehen sollten."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:150
 #, python-format
@@ -518,12 +528,18 @@ msgid ""
 "requested by each app to determine whether the device and its app uses a camera, microphone, or tracks your location. (Note: an app may access “approximate” or “network” based location. “Tracks "
 "Location” was marked as “Yes” if an app requests any location information, including approximate location.)"
 msgstr ""
+"Um dies festzustellen, überprüfen wir Produkt-Websites und den <a href=\"%(google_play_url)s\">Google Play Store</a> oder den <a href=\"%(google_play_url)s\">Apple App Store</a> um die von jeder App"
+" angeforderten Berechtigungen zu überprüfen, um festzustellen, ob das Gerät und seine App eine Kamera oder ein Mikrofon verwenden oder Ihren Standort verfolgen. (Hinweis: Eine App kann auf den "
+"„ungefähren“ oder „netzwerkbasierten“ Standort zugreifen. „Verfolgt den Standort“ wurde als „Ja“ markiert, wenn eine App Standortinformationen anfordert, einschließlich des ungefähren Standorts.)"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:160
 msgid ""
 "The apps that control connected devices will typically need to request permissions from your phone for the app to work. This is mostly OK. However, we want consumers to understand when to look for "
 "things that don’t feel right, like a children’s fitness tracker app requesting permission to use the phone’s microphone or a home exercise workout machine requesting permission to track location."
 msgstr ""
+"Die Apps, die verbundene Geräte steuern, müssen normalerweise Berechtigungen von Ihrem Telefon anfordern, damit die App funktioniert. Das ist meistens in Ordnung. Wir möchten jedoch, dass die "
+"Verbraucher verstehen, wann sie nach Dingen suchen müssen, die sich nicht richtig anfühlen, wie eine Fitness-Tracker-App für Kinder, die um Berechtigung zur Nutzung des Handy-Mikrofons bittet oder "
+"ein Heimtrainergerät, der den Standort verfolgen möchte."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:173
 msgid "Privacy"
@@ -538,43 +554,56 @@ msgid ""
 "documentation may or may not be true about a specific product. In our requests for information from companies before publication, we ask for product-specific privacy policies and if a company shares"
 " it, we analyze the product-specific policy."
 msgstr ""
+"Wir werten die von jedem Unternehmen für jedes Produkt bereitgestellte Datenschutzdokumentation aus. Dazu gehören Datenschutzrichtlinien, Datenschutzseiten und FAQs. Wir versuchen festzustellen, (1)"
+" welche Art von Informationen im Allgemeinen von einem Produkt erfasst werden, einschließlich personenbezogener, körperbezogener und sozialer Informationen, (2) wie die Daten vom Unternehmen "
+"verwendet werden, (3) wie Sie Ihre Daten kontrollieren können, einschließlich wie Sie auf Ihre Daten zugreifen und diese löschen können, (4) die bekannte Erfolgsbilanz eines Unternehmens zum Schutz "
+"von Benutzerdaten, (5) ob das Produkt offline verwendet werden kann, (6) und ob die Datenschutzerklärung benutzerfreundlich ist. Wenn ein Unternehmen keine produktspezifische Datenschutzerklärung "
+"zur Verfügung stellt, stützen wir uns für diese Informationen auf deren allgemeine Datenschutzerklärung. Dies bedeutet oft, dass wir nicht überprüfen können, welche Informationen in der "
+"Datenschutzdokumentation eines Unternehmens für ein bestimmtes Produkt möglicherweise wahr sind oder nicht. In unseren Informationsanfragen von Unternehmen vor der Veröffentlichung fragen wir nach "
+"produktspezifischen Datenschutzrichtlinien und wenn ein Unternehmen diese teilt, analysieren wir die produktspezifischen Richtlinien."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:194
 msgid "What kind of data does the company collect?"
-msgstr ""
+msgstr "Welche Art von Daten sammelt das Unternehmen?"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:198
 msgid "Personal"
-msgstr ""
+msgstr "Persönliche"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:202
 msgid ""
 "We list the personal data collected by each product, as specified in the privacy policy. This kind of information includes, but is not limited to, name, email address, phone number, and address."
 msgstr ""
+"Wir listen die von jedem Produkt gesammelten personenbezogenen Daten auf, wie in der Datenschutzerklärung angegeben. Diese Art von Daten umfasst unter anderem Name, E-Mail-Adresse, Telefonnummer und"
+" Adresse."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:211
 msgid "Body-Related"
-msgstr ""
+msgstr "Körperbezogene"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:215
 msgid ""
 "Body-related (including biometric data) is data that describes our bodies and distinctive personal characteristics such as fingerprints, voices, and heart rates. Many devices collect sensitive data "
 "about stress, sleep patterns, and menstrual cycles, for instance. Some products use face and voice to identify users."
 msgstr ""
+"Körperbezogen (einschließlich biometrischer Daten) sind Daten, die unseren Körper und charakteristische persönliche Merkmale wie Fingerabdrücke, Stimmen und Herzfrequenzen beschreiben. Viele Geräte "
+"sammeln beispielsweise sensible Daten über Stress, Schlafmuster und Menstruationszyklen. Einige Produkte verwenden Gesicht und Stimme, um Benutzer zu identifizieren."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:225
 msgid "Social"
-msgstr ""
+msgstr "Soziale"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:229
 msgid ""
 "Social data includes information about your friends and contacts. We detailed which products collect this social information. This does not include the sharing of links or other information on "
 "social media through the product itself (e.g. sharing your route for a run on Facebook)."
 msgstr ""
+"Zu den sozialen Daten gehören Informationen über Ihre Freunde und Kontakte. Wir haben detailliert beschrieben, welche Produkte diese sozialen Informationen sammeln. Dies umfasst nicht das Teilen von"
+" Links oder anderen Informationen über soziale Medien durch das Produkt selbst (z. B. wenn Sie Ihre Laufroute auf Facebook teilen)."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:240
 msgid "How does the company use this data?"
-msgstr ""
+msgstr "Wie nutzt das Unternehmen die Daten?"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:244
 msgid ""
@@ -584,6 +613,12 @@ msgid ""
 " options for data sharing and sales, even if they don’t currently engage in those activities. To determine current practices, we look for FAQs or other information on company websites to provide "
 "additional information. Additionally, if a company provides us with posted information about these practices, we include that information and relevant links."
 msgstr ""
+"Wie sammeln, verwenden und teilen oder verkaufen Unternehmen Nutzerdaten an Dritte? Kombinieren Unternehmen Nutzerdaten mit Daten aus anderen Quellen? Werden Daten für Werbung verwendet? Für diese "
+"Frage haben wir die Datenschutzdokumentation des Unternehmens analysiert, um festzustellen, wie und wann personenbezogene Kundendaten aus anderen als erwarteten Gründen an Dritte weitergegeben "
+"werden. Wenn ein Unternehmen beispielsweise personenbezogene Kundendaten an Dritte weitergeben oder verkaufen kann oder wenn Dritte Daten zu kommerziellen Zwecken verwenden können, haben wir dies "
+"zur Kenntnis genommen. Oftmals werden Datenschutzrichtlinien verfasst, um einem Unternehmen die größtmögliche Auswahl an Optionen für den Datenaustausch und den Verkauf zu ermöglichen, auch wenn es "
+"derzeit nicht an diesen Aktivitäten beteiligt ist. Um aktuelle Praktiken zu ermitteln, suchen wir nach FAQs oder anderen Informationen auf Unternehmenswebsites, um zusätzliche Informationen "
+"bereitzustellen. Wenn uns ein Unternehmen veröffentlichte Informationen zu diesen Praktiken zur Verfügung stellt, fügen wir diese Informationen und relevante Links hinzu."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:258
 msgid ""
@@ -592,6 +627,11 @@ msgid ""
 "third parties for purposes beyond the normal function of the product? (3) Does the company provide clear and explicit notice before sharing user data with third parties? (4) What types of data are "
 "shared for advertising and marketing purposes? We attempt to explain to users what sorts of data collection they should be concerned about in our reviews."
 msgstr ""
+"Bei der Bestimmung, ob aufgrund dieser Kriterien vor einem Produkt gewarnt wird, betrachten wir drei Hauptfaktoren. (1) Wie viele Daten erhebt das Unternehmen über einen Benutzer? Erfährt das "
+"Unternehmen damit etwas über den Benutzer und wenn ja, was? Sammelt es eine große Menge an personenbezogenen Daten oder nur das, was für das Funktionieren des Produkts notwendig erscheint? (2) "
+"Teilt, kombiniert oder verkauft das Unternehmen diese Daten mit einer Vielzahl von Dritten für Zwecke, die über die normale Funktion des Produkts hinausgehen? (3) Macht das Unternehmen eine klare "
+"und ausdrückliche Mitteilung, bevor es Benutzerdaten an Dritte weitergibt? (4) Welche Arten von Daten werden zu Werbe- und Marketingzwecken weitergegeben? Wir versuchen, den Nutzern in unseren "
+"Bewertungen zu erklären, über welche Arten von Datenerhebungen sie sich Gedanken machen sollten."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:278
 msgid ""
