@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-09 12:16+0000\n"
-"PO-Revision-Date: 2021-11-03 12:43+0000\n"
+"PO-Revision-Date: 2021-11-09 15:40+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -42,16 +42,13 @@ msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "navigation du site"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
-#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19
-#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19 network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
 #: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:31
 msgid "All Categories"
 msgstr "Toutes les catégories"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:73
 msgid "All"
 msgstr "Tout"
@@ -74,7 +71,9 @@ msgstr "*confidentialité non incluse"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:138
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr "Dans notre guide d’achat *Confidentialité non incluse nous passons en revue des sextoys connectés. Ce contenu est destiné aux lecteurs âgés de 18 ans et plus et peut contenir des informations sensibles ou à destination des adultes."
+msgstr ""
+"Dans notre guide d’achat *Confidentialité non incluse nous passons en revue des sextoys connectés. Ce contenu est destiné aux lecteurs âgés de 18 ans et plus et peut contenir des informations "
+"sensibles ou à destination des adultes."
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:143
 msgid "Don’t see the product you’re looking for?"
@@ -135,8 +134,7 @@ msgstr "Conseils pour vous protéger"
 msgid "Privacy"
 msgstr "Confidentialité"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:120
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:129
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:120 network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:129
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:137
 msgctxt "icon description for screen readers"
 msgid "warning"
@@ -197,7 +195,7 @@ msgstr "Personnelles"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:200
 msgid "Body related"
-msgstr "Liées au corps"
+msgstr "Corporelles"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:201
 msgid "Social"
