@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 18:36+0000\n"
+"POT-Creation-Date: 2021-11-09 12:16+0000\n"
 "PO-Revision-Date: 2021-11-07 21:08+0000\n"
 "Last-Translator: Paulina Rodriguez <pauli.rodriguez.c@gmail.com>\n"
 "Language-Team: \n"
@@ -42,12 +42,17 @@ msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "sitio de navegación"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:31
 msgid "All Categories"
 msgstr "Todas las categorías"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
-#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:70
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:73
 msgid "All"
 msgstr "Todo"
 
@@ -63,21 +68,19 @@ msgstr "Insignia de ganador del Premio Webby 2020"
 msgid "Scroll to see how creepy<br>people find these products!"
 msgstr "Desplázate por la página para ver<br>lo peligrosos que son estos productos"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:78
+#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:81
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:134
+#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:138
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr ""
-"En nuestra guía del comprador *Privacidad no incluida, revisamos los juguetes sexuales conectados. Este contenido está dirigido a mayores de 18 años, puesto que puede contener información delicada o"
-" solo para adultos."
+msgstr "En nuestra guía del comprador *Privacidad no incluida, revisamos los juguetes sexuales conectados. Este contenido está dirigido a mayores de 18 años, puesto que puede contener información delicada o solo para adultos."
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:139
+#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:143
 msgid "Don’t see the product you’re looking for?"
 msgstr "¿No encuentras el producto que buscas?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:140
+#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:144
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr "Haznos saber qué producto te gustaría encontrar en las valoraciones de la guía."
 
@@ -132,7 +135,8 @@ msgstr "Consejos para protegerte"
 msgid "Privacy"
 msgstr "Privacidad"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:120 network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:129
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:120
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:129
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:137
 msgctxt "icon description for screen readers"
 msgid "warning"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-04 18:36+0000\n"
-"PO-Revision-Date: 2021-09-17 15:49+0000\n"
+"POT-Creation-Date: 2021-11-09 12:16+0000\n"
+"PO-Revision-Date: 2021-11-09 13:53+0100\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -16,36 +16,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Poedit 3.0\n"
 
-#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:12
+#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:11
 msgctxt "Tooltip on menu items"
 msgid "about sections"
 msgstr "sections À propos"
 
-#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:13
+#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:12
 msgid "Why we made this guide"
 msgstr "Pourquoi avons-nous créé ce guide"
 
-#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:14
+#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:13
 msgid "How to use this guide"
 msgstr "Comment utiliser ce guide"
 
-#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:15
+#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:14
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:324
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:40
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:50
 msgid "Methodology"
 msgstr "Méthodologie"
 
-#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:16
-msgid "Minimum Security Standards explained"
-msgstr "Comprendre les critères élémentaires de sécurité"
-
-#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:17
+#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:15
 msgid "Contact us"
 msgstr "Nous contacter"
 
-#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:18
+#: network-api/networkapi/wagtailpages/templates/about/about_nav.html:16
 #: network-api/networkapi/wagtailpages/templates/about/press.html:9
 msgid "Press"
 msgstr "Presse"
@@ -145,7 +141,7 @@ msgid "Nearly every company collects some kind of information on its users. That
 msgstr "Presque toutes les entreprises collectent des informations sur leurs utilisateurs. C’est ainsi que fonctionne Internet. Ce qui importe c’est la manière dont elles utilisent et prennent soin de ces informations. Vous devez savoir si une entreprise partage ou vend vos informations personnelles à des tiers et pour quelles raisons. Ce critère est l’un des critères que nous utilisons pour déterminer si un produit se voit attribuer notre icône d’avertissement <em>*Confidentialité non incluse</em>. Les entreprises qui partagent ou vendent vos données à des tiers se voient attribuer une petite icône d’avertissement."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:132
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:273
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:274
 msgid "How can you control your data?"
 msgstr "Comment pouvez-vous contrôler vos données ?"
 
@@ -154,7 +150,7 @@ msgid "Companies collect a lot of data on their consumers. Who controls that dat
 msgstr "Les entreprises collectent de nombreuses données sur leurs consommateurs. Qui contrôle ces données ? Pouvoir contacter une entreprise et lui demander de supprimer toutes les données qu’elle détient sur vous est une très bonne chose."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:143
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:286
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:306
 msgid "What is the company’s known track record of protecting users’ data?"
 msgstr "Quel est l’historique de l’entreprise en matière de protection des données des utilisateurs et utilisatrices ?"
 
@@ -193,8 +189,7 @@ msgid "We developed a set of minimum security standards we think all connected p
 msgstr "Nous avons développé un ensemble de critères élémentaires de sécurité que nous pensons que tous les objets connectés devraient à tout le moins respecter. Considérez que cette barre est le minimum qu’ils doivent atteindre. Ces critères comprennent cinq éléments de base : le produit doit utiliser un chiffrement, l’entreprise doit fournir des mises à jour de sécurité automatiques, si un produit utilise un mot de passe, il doit exiger un mot de passe fort, l’entreprise doit avoir un moyen de gérer les failles de sécurité trouvées dans ses produits, et l’entreprise doit avoir une politique de confidentialité accessible. Si vous souhaitez en savoir plus sur nos critères élémentaires de sécurité, <a href=\"%(url)s\">rendez-vous ici</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:202
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:135
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:45
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:394
 msgid "Encryption"
 msgstr "Chiffrement"
 
@@ -203,7 +198,7 @@ msgid "Encryption is your friend. It protects your private and personal informat
 msgstr "Le chiffrement est votre ami. Il protège vos informations privées et personnelles en les brouillant dans un code afin que les seules personnes ou machines qui peuvent les lire soient celles de l’autre côté qui ont la clé pour déchiffrer ce code. Les produits qui n’utilisent pas de chiffrement envoient des informations personnelles sur Internet sans être brouillées, de sorte que tout le monde peut les voir."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:214
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:150
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:409
 msgid "Security updates"
 msgstr "Mises à jour de sécurité"
 
@@ -237,7 +232,7 @@ msgid "Privacy policies detail a lot of important information about how companie
 msgstr "Les politiques de confidentialité contiennent de nombreuses informations importantes sur la manière dont les entreprises collectent, utilisent et partagent vos informations personnelles. Pour cette raison, ces informations doivent être facilement trouvables et compréhensibles."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:263
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:369
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:483
 msgid "Does the product use AI?"
 msgstr "Le produit utilise-t-il une IA ?"
 
@@ -246,7 +241,6 @@ msgid "More and more products use artificial intelligence these days. It’s not
 msgstr "De nos jours, de plus en plus de produits utilisent l’intelligence artificielle. Et il ne s’agit pas seulement d’enceintes connectées ou de caméras de surveillance à reconnaissance faciale : l’IA est même présente dans des jouets pour chien, des appareils conçus pour surveiller sa santé ou des équipements de sport connectés. Dans le cadre de nos tests, nous utilisons cette définition de l’IA : « Des modifications de la technologie du produit basées sur vos données d’utilisateur ou utilisatrice sont effectuées en continu. » Qu’est-ce que cela signifie pour les consommateurs et les consommatrices ? Nous commençons à peine à le comprendre. Cependant, la majorité des personnes ne savent pas quand l’IA est utilisée, ni comment elle peut influencer leur expérience. Les produits utilisant l’IA étant de plus en plus nombreux, nous pensons que les entreprises devraient fournir ces informations aux consommateurs et consommatrices."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:279
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:382
 msgid "Does the AI use your personal data to make decisions about you?"
 msgstr "L’IA utilise-t-elle vos données personnelles pour prendre des décisions vous concernant ?"
 
@@ -288,258 +282,248 @@ msgid "About our Methodology"
 msgstr "À propos de notre méthodologie"
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:14
-msgid "The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart—and safe—for products that connect to the Internet. Many companies don’t provide clear information about the privacy and security of the connected devices they sell. Is your personal data being used in ways you may not have anticipated or expected? What are the risks of buying a product that collects your health data? How does the company regularly test for and fix security vulnerabilities?"
-msgstr "L’objectif du guide d’achat <em>*Confidentialité non incluse</em> de Mozilla est d’aider les consommateurs à faire des achats malins (et sûrs) de produits qui se connectent à Internet. De nombreuses entreprises ne fournissent pas d’informations claires sur la confidentialité et la sécurité des objets connectés qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que vous n’avez peut-être pas prévue ou attendue ? Quels sont les risques liés à l’achat d’un produit qui collecte vos données de santé ? Comment l’entreprise procède-t-elle régulièrement à des tests et corrige-t-elle les failles de sécurité ?"
+msgid "The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart — and safe — for products and apps that connect to the Internet. It is often difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. Is your personal data being shared or sold in ways you may not have expected? What is the company’s known track record for protecting the user data they collect? How does the company regularly test for and fix security vulnerabilities?"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:25
-msgid "It’s difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. With this guide, we hoped to help consumers navigate this landscape by understanding what questions they should ask before buying a device."
-msgstr "Il est difficile pour les consommateurs d’obtenir des entreprises des informations claires et concrètes sur la sécurité et la confidentialité de leurs objets connectés. Avec ce guide, nous espérons aider les consommateurs à se repérer dans ce domaine en comprenant les questions à se poser avant d’acheter un appareil."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:24
+msgid "With this guide, we hope to help consumers navigate this landscape by understanding what questions they should ask and what answers they should expect before buying a connected tech product."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:34
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:31
+msgid "The way we approach our research here at <em>*Privacy Not Included</em> is from the viewpoint of a consumer, but with a bit more time and expertise. We don’t purchase the products and test them in a lab. Consumers can’t do that. Instead, we look at all the information we can find that is publicly available to consumers before they purchase a product to try and understand the privacy and security concerns consumers should be aware of. We look at things like privacy policies, company websites, news reports, research whitepapers, app store listings, consumer reviews, and anything else we can find and trust to inform our research. Too often, the information companies make publicly available is vague or incomplete. We often have no way to verify if a company is doing what it says even after they reply to our requests. We seek a future in which hours of research like this aren’t required to buy safe, responsible products."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:44
 msgid "Here is the methodology we used to develop this guide."
 msgstr "Voici la méthodologie que nous avons utilisée pour développer ce guide."
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:45
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:55
 msgid "Product Selection"
 msgstr "Sélection de produits"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:49
-msgid "There are 136 products in the 2020 version of our <em>*Privacy Not Included</em> buyer’s guide. These products fit into seven categories—Toys & Games, Smart Home, Home Office (*new), Entertainment, Wearables, Health & Exercise, and Pets."
-msgstr "La version 2020 de notre guide d’achat <em>*Confidentialité non incluse</em> contient 136 produits. Ces produits se répartissent en 7 catégories : jouets et jeux, maison intelligente, télétravail (nouveauté), divertissement, wearables, santé et exercice, et animaux de compagnie."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:57
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:59
 #, python-format
-msgid "The goal was to select connected products that were likely to be popular during the holiday season and beyond. We worked with a research firm to provide us with a list of top products in each of our product categories. From there, we refined the list based on our own research of top selling products that were highly rated across a variety of consumer product websites such as <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(the_toy_insider)s\">The Toy Insider</a>, <a href=\"%(pc_mag)s\">PC Magazine</a>, <a href=\"%(tech_radar)s\">Tech Radar</a>, and <a href=\"%(gear_brain)s\">Gear Brain</a>."
-msgstr "L’objectif était de sélectionner des objets connectés susceptibles d’être populaires pendant la période des fêtes et au-delà. Nous avons collaboré avec un organisme de recherche pour nous fournir une liste des meilleurs produits dans chacune de nos catégories de produits. À partir de là, nous avons affiné la liste en nous basant sur nos propres recherches des produits les plus vendus qui ont été très bien notés sur divers sites web de produits de consommation tels que <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(the_toy_insider)s\">The Toy Insider</a>, <a href=\"%(pc_mag)s\">PC Magazine</a>, <a href=\"%(tech_radar)s\">Tech Radar</a> et <a href=\"%(gear_brain)s\">Gear Brain</a>."
+msgid "When we select products for *Privacy Not Included, our goal is to choose connected products and apps that are likely to be popular with consumers in North America and Europe. We make our decisions based on our own research of top selling products that are highly rated across a variety of consumer product websites such as <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(cnet)s\">CNET</a>, and more."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:73
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:71
 msgid "<em>*Privacy Not Included</em> Warning Labels"
 msgstr "Icônes d’avertissement <em>*Confidentialité non incluse</em>"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:78
-msgid "This year, we assigned <em>*Privacy Not Included</em> warning labels to products we felt had the most problems or gave us concerns about how the data collected was or could be used. We gave a product a <em>*Privacy Not Included</em> warning label if a product received multiple “mini-warnings” for privacy, had an egregious track record of not protecting privacy, or if we could not confirm if they met our Minimum Security Standards."
-msgstr "Cette année, nous avons attribué des icônes d’avertissement <em>*Confidentialité non incluse</em> aux produits qui nous semblent les plus problématiques ou à ceux dont l’utilisation réelle ou potentielle des données collectées nous inquiète. L’icône d’avertissement <em>*Confidentialité non incluse</em> a été attribuée aux produits qui cumulent plusieurs « mini-avertissements » en matière de confidentialité, qui ont déjà présenté des manquements en matière de protection de la vie privée, ou qui ne répondent pas à nos critères élémentaires de sécurité."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:76
+#, python-format
+msgid "We assign our <em>*Privacy Not Included</em> warning label to products we have determined to have the most problems when it comes to protecting a users privacy and security. A product will earn the <em>*Privacy Not Included</em> warning label if it receives two or more warnings from us on the following criteria: <a href=\"%(company_data_use)s\">How the company uses the data</a> it collects on users. We ding companies for selling users data or collecting more data than is necessary for general business purposes, for example, buying data from data brokers. <a href=\"%(user_data_control)s\">How users can control their data.</a> We ding a company if they don’t have a clear and manageable way for users to delete their data from the company or explain how long they retain users’ data. <a href=\"%(track_record)s\">What is the company’s known track record of protecting users’ data?</a> We ding a company if they have a bad track record of not protecting users’ data based on known and reported security breaches, leaks, or vulnerabilities. Finally, we ding a company if we can not confirm if the product <a href=\"%(min_sec)s\">meets our Minimum Security Standards.</a> In rare exceptions we might ding a company if they only receive one warning from us if we determine that warning is particularly concerning for consumers."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:92
-msgid "Worst-case scenario"
-msgstr "Pire scénario"
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:91
+msgid "While we currently can assign a product a warning for the use of untrustworthy artificial intelligence, we don’t use that rating to factor into our decision to assign the <em>*Privacy Not Included</em> warning label as the information from companies is currently very limited and we cannot easily compare one product another with a high degree of confidence."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:97
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:105
 msgid "What could happen if something goes wrong?"
 msgstr "Que pourrait-il se passer en cas de problème ?"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:101
-msgid "We included this section to help people understand risk scenarios related to their privacy and each particular product. We aimed to identify risks that would feel relevant to consumers. It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what could happen if something goes wrong. This question looks at potential worst-case scenarios for each product, in some cases for fun, and in some cases, based on things that have already happened with the product."
-msgstr "Nous avons inclus cette section pour aider les gens à comprendre les scénarios de risque liés à leur vie privée et à chaque produit particulier. Notre objectif est d’identifier les risques qui semblent pertinents pour les consommateurs. Il est probable que rien de grave ne se produira avec la plupart des produits de ce guide. Cependant, il est également bon de réfléchir à ce qui pourrait se produire en cas de problème. Cette question se penche sur ce qu’il pourrait arriver de pire pour chaque produit, dans certains cas pour le plaisir et dans d’autres, en se basant sur des évènements déjà survenus avec le produit."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:109
+msgid "We include this section to help people understand what could potentially go right or wrong related to the privacy and security with each product. We aim to identify risks and concerns that are relevant to consumers specifically. While it is likely nothing bad will happen with most of the products in this guide, it is also good to think through what could happen if something goes wrong based on real life situations."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:116
-msgid "Minimum Security Requirements"
-msgstr "Critères élémentaires de sécurité"
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:121
+msgid "Tips to protect yourself"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:120
-#, python-format
-msgid "Mozilla has established a set of <a href=\"%(sec_standards)s\">Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We emailed each company to ask for more information about their product and how it meets our standards. For the companies who did not respond, we conducted additional research to find the answers."
-msgstr "Mozilla a établi un ensemble de <a href=\"%(sec_standards)s\">critères élémentaires de sécurité</a> qui devraient être respectés par tout fabricant d’objets connectés. Nous avons contacté chaque entreprise par email pour leur demander des informations supplémentaires sur leurs produits et sur la façon dont elles respectent nos critères. Pour les entreprises qui ne nous ont pas répondu, nous avons mené des recherches plus approfondies afin de trouver les réponses."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:125
+msgid "We review suggestions from both the product manufacturer and draw upon published privacy and security guidance from a range of experts, both within Mozilla and outside sources, to provide a few simple tips for each product users can take to protect themselves. These tips are recommendations for protection, not guarantees."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:130
-msgid "We evaluated each product on our list against five criteria:"
-msgstr "Chaque produit a été évalué selon cinq critères :"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:139
-msgid "A product should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped on or modified in transit. User data should be encrypted when it is stored."
-msgstr "Un produit doit utiliser le chiffrement pendant le transport et au repos (lorsque cela s’applique). Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication réseau, garantissant que les communications ne sont pas écoutées ou modifiées pendant leur acheminement. Les données utilisateur doivent être chiffrées lors de leur stockage."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:154
-msgid "The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
-msgstr "Le produit doit permettre, par défaut, des mises à jour de sécurité automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant peut proposer aux consommateurs des mises à jour de sécurité, qui sont vérifiées (à l’aide d’une forme de cryptographie), puis installées en toute simplicité."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:165
-msgid "Strong passwords"
-msgstr "Mots de passe robustes"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:169
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:70
-msgid "If the product uses passwords for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device."
-msgstr "Si le produit utilise des mots de passe pour l’authentification à distance, il doit exiger l’utilisation de mots de passe forts et s’appuyer sur des critères de force des mots de passe. Tout mot de passe par défaut non unique doit également être réinitialisé lors de la configuration initiale de l’appareil. Cela aide à protéger l’appareil contre les attaques consistant à deviner les mots de passe, ce qui pourrait compromettre l’appareil."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:181
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:80
-msgid "Vulnerability management"
-msgstr "Gestion des vulnérabilités"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:185
-msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
-msgstr "L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer d’un programme de <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:196
-msgid "Privacy Policy"
-msgstr "Politique de confidentialité"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:200
-msgid "The product must have a privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating."
-msgstr "Le produit doit disposer d’une politique de confidentialité et/ou d’une page séparée dédiée à la confidentialité qui s’applique spécifiquement à l’appareil, à l’application ou au service que nous analysons."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:210
-msgid "Privacy"
-msgstr "Vie privée"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:214
-msgid "We evaluated the privacy documentation—which included privacy policies, privacy pages, FAQs—for each company making these products to determine (1) what kind of information is generally being collected (personal, biometric, and social), (2) how data is used, (3) how you can control your data, (4) the known track record of protecting customer data, (5) if the product can be used offline, (6) and whether the privacy policy was user-friendly."
-msgstr "Nous avons évalué les informations liées au respect de la vie privée (les politiques de confidentialité, les pages traitant de la confidentialité, les FAQ) pour chaque entreprise fabriquant ces produits afin de déterminer (1) quels types de données sont normalement collectées (personnelles, biométriques et sociales), (2) comment les données sont utilisées, (3) comment vous pouvez contrôler vos données, (4) l’historique connu en matière de protection des données des client·e·s, (5) si le produit peut être utilisé hors ligne, (6) et si la politique de confidentialité est accessible et compréhensible."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:225
-msgid "What kind of information is being collected?"
-msgstr "Quels types d’informations sont collectés ?"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:228
-msgid "We listed the personal information collected for each product, as detailed in the privacy policy. This kind of information includes, but is not limited to name, email address, phone number, address."
-msgstr "Nous avons répertorié les informations personnelles collectées par chaque produit, telles qu’elles sont décrites dans la politique de confidentialité. Ce type d’informations inclut notamment votre nom, adresse e-mail, numéro de téléphone, adresse postale, etc."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:235
-msgid "Biometric data is data that describes our bodies and distinctive personal characteristics. Many devices collect sensitive data about our heart rate, our sleep patterns, and our menstrual cycle, for instance. Some even use data about our face and voice to identify us."
-msgstr "Les données biométriques sont des informations qui décrivent notre corps et nos caractéristiques physiques distinctives. De nombreux appareils collectent des données sensibles sur notre fréquence cardiaque, nos habitudes de sommeil et notre cycle menstruel, par exemple. Certains utilisent même des données relatives à notre visage et à notre voix pour nous identifier."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:242
-msgid "Social data includes information about your friends and contacts. We detailed which products collect this social information. This did not include the sharing of links or other information on social media through the product itself (e.g. sharing your route for a run on Facebook)."
-msgstr "Les données sociales incluent des informations sur vos ami·e·s et vos contacts. Nous avons indiqué quels produits collectent ce type d’informations. Cette indication ne prend pas en compte l’utilisation du produit pour partager des liens ou d’autres informations sur les réseaux sociaux (partager votre itinéraire de course à pied sur Facebook, par ex.)."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:253
-msgid "How is data used?"
-msgstr "Comment ce produit utilise-t-il les données ?"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:256
-msgid "How do companies collect and share customer data with third parties? For this question, we analyzed the privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than expected or unrelated to fulfilling operations."
-msgstr "Comment les entreprises collectent-elles et partagent-elles les données des clients avec des tiers ? Pour cette question, nous avons analysé les informations de confidentialité afin de déterminer quand et comment les données personnelles des clients sont partagées avec des tiers pour des raisons autres que celles prévues ou sans rapport avec leur activité."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:264
-msgid "For instance, if a company can share or sell personal customer data with third parties, or if third parties can use data for commercial purposes, then we noted this."
-msgstr "Par exemple, si une entreprise peut partager ou vendre les données personnelles de ses client·e·s à des tiers, ou si des tiers peuvent utiliser ces données à des fins commerciales, nous l’avons noté."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:276
-msgid "Does the company provide a way for users to request deletion of their data? We looked for language around this in the privacy policy and/or whether the company had an online portal that lets users delete their data quickly."
-msgstr "L’entreprise offre-t-elle un moyen aux utilisateurs et utilisatrices de demander la suppression de leurs données ? Nous avons cherché une mention à ce sujet dans la politique de confidentialité et / ou si l’entreprise dispose d’un portail en ligne qui permet aux utilisateurs et utilisatrices de supprimer rapidement leurs données."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:289
-msgid "We evaluated each company’s history of protecting customer data from January 2018 onward. We conducted research to find data breaches or any other incidents."
-msgstr "Pour chaque entreprise, nous avons examiné l’historique de protection des données des client·e·s depuis janvier 2018. Nous avons recherché d’éventuelles fuites de données ou d’autres incidents."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:298
-msgid "Can the product be used offline?"
-msgstr "Le produit peut-il être utilisé hors connexion ?"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:301
-msgid "We checked to see if the product could be used offline or if being online was a requirement to use the product effectively."
-msgstr "Nous avons vérifié si le produit peut fonctionner hors ligne ou si une connexion est nécessaire à son utilisation."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:310
-msgid "User-friendly privacy information"
-msgstr "Informations relatives à la vie privée accessibles et compréhensibles"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:313
-msgid "How easy is it to find clear information about a device’s privacy policies? How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page."
-msgstr "Est-il facile de trouver des informations claires sur la confidentialité d’un appareil ? Quelle est la clarté de ces informations ? Les informations de confidentialité doivent être claires, lisibles et communiquer des informations de base aux consommateurs sur ce qui arrive à leurs données. Nous avons regardé si l’entreprise fournissait des informations de confidentialité faciles à lire, soit dans la politique de confidentialité, soit dans une autre page liée au respect de la vie privée."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:326
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:137
 msgid "Permissions"
 msgstr "Autorisations"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:330
-msgid "We checked to see whether the device or its app uses a camera, microphone, or tracks your location."
-msgstr "Nous avons regardé si l’appareil ou l’application utilise la caméra, le microphone ou des données de localisation."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:141
+msgid "We look to see if it is possible the device could snoop on you if it were hacked, leaked, or not working correctly. Please note, just because a device could snoop on a user doesn’t mean it will. Simply that it is a possibility users should consider before purchasing."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:333
-msgid "For you to set up your new device, you will probably need to download an app. Both of these (the device and the app) will most likely need data to make things work. The app will typically need to request permissions for it to access your more sensitive data."
-msgstr "Pour configurer votre nouvel appareil, vous devrez probablement télécharger une application. L’appareil et l’application auront très probablement tous les deux besoin de données pour fonctionner. L’application devra généralement demander des autorisations pour accéder à vos données sensibles."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:340
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:150
 #, python-format
-msgid "In our ratings, we evaluated if the device or the app required access to the <strong>camera</strong>, <strong>microphone</strong>, or <strong>location</strong> information. We evaluated the device based on the product website and we used the <a href=\"%(google_play_url)s\">Google Play store for Android</a> to check on the permissions requested by each app. (<strong>Note:</strong> apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <strong>any</strong> location information, including approximate location.)"
-msgstr "Dans nos analyses, nous avons évalué si l’appareil ou l’application demande un accès à la <strong>caméra</strong>, au <strong>microphone</strong> ou aux <strong>données de localisation GPS</strong>. Nous avons évalué l’appareil à partir du site web du produit et nous avons utilisé le <a href=\"%(google_play_url)s\">Google Play Store d’Android</a> pour vérifier les autorisations demandées par chaque application. (<strong>Remarque </strong>: les applications peuvent accéder à une localisation « approximative » ou « en fonction du réseau ». « Piste la géolocalisation » affiche « Oui » à partir du moment où une application demande des données de localisation, même approximatives.)"
+msgid "To determine this, we check product websites and the <a href=\"%(google_play_url)s\">Google Play Store</a> or the <a href=\"%(google_play_url)s\">Apple App Store</a> to check on the permissions requested by each app to determine whether the device and its app uses a camera, microphone, or tracks your location. (Note: an app may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests any location information, including approximate location.)"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:353
-msgid "Artificial Intelligence"
-msgstr "Intelligence artificielle"
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:160
+msgid "The apps that control connected devices will typically need to request permissions from your phone for the app to work. This is mostly OK. However, we want consumers to understand when to look for things that don’t feel right, like a children’s fitness tracker app requesting permission to use the phone’s microphone or a home exercise workout machine requesting permission to track location."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:357
-msgid "We evaluated whether or not the product uses artificial intelligence. We defined AI as: Changes are made to the product’s technology continually based on your user data. This would cover Alexa changing to better understand what you say, to your fitness wearable making recommendations on exercises to do so that you meet a specific wellness goal, or your security camera deciding not to alert you because it can distinguish a racoon from a burglar."
-msgstr "Nous avons vérifié si le produit utilise ou non l’intelligence artificielle, en nous basant sur la définition suivante de l’IA : des modifications de la technologie du produit basées sur vos données d’utilisateur ou utilisatrice sont effectuées en continu. Cette définition englobe par exemple les changements mis en œuvre par Alexa pour mieux comprendre vos demandes, les conseils prodigués par votre montre connectée pour vous permettre d’atteindre un objectif bien-être spécifique ou la passivité de votre caméra de surveillance quand elle détecte un chat, car elle sait faire la différence avec un cambrioleur."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:173
+msgid "Privacy"
+msgstr "Vie privée"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:177
+msgid "We evaluate the privacy documentation provided by each company for each product. This includes privacy policies, privacy pages, and FAQs. We attempt to determine (1) what kind of information is generally collected by a product, including personal, body-related, and social, (2) how the data is used by the company, (3) how you can control your data, including how you can access and delete your data, (4) the known track record of a company for protecting user data, (5) if the product can be used offline, (6) and whether the privacy policy is user-friendly. If a company does not provide a product-specific privacy notice, we rely on their general privacy policy for this information. This often means we cannot verify which information mentioned in a company’s privacy documentation may or may not be true about a specific product. In our requests for information from companies before publication, we ask for product-specific privacy policies and if a company shares it, we analyze the product-specific policy."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:194
+msgid "What kind of data does the company collect?"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:198
+msgid "Personal"
+msgstr "Personnelles"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:202
+msgid "We list the personal data collected by each product, as specified in the privacy policy. This kind of information includes, but is not limited to, name, email address, phone number, and address."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:211
+msgid "Body-Related"
+msgstr "Liées au corps"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:215
+msgid "Body-related (including biometric data) is data that describes our bodies and distinctive personal characteristics such as fingerprints, voices, and heart rates. Many devices collect sensitive data about stress, sleep patterns, and menstrual cycles, for instance. Some products use face and voice to identify users."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:225
+msgid "Social"
+msgstr "Sociales"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:229
+msgid "Social data includes information about your friends and contacts. We detailed which products collect this social information. This does not include the sharing of links or other information on social media through the product itself (e.g. sharing your route for a run on Facebook)."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:240
+msgid "How does the company use this data?"
+msgstr "Comment l’entreprise utilise-t-elle les données ?"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:244
+msgid "How do companies collect, use, and share or sell user data with third parties? Do companies combine user data with data from other sources? Is data used for advertisement? For this question, we analyzed the company’s privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than expected. For instance, if a company can share or sell personal customer data with third parties, or if third parties can use data for commercial purposes, then we noted this. Often, privacy policies are written to allow a company the widest set of options for data sharing and sales, even if they don’t currently engage in those activities. To determine current practices, we look for FAQs or other information on company websites to provide additional information. Additionally, if a company provides us with posted information about these practices, we include that information and relevant links."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:258
+msgid "When determining if a product receives a warning on this criteria we look at three major factors. (1) How much data does the company collect on a user? What can and does the company learn about you with this data? Does it collect a large amount of personal data or only what seems necessary for their product to work? (2) Does the company share, combine, or sell this data with a large number of third parties for purposes beyond the normal function of the product? (3) Does the company provide clear and explicit notice before sharing user data with third parties? (4) What types of data are shared for advertising and marketing purposes? We attempt to explain to users what sorts of data collection they should be concerned about in our reviews."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:278
+msgid "Does the company provide a way for users to request access to and deletion of their data? We look for language around this in the privacy policy and/or whether the company has an online portal or contact that allows users to delete their data quickly and easily. We also look for clear retention periods and deletion methods, keeping in mind that retention periods vary greatly and may have different use cases for different types of products. Where anonymization is offered as an alternative to data deletion (which is allowable under GDPR) we note that some forms of anonymization do not completely eliminate the potential for identification."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:290
+msgid "When determining if a product receives a warning on this criteria we look at three major factors. (1) Does the company have a means for a user to request access to the data the company has collected? (2) Does the company have a clear means for users to request the deletion of their data in a reasonable timeframe? (3) Does the company provide retention details for user data? Does the company promise to delete data after it is not needed to fulfill the purposes for which it was collected?"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:310
+msgid "We evaluated each company’s history of storing and protecting customer data within at least the previous three year period. We conduct research to find any known public hacks, data breaches, data leaks, or other incidents."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:318
+msgid "When determining if a product receives a warning on this criteria we look at four major factors. (1) Has the company had any major security vulnerabilities or data leaks in the past three years? (2) If the company has had known security vulnerabilities, have they acted quickly and openly to fix these security vulnerabilities and leaks? (3) Does the company have a track record of being honest and ethical when it comes to protecting user data? (4) What was the volume and sensitivity of leaked data?"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:332
+msgid "Can the product be used offline? "
+msgstr "Le produit peut-il être utilisé sans connexion ?"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:336
+msgid "We checked to see if the product could be used offline or if being online was a requirement to use the product effectively (if applicable). We include this to let consumers know, for example, if an app that might collect data on them is required."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:348
+msgid "User-friendly privacy information"
+msgstr "Informations relatives à la vie privée accessibles et compréhensibles"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:352
+msgid "We evaluate how easy it is to find clear, specific, easy to understand information about a device’s privacy policies. How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page. Vaguely worded, dense, overly long and complex privacy policies are not considered user-friendly in our research"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:373
-msgid "Based on responses from companies and our own research, we noted whether or not a product used AI, or if we could not determine whether or not the product used AI."
-msgstr "En fonction des réponses des entreprises et des résultats de nos propres recherches, nous avons indiqué si un produit utilise ou non l’IA ou si nous n’avons pas pu le déterminer."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:386
-msgid "Based on our research, we noted whether or not decisions were made about you. This included a smart assistant knowing that you are talking to it or a foam roller telling you that you are doing an exercise correctly."
-msgstr "En fonction de nos résultats de recherche, nous avons indiqué si les produits prennent des décisions vous concernant : par exemple, un assistant connecté qui sait que vous vous adressez à lui ou un rouleau de massage qui vous indique si vous réalisez correctement un exercice."
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:396
-msgid "Are you able to get information about how the AI works?"
-msgstr "Pouvez-vous accéder à des informations sur le fonctionnement de l’IA ?"
-
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:400
-msgid "One of the biggest issues surrounding artificial intelligence in our consumer products is having access to essential information about how AI-enabled features work. If we could find academic papers or other documentation about the AI, we marked this as Yes, and we included that information in a product’s page."
-msgstr "L’un des principaux problèmes posés par l’intégration d’intelligence artificielle aux produits de consommation concerne l’accès aux informations essentielles sur le fonctionnement des fonctionnalités basées sur l’IA. Si nous avons réussi à trouver des documents académiques ou d’autres informations sur l’IA, nous avons considéré que oui et nous l’avons indiqué sur la page consacrée au produit."
-
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:9
-msgid "Minimum Security Standards Explained"
-msgstr "Comprendre les critères élémentaires de sécurité"
-
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:14
-msgid "Despite growing concerns about the safety and security of internet-connected devices, many companies still build and sell connected products that are insecure. Further, many companies don’t provide clear information about the data privacy of the devices they sell. Is your personal data being used in ways you may not have anticipated or expected?"
-msgstr "Malgré les préoccupations croissantes concernant la sûreté et la sécurité des appareils connectés à Internet, de nombreuses entreprises continuent de fabriquer et de vendre des objets connectés qui ne sont pas sécurisés. De plus, de nombreuses entreprises ne fournissent pas d’informations claires sur la confidentialité des données des appareils qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que vous n’auriez peut-être pas prévue ou envisagée ?"
-
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:23
-#, python-format
-msgid "In 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a>, and the <a href=\"%(isoc)s\">Internet Society</a>, decided to take a more proactive approach to these gaps. We believe that industry should start talking about what some of the initial ‘red lines’ are in this space, and should phase out practices that lead to the most egregious failings in connected devices."
-msgstr "En 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a> et <a href=\"%(isoc)s\">Internet Society</a> ont décidé d’adopter une approche plus proactive de ces insuffisances. Nous pensons que l’industrie devrait commencer à définir certaines « lignes rouges » à ne pas franchir dans ce domaine et devrait éliminer progressivement les pratiques qui conduisent aux problèmes les plus flagrants des objets connectés."
-
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:32
-msgid "Together, the three organizations proposed five minimum standards that companies making connected devices should reasonably be expected to satisfy."
-msgstr "Ensemble, les trois organisations ont proposé cinq critères élémentaires que les fabricants d’objets connectés devraient être en mesure de respecter."
-
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:41
 msgid "Minimum Security Standards"
 msgstr "Critères élémentaires de sécurité"
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:47
-msgid "The product must use encryption for all of its network communications functions and capabilities. This ensures that all communications are not eavesdropped or modified in transit. The product must also use encryption at rest to ensure that customer data is protected in storage."
-msgstr "Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication réseau. Cela garantit que les communications ne sont pas écoutées ou modifiées pendant leur acheminement. Le produit doit également utiliser le chiffrement lorsqu’il n’est pas utilisé pour garantir la protection des données client lors du stockage."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:377
+msgid "Mozilla established a set of Minimum Security Standards we determine should be met by any manufacturer developing connected products. We email each company at least three times (the first email at least 30 days prior to the publication) to ask for more information about their product and how it meets our standards. For the companies who do not respond, we conduct additional research to find the answers wherever possible. If we cannot determine an answer based on the company response and our own research for any of the five criteria below, we indicate the company does not meet our Minimum Security Standards. When a company responds, even after publication, with additional information, we add this information to product listings."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:56
-msgid "Security updates [1]"
-msgstr "Mises à jour de sécurité [1]"
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:389
+msgid "We evaluated each product on our list against five criteria:"
+msgstr "Chaque produit a été évalué selon cinq critères :"
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:58
-msgid "The product must support automatic updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified and then installed seamlessly. Updates must not make the product unavailable for an extended period."
-msgstr "Le produit doit permettre, par défaut, des mises à jour automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant peut proposer des mises à jour de sécurité aux consommateurs, qui sont vérifiées puis installées en toute simplicité. Les mises à jour ne doivent pas rendre le produit inutilisable pendant une longue période."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:398
+msgid "A product should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped on or modified in transit. User data should be encrypted when it is stored. While end-to-end encryption is preferable, it is not a requirement to meet our Minimum Security Standards."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:68
-msgid "Strong passwords [2]"
-msgstr "Mots de passe robustes [2]"
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:413
+msgid "The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
+msgstr "Le produit doit permettre, par défaut, des mises à jour de sécurité automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant peut proposer aux consommateurs des mises à jour de sécurité, qui sont vérifiées (à l’aide d’une forme de cryptographie), puis installées en toute simplicité."
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:82
-msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or an equivalent bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
-msgstr "L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer de l’équivalent d’un programme de <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:423
+msgid "Strong passwords"
+msgstr "Mots de passe robustes"
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:91
-msgid "Privacy Practices [3]"
-msgstr "Pratiques en matière de confidentialité [3]"
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:427
+msgid "If the product uses passwords or other means of security for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device. In cases where a device is protected with something other than a password, for example a secure Bluetooth connection, we put NA in this field."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:93
-msgid "The product must have privacy information that applies specifically to the device, not a generic privacy policy that is written to cover just the company web properties."
-msgstr "Le produit doit disposer d’informations de confidentialité qui s’appliquent spécifiquement à l’appareil, et non une politique de confidentialité générique rédigée pour couvrir uniquement les sites web de l’entreprise."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:439
+msgid "Vulnerability management"
+msgstr "Gestion des vulnérabilités"
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:104
-msgid "<strong>[1]</strong> Automatic updates are critical to creating a secure product ecosystem. Nonetheless, we have heard concerns that automatic updates can also be used in ways that are adversarial towards users. These standards are not intended in any way to encourage or condone the use of update mechanisms to push software that would weaken the privacy properties of products or modify security or privacy settings in ways that are inconsistent with users’ choices and expectations."
-msgstr "<strong>[1]</strong> Les mises à jour automatiques sont essentielles pour créer un écosystème de produits sécurisé. Néanmoins, nous avons relevé des préoccupations quant au fait que les mises à jour automatiques peuvent également être utilisées de manière à nuire aux utilisateurs. Ces critères ne visent en aucun cas à encourager ou à tolérer l’utilisation de mécanismes de mise à jour pour déployer des logiciels qui affaibliraient les mécanismes de confidentialité des produits ou modifieraient les paramètres de sécurité ou de confidentialité d’une manière incompatible avec les choix et les attentes des utilisateurs."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:443
+msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
+msgstr "L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer d’un programme de <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:116
-msgid "<strong>[2]</strong> These standards are also not intended to require that all devices have a password. It is intended for devices that use passwords for remote authentication, rather than devices that are in hand. For instance, many connected devices use secure methods for Bluetooth authentication that does not involve passwords."
-msgstr "<strong>[2]</strong> Ces critères ne visent pas non plus à exiger que tous les appareils aient un mot de passe. Ils sont destinés aux appareils qui utilisent des mots de passe pour l’authentification à distance, plutôt qu’aux appareils qui peuvent être pris en main. Par exemple, de nombreux objets connectés utilisent des méthodes sécurisées pour l’authentification Bluetooth qui ne font pas appel à des mots de passe."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:453
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
 
-#: network-api/networkapi/wagtailpages/templates/about/minimum_security.html:126
-msgid "<strong>[3]</strong> In the Mozilla <em>*Privacy Not Included</em> Buyer’s Guide, we evaluate additional privacy considerations including how data is shared with third parties, whether data can be deleted, and the readability of the privacy information."
-msgstr "<strong>[3]</strong> Dans le guide d’achat de Mozilla <em>*Confidentialité non incluse</em>, nous évaluons d’autres aspects liés à la vie privée, notamment la manière dont les données sont partagées avec des tiers, la possibilité de supprimer des données et la lisibilité des informations de confidentialité."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:457
+msgid "The product must have a privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating. The product must also have work contact information consumers can reach in a privacy policy for privacy related questions or concerns."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:468
+msgid "Artificial Intelligence"
+msgstr "Intelligence artificielle"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:472
+#, python-format
+msgid "We evaluate whether or not a product uses artificial intelligence. <b>We defined AI as: automated technology that makes decisions for you and/or changes continually based on your user data.</b> This would cover Alexa changing to better understand what you say, to your fitness wearable making recommendations on exercises to do so that you meet a specific wellness goal, or your security camera deciding not to alert you because it can distinguish a raccoon from a human. For more on Mozilla’s position on creating trustworthy AI, you can read our whitepaper <a href=\"%(ai_link)s\">Creating Trustworthy AI</a>."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:487
+msgid "Based on responses from companies and our own research, we note whether or not a product uses AI, or if we could not determine whether or not the product uses AI."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:496
+msgid "Is the AI untrustworthy?"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:500
+msgid "When determining if a product receives a warning on this criteria we look at two major factors. (1) If we are able to determine if AI decisions demonstrate biases based on reporting from experts and trusted sources. (2) If we are able to determine if the AI behaves in some other way we consider unethical and/or untrustworthy based on reporting from experts and trusted sources."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:511
+msgid "What kind of decisions does the AI make about you or for you?"
+msgstr "Quels types de décisions l’intelligence artificielle prend-elle pour vous ou à propos de vous ?"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:515
+msgid "What does the company say the product’s AI is doing? To answer this question, we analyzed the product description and, if available, AI documentation and white papers."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:525
+msgid "Is the company transparent about how the AI works?"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:529
+msgid "Is there publicly available information about how the algorithm behind the AI makes decisions? One of the biggest issues surrounding artificial intelligence in our consumer products is access to essential information about how AI-enabled decisions are made. Such as, how does the algorithm avoid bias and ensure fairness. We asked, does the company publicly inform and explain how their AI works? If we are able to find technical documentation, academic papers, open source code, or other documentation about the AI, we mark this as yes."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:542
+msgid "Does the user have control over the AI features?"
+msgstr "Les fonctionnalités de l’IA peuvent-elle être contrôlées par l’utilisateur ou l’utilisatrice ?"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:545
+msgid "Yes/No/Limited/NA/Can’t Determine"
+msgstr "Oui/Non/Limité/Ne s’applique pas/Impossible à déterminer"
+
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:548
+msgid "We attempt to determine if there is any way to opt out of AI, and/or adjust the settings of the AI."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/press.html:13
 msgid "<em>*Privacy Not Included</em> helps consumers shop for trustworthy connected products. But it also helps journalists cover connected products. Our research assists reporters in incorporating product privacy—and not just price and performance—into their consumer technology coverage."
@@ -749,6 +733,150 @@ msgstr "Mozilla se bat quotidiennement pour un Internet plus sain en tant qu’e
 #, python-format
 msgid "For any questions about the guide or to offer constructive feedback, please email <a href=\"mailto:%(email)s\">%(email)s</a>"
 msgstr "Pour toute question concernant le guide ou pour formuler des commentaires constructifs, veuillez envoyer un e-mail à <a href=\"mailto:%(email)s\">%(email)s</a>."
+
+#~ msgid "Minimum Security Standards explained"
+#~ msgstr "Comprendre les critères élémentaires de sécurité"
+
+#~ msgid "The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart—and safe—for products that connect to the Internet. Many companies don’t provide clear information about the privacy and security of the connected devices they sell. Is your personal data being used in ways you may not have anticipated or expected? What are the risks of buying a product that collects your health data? How does the company regularly test for and fix security vulnerabilities?"
+#~ msgstr "L’objectif du guide d’achat <em>*Confidentialité non incluse</em> de Mozilla est d’aider les consommateurs à faire des achats malins (et sûrs) de produits qui se connectent à Internet. De nombreuses entreprises ne fournissent pas d’informations claires sur la confidentialité et la sécurité des objets connectés qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que vous n’avez peut-être pas prévue ou attendue ? Quels sont les risques liés à l’achat d’un produit qui collecte vos données de santé ? Comment l’entreprise procède-t-elle régulièrement à des tests et corrige-t-elle les failles de sécurité ?"
+
+#~ msgid "It’s difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. With this guide, we hoped to help consumers navigate this landscape by understanding what questions they should ask before buying a device."
+#~ msgstr "Il est difficile pour les consommateurs d’obtenir des entreprises des informations claires et concrètes sur la sécurité et la confidentialité de leurs objets connectés. Avec ce guide, nous espérons aider les consommateurs à se repérer dans ce domaine en comprenant les questions à se poser avant d’acheter un appareil."
+
+#~ msgid "There are 136 products in the 2020 version of our <em>*Privacy Not Included</em> buyer’s guide. These products fit into seven categories—Toys & Games, Smart Home, Home Office (*new), Entertainment, Wearables, Health & Exercise, and Pets."
+#~ msgstr "La version 2020 de notre guide d’achat <em>*Confidentialité non incluse</em> contient 136 produits. Ces produits se répartissent en 7 catégories : jouets et jeux, maison intelligente, télétravail (nouveauté), divertissement, wearables, santé et exercice, et animaux de compagnie."
+
+#~ msgid "The goal was to select connected products that were likely to be popular during the holiday season and beyond. We worked with a research firm to provide us with a list of top products in each of our product categories. From there, we refined the list based on our own research of top selling products that were highly rated across a variety of consumer product websites such as <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(the_toy_insider)s\">The Toy Insider</a>, <a href=\"%(pc_mag)s\">PC Magazine</a>, <a href=\"%(tech_radar)s\">Tech Radar</a>, and <a href=\"%(gear_brain)s\">Gear Brain</a>."
+#~ msgstr "L’objectif était de sélectionner des objets connectés susceptibles d’être populaires pendant la période des fêtes et au-delà. Nous avons collaboré avec un organisme de recherche pour nous fournir une liste des meilleurs produits dans chacune de nos catégories de produits. À partir de là, nous avons affiné la liste en nous basant sur nos propres recherches des produits les plus vendus qui ont été très bien notés sur divers sites web de produits de consommation tels que <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(the_toy_insider)s\">The Toy Insider</a>, <a href=\"%(pc_mag)s\">PC Magazine</a>, <a href=\"%(tech_radar)s\">Tech Radar</a> et <a href=\"%(gear_brain)s\">Gear Brain</a>."
+
+#~ msgid "This year, we assigned <em>*Privacy Not Included</em> warning labels to products we felt had the most problems or gave us concerns about how the data collected was or could be used. We gave a product a <em>*Privacy Not Included</em> warning label if a product received multiple “mini-warnings” for privacy, had an egregious track record of not protecting privacy, or if we could not confirm if they met our Minimum Security Standards."
+#~ msgstr "Cette année, nous avons attribué des icônes d’avertissement <em>*Confidentialité non incluse</em> aux produits qui nous semblent les plus problématiques ou à ceux dont l’utilisation réelle ou potentielle des données collectées nous inquiète. L’icône d’avertissement <em>*Confidentialité non incluse</em> a été attribuée aux produits qui cumulent plusieurs « mini-avertissements » en matière de confidentialité, qui ont déjà présenté des manquements en matière de protection de la vie privée, ou qui ne répondent pas à nos critères élémentaires de sécurité."
+
+#~ msgid "Worst-case scenario"
+#~ msgstr "Pire scénario"
+
+#~ msgid "We included this section to help people understand risk scenarios related to their privacy and each particular product. We aimed to identify risks that would feel relevant to consumers. It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what could happen if something goes wrong. This question looks at potential worst-case scenarios for each product, in some cases for fun, and in some cases, based on things that have already happened with the product."
+#~ msgstr "Nous avons inclus cette section pour aider les gens à comprendre les scénarios de risque liés à leur vie privée et à chaque produit particulier. Notre objectif est d’identifier les risques qui semblent pertinents pour les consommateurs. Il est probable que rien de grave ne se produira avec la plupart des produits de ce guide. Cependant, il est également bon de réfléchir à ce qui pourrait se produire en cas de problème. Cette question se penche sur ce qu’il pourrait arriver de pire pour chaque produit, dans certains cas pour le plaisir et dans d’autres, en se basant sur des évènements déjà survenus avec le produit."
+
+#~ msgid "Minimum Security Requirements"
+#~ msgstr "Critères élémentaires de sécurité"
+
+#~ msgid "Mozilla has established a set of <a href=\"%(sec_standards)s\">Minimum Security Standards</a> it has determined should be met by any manufacturer developing connected devices. We emailed each company to ask for more information about their product and how it meets our standards. For the companies who did not respond, we conducted additional research to find the answers."
+#~ msgstr "Mozilla a établi un ensemble de <a href=\"%(sec_standards)s\">critères élémentaires de sécurité</a> qui devraient être respectés par tout fabricant d’objets connectés. Nous avons contacté chaque entreprise par email pour leur demander des informations supplémentaires sur leurs produits et sur la façon dont elles respectent nos critères. Pour les entreprises qui ne nous ont pas répondu, nous avons mené des recherches plus approfondies afin de trouver les réponses."
+
+#~ msgid "A product should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped on or modified in transit. User data should be encrypted when it is stored."
+#~ msgstr "Un produit doit utiliser le chiffrement pendant le transport et au repos (lorsque cela s’applique). Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication réseau, garantissant que les communications ne sont pas écoutées ou modifiées pendant leur acheminement. Les données utilisateur doivent être chiffrées lors de leur stockage."
+
+#~ msgid "If the product uses passwords for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device."
+#~ msgstr "Si le produit utilise des mots de passe pour l’authentification à distance, il doit exiger l’utilisation de mots de passe forts et s’appuyer sur des critères de force des mots de passe. Tout mot de passe par défaut non unique doit également être réinitialisé lors de la configuration initiale de l’appareil. Cela aide à protéger l’appareil contre les attaques consistant à deviner les mots de passe, ce qui pourrait compromettre l’appareil."
+
+#~ msgid "The product must have a privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating."
+#~ msgstr "Le produit doit disposer d’une politique de confidentialité et/ou d’une page séparée dédiée à la confidentialité qui s’applique spécifiquement à l’appareil, à l’application ou au service que nous analysons."
+
+#~ msgid "We evaluated the privacy documentation—which included privacy policies, privacy pages, FAQs—for each company making these products to determine (1) what kind of information is generally being collected (personal, biometric, and social), (2) how data is used, (3) how you can control your data, (4) the known track record of protecting customer data, (5) if the product can be used offline, (6) and whether the privacy policy was user-friendly."
+#~ msgstr "Nous avons évalué les informations liées au respect de la vie privée (les politiques de confidentialité, les pages traitant de la confidentialité, les FAQ) pour chaque entreprise fabriquant ces produits afin de déterminer (1) quels types de données sont normalement collectées (personnelles, biométriques et sociales), (2) comment les données sont utilisées, (3) comment vous pouvez contrôler vos données, (4) l’historique connu en matière de protection des données des client·e·s, (5) si le produit peut être utilisé hors ligne, (6) et si la politique de confidentialité est accessible et compréhensible."
+
+#~ msgid "What kind of information is being collected?"
+#~ msgstr "Quels types d’informations sont collectés ?"
+
+#~ msgid "We listed the personal information collected for each product, as detailed in the privacy policy. This kind of information includes, but is not limited to name, email address, phone number, address."
+#~ msgstr "Nous avons répertorié les informations personnelles collectées par chaque produit, telles qu’elles sont décrites dans la politique de confidentialité. Ce type d’informations inclut notamment votre nom, adresse e-mail, numéro de téléphone, adresse postale, etc."
+
+#~ msgid "Biometric data is data that describes our bodies and distinctive personal characteristics. Many devices collect sensitive data about our heart rate, our sleep patterns, and our menstrual cycle, for instance. Some even use data about our face and voice to identify us."
+#~ msgstr "Les données biométriques sont des informations qui décrivent notre corps et nos caractéristiques physiques distinctives. De nombreux appareils collectent des données sensibles sur notre fréquence cardiaque, nos habitudes de sommeil et notre cycle menstruel, par exemple. Certains utilisent même des données relatives à notre visage et à notre voix pour nous identifier."
+
+#~ msgid "Social data includes information about your friends and contacts. We detailed which products collect this social information. This did not include the sharing of links or other information on social media through the product itself (e.g. sharing your route for a run on Facebook)."
+#~ msgstr "Les données sociales incluent des informations sur vos ami·e·s et vos contacts. Nous avons indiqué quels produits collectent ce type d’informations. Cette indication ne prend pas en compte l’utilisation du produit pour partager des liens ou d’autres informations sur les réseaux sociaux (partager votre itinéraire de course à pied sur Facebook, par ex.)."
+
+#~ msgid "How is data used?"
+#~ msgstr "Comment ce produit utilise-t-il les données ?"
+
+#~ msgid "How do companies collect and share customer data with third parties? For this question, we analyzed the privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than expected or unrelated to fulfilling operations."
+#~ msgstr "Comment les entreprises collectent-elles et partagent-elles les données des clients avec des tiers ? Pour cette question, nous avons analysé les informations de confidentialité afin de déterminer quand et comment les données personnelles des clients sont partagées avec des tiers pour des raisons autres que celles prévues ou sans rapport avec leur activité."
+
+#~ msgid "For instance, if a company can share or sell personal customer data with third parties, or if third parties can use data for commercial purposes, then we noted this."
+#~ msgstr "Par exemple, si une entreprise peut partager ou vendre les données personnelles de ses client·e·s à des tiers, ou si des tiers peuvent utiliser ces données à des fins commerciales, nous l’avons noté."
+
+#~ msgid "Does the company provide a way for users to request deletion of their data? We looked for language around this in the privacy policy and/or whether the company had an online portal that lets users delete their data quickly."
+#~ msgstr "L’entreprise offre-t-elle un moyen aux utilisateurs et utilisatrices de demander la suppression de leurs données ? Nous avons cherché une mention à ce sujet dans la politique de confidentialité et / ou si l’entreprise dispose d’un portail en ligne qui permet aux utilisateurs et utilisatrices de supprimer rapidement leurs données."
+
+#~ msgid "We evaluated each company’s history of protecting customer data from January 2018 onward. We conducted research to find data breaches or any other incidents."
+#~ msgstr "Pour chaque entreprise, nous avons examiné l’historique de protection des données des client·e·s depuis janvier 2018. Nous avons recherché d’éventuelles fuites de données ou d’autres incidents."
+
+#~ msgid "Can the product be used offline?"
+#~ msgstr "Le produit peut-il être utilisé hors connexion ?"
+
+#~ msgid "We checked to see if the product could be used offline or if being online was a requirement to use the product effectively."
+#~ msgstr "Nous avons vérifié si le produit peut fonctionner hors ligne ou si une connexion est nécessaire à son utilisation."
+
+#~ msgid "How easy is it to find clear information about a device’s privacy policies? How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page."
+#~ msgstr "Est-il facile de trouver des informations claires sur la confidentialité d’un appareil ? Quelle est la clarté de ces informations ? Les informations de confidentialité doivent être claires, lisibles et communiquer des informations de base aux consommateurs sur ce qui arrive à leurs données. Nous avons regardé si l’entreprise fournissait des informations de confidentialité faciles à lire, soit dans la politique de confidentialité, soit dans une autre page liée au respect de la vie privée."
+
+#~ msgid "We checked to see whether the device or its app uses a camera, microphone, or tracks your location."
+#~ msgstr "Nous avons regardé si l’appareil ou l’application utilise la caméra, le microphone ou des données de localisation."
+
+#~ msgid "For you to set up your new device, you will probably need to download an app. Both of these (the device and the app) will most likely need data to make things work. The app will typically need to request permissions for it to access your more sensitive data."
+#~ msgstr "Pour configurer votre nouvel appareil, vous devrez probablement télécharger une application. L’appareil et l’application auront très probablement tous les deux besoin de données pour fonctionner. L’application devra généralement demander des autorisations pour accéder à vos données sensibles."
+
+#~ msgid "In our ratings, we evaluated if the device or the app required access to the <strong>camera</strong>, <strong>microphone</strong>, or <strong>location</strong> information. We evaluated the device based on the product website and we used the <a href=\"%(google_play_url)s\">Google Play store for Android</a> to check on the permissions requested by each app. (<strong>Note:</strong> apps may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests <strong>any</strong> location information, including approximate location.)"
+#~ msgstr "Dans nos analyses, nous avons évalué si l’appareil ou l’application demande un accès à la <strong>caméra</strong>, au <strong>microphone</strong> ou aux <strong>données de localisation GPS</strong>. Nous avons évalué l’appareil à partir du site web du produit et nous avons utilisé le <a href=\"%(google_play_url)s\">Google Play Store d’Android</a> pour vérifier les autorisations demandées par chaque application. (<strong>Remarque </strong>: les applications peuvent accéder à une localisation « approximative » ou « en fonction du réseau ». « Piste la géolocalisation » affiche « Oui » à partir du moment où une application demande des données de localisation, même approximatives.)"
+
+#~ msgid "We evaluated whether or not the product uses artificial intelligence. We defined AI as: Changes are made to the product’s technology continually based on your user data. This would cover Alexa changing to better understand what you say, to your fitness wearable making recommendations on exercises to do so that you meet a specific wellness goal, or your security camera deciding not to alert you because it can distinguish a racoon from a burglar."
+#~ msgstr "Nous avons vérifié si le produit utilise ou non l’intelligence artificielle, en nous basant sur la définition suivante de l’IA : des modifications de la technologie du produit basées sur vos données d’utilisateur ou utilisatrice sont effectuées en continu. Cette définition englobe par exemple les changements mis en œuvre par Alexa pour mieux comprendre vos demandes, les conseils prodigués par votre montre connectée pour vous permettre d’atteindre un objectif bien-être spécifique ou la passivité de votre caméra de surveillance quand elle détecte un chat, car elle sait faire la différence avec un cambrioleur."
+
+#~ msgid "Based on responses from companies and our own research, we noted whether or not a product used AI, or if we could not determine whether or not the product used AI."
+#~ msgstr "En fonction des réponses des entreprises et des résultats de nos propres recherches, nous avons indiqué si un produit utilise ou non l’IA ou si nous n’avons pas pu le déterminer."
+
+#~ msgid "Based on our research, we noted whether or not decisions were made about you. This included a smart assistant knowing that you are talking to it or a foam roller telling you that you are doing an exercise correctly."
+#~ msgstr "En fonction de nos résultats de recherche, nous avons indiqué si les produits prennent des décisions vous concernant : par exemple, un assistant connecté qui sait que vous vous adressez à lui ou un rouleau de massage qui vous indique si vous réalisez correctement un exercice."
+
+#~ msgid "Are you able to get information about how the AI works?"
+#~ msgstr "Pouvez-vous accéder à des informations sur le fonctionnement de l’IA ?"
+
+#~ msgid "One of the biggest issues surrounding artificial intelligence in our consumer products is having access to essential information about how AI-enabled features work. If we could find academic papers or other documentation about the AI, we marked this as Yes, and we included that information in a product’s page."
+#~ msgstr "L’un des principaux problèmes posés par l’intégration d’intelligence artificielle aux produits de consommation concerne l’accès aux informations essentielles sur le fonctionnement des fonctionnalités basées sur l’IA. Si nous avons réussi à trouver des documents académiques ou d’autres informations sur l’IA, nous avons considéré que oui et nous l’avons indiqué sur la page consacrée au produit."
+
+#~ msgid "Minimum Security Standards Explained"
+#~ msgstr "Comprendre les critères élémentaires de sécurité"
+
+#~ msgid "Despite growing concerns about the safety and security of internet-connected devices, many companies still build and sell connected products that are insecure. Further, many companies don’t provide clear information about the data privacy of the devices they sell. Is your personal data being used in ways you may not have anticipated or expected?"
+#~ msgstr "Malgré les préoccupations croissantes concernant la sûreté et la sécurité des appareils connectés à Internet, de nombreuses entreprises continuent de fabriquer et de vendre des objets connectés qui ne sont pas sécurisés. De plus, de nombreuses entreprises ne fournissent pas d’informations claires sur la confidentialité des données des appareils qu’elles vendent. Vos données personnelles sont-elles utilisées d’une manière que vous n’auriez peut-être pas prévue ou envisagée ?"
+
+#~ msgid "In 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a>, and the <a href=\"%(isoc)s\">Internet Society</a>, decided to take a more proactive approach to these gaps. We believe that industry should start talking about what some of the initial ‘red lines’ are in this space, and should phase out practices that lead to the most egregious failings in connected devices."
+#~ msgstr "En 2018, <a href=\"%(mozilla)s\">Mozilla</a>, <a href=\"%(ci)s\">Consumers International</a> et <a href=\"%(isoc)s\">Internet Society</a> ont décidé d’adopter une approche plus proactive de ces insuffisances. Nous pensons que l’industrie devrait commencer à définir certaines « lignes rouges » à ne pas franchir dans ce domaine et devrait éliminer progressivement les pratiques qui conduisent aux problèmes les plus flagrants des objets connectés."
+
+#~ msgid "Together, the three organizations proposed five minimum standards that companies making connected devices should reasonably be expected to satisfy."
+#~ msgstr "Ensemble, les trois organisations ont proposé cinq critères élémentaires que les fabricants d’objets connectés devraient être en mesure de respecter."
+
+#~ msgid "The product must use encryption for all of its network communications functions and capabilities. This ensures that all communications are not eavesdropped or modified in transit. The product must also use encryption at rest to ensure that customer data is protected in storage."
+#~ msgstr "Le produit doit utiliser le chiffrement pour toutes ses fonctions et capacités de communication réseau. Cela garantit que les communications ne sont pas écoutées ou modifiées pendant leur acheminement. Le produit doit également utiliser le chiffrement lorsqu’il n’est pas utilisé pour garantir la protection des données client lors du stockage."
+
+#~ msgid "Security updates [1]"
+#~ msgstr "Mises à jour de sécurité [1]"
+
+#~ msgid "The product must support automatic updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified and then installed seamlessly. Updates must not make the product unavailable for an extended period."
+#~ msgstr "Le produit doit permettre, par défaut, des mises à jour automatiques pendant une période raisonnable après la vente. Cela garantit que lorsqu’une vulnérabilité est connue, le fabricant peut proposer des mises à jour de sécurité aux consommateurs, qui sont vérifiées puis installées en toute simplicité. Les mises à jour ne doivent pas rendre le produit inutilisable pendant une longue période."
+
+#~ msgid "Strong passwords [2]"
+#~ msgstr "Mots de passe robustes [2]"
+
+#~ msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or an equivalent bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
+#~ msgstr "L’entreprise doit disposer d’un système permettant de gérer les vulnérabilités du produit. Ce système doit proposer un point de contact pour signaler des vulnérabilités ou disposer de l’équivalent d’un programme de <em>bug bounty</em>. Cela permet de s’assurer que les entreprises gèrent activement les vulnérabilités tout au long du cycle de vie du produit."
+
+#~ msgid "Privacy Practices [3]"
+#~ msgstr "Pratiques en matière de confidentialité [3]"
+
+#~ msgid "The product must have privacy information that applies specifically to the device, not a generic privacy policy that is written to cover just the company web properties."
+#~ msgstr "Le produit doit disposer d’informations de confidentialité qui s’appliquent spécifiquement à l’appareil, et non une politique de confidentialité générique rédigée pour couvrir uniquement les sites web de l’entreprise."
+
+#~ msgid "<strong>[1]</strong> Automatic updates are critical to creating a secure product ecosystem. Nonetheless, we have heard concerns that automatic updates can also be used in ways that are adversarial towards users. These standards are not intended in any way to encourage or condone the use of update mechanisms to push software that would weaken the privacy properties of products or modify security or privacy settings in ways that are inconsistent with users’ choices and expectations."
+#~ msgstr "<strong>[1]</strong> Les mises à jour automatiques sont essentielles pour créer un écosystème de produits sécurisé. Néanmoins, nous avons relevé des préoccupations quant au fait que les mises à jour automatiques peuvent également être utilisées de manière à nuire aux utilisateurs. Ces critères ne visent en aucun cas à encourager ou à tolérer l’utilisation de mécanismes de mise à jour pour déployer des logiciels qui affaibliraient les mécanismes de confidentialité des produits ou modifieraient les paramètres de sécurité ou de confidentialité d’une manière incompatible avec les choix et les attentes des utilisateurs."
+
+#~ msgid "<strong>[2]</strong> These standards are also not intended to require that all devices have a password. It is intended for devices that use passwords for remote authentication, rather than devices that are in hand. For instance, many connected devices use secure methods for Bluetooth authentication that does not involve passwords."
+#~ msgstr "<strong>[2]</strong> Ces critères ne visent pas non plus à exiger que tous les appareils aient un mot de passe. Ils sont destinés aux appareils qui utilisent des mots de passe pour l’authentification à distance, plutôt qu’aux appareils qui peuvent être pris en main. Par exemple, de nombreux objets connectés utilisent des méthodes sécurisées pour l’authentification Bluetooth qui ne font pas appel à des mots de passe."
+
+#~ msgid "<strong>[3]</strong> In the Mozilla <em>*Privacy Not Included</em> Buyer’s Guide, we evaluate additional privacy considerations including how data is shared with third parties, whether data can be deleted, and the readability of the privacy information."
+#~ msgstr "<strong>[3]</strong> Dans le guide d’achat de Mozilla <em>*Confidentialité non incluse</em>, nous évaluons d’autres aspects liés à la vie privée, notamment la manière dont les données sont partagées avec des tiers, la possibilité de supprimer des données et la lisibilité des informations de confidentialité."
 
 #~ msgid "Bigger and better."
 #~ msgstr "Du mieux à tous les niveaux"
