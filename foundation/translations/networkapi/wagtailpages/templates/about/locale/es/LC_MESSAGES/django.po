@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-09 12:16+0000\n"
+"POT-Creation-Date: 2021-11-10 08:11+0000\n"
 "PO-Revision-Date: 2021-05-21 21:43+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -180,7 +180,7 @@ msgid "Privacy information should be clear, readable, and communicate basic info
 msgstr "La información sobre privacidad debe ser clara, legible y explicar a los consumidores lo que básicamente sucede con sus datos. A menudo, las políticas de privacidad parecen escritas más para abogados que para consumidores. Por eso, es agradable ver que cada vez más empresas crean páginas de privacidad claras y asequibles donde describen cómo gestionan tu información personal y los datos que recopilan sobre sus usuarios. Confiamos en que esta tendencia continúe."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:187
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:56
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:102
 msgid "Our Minimum Security Standards"
 msgstr "Nuestros estándares mínimos de seguridad"
 
@@ -554,116 +554,134 @@ msgstr "Desde su lanzamiento en 2017, *Privacidad no incluida ha aparecido en ci
 
 #: network-api/networkapi/wagtailpages/templates/about/press.html:44
 #, python-format
+msgid "<strong>Daily Dot:</strong> <a href=\"%(url)s\">These sex toys and dating apps may jeopardize your privacy, Mozilla warns </a>"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/press.html:48
+msgid "Published February 2021. Writes The Daily Dot: “Mozilla’s new Privacy Not Included report looks at 50 sex toys and dating apps and ranks them based on how they respect users’ privacy. And the answers aren’t sexy.”"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/press.html:55
+#, python-format
+msgid "<strong>CBS News:</strong> <a href=\"%(url)s\">Creepy gifts: Toys that spy on kids and coffee makers that track your habits</a>"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/press.html:59
+msgid "Published November 2020. Writes CBS: “Some holiday gifts are more festive than others, while those that snoop on their users could be seen as decidedly less so. So says the Mozilla Foundation, which recently posted its annual Privacy Not Included holiday gift guide.”"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/press.html:67
+#, python-format
 msgid "<strong>Mashable:</strong> <a href=\"%(url)s\">Privacy experts reviewed popular video-chat apps, and *yikes*</a>"
 msgstr "<strong>Mashable:</strong> <a href=\"%(url)s\">Expertos en privacidad examinaron las apps de videochat más populares y... *dios mío*</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:48
+#: network-api/networkapi/wagtailpages/templates/about/press.html:71
 msgid "Published April 2020. “[Mozilla] researchers combed through privacy policies, sifted through app specifications, and looked at critical questions,” Mozilla told Mashable of our special video chat app edition of <em>*Privacy Not Included</em>."
 msgstr "Publicado en abril de 2020. “Los analistas de [Mozilla] han peinado las políticas de privacidad, analizado las especificaciones de las apps y examinado aspectos críticos,” afirmaba Mozilla a la revista Mashable con motivo de nuestra edición especial de <em>*Privacidad no incluida</em> sobre apps de videochat."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:55
+#: network-api/networkapi/wagtailpages/templates/about/press.html:78
 #, python-format
 msgid "<strong>NPR:</strong> <a href=\"%(url)s\">Mozilla’s Latest “Privacy Not Included” Buyer’s Guide</a>"
 msgstr "<strong>NPR:</strong> <a href=\"%(url)s\">La última guía del comprador “Privacidad no incluida” de Mozilla</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:59
+#: network-api/networkapi/wagtailpages/templates/about/press.html:82
 msgid "Published December 2019. Ashley Boyd, Mozilla’s VP of Advocacy and Engagement, spoke with host Steve Inskeep about the surveillance features that are often built into consumer technology."
 msgstr "Publicado en diciembre de 2019. Ashley Boyd, VP of Advocacy and Engagement de Mozilla, habló con el presentador Steve Inskeep sobre las funciones de vigilancia que suelen venir de serie con los productos de tecnología."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:67
+#: network-api/networkapi/wagtailpages/templates/about/press.html:90
 msgid "Here’s a warning that should be on some of the items on your holiday shopping list—privacy not included. That’s the point of a shopping guide put out by the Mozilla Foundation."
 msgstr "Esta es la advertencia que deberían mostrar algunos de los artículos de vuestra lista de compras de Navidad: \"privacidad no incluida\". Y este es el objetivo de la guía de compras publicada por la Fundación Mozilla."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:72
+#: network-api/networkapi/wagtailpages/templates/about/press.html:95
 msgid "— Steve Inskeep, NPR"
 msgstr "— Steve Inskeep, NPR"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:76
+#: network-api/networkapi/wagtailpages/templates/about/press.html:99
 #, python-format
 msgid "<strong>NBC News:</strong> <a href=\"%(url)s\">The downside of connected tech: Are the smart devices in your home spying on you?</a>"
 msgstr "<strong>NBC News:</strong> <a href=\"%(url)s\">La cara oculta de los dispositivos conectados: ¿te están espiando en casa?</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:81
+#: network-api/networkapi/wagtailpages/templates/about/press.html:104
 msgid "Published December 2019. Ashley Boyd spoke with NBC about giving consumers more control over their personal data."
 msgstr "Publicado en diciembre de 2019. Ashley Boyd comentó en la NBC que los consumidores deberían tener más control sobre sus datos personales."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:87
+#: network-api/networkapi/wagtailpages/templates/about/press.html:110
 #, python-format
 msgid "<strong>USA Today:</strong> <a href=\"%(url)s\">Before you buy, consider privacy, please</a>"
 msgstr "<strong>USA Today:</strong> <a href=\"%(url)s\">Antes de comprar, por favor, piensa en tu privacidad</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:91
+#: network-api/networkapi/wagtailpages/templates/about/press.html:114
 msgid "Published November 2019. Mozilla researcher Becca Ricks spoke with technology columnist Jefferson Graham about the privacy and security flaws of connected doorbells."
 msgstr "Publicado en noviembre de 2019. La analista de Mozilla, Becca Ricks, habló con el columnista de tecnología, Jefferson Graham, sobre privacidad y los fallos de seguridad de los timbres conectados."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:99
+#: network-api/networkapi/wagtailpages/templates/about/press.html:122
 msgid "The folks at the Mozilla Foundation, which makes the Firefox browser, have consumers in mind with a new chart outlining the worst privacy offenders this holiday season."
 msgstr "El equipo de la Fundación Mozilla, responsable del navegador Firefox, publica esta Navidad una guía para los consumidores de tecnología con las empresas más infractoras de la privacidad."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:104
+#: network-api/networkapi/wagtailpages/templates/about/press.html:127
 msgid "— Jefferson Graham, USA Today"
 msgstr "— Jefferson Graham, USA Today"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:108
+#: network-api/networkapi/wagtailpages/templates/about/press.html:131
 #, python-format
 msgid "<strong>Toronto Star:</strong> <a href=\"%(url)s\">How creepy is that Christmas gift? A guide to seasonal tech</a>"
 msgstr "<strong>Toronto Star:</strong> <a href=\"%(url)s\">¿Cuánto yuyu da ese regalo de Navidad? Una guía para las compras de Navidad</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:113
+#: network-api/networkapi/wagtailpages/templates/about/press.html:136
 msgid "Published December 2018. Jen Caltrider, Mozilla’s Content Strategy Lead, explains how <em>*Privacy Not Included</em> can spur manufacturers to create more responsible tech."
 msgstr "Publicado en diciembre de 2018. Jen Caltrider, Content Strategy Lead de Mozilla, explica cómo <em>*Privacidad no incluida</em> puede contribuir a que los fabricantes creen tecnología más responsable."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:120
+#: network-api/networkapi/wagtailpages/templates/about/press.html:143
 #, python-format
 msgid "<strong>NPR:</strong> <a href=\"%(url)s\">A Tech Foundation Discusses Security And Privacy When It Comes To Smart Devices</a>"
 msgstr "<strong>NPR:</strong> <a href=\"%(url)s\">Una fundación de tecnología pone en debate la seguridad y la privacidad de los dispositivos inteligentes</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:125
+#: network-api/networkapi/wagtailpages/templates/about/press.html:148
 msgid "Published December 2018. Ashley Boyd speaks with NPR’s Scott Simon about the need to consider privacy alongside price and performance when purchasing a connected gift."
 msgstr "Publicado en diciembre de 2018. Ashley Boyd habla con Scott Simon de NPR sobre la necesidad de valorar la privacidad, además del precio y las prestaciones, a la hora de comprar un dispositivo conectado."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:132
+#: network-api/networkapi/wagtailpages/templates/about/press.html:155
 #, python-format
 msgid "<strong>WIRED:</strong> <a href=\"%(url)s\">Mozilla Makes a Naughty List of Gifts that Aren’t Secure</a>"
 msgstr "<strong>WIRED:</strong> <a href=\"%(url)s\">Mozilla elabora una lista de regalos que no son seguros</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:136
+#: network-api/networkapi/wagtailpages/templates/about/press.html:159
 msgid "Published November 2018. Writes WIRED: “In its second annual Privacy Not Included guide, the nonprofit highlights internet-connected items that value your privacy—and the ones that may not.”"
 msgstr "Publicado en diciembre de 2018. La revista WIRED publica: “En su segunda edición anual de la guía Privacidad no incluida, la fundación sin ánimo de lucro diferencia entre los productos conectados a Internet que valoran la privacidad y los que no.”"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:143
+#: network-api/networkapi/wagtailpages/templates/about/press.html:166
 #, python-format
 msgid "<strong>Cheddar:</strong> <a href=\"%(url)s\">Mozilla Ranks Cyber-Safety of Your Holiday Shopping List</a>"
 msgstr "<strong>Cheddar:</strong> <a href=\"%(url)s\">Mozilla clasifica los regalos de tu lista de Navidad según su nivel de ciberseguridad</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:147
+#: network-api/networkapi/wagtailpages/templates/about/press.html:170
 msgid "Published November 2018. Mozilla visited Cheddar’s studio in Manhattan to talk through the most and least creepy products in <em>*Privacy Not Included</em>."
 msgstr "Publicado en noviembre de 2018. Mozilla visita el estudio de Cheddar, en Manhattan, para hablar sobre los productos más peligrosos de su guía <em>*Privacidad no incluida</em>."
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:154
+#: network-api/networkapi/wagtailpages/templates/about/press.html:177
 msgid "Mozilla’s Gift Guide"
 msgstr "Guía de regalos de Mozilla"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:156
+#: network-api/networkapi/wagtailpages/templates/about/press.html:179
 #, python-format
 msgid "Ashley Boyd, Mozilla’s VP of Advocacy, joined Cheddar on <a href=\"%(url)s\">Mozilla Ranks Cyber-Safety of Your Holiday Shopping List</a>"
 msgstr "Ashley Boyd, VP of Advocacy de Mozilla, se unió a Cheddar para explicar cómo <a href=\"%(url)s\">Mozilla clasifica los regalos de tu lista de Navidad según su nivel de ciberseguridad</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:164
+#: network-api/networkapi/wagtailpages/templates/about/press.html:187
 #, python-format
 msgid "<strong>New York Times:</strong> <a href=\"%(url)s\">Don’t Give Kids Holiday Gifts That Can Spy on Them</a>"
 msgstr "<strong>New York Times:</strong> <a href=\"%(url)s\">No regales a los niños dispositivos que pueden espiarlos</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:168
+#: network-api/networkapi/wagtailpages/templates/about/press.html:191
 msgid "Published December 2017. Writes Ashley Boyd in this print and digital op-ed: “During the holiday season, my husband and I tend to offer suggestions to those who are generous enough to insist on buying presents for our kids. This year we’re adding a new rule to our list: No toys that can spy.”"
 msgstr "Publicado en diciembre de 2017. Extracto del artículo de opinión impreso y digital de Ashley Boyd: “Durante la temporada de Navidad, mi marido y yo tendemos a sugerir ideas a los familiares que insisten generosamente en comprarles regalos a nuestros hijos. Este año, hemos añadido una condición: nada de juguetes que puedan espiarlos.”"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:177
+#: network-api/networkapi/wagtailpages/templates/about/press.html:200
 #, python-format
 msgid "<strong>ABC San Francisco:</strong> <a href=\"%(url)s\">Your privacy may be at risk with some toys, gadgets</a>"
 msgstr "<strong>ABC San Francisco:</strong> <a href=\"%(url)s\">Gadgets y juguetes que pueden poner en riesgo tu privacidad</a>"
 
-#: network-api/networkapi/wagtailpages/templates/about/press.html:181
+#: network-api/networkapi/wagtailpages/templates/about/press.html:204
 msgid "Published December 2017. Mozilla visited ABC 7’s studio in San Francisco to talk through the most and least creepy products in <em>*Privacy Not Included</em>."
 msgstr "Publicado en diciembre de 2017. Mozilla visitó el estudio de ABC 7 en San Francisco para hablar sobre los productos más peligrosos de la guía <em>*Privacidad no incluida</em>."
 
@@ -677,63 +695,115 @@ msgid "Welcome to  <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</e
 msgstr "Bienvenido a la guía del comprador <a %(link_args)s>Mozilla’s</a> <em>*Privacidad no incluida</em>. Nuestro objetivo es ayudarte a hacer una buena compra y, sobre todo, segura, de productos conectados a Internet."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:21
-msgid "In 2017, when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart home products. Turns out, they were. And it wasn’t just people who were interested. We discovered companies were too. We’re happy to see both consumers and companies increasingly value connected products that are safe, secure, and private."
-msgstr "En 2017, cuando decidimos lanzar la primera <em>*Privacidad no incluida</em>, no sabíamos si la gente estaría interesada en una guía sobre la privacidad y seguridad de los juguetes, dispositivos y productos inteligentes conectados. Pues resultó que sí... Y no solo las personas estaban interesadas, sino también las empresas. Hoy nos complace enormemente ver que tanto consumidores como empresas valoran cada vez más aquellos productos conectados que son seguros y privados."
+msgid "In 2017, when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart home products. Turns out, they were. And it wasn’t just people who were interested. We discovered some companies were too. We’re happy to see both consumers and companies increasingly value connected products that are safe, secure, and private."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:31
-msgid "What can you expect in <em>*Privacy Not Included</em>?"
-msgstr "¿Qué encontrarás en nuestra guía <em>*Privacidad no incluida</em>?"
+msgid "Unfortunately, It is often difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. Is your personal data shared or sold in ways you may not have expected? What is the company’s known track record for protecting the personal information they collect on you? How does the company regularly test for and fix security vulnerabilities?"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:39
+msgid "With this guide, we hope to help you navigate this landscape by understanding what questions you should ask and what answers you should expect before buying a connected tech product."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:45
+msgid "The way we approach our research here at <em>*Privacy Not Included</em> is from the viewpoint of you, the consumer. We just have a bit more time and expertise to read privacy policies and delve into company’s security practices. We don’t purchase the products and test them in a lab. Consumers can’t do that. Instead, we look at all the information we can find that is publicly available to consumers before they purchase a product to try and understand the privacy and security concerns you should be aware of. We seek a future in which hours of research like this aren’t required to buy safe, responsible products. Unfortunately, it seems we have a long way to go. In the meantime, we’ll read those boring privacy policies so you don’t have to."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:56
+msgid "What can you expect in our guide to help you shop safely for those connected products? Quite a few things."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:65
 msgid "Our *Privacy Not Included warning label"
 msgstr "La etiqueta de advertencia de *Privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:41
-msgid "We’re very excited our <em>*Privacy Not Included</em> buyer’s guide now comes with <em>*Privacy Not Included</em> warning labels on products we think consumers should think twice about before buying. It’s no small thing to assign such a label to a product, so we set ourselves some strict standards. If we can’t confirm a product meets our Minimum Security Standards it automatically earns the label. We also factor in if a product shares or sells your data, doesn’t let you delete your data, or if the company has a poor track record of protecting their users’ data into our decision to assign these warning labels. We hope users will find these warnings useful. We also include a Best Of category now to showcase companies who are doing privacy and security right."
-msgstr "Estamos muy contentos porque este año la guía del comprador <em>*Privacidad no incluida</em> incluye la etiqueta de advertencia de *Privacidad no incluida<em> para los productos que, en nuestra opinión, los consumidores deberían valorar seriamente antes de comprar. Sabemos que no es poca cosa asignar una etiqueta de este tipo a un producto, por lo que nos marcamos unos estándares muy estrictos antes de hacerlo. Si no podemos confirmar que un producto cumple con nuestros estándares mínimos de seguridad, le otorgamos automáticamente la etiqueta. También analizamos si un producto comparte o vende tus datos personales, si no te permite borrarlos y si el historial de la empresa fabricante no destaca precisamente por la protección de datos de sus usuarios. "
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:67
+msgid "We’re very excited our <em>*Privacy Not Included</em> buyer’s guide comes with <em>*Privacy Not Included</em> warning labels on products we think consumers should think twice about before buying. It’s no small thing to assign such a label to a product, so we set ourselves some strict standards. Where we have concerns, we aim to be as specific as possible about what could happen so you can buy products that meet your standards."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:58
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:78
+msgid "Our Best Of category"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:80
+msgid "It’s one thing to call out products that are bad. We also want to help consumers know what products are good. Check out our Best Of category to see which products and companies we think are doing privacy and security right."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:89
+msgid "There is a Creep-O-Meter"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:91
+msgid "We want you to be able to share your opinion too. It’s important for companies and other consumers to see which products people think are safe, and which products people feel are a bit creepy. So we created our Creep-O-Meter—a user rating on each product—to let you share your opinion. Companies are paying attention, so let them know if you think their product is creepy or not!"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:104
 #, python-format
-msgid "We realize people want to just know which products are safe and which aren’t. We are Mozilla—not a consumer product review company—so we won’t say “Buy this, don’t buy that.” Instead, we used our technical expertise to create a set of <a href=\"%(url)s\">Minimum Security Standards</a> we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy."
-msgstr "Sabemos que la gente solo quiere saber si un producto es seguro o no. Somos Mozilla—no una empresa que analiza productos de consumo—por lo que no te diremos “compra esto o no compres aquello.” Lo que hemos hecho es aprovechar nuestra experiencia en tecnología para crear un conjunto de <a href=\"%(url)s\">Estándares mínimos de seguridad</a> que todos los productos deberían cumplir para su comercialización. Estos estándares incluyen el cifrado, las actualizaciones de seguridad automáticas, las contraseñas fuertes, contar con un sistema de gestión de las vulnerabilidades y disponer de una política de privacidad fácil y accesible."
+msgid "We realize people want to <i>just know</i> which products are safe and which aren’t. We used our technical expertise here at Mozilla to create a set of Minimum Security Standards we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy. Read more about our Minimum Security Standards on our <a href=%(url)s>Methodology page</a>."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:70
-msgid "There is a Creep-O-Meter."
-msgstr "Tenemos un «Yuyómetro»"
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:115
+msgid "Tons of Research"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:72
-msgid "We want users of this guide to be able to share their opinion too. It’s important companies, and other consumers, see which products people think are safe, and which products people feel are a bit creepy. So we created our Creep-O-Meter—a user rating on each product—to let folks give their opinion. Companies are paying attention, so let them know if you think their product is creepy or not."
-msgstr "Queremos que los usuarios de esta guía también puedan compartir sus opiniones para que, de este modo, las empresas y otros consumidores vean qué productos la gente valora como seguros y qué productos la gente cree que pueden dar un poco de yuyu. Por eso, hemos creado el «Yuyómetro», un medidor que permite a los usuarios dar su opinión sobre cada producto. Las empresas nos siguen, o sea que, si crees que su producto es peligroso, házselo saber."
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:117
+#, python-format
+msgid "You’ll notice a lot of research went into this guide. We even include the hours we spent researching a product on every page. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. We don’t buy and test products. Instead we look at what we can find that is publicly available. Our researchers comb through privacy policies, reach out to companies with questions about encryption and bug bounty programs, sift through product and app specifications, and read the research and news articles written about the products in the past three years. We do our best to then make your access to all this information accessible and easy to understand. We’ve even put together a <a href=%(url)s>How to Use This Guide page</a> to help you understand all the information we share here on <em>*Privacy Not Included</em>."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:82
-msgid "Good research from good researchers."
-msgstr "Buena investigación de buenos investigadores."
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:129
+msgid "We hope you use this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. Then share it with your friends and family to help them shop safe too. We as consumers need to demand that privacy and security as a value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:84
-msgid "You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand.  One other note, in <em>*Privacy Not Included</em> we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr "Seguramente observarás que esta guía contiene mucho más análisis e investigación: desde informarte sobre si el dispositivo usa cámara o micrófono, o si rastrea tu ubicación o tus datos biométricos, hasta la sección que describe lo que podría suceder si algo sale mal con un producto... esta vez hemos abarcado mucho más terreno. Afortunadamente, en Mozilla contamos con analistas excelentes y con un elevado nivel de experiencia que nos permite profundizar en el tema para que tú no tengas que hacerlo. Nuestros analistas han revisado las políticas de privacidad, han preguntado a las empresas sobre el cifrado y los programas de recompensa de errores y han examinado con detalle las especificaciones de productos y aplicaciones. Finalmente, hemos hecho todo lo posible para que puedas acceder a nuestra investigación de la manera más fácil y clara posible. Por cierto, en <em>*Privacidad no incluida</em> hemos analizado los juguetes sexuales conectados. Este contenido está dirigido a mayores de 18 años, puesto que puede contener información delicada o solo para adultos."
-
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:100
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:141
 msgid "We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. We as consumers need to demand that value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
 msgstr "Confiamos en que esta guía servirá para informarte y para ayudarte a buscar y comprar productos de empresas que valoran tu privacidad y seguridad. Como consumidores, tenemos la obligación de exigir este compromiso por parte de quienes fabrican nuestros productos. Solo de este modo conseguiremos que Internet, y nuestras vidas, sean un poco más seguras en este mundo digital. Esto es lo que, en Mozilla, perseguimos día a día."
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:109
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:150
 msgid "Thank you!"
 msgstr "¡Gracias!"
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:110
-msgid "The Team at Mozilla"
-msgstr "El equipo Mozilla"
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:151
+msgid "The *Privacy Not Included Team"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:115
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:156
 #, python-format
 msgid "Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a %(mofo_url)s>Mozilla Foundation</a> which relies on <a %(donate_url)s>donations</a> from people like you to do our work. You can also visit <a %(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
 msgstr "Mozilla, como empresa tecnológica sin ánimo de lucro que antepone las personas a los beneficios económicos, lucha diariamente a favor de una Internet más saludable. Esta guía fue creada por la <a %(mofo_url)s>Fundación Mozilla</a> que depende de las <a %(donate_url)s>donaciones</a> de personas como tú para llevar a cabo su labor. También puedes visitar <a %(mozilla_url)s>Mozilla.org</a> para saber más sobre nuestros productos orientados a un propósito, como Firefox y Common Voice."
 
-#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:127
+#: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:168
 #, python-format
 msgid "For any questions about the guide or to offer constructive feedback, please email <a href=\"mailto:%(email)s\">%(email)s</a>"
 msgstr "Si tienes preguntas sobre la guía o quieres aportar alguna opinión constructiva, envía un correo electrónico a <a href=\"mailto:%(email)s\">%(email)s</a>"
+
+#~ msgid "In 2017, when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart home products. Turns out, they were. And it wasn’t just people who were interested. We discovered companies were too. We’re happy to see both consumers and companies increasingly value connected products that are safe, secure, and private."
+#~ msgstr "En 2017, cuando decidimos lanzar la primera <em>*Privacidad no incluida</em>, no sabíamos si la gente estaría interesada en una guía sobre la privacidad y seguridad de los juguetes, dispositivos y productos inteligentes conectados. Pues resultó que sí... Y no solo las personas estaban interesadas, sino también las empresas. Hoy nos complace enormemente ver que tanto consumidores como empresas valoran cada vez más aquellos productos conectados que son seguros y privados."
+
+#~ msgid "What can you expect in <em>*Privacy Not Included</em>?"
+#~ msgstr "¿Qué encontrarás en nuestra guía <em>*Privacidad no incluida</em>?"
+
+#~ msgid "We’re very excited our <em>*Privacy Not Included</em> buyer’s guide now comes with <em>*Privacy Not Included</em> warning labels on products we think consumers should think twice about before buying. It’s no small thing to assign such a label to a product, so we set ourselves some strict standards. If we can’t confirm a product meets our Minimum Security Standards it automatically earns the label. We also factor in if a product shares or sells your data, doesn’t let you delete your data, or if the company has a poor track record of protecting their users’ data into our decision to assign these warning labels. We hope users will find these warnings useful. We also include a Best Of category now to showcase companies who are doing privacy and security right."
+#~ msgstr "Estamos muy contentos porque este año la guía del comprador <em>*Privacidad no incluida</em> incluye la etiqueta de advertencia de *Privacidad no incluida<em> para los productos que, en nuestra opinión, los consumidores deberían valorar seriamente antes de comprar. Sabemos que no es poca cosa asignar una etiqueta de este tipo a un producto, por lo que nos marcamos unos estándares muy estrictos antes de hacerlo. Si no podemos confirmar que un producto cumple con nuestros estándares mínimos de seguridad, le otorgamos automáticamente la etiqueta. También analizamos si un producto comparte o vende tus datos personales, si no te permite borrarlos y si el historial de la empresa fabricante no destaca precisamente por la protección de datos de sus usuarios. "
+
+#~ msgid "We realize people want to just know which products are safe and which aren’t. We are Mozilla—not a consumer product review company—so we won’t say “Buy this, don’t buy that.” Instead, we used our technical expertise to create a set of <a href=\"%(url)s\">Minimum Security Standards</a> we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy."
+#~ msgstr "Sabemos que la gente solo quiere saber si un producto es seguro o no. Somos Mozilla—no una empresa que analiza productos de consumo—por lo que no te diremos “compra esto o no compres aquello.” Lo que hemos hecho es aprovechar nuestra experiencia en tecnología para crear un conjunto de <a href=\"%(url)s\">Estándares mínimos de seguridad</a> que todos los productos deberían cumplir para su comercialización. Estos estándares incluyen el cifrado, las actualizaciones de seguridad automáticas, las contraseñas fuertes, contar con un sistema de gestión de las vulnerabilidades y disponer de una política de privacidad fácil y accesible."
+
+#~ msgid "There is a Creep-O-Meter."
+#~ msgstr "Tenemos un «Yuyómetro»"
+
+#~ msgid "We want users of this guide to be able to share their opinion too. It’s important companies, and other consumers, see which products people think are safe, and which products people feel are a bit creepy. So we created our Creep-O-Meter—a user rating on each product—to let folks give their opinion. Companies are paying attention, so let them know if you think their product is creepy or not."
+#~ msgstr "Queremos que los usuarios de esta guía también puedan compartir sus opiniones para que, de este modo, las empresas y otros consumidores vean qué productos la gente valora como seguros y qué productos la gente cree que pueden dar un poco de yuyu. Por eso, hemos creado el «Yuyómetro», un medidor que permite a los usuarios dar su opinión sobre cada producto. Las empresas nos siguen, o sea que, si crees que su producto es peligroso, házselo saber."
+
+#~ msgid "Good research from good researchers."
+#~ msgstr "Buena investigación de buenos investigadores."
+
+#~ msgid "You’ll notice a lot of research went into this guide. From knowing if the device uses a camera or microphone, or tracks your location or biometric data, to our section laying out what could happen if something goes wrong with a product—we’ve covered a lot of ground. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. Our researchers combed through privacy policies, reached out to companies with questions about encryption and bug bounty programs, and sifted through product and app specifications. We’ve done our best to make your access to all this research easy to understand.  One other note, in <em>*Privacy Not Included</em> we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
+#~ msgstr "Seguramente observarás que esta guía contiene mucho más análisis e investigación: desde informarte sobre si el dispositivo usa cámara o micrófono, o si rastrea tu ubicación o tus datos biométricos, hasta la sección que describe lo que podría suceder si algo sale mal con un producto... esta vez hemos abarcado mucho más terreno. Afortunadamente, en Mozilla contamos con analistas excelentes y con un elevado nivel de experiencia que nos permite profundizar en el tema para que tú no tengas que hacerlo. Nuestros analistas han revisado las políticas de privacidad, han preguntado a las empresas sobre el cifrado y los programas de recompensa de errores y han examinado con detalle las especificaciones de productos y aplicaciones. Finalmente, hemos hecho todo lo posible para que puedas acceder a nuestra investigación de la manera más fácil y clara posible. Por cierto, en <em>*Privacidad no incluida</em> hemos analizado los juguetes sexuales conectados. Este contenido está dirigido a mayores de 18 años, puesto que puede contener información delicada o solo para adultos."
+
+#~ msgid "The Team at Mozilla"
+#~ msgstr "El equipo Mozilla"
 
 #~ msgid "Minimum Security Standards explained"
 #~ msgstr "Explicación de los estándares mínimos de seguridad"
