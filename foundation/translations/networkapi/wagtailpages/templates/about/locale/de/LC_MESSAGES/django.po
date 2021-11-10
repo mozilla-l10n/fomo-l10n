@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-10 08:11+0000\n"
-"PO-Revision-Date: 2021-11-10 16:35+0000\n"
+"PO-Revision-Date: 2021-11-10 16:42+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1101,7 +1101,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:56
 msgid "What can you expect in our guide to help you shop safely for those connected products? Quite a few things."
-msgstr ""
+msgstr "Was können Sie in unserem Leitfaden erwarten, um sicher für diese vernetzten Produkte einzukaufen? So einiges."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:65
 msgid "Our *Privacy Not Included warning label"
@@ -1113,26 +1113,34 @@ msgid ""
 "It’s no small thing to assign such a label to a product, so we set ourselves some strict standards. Where we have concerns, we aim to be as specific as possible about what could happen so you can "
 "buy products that meet your standards."
 msgstr ""
+"Wir freuen uns sehr, dass unserer Einkaufsratgeber <em>*Datenschutz nicht inbegriffen</em>  auch Warnhinweise für Produkte mit der Aufschrift <em>*Datenschutz nicht inbegriffen</em> enthält, über "
+"die die Verbraucher unserer Meinung nach vor dem Kauf zweimal nachdenken sollten. Es ist keine Kleinigkeit, ein solches Etikett einem Produkt zuzuordnen, also setzen wir uns strenge Standards. Wenn "
+"wir Bedenken haben, streben wir an, so genau wie möglich zu bestimmen, was passieren könnte, damit Sie Produkte kaufen können, die Ihren Standards entsprechen."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:78
 msgid "Our Best Of category"
-msgstr ""
+msgstr "Unsere Best-Of-Kategorie"
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:80
 msgid ""
 "It’s one thing to call out products that are bad. We also want to help consumers know what products are good. Check out our Best Of category to see which products and companies we think are doing "
 "privacy and security right."
 msgstr ""
+"Es ist eine Sache, Produkte zu nennen, die schlecht sind. Wir möchten auch Verbrauchern helfen zu wissen, welche Produkte gut sind. Sehen Sie sich unsere Best-Of-Kategorie an, um zu sehen, welche "
+"Produkte und Unternehmen unserer Meinung nach Datenschutz und Sicherheit richtig machen."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:89
 msgid "There is a Creep-O-Meter"
-msgstr ""
+msgstr "Es gibt ein „Creep-O-Meter“"
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:91
 msgid ""
 "We want you to be able to share your opinion too. It’s important for companies and other consumers to see which products people think are safe, and which products people feel are a bit creepy. So we"
 " created our Creep-O-Meter—a user rating on each product—to let you share your opinion. Companies are paying attention, so let them know if you think their product is creepy or not!"
 msgstr ""
+"Wir möchten, dass Sie auch Ihre Meinung teilen können. Für Unternehmen und andere Verbraucher ist es wichtig zu sehen, welche Produkte die Leute für sicher halten und welche Produkte für sie ein "
+"bisschen gruselig sind. Deshalb haben wir unser Creep-O-Meter erstellt – eine Benutzerbewertung für jedes Produkt – damit Sie Ihre Meinung teilen können. Unternehmen achten darauf, also lassen Sie "
+"sie wissen, ob Sie ihr Produkt gruselig finden oder nicht!"
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:104
 #, python-format
@@ -1141,10 +1149,14 @@ msgid ""
 "products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and "
 "having an accessible privacy policy. Read more about our Minimum Security Standards on our <a href=%(url)s>Methodology page</a>."
 msgstr ""
+"Wir wissen, dass die Menschen <i>nur wissen möchten</i>, welche Produkte sicher sind und welche nicht. Wir haben unser technisches Wissen hier bei Mozilla genutzt, um eine Reihe von "
+"Mindestsicherheitsstandards zu erstellen, die unserer Meinung nach alle Produkte erfüllen sollten, um in Geschäften verkauft zu werden. Zu diesen Standards gehören die Verwendung von "
+"Verschlüsselung, automatische Sicherheitsupdates, die Anforderung starker Passwörter, ein System zur Verwaltung von Schwachstellen und eine zugängliche Datenschutzrichtlinie. Lesen Sie mehr über "
+"unsere Mindestsicherheitsstandards auf unserer <a href=%(url)s>Methodenseite</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:115
 msgid "Tons of Research"
-msgstr ""
+msgstr "Jede Menge Forschung"
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:117
 #, python-format
@@ -1155,6 +1167,12 @@ msgid ""
 "years. We do our best to then make your access to all this information accessible and easy to understand. We’ve even put together a <a href=%(url)s>How to Use This Guide page</a> to help you "
 "understand all the information we share here on <em>*Privacy Not Included</em>."
 msgstr ""
+"Sie werden feststellen, dass für dieses Handbuch viel Forschung betrieben wurde. Die Stunden, die wir für die Recherche nach einem Produkt aufgewendet haben, sind sogar auf jeder Seite enthalten. "
+"Glücklicherweise haben wir hier bei Mozilla großartige Forscher und Expertise, um sich damit zu befassen, damit Sie es nicht tun müssen. Wir kaufen und testen keine Produkte. Stattdessen schauen wir"
+" uns an, was wir finden können, was öffentlich verfügbar ist. Unsere Forscher durchforsten Datenschutzrichtlinien, wenden sich mit Fragen zu Verschlüsselungs- und Bug-Bounty-Programmen an "
+"Unternehmen, sichten Produkt- und App-Spezifikationen und lesen die Forschungs- und Nachrichtenartikel, die in den letzten drei Jahren zu den Produkten geschrieben wurden. Wir tun unser Bestes, um "
+"Ihren Zugang zu all diesen Informationen zugänglich und leicht verständlich zu machen. Wir haben sogar eine <a href=%(url)s>Anleitung für diesen Leitfaden</a> zusammengestellt, damit Sie alle "
+"Informationen verstehen, die wir hier in <em>*Datenschutz nicht inbegriffen</em> präsentieren."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:129
 msgid ""
@@ -1162,6 +1180,9 @@ msgid ""
 "safe too. We as consumers need to demand that privacy and security as a value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this "
 "digital world. That is our goal every day here at Mozilla."
 msgstr ""
+"Wir hoffen, Sie nutzen diesen Ratgeber, um sich über Produkte zu informieren und sich beim Kauf für ein Produkt zu entscheiden, das Ihre Daten und Ihre Sicherheit respektiert. Erzählen Sie dann "
+"Ihren Freuden und Ihrer Familie davon, damit auch diese sicher einkaufen können. Wir als Verbraucher müssen Datenschutz und Sicherheit von denjenigen fordern, die unsere Produkte herstellen. Auf "
+"diese Weise können wir anfangen, das Internet und unser Leben in dieser digitalen Welt ein bisschen sicherer zu machen. Das ist jeden Tag unser Ziel hier bei Mozilla."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:141
 msgid ""
@@ -1178,7 +1199,7 @@ msgstr "Vielen Dank!"
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:151
 msgid "The *Privacy Not Included Team"
-msgstr ""
+msgstr "Das Team von „*Datenschutz nicht inbegriffen“"
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:156
 #, python-format
