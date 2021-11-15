@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-15 10:01+0000\n"
-"PO-Revision-Date: 2021-11-15 16:53+0000\n"
+"PO-Revision-Date: 2021-11-15 17:03+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -171,6 +171,9 @@ msgid ""
 "vote to see how your opinion stacks up with others. It helps other consumers understand the risks of a product and shows companies how creepy customers find their products. Look at the top of the "
 "page to see the “people voted” rating of each product in the guide."
 msgstr ""
+"Unser Creep-O-Meter ist eine von Lesern generierte Bewertung – und eine Möglichkeit für Sie, Ihre Meinung zu teilen. Lesen Sie die Rezension des Produkts und bewerten Sie dann, wie gruselig oder "
+"nicht gruselig Sie das Produkt finden. Klicken Sie auf Abstimmung, um zu sehen, wie Ihre Meinung mit anderen abschneidet. Es hilft anderen Verbrauchern, die Risiken eines Produkts zu verstehen und "
+"zeigt Unternehmen, wie gruselig Kunden ihre Produkte finden. Oben auf der Seite sehen Sie die Bewertung „Lesermeinung“ für jedes Produkt im Leitfaden."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:112 network-api/networkapi/wagtailpages/templates/about/methodology.html:173
 msgid "Privacy"
@@ -186,6 +189,9 @@ msgid ""
 " devices are controlled by apps on your phone. The apps often ask to use the phone’s camera, microphone or location tracking. Keep an eye on that, as some of the permissions the apps ask for might "
 "surprise you."
 msgstr ""
+"Nur, weil ein Gerät eine Kamera oder ein Mikrofon hat oder Ihren Standort nachverfolgt, spioniert es Sie nicht <em>zwangsläufig</em> aus. Es wäre aber <em>potenziell möglich</em>, und das sollte "
+"Ihnen bewusst sein. Viele Smart-Home-Geräte werden über Apps auf Ihrem Smartphone bedient. Diese Apps fragen häufig nach Erlaubnis, auf die Kamera oder das Mikrofon zugreifen zu dürfen, oder wollen "
+"Ihren Standort verfolgen. Darauf sollten Sie achten, denn manches, das erfragt wird, könnte Sie überraschen."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:127
 msgid "What is required to sign up?"
@@ -211,6 +217,11 @@ msgid ""
 "height, weight, heart rate, sleep data, menstrual cycles, and blood oxygen levels. Social data includes things like your contacts and friends or connections you have through a platform, like gamer "
 "friends through a gaming console or connections you have through a fitness app."
 msgstr ""
+"Smart-Home-Geräte sammeln Informationen über ihre Benutzer. Wir achten darauf, welche persönlichen, körperbezogenen und sozialen Daten ein Produkt möglicherweise erfasst, wenn Sie es nutzen. Wenn "
+"Sie das wissen, können Sie nachvollziehen, wie viel ein Unternehmen über Sie lernen könnte. Je mehr Informationen Sie preisgeben, desto besser lernt ein Unternehmen Sie kennen. Als persönliche Daten"
+" gelten Name, E-Mail-Adresse, Telefonnummer, Geschlecht, Alter und Geburtstag. Als körperbezogene Daten gelten Sprachaufnahmen, Fingerabdrücke, Gesichtserkennung, Größe, Gewicht, Herzfrequenz, "
+"Schlafdaten, Menstruationszyklen und Sauerstoffgehalt im Blut. Soziale Daten sind Dinge wie Ihre Kontakte und Freunde oder Bekannte, die Sie auf einer Plattform haben, wie etwa Ihre Gaming-Freunde "
+"auf einer Spielekonsole oder Kontakte, die Sie über eine Fitness-App pflegen."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:155
 msgid "How does it use this data?"
@@ -233,10 +244,12 @@ msgstr "Wie können Sie über Ihre Daten bestimmen?"
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:170
 msgid "Many companies collect a lot of data on their consumers. Who controls that data? Being able to contact a company and ask them to delete any data they have on you is a very good thing."
 msgstr ""
+"Viele Unternehmen sammeln viele Daten über ihre Verbraucher. Wer bestimmt über diese Daten? Es ist sehr wichtig, dass Sie als Verbraucher diese Unternehmen kontaktieren und um die Löschung Ihrer "
+"Daten bitten können."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:179
 msgid "What is the company’s known track record of protecting users’ data? + mini ding"
-msgstr ""
+msgstr "Wie ist das Unternehmen in der Vergangenheit mit den Daten über seine Verbraucher umgegangen? + Mini-Warnschild"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:182
 msgid ""
@@ -244,6 +257,10 @@ msgid ""
 "see if they had known data leaks, security vulnerabilities, or other privacy missteps. This criteria is one of the criteria we use to determine if a product receives our <em>*Privacy Not "
 "Included</em> warning label. Companies that have multiple or serious privacy or security breaches receive a mini-warning label."
 msgstr ""
+"Es ist eine Sache wenn ein Unternehmen behauptet, dass es sich um die Privatsphäre seiner Benutzer kümmert. Das zu zeigen ist eine andere Sache. Wir schauen uns die Erfolgsbilanzen aller Unternehmen"
+" im Leitfaden an, die drei Jahre zurückliegen, um zu sehen, ob sie Datenlecks, Sicherheitslücken oder andere Datenschutzfehler hatten. Dieses Kriterium ist eines der Kriterien, die wir verwenden, um"
+" zu bestimmen, ob ein Produkt unser Warnetikett <em>*Datenschutz nicht inbegriffen</em> erhält. Unternehmen mit mehreren oder schwerwiegenden Datenschutz- oder Sicherheitsverletzungen erhalten ein "
+"Mini-Warnschild."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:193
 msgid "Can this product be used offline?"
@@ -273,7 +290,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:218
 msgid "Security"
-msgstr ""
+msgstr "Sicherheit"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:222 network-api/networkapi/wagtailpages/templates/about/why_we_made.html:102
 msgid "Our Minimum Security Standards"
@@ -285,6 +302,10 @@ msgid ""
 "include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must "
 "have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy."
 msgstr ""
+"Wir haben ein paar Mindestsicherheitsanforderungen zusammengestellt, die unserer Meinung nach <em>jedes Produkt</em> erfüllen sollte. Funktioniert ungefähr wie diese Schilder in Vergnügungsparks: "
+"„Um dieses Fahrgeschäft nutzen zu dürfen, musst du XX cm groß sein“. Zu unseren Anforderungen gehören fünf Dinge: Das Produkt muss Verschlüsselung nutzen, das Unternehmen muss automatische "
+"Sicherheitsupdates anbieten, sollte ein Passwort nötig sein, muss es ein starkes Passwort sein, das Unternehmen muss ein System haben, mit Sicherheitslücken seiner Produkte umzugehen und das "
+"Unternehmen muss eine zugängliche Datenschutzrichtlinie haben."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:235 network-api/networkapi/wagtailpages/templates/about/methodology.html:394
 msgid "Encryption"
@@ -335,6 +356,8 @@ msgid ""
 "Security vulnerabilities in products happen. It’s how companies manage them when they arise that matters. We looked at whether or not companies have a system in place to manage vulnerabilities in "
 "the product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program.</a>"
 msgstr ""
+"Sicherheitslücken an einem Produkt können vorkommen. Es kommt also darauf an, wie Unternehmen auf solche Lücken reagieren. Wir haben geprüft, ob Unternehmen ein System haben, mit dem sie eventuelle "
+"Sicherheitslücken in ihren Produkten beheben. Dazu gehört eine Anlaufstelle, über die Sicherheitslücken gemeldet werden können oder ein entsprechendes <a href=\"%(url)s\">Bug-Bounty-Programm</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:282
 msgid "Privacy policies"
@@ -345,10 +368,12 @@ msgid ""
 "Privacy policies detail a lot of important information about how companies collect, use, and share your personal information. Because of that, this information should be easily found and easily "
 "understood. Consumers shouldn’t have to buy a product before they can find or read a privacy policy too."
 msgstr ""
+"Datenschutzrichtlinien enthalten viele wichtige Informationen darüber, wie Unternehmen Ihre personenbezogenen Daten sammeln, verwenden und weitergeben. Aus diesem Grund sollten diese Informationen "
+"leicht zu finden und zu verstehen sein. Verbraucher sollten kein Produkt kaufen müssen, bevor sie auch eine Datenschutzrichtlinie finden oder lesen können."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:293
 msgid "A.I."
-msgstr ""
+msgstr "KI"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:297 network-api/networkapi/wagtailpages/templates/about/methodology.html:483
 msgid "Does the product use AI?"
@@ -363,10 +388,16 @@ msgid ""
 "consumers as AI-enabled products become more prevalent and its decisions about you - and for you - more consequential. For more on Mozilla’s position on creating trustworthy AI, you can read our "
 "whitepaper <a href=\"%(url)s\">Creating Trustworthy AI</a>."
 msgstr ""
+"Heutzutage nutzen immer mehr Produkte künstliche Intelligenz. Es sind nicht nur intelligente Lautsprecher und Gesichtserkennung in Überwachungskameras. Es ist KI in Hundespielzeug und Fitness-"
+"Trackern und vernetzten Trainingsgeräten. Für unsere Bewertungen haben wir KI definiert als: <em>Automatisierte Technologie, die Entscheidungen für Sie trifft und/oder sich basierend auf Ihren "
+"Benutzerdaten ständig ändert.</em> Was bedeutet das für Verbraucher? Wir fangen gerade erst an zu verstehen. Die meisten Verbraucher wissen jedoch nicht, wann KI verwendet wird oder wie sich diese "
+"auf ihr Erlebnis auswirken kann. Wir glauben, dass Unternehmen diese Informationen den Verbrauchern zur Verfügung stellen sollten, da KI-fähige Produkte immer häufiger werden und ihre Entscheidungen"
+" über Sie – und für Sie – folgenreicher werden. Weitere Informationen zu Mozillas Position zur Schaffung einer vertrauenswürdigen KI finden Sie in unserem Whitepaper <a "
+"href=\"%(url)s\">Vertrauenswürdige KI erstellen</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:311
 msgid "Is this AI untrustworthy?"
-msgstr ""
+msgstr "Ist diese KI nicht vertrauenswürdig?"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:313
 msgid ""
@@ -375,6 +406,10 @@ msgid ""
 "concerned overall. If we are able to find credible reporting that shows an AI is untrustworthy, we will note it here and issue a warning label with a clear description about how we came to this "
 "conclusion."
 msgstr ""
+"Zu oft kommt KI in unserer Welt mit Voreingenommenheit oder unethischem Verhalten daher. Leider ist es fast unmöglich zu sagen, ob die KI-Algorithmen eines Unternehmens vertrauenswürdig und ethisch "
+"sind oder nicht, und es gibt keinen allgemein vereinbarten Rahmen für „vertrauenswürdige KI“-Funktionen und -Richtlinien. Wir wissen jedoch, dass Unternehmen oft nicht transparent sind, wie ihre KI-"
+"Algorithmen funktionieren, und das macht uns insgesamt besorgt. Wenn wir glaubwürdige Berichte finden, die zeigen, dass eine KI nicht vertrauenswürdig ist, werden wir dies hier vermerken und einen "
+"Warnhinweis mit einer klaren Beschreibung ausgeben, wie wir zu dieser Schlussfolgerung gekommen sind."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:325 network-api/networkapi/wagtailpages/templates/about/methodology.html:511
 msgid "What kind of decisions does the AI make about you or for you?"
@@ -385,6 +420,8 @@ msgid ""
 "We think consumers should know if a product uses their personal data to make decisions for or about them. To answer this question, we look to see what the company says the product’s AI is doing? We "
 "can’t always tell though, and that is not good."
 msgstr ""
+"Wir sind der Meinung, dass Verbraucher wissen sollten, ob ein Produkt ihre personenbezogenen Daten verwendet, um Entscheidungen für oder über sie zu treffen. Um diese Frage zu beantworten, schauen "
+"wir uns an, was die KI des Produkts nach Angaben des Unternehmens tut. Wir können es jedoch nicht immer sagen, und das ist nicht gut."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:336 network-api/networkapi/wagtailpages/templates/about/methodology.html:525
 msgid "Is the company transparent about how the AI works?"
@@ -396,6 +433,10 @@ msgid ""
 "collect and how does it use that information to make decisions for or about you? Knowing how it works lets users evaluate if there may be a chance of bias or ethical implications they should "
 "consider before using a product driven by AI. We think companies should have publicly available information explaining this. We’ll let you know if they do."
 msgstr ""
+"Eines der größten Probleme im Zusammenhang mit künstlicher Intelligenz in unseren Konsumgütern ist der Zugang zu wesentlichen Informationen darüber, wie KI-angetriebene Features funktionieren. Zum "
+"Beispiel, welche Daten sie sammeln und wie sie diese Informationen nutzen, um Entscheidungen für oder über Sie zu treffen. Wenn Verbraucher wissen, wie die KI funktioniert, können sie beurteilen, ob"
+" die Möglichkeit einer Voreingenommenheit oder ethischer Implikationen besteht, die sie in Betracht ziehen sollten, bevor sie ein KI-fähiges Produkt verwenden. Wir sind der Meinung, dass Unternehmen"
+" sich dazu öffentlich erklären sollten. Sollte dies der Fall sein, informieren wir Sie darüber."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:349 network-api/networkapi/wagtailpages/templates/about/methodology.html:542
 msgid "Does the user have control over the AI features?"
@@ -403,7 +444,7 @@ msgstr "Hat der Benutzer die Kontrolle über die KI-Funktionen?"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:351
 msgid "We let you know if there is any way to opt out of AI or adjust the settings of the AI if you would like."
-msgstr ""
+msgstr "Wir lassen Sie wissen, ob Sie die KI deaktivieren oder die Einstellungen der KI anpassen können, wenn Sie möchten."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:358
 msgid "Updates"
@@ -430,7 +471,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:381
 #, python-format
 msgid "If you would like to read more about the research methodology we used to create this guide, please check out our <a href=\"%(url)s\">methodology section</a>."
-msgstr ""
+msgstr "Sie möchten wissen, wie wir für diesen Ratgeber recherchiert haben? Dann werden Sie in unserem <a href=\"%(url)s\">Abschnitt über Methodik</a> fündig."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:9
 msgid "About our Methodology"
