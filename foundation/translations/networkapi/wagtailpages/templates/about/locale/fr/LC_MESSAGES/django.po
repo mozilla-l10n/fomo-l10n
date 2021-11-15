@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-15 10:01+0000\n"
-"PO-Revision-Date: 2021-11-15 10:10+0000\n"
+"PO-Revision-Date: 2021-11-15 10:16+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -70,7 +70,7 @@ msgstr "Comment utiliser ce guide"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:15
 msgid "Need help understanding how to use this guide? Here you go."
-msgstr ""
+msgstr "Besoin d’aide pour comprendre comment utiliser ce guide ? Voici :"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:19
 msgid "Tip:"
@@ -177,6 +177,9 @@ msgid ""
 " devices are controlled by apps on your phone. The apps often ask to use the phone’s camera, microphone or location tracking. Keep an eye on that, as some of the permissions the apps ask for might "
 "surprise you."
 msgstr ""
+"Ce n’est pas parce qu’un appareil est équipé d’une caméra, d’un microphone ou d’un système de localisation qu’il vous surveillera. Cela signifie simplement que cela <em>pourrait</em> être le cas et "
+"que vous devez en avoir conscience. De plus, de nombreux objets connectés sont contrôlés par des applications sur votre téléphone. Ces applications demandent souvent d’utiliser la caméra, le "
+"microphone ou le suivi de localisation du téléphone. Gardez un œil là-dessus, car certaines des autorisations demandées par les applications pourraient vous surprendre."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:127
 msgid "What is required to sign up?"
@@ -202,6 +205,12 @@ msgid ""
 "height, weight, heart rate, sleep data, menstrual cycles, and blood oxygen levels. Social data includes things like your contacts and friends or connections you have through a platform, like gamer "
 "friends through a gaming console or connections you have through a fitness app."
 msgstr ""
+"Les appareils connectés collectent des informations sur leurs utilisateurs et utilisatrices. Nous déterminons quels types de données personnelles, corporelles et sociales un produit peut collecter "
+"sur vous quand vous l’utilisez. Savoir quels types d’informations personnelles vous devrez fournir pour utiliser un produit vous aide à connaître l’étendue des données collectées par une entreprise "
+"à votre sujet. Plus vous fournissez d’informations, mieux elle vous connaîtra. Les données personnelles incluent notamment votre nom, adresse électronique, numéro de téléphone, genre, âge et date de"
+" naissance. Les données corporelles désignent, par exemple, les enregistrements vocaux, les empreintes digitales, la reconnaissance faciale, la taille, le poids, le rythme cardiaque, les données sur"
+" le sommeil, les cycles menstruels et le taux d’oxygène sanguin. Les données sociales, quant à elles, incluent vos contacts, proches ou relations sur une plateforme donnée : vos ami·e·s adeptes de "
+"jeux vidéo sur une console, ou les contacts ajoutés sur une application de fitness, par exemple."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:155
 msgid "How does it use this data?"
@@ -225,10 +234,12 @@ msgstr "Comment pouvez-vous contrôler vos données ?"
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:170
 msgid "Many companies collect a lot of data on their consumers. Who controls that data? Being able to contact a company and ask them to delete any data they have on you is a very good thing."
 msgstr ""
+"De nombreuses entreprises collectent de nombreuses données sur leurs consommateurs. Qui contrôle ces données ? Pouvoir contacter une entreprise et lui demander de supprimer toutes les données "
+"qu’elle détient sur vous est une très bonne chose."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:179
 msgid "What is the company’s known track record of protecting users’ data? + mini ding"
-msgstr ""
+msgstr "Quel est l’historique de l’entreprise en matière de protection des données des utilisateurs et utilisatrices ? + mini-avertissement"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:182
 msgid ""
@@ -265,7 +276,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:218
 msgid "Security"
-msgstr ""
+msgstr "Sécurité"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:222 network-api/networkapi/wagtailpages/templates/about/why_we_made.html:102
 msgid "Our Minimum Security Standards"
@@ -277,6 +288,10 @@ msgid ""
 "include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must "
 "have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy."
 msgstr ""
+"Nous avons développé un ensemble de critères élémentaires de sécurité que nous pensons que tous les objets connectés devraient à tout le moins respecter. Considérez que cette barre est le minimum "
+"qu’ils doivent atteindre. Ces critères comprennent cinq éléments de base : le produit doit utiliser un chiffrement, l’entreprise doit fournir des mises à jour de sécurité automatiques, si un produit"
+" utilise un mot de passe, il doit exiger un mot de passe fort, l’entreprise doit avoir un moyen de gérer les failles de sécurité trouvées dans ses produits, et l’entreprise doit avoir une politique "
+"de confidentialité accessible."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:235 network-api/networkapi/wagtailpages/templates/about/methodology.html:394
 msgid "Encryption"
@@ -328,6 +343,9 @@ msgid ""
 "Security vulnerabilities in products happen. It’s how companies manage them when they arise that matters. We looked at whether or not companies have a system in place to manage vulnerabilities in "
 "the product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program.</a>"
 msgstr ""
+"Des failles de sécurité dans les produits peuvent toujours arriver. C’est la manière dont les entreprises les gèrent lorsqu’elles surviennent qui importe. Nous avons cherché à savoir si les "
+"entreprises avaient ou non un système en place pour gérer les vulnérabilités du produit lorsqu’elles étaient détectées. Cela implique d’avoir un point de contact pour signaler les vulnérabilités ou "
+"un <a href=\"%(url)s\">programme de prime aux bugs</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:282
 msgid "Privacy policies"
@@ -341,7 +359,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:293
 msgid "A.I."
-msgstr ""
+msgstr "IA"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:297 network-api/networkapi/wagtailpages/templates/about/methodology.html:483
 msgid "Does the product use AI?"
@@ -359,7 +377,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:311
 msgid "Is this AI untrustworthy?"
-msgstr ""
+msgstr "Cette IA est-elle non digne de confiance ?"
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:313
 msgid ""
@@ -389,6 +407,10 @@ msgid ""
 "collect and how does it use that information to make decisions for or about you? Knowing how it works lets users evaluate if there may be a chance of bias or ethical implications they should "
 "consider before using a product driven by AI. We think companies should have publicly available information explaining this. We’ll let you know if they do."
 msgstr ""
+"L’un des principaux problèmes posés par l’intégration d’intelligence artificielle aux produits de consommation concerne l’accès aux informations essentielles sur le fonctionnement des "
+"fonctionnalités basées sur l’IA. Par exemple, quelles données sont collectées ou comment sont-elles utilisées pour prendre des décisions pour vous ou vous concernant ? Le fait de connaître le "
+"fonctionnement de ces produits permet aux utilisateurs et utilisatrices d’évaluer les éventuels risques de biais ou d’implications éthiques à prendre en compte avant d’utiliser un produit qui "
+"intègre une IA. Nous pensons que les entreprises devraient disposer d’informations accessibles au public expliquant cela. Nous vous indiquons lorsque cela est le cas."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:349 network-api/networkapi/wagtailpages/templates/about/methodology.html:542
 msgid "Does the user have control over the AI features?"
@@ -396,7 +418,7 @@ msgstr "Les fonctionnalités de l’IA peuvent-elles être contrôlées par l’
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:351
 msgid "We let you know if there is any way to opt out of AI or adjust the settings of the AI if you would like."
-msgstr ""
+msgstr "Nous indiquons s’il existe un moyen de désactiver l’IA et/ou d’ajuster les paramètres de l’IA si vous le souhaitez."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:358
 msgid "Updates"
@@ -421,7 +443,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:381
 #, python-format
 msgid "If you would like to read more about the research methodology we used to create this guide, please check out our <a href=\"%(url)s\">methodology section</a>."
-msgstr ""
+msgstr "Si vous souhaitez en savoir plus sur la méthodologie de recherche que nous avons utilisée pour créer ce guide, veuillez consulter notre <a href=\"%(url)s\">section méthodologie</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:9
 msgid "About our Methodology"
