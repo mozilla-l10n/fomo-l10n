@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-15 10:01+0000\n"
+"POT-Creation-Date: 2021-11-15 18:34+0000\n"
 "PO-Revision-Date: 2021-05-21 21:43+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,7 +168,7 @@ msgid "Nearly every company collects some kind of information on its users. That
 msgstr "Casi todas las empresas recopilan algún tipo de información sobre sus usuarios, Internet funciona así. Lo que nos importa es saber cómo usan y protegen esta información. Deberíamos saber si una empresa comparte o vende nuestra información personal a otras empresas u organismos y por qué motivos. Este es uno de los criterios que empleamos para determinar si un producto debe recibir la etiqueta de advertencia <em>* Privacidad no incluida</em>. Del mismo modo, aquellas empresas que comparten o venden tus datos a terceros recibieron una mini etiqueta de advertencia. "
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:168
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:274
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:275
 msgid "How can you control your data?"
 msgstr "¿Cómo puedes controlar el uso de tus datos?"
 
@@ -214,7 +214,7 @@ msgid "We developed a set of minimum security standards we think all connected p
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:235
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:394
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:395
 msgid "Encryption"
 msgstr "Cifrado"
 
@@ -223,7 +223,7 @@ msgid "Encryption is your friend. It protects your private and personal informat
 msgstr "El cifrado es tu aliado. Protege tu información privada y personal codificándola de modo que las únicas personas o máquinas que puedan leerla sean las del otro extremo que tienen la clave para descifrar ese código. Los productos que no utilizan cifrado envían información personal a través de Internet sin codificar, de modo que cualquiera puede verla."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:246
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:409
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:410
 msgid "Security updates"
 msgstr "Actualizaciones de seguridad"
 
@@ -261,7 +261,7 @@ msgid "A.I."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:297
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:483
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:484
 msgid "Does the product use AI?"
 msgstr "¿El producto usa la inteligencia artificial?"
 
@@ -279,7 +279,7 @@ msgid "Too often, AI in our world comes with bias or unethical behavior. Unfortu
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:325
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:511
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:512
 msgid "What kind of decisions does the AI make about you or for you?"
 msgstr ""
 
@@ -288,7 +288,7 @@ msgid "We think consumers should know if a product uses their personal data to m
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:336
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:525
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:526
 msgid "Is the company transparent about how the AI works?"
 msgstr ""
 
@@ -297,7 +297,7 @@ msgid "One of the biggest issues surrounding artificial intelligence in our cons
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:349
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:542
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:543
 msgid "Does the user have control over the AI features?"
 msgstr ""
 
@@ -402,163 +402,163 @@ msgid "The apps that control connected devices will typically need to request pe
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:177
-msgid "We evaluate the privacy documentation provided by each company for each product. This includes privacy policies, privacy pages, and FAQs. We attempt to determine (1) what kind of information is generally collected by a product, including personal, body-related, and social, (2) how the data is used by the company, (3) how you can control your data, including how you can access and delete your data, (4) the known track record of a company for protecting user data, (5) if the product can be used offline, (6) and whether the privacy policy is user-friendly. If a company does not provide a product-specific privacy notice, we rely on their general privacy policy for this information. This often means we cannot verify which information mentioned in a company’s privacy documentation may or may not be true about a specific product. In our requests for information from companies before publication, we ask for product-specific privacy policies and if a company shares it, we analyze the product-specific policy."
+msgid "We evaluate the publicly available privacy documentation provided by each company for each product. This includes privacy policies, privacy pages, and FAQs. We attempt to determine (1) what kind of information is generally collected by a product, including personal, body-related, and social, (2) how the data is used by the company, (3) how you can control your data, including how you can access and delete your data, (4) the known track record of a company for protecting user data, (5) if the product can be used offline, (6) and whether the privacy policy is user-friendly. If a company does not provide a product-specific privacy notice, we rely on their general privacy policy for this information. This often means we cannot verify which information mentioned in a company’s privacy documentation may or may not be true about a specific product. In our requests for information from companies before publication, we ask for product-specific privacy policies and if a company shares it, we analyze the product-specific policy. We believe consumers should be able to access privacy policies and documentation before they purchase a product. Learning what data a company collects and how it uses that data is important to know before downloading an app or buying a product."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:194
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:195
 msgid "What kind of data does the company collect?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:198
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:199
 msgid "Personal"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:202
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:203
 msgid "We list the personal data collected by each product, as specified in the privacy policy. This kind of information includes, but is not limited to, name, email address, phone number, and address."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:211
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:212
 msgid "Body-Related"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:215
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:216
 msgid "Body-related (including biometric data) is data that describes our bodies and distinctive personal characteristics such as fingerprints, voices, and heart rates. Many devices collect sensitive data about stress, sleep patterns, and menstrual cycles, for instance. Some products use face and voice to identify users."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:225
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:226
 msgid "Social"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:229
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:230
 msgid "Social data includes information about your friends and contacts. We detailed which products collect this social information. This does not include the sharing of links or other information on social media through the product itself (e.g. sharing your route for a run on Facebook)."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:240
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:241
 msgid "How does the company use this data?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:244
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:245
 msgid "How do companies collect, use, and share or sell user data with third parties? Do companies combine user data with data from other sources? Is data used for advertisement? For this question, we analyzed the company’s privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than expected. For instance, if a company can share or sell personal customer data with third parties, or if third parties can use data for commercial purposes, then we noted this. Often, privacy policies are written to allow a company the widest set of options for data sharing and sales, even if they don’t currently engage in those activities. To determine current practices, we look for FAQs or other information on company websites to provide additional information. Additionally, if a company provides us with posted information about these practices, we include that information and relevant links."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:258
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:259
 msgid "When determining if a product receives a warning on this criteria we look at three major factors. (1) How much data does the company collect on a user? What can and does the company learn about you with this data? Does it collect a large amount of personal data or only what seems necessary for their product to work? (2) Does the company share, combine, or sell this data with a large number of third parties for purposes beyond the normal function of the product? (3) Does the company provide clear and explicit notice before sharing user data with third parties? (4) What types of data are shared for advertising and marketing purposes? We attempt to explain to users what sorts of data collection they should be concerned about in our reviews."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:278
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:279
 msgid "Does the company provide a way for users to request access to and deletion of their data? We look for language around this in the privacy policy and/or whether the company has an online portal or contact that allows users to delete their data quickly and easily. We also look for clear retention periods and deletion methods, keeping in mind that retention periods vary greatly and may have different use cases for different types of products. Where anonymization is offered as an alternative to data deletion (which is allowable under GDPR) we note that some forms of anonymization do not completely eliminate the potential for identification."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:290
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:291
 msgid "When determining if a product receives a warning on this criteria we look at three major factors. (1) Does the company have a means for a user to request access to the data the company has collected? (2) Does the company have a clear means for users to request the deletion of their data in a reasonable timeframe? (3) Does the company provide retention details for user data? Does the company promise to delete data after it is not needed to fulfill the purposes for which it was collected?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:306
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:307
 msgid "What is the company’s known track record of protecting users’ data?"
 msgstr "¿Qué historial tiene la compañía en cuanto a la protección de los datos de los usuarios?"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:310
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:311
 msgid "We evaluated each company’s history of storing and protecting customer data within at least the previous three year period. We conduct research to find any known public hacks, data breaches, data leaks, or other incidents."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:318
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:319
 msgid "When determining if a product receives a warning on this criteria we look at four major factors. (1) Has the company had any major security vulnerabilities or data leaks in the past three years? (2) If the company has had known security vulnerabilities, have they acted quickly and openly to fix these security vulnerabilities and leaks? (3) Does the company have a track record of being honest and ethical when it comes to protecting user data? (4) What was the volume and sensitivity of leaked data?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:332
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:333
 msgid "Can the product be used offline? "
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:336
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:337
 msgid "We checked to see if the product could be used offline or if being online was a requirement to use the product effectively (if applicable). We include this to let consumers know, for example, if an app that might collect data on them is required."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:348
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:349
 msgid "User-friendly privacy information"
 msgstr "Información de privacidad fácil de entender"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:352
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:353
 msgid "We evaluate how easy it is to find clear, specific, easy to understand information about a device’s privacy policies. How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page. Vaguely worded, dense, overly long and complex privacy policies are not considered user-friendly in our research"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:373
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:374
 msgid "Minimum Security Standards"
 msgstr "Estándares mínimos de seguridad"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:377
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:378
 msgid "Mozilla established a set of Minimum Security Standards we determine should be met by any manufacturer developing connected products. We email each company at least three times (the first email at least 30 days prior to the publication) to ask for more information about their product and how it meets our standards. For the companies who do not respond, we conduct additional research to find the answers wherever possible. If we cannot determine an answer based on the company response and our own research for any of the five criteria below, we indicate the company does not meet our Minimum Security Standards. When a company responds, even after publication, with additional information, we add this information to product listings."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:389
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:390
 msgid "We evaluated each product on our list against five criteria:"
 msgstr "Hemos evaluado todos los productos de nuestra lista según cinco criterios:"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:398
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:399
 msgid "A product should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped on or modified in transit. User data should be encrypted when it is stored. While end-to-end encryption is preferable, it is not a requirement to meet our Minimum Security Standards."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:413
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:414
 msgid "The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
 msgstr "El producto debe poder recibir actualizaciones de seguridad automáticas durante un período razonable después de la venta, y esta prestación debe estar habilitada de forma predeterminada. Esto garantiza que cuando se detecta una vulnerabilidad, el proveedor puede poner a disposición de los consumidores actualizaciones de seguridad, que primero se verifican (mediante algún tipo de criptografía) y después se instalan sin problema alguno."
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:423
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:424
 msgid "Strong passwords"
 msgstr "Contraseñas fuertes"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:427
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:428
 msgid "If the product uses passwords or other means of security for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device. In cases where a device is protected with something other than a password, for example a secure Bluetooth connection, we put NA in this field."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:439
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:440
 msgid "Vulnerability management"
 msgstr "Gestión de la vulnerabilidad"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:443
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:444
 msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
 msgstr "El proveedor debe contar con un sistema para gestionar las vulnerabilidades de seguridad de su producto. Esto también debe incluir un punto de contacto para denunciar tales vulnerabilidades o algún programa de recompensa de errores equivalente. De este modo, se garantiza que los proveedores gestionen de forma proactiva las debilidades de seguridad a lo largo de toda la vida útil del producto."
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:453
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:454
 msgid "Privacy Policy"
 msgstr "Política de privacidad"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:457
-msgid "The product must have a privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating. The product must also have work contact information consumers can reach in a privacy policy for privacy related questions or concerns."
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:458
+msgid "The product must have a publicly available privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating. The product must also have work contact information consumers can reach in a privacy policy for privacy related questions or concerns."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:468
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:469
 msgid "Artificial Intelligence"
 msgstr "Inteligencia artificial"
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:472
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:473
 #, python-format
 msgid "We evaluate whether or not a product uses artificial intelligence. <b>We defined AI as: automated technology that makes decisions for you and/or changes continually based on your user data.</b> This would cover Alexa changing to better understand what you say, to your fitness wearable making recommendations on exercises to do so that you meet a specific wellness goal, or your security camera deciding not to alert you because it can distinguish a raccoon from a human. For more on Mozilla’s position on creating trustworthy AI, you can read our whitepaper <a href=\"%(ai_link)s\">Creating Trustworthy AI</a>."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:487
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:488
 msgid "Based on responses from companies and our own research, we note whether or not a product uses AI, or if we could not determine whether or not the product uses AI."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:496
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:497
 msgid "Is the AI untrustworthy?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:500
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:501
 msgid "When determining if a product receives a warning on this criteria we look at two major factors. (1) If we are able to determine if AI decisions demonstrate biases based on reporting from experts and trusted sources. (2) If we are able to determine if the AI behaves in some other way we consider unethical and/or untrustworthy based on reporting from experts and trusted sources."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:515
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:516
 msgid "What does the company say the product’s AI is doing? To answer this question, we analyzed the product description and, if available, AI documentation and white papers."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:529
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:530
 msgid "Is there publicly available information about how the algorithm behind the AI makes decisions? One of the biggest issues surrounding artificial intelligence in our consumer products is access to essential information about how AI-enabled decisions are made. Such as, how does the algorithm avoid bias and ensure fairness. We asked, does the company publicly inform and explain how their AI works? If we are able to find technical documentation, academic papers, open source code, or other documentation about the AI, we mark this as yes."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:545
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:546
 msgid "Yes/No/Limited/NA/Can’t Determine"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/about/methodology.html:548
+#: network-api/networkapi/wagtailpages/templates/about/methodology.html:549
 msgid "We attempt to determine if there is any way to opt out of AI, and/or adjust the settings of the AI."
 msgstr ""
 
