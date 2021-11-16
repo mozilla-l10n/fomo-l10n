@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-16 19:06+0000\n"
-"PO-Revision-Date: 2021-11-07 21:08+0000\n"
-"Last-Translator: Paulina Rodriguez <pauli.rodriguez.c@gmail.com>\n"
+"PO-Revision-Date: 2021-11-16 19:08+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -42,16 +42,13 @@ msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "sitio de navegación"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
-#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19
-#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19 network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
 #: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:31
 msgid "All Categories"
 msgstr "Todas las categorías"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:73
 msgid "All"
 msgstr "Todo"
@@ -74,7 +71,9 @@ msgstr "*privacidad no incluida"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:138
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr "En nuestra guía del comprador *Privacidad no incluida, revisamos los juguetes sexuales conectados. Este contenido está dirigido a mayores de 18 años, puesto que puede contener información delicada o solo para adultos."
+msgstr ""
+"En nuestra guía del comprador *Privacidad no incluida, revisamos los juguetes sexuales conectados. Este contenido está dirigido a mayores de 18 años, puesto que puede contener información delicada o"
+" solo para adultos."
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:143
 msgid "Don’t see the product you’re looking for?"
@@ -135,8 +134,7 @@ msgstr "Consejos para protegerte"
 msgid "Privacy"
 msgstr "Privacidad"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:125
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:134
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:125 network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:134
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:143
 msgctxt "icon description for screen readers"
 msgid "warning"
@@ -230,7 +228,7 @@ msgstr "Enlaces a información de privacidad"
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:247
 #, python-format
 msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr ""
+msgstr "¿El producto cumple nuestros <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">estándares mínimos de seguridad</a>?"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:252
 msgid "Encryption"
