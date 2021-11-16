@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-16 15:25+0000\n"
+"POT-Creation-Date: 2021-11-16 19:06+0000\n"
 "PO-Revision-Date: 2021-11-07 21:08+0000\n"
 "Last-Translator: Paulina Rodriguez <pauli.rodriguez.c@gmail.com>\n"
 "Language-Team: \n"
@@ -229,8 +229,8 @@ msgstr "Enlaces a información de privacidad"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:247
 #, python-format
-msgid "Does this product meet our <a id=\"mss-link\" class=\"tw-ml-1\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr "¿El producto cumple nuestros <a id=\"mss-link\" class=\"tw-ml-1\" href=\"%(url)s\">estándares mínimos de seguridad</a>?"
+msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:252
 msgid "Encryption"
@@ -283,6 +283,9 @@ msgstr "Comentarios"
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:363
 msgid "Got a comment? Let us hear it."
 msgstr ""
+
+#~ msgid "Does this product meet our <a id=\"mss-link\" class=\"tw-ml-1\" href=\"%(url)s\">Minimum Security Standards</a>?"
+#~ msgstr "¿El producto cumple nuestros <a id=\"mss-link\" class=\"tw-ml-1\" href=\"%(url)s\">estándares mínimos de seguridad</a>?"
 
 #~ msgid "Search product name…"
 #~ msgstr "Buscar nombre del producto…"
