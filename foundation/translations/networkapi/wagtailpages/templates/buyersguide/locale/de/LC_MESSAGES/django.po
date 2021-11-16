@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-16 19:06+0000\n"
-"PO-Revision-Date: 2021-11-03 16:51+0000\n"
+"PO-Revision-Date: 2021-11-16 19:07+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -43,16 +43,13 @@ msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "Seitennavigation"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
-#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19
-#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19 network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
 #: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:31
 msgid "All Categories"
 msgstr "Alle Kategorien"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:73
 msgid "All"
 msgstr "Alle"
@@ -75,7 +72,9 @@ msgstr "*Datenschutz nicht inbegriffen"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:138
 msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr "In unserem Einkaufsleitfaden „* Datenschutz nicht inbegriffen“ überprüfen wir vernetzte Sexspielzeuge. Diese Inhalte richten sich an Leser ab 18 Jahren und können Informationen enthalten, die unangenehm oder für Kinder ungeeignet sind."
+msgstr ""
+"In unserem Einkaufsleitfaden „* Datenschutz nicht inbegriffen“ überprüfen wir vernetzte Sexspielzeuge. Diese Inhalte richten sich an Leser ab 18 Jahren und können Informationen enthalten, die "
+"unangenehm oder für Kinder ungeeignet sind."
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:143
 msgid "Don’t see the product you’re looking for?"
@@ -136,8 +135,7 @@ msgstr "Tipps zu Ihrem Schutz"
 msgid "Privacy"
 msgstr "Datenschutz"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:125
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:134
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:125 network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:134
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:143
 msgctxt "icon description for screen readers"
 msgid "warning"
@@ -231,7 +229,7 @@ msgstr "Links zu Datenschutzinformationen"
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:247
 #, python-format
 msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr ""
+msgstr "Erfüllt dieses Produkt unsere <span class=\"tw-ml-1\"></span><a id=\"mss-link\" class=\"\" href=\"%(url)s\">Mindestsicherheitsstandards</a>?"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:252
 msgid "Encryption"
@@ -370,7 +368,9 @@ msgstr "Möchten Sie einen Kommentar loswerden? Schreiben Sie uns."
 #~ msgstr "Schlau sein. Sicher einkaufen."
 
 #~ msgid "How creepy is that smart speaker, that fitness tracker, those wireless headphones? We created this guide to help you shop for safe, secure connected products."
-#~ msgstr "Wie gruselig ist dieser intelligente Lautsprecher, dieser Fitness-Tracker, diese drahtlosen Kopfhörer? Wir haben diesen Ratgeber erstellt, um Ihnen beim Einkauf sicherer, vernetzter Produkte zu helfen."
+#~ msgstr ""
+#~ "Wie gruselig ist dieser intelligente Lautsprecher, dieser Fitness-Tracker, diese drahtlosen Kopfhörer? Wir haben diesen Ratgeber erstellt, um Ihnen beim Einkauf sicherer, vernetzter Produkte zu "
+#~ "helfen."
 
 #~ msgid "this product has adult content"
 #~ msgstr "Dieses Produkt bietet Inhalte für Erwachsene"
