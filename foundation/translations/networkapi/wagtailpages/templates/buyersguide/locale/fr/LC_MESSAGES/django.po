@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-16 19:06+0000\n"
+"POT-Creation-Date: 2021-11-17 08:08+0000\n"
 "PO-Revision-Date: 2021-11-16 19:08+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -42,13 +42,16 @@ msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "navigation du site"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
-#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19 network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:19
+#: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:29
 #: network-api/networkapi/wagtailpages/templates/buyersguide/pni_mobile_nav.html:31
 msgid "All Categories"
 msgstr "Toutes les catégories"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90 network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:90
+#: network-api/networkapi/wagtailpages/templates/buyersguide/bg_base.html:92
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:73
 msgid "All"
 msgstr "Tout"
@@ -70,16 +73,10 @@ msgid "*privacy not included"
 msgstr "*confidentialité non incluse"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:138
-msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
-msgstr ""
-"Dans notre guide d’achat *Confidentialité non incluse nous passons en revue des sextoys connectés. Ce contenu est destiné aux lecteurs âgés de 18 ans et plus et peut contenir des informations "
-"sensibles ou à destination des adultes."
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:143
 msgid "Don’t see the product you’re looking for?"
 msgstr "Vous ne trouvez pas le produit que vous recherchez ?"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:144
+#: network-api/networkapi/wagtailpages/templates/buyersguide/catalog.html:139
 msgid "Let us know what product you would like reviewed in the guide."
 msgstr "Dites-nous quel produit vous souhaitez voir ajouté au guide."
 
@@ -134,7 +131,8 @@ msgstr "Conseils pour vous protéger"
 msgid "Privacy"
 msgstr "Confidentialité"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:125 network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:134
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:125
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:134
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:143
 msgctxt "icon description for screen readers"
 msgid "warning"
@@ -281,6 +279,9 @@ msgstr "Commentaires"
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:363
 msgid "Got a comment? Let us hear it."
 msgstr "Vous avez un commentaire ? Dites-nous tout."
+
+#~ msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
+#~ msgstr "Dans notre guide d’achat *Confidentialité non incluse nous passons en revue des sextoys connectés. Ce contenu est destiné aux lecteurs âgés de 18 ans et plus et peut contenir des informations sensibles ou à destination des adultes."
 
 #~ msgid "Does this product meet our <a id=\"mss-link\" class=\"tw-ml-1\" href=\"%(url)s\">Minimum Security Standards</a>?"
 #~ msgstr "Ce produit respecte-t-il nos <a id=\"mss-link\" class=\"tw-ml-1\" href=\"%(url)s\">critères élémentaires de sécurité</a> ?"
