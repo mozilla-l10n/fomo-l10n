@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-19 10:12+0000\n"
-"PO-Revision-Date: 2021-11-19 10:50+0000\n"
+"PO-Revision-Date: 2021-11-19 10:54+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -43,10 +43,12 @@ msgid ""
 "Mozilla’s updated RegretsReporter browser extension helps you eliminate harmful YouTube recommendations — the clickbait, the outrage, and all the other content you wish you never saw. By simply "
 "clicking an icon on any video on YouTube, RegretsReporter sends a signal to YouTube asking it to stop surfacing content you find objectionable."
 msgstr ""
+"Mozilla’s bijgewerkte browserextensie RegretsReporter helpt u schadelijke YouTube-aanbevelingen te elimineren – de clickbait, de verontwaardiging en alle andere inhoud die u liever nooit had gezien."
+" Door simpelweg op een pictogram op een video op YouTube te klikken, stuurt RegretsReporter een signaal naar YouTube met het verzoek om te stoppen met het tonen van inhoud die u bezwaarlijk vindt."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_extension.html:24
 msgid "Avoid harmful content."
-msgstr ""
+msgstr "Vermijd schadelijke inhoud."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_extension.html:27
 #, python-format
@@ -54,10 +56,12 @@ msgid ""
 "Sometimes YouTube recommendations can be spot on. But sometimes, they’re outright harmful. <a href=\"%(url)s\" target=\"_blank\">Research powered by Mozilla’s RegretsReporter has revealed</a> that "
 "YouTube’s algorithm violates the platform’s very own policies, recommending misinformation, violent content, hate speech, and scams."
 msgstr ""
+"Soms zijn YouTube-aanbevelingen perfect. Maar soms zijn ze ronduit schadelijk. <a href=\"%(url)s\" target=\"_blank\">Onderzoek met behulp van Mozilla’s RegretsReporter heeft aangetoond</a> dat het "
+"algoritme van YouTube het eigen beleid van het platform schendt en misinformatie, gewelddadige inhoud, aanzetten tot haat en oplichting aanbeveelt."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_extension.html:36
 msgid "Help solve the problem."
-msgstr ""
+msgstr "Help mee het probleem op te lossen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_extension.html:39
 #, python-format
@@ -66,6 +70,10 @@ msgid ""
 "provides vital insight into whether YouTube recommendations can actually be tamed. (Mozilla initially launched RegretsReporter <a href=\"%(url)s\" target=\"_blank\">in September 2020</a>, granting "
 "users the ability to flag harmful recommendations. That functionality still remains in this updated version of the extension.)"
 msgstr ""
+"RegretsReporter is niet slechts een product – het maakt ook deel uit van Mozilla’s lopende onderzoek naar en pleitbezorging tegen schadelijke aanbevelingsalgoritmen. Je kunt ervoor kiezen om deel te"
+" nemen aan het onderzoek van Mozilla, dat essentieel inzicht biedt in de vraag of YouTube-aanbevelingen daadwerkelijk kunnen worden getemd. (Mozilla lanceerde RegretsReporter in eerste instantie <a "
+"href=\"%(url)s\" target=\"_blank\">in september 2020</a>, waardoor gebruikers schadelijke aanbevelingen kunnen markeren. Die functionaliteit is nog steeds aanwezig in deze bijgewerkte versie van de "
+"extensie.)"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:12
 msgid "Download RegretsReporter today."
