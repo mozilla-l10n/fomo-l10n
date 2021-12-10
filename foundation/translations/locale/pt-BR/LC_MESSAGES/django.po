@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-30 08:09+0000\n"
+"POT-Creation-Date: 2021-12-10 17:26+0000\n"
 "PO-Revision-Date: 2021-11-19 11:43+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -71,8 +71,8 @@ msgid "Close Banner"
 msgstr "Fechar aviso"
 
 #: network-api/networkapi/templates/partials/banner.html:15
-msgid "Help Mozilla fight for a better internet this Giving Tuesday"
-msgstr "Ajude a Mozilla a lutar por uma internet melhor nesta terça-feira após o Dia de Ação de Graças."
+msgid "Help Mozilla fight for a better internet this holiday season"
+msgstr ""
 
 #: network-api/networkapi/templates/partials/banner.html:18
 msgid "We're proudly nonprofit, working to keep the web healthy."
@@ -271,7 +271,7 @@ msgstr "Resumo"
 msgid "*privacy not included with this product"
 msgstr "*privacidade não incluída neste produto"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:30
+#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:31
 #, python-format
 msgid "link to %(product)s"
 msgstr "link para %(product)s"
@@ -348,6 +348,10 @@ msgstr "Sim"
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:38
 msgid "No"
 msgstr "Não"
+
+#: network-api/networkapi/wagtailpages/templates/fragments/product_privacy.html:12
+msgid "(opens in a new tab)"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:10
 #, python-format
@@ -614,6 +618,9 @@ msgstr "Precisa de melhorias"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Ruim"
+
+#~ msgid "Help Mozilla fight for a better internet this Giving Tuesday"
+#~ msgstr "Ajude a Mozilla a lutar por uma internet melhor nesta terça-feira após o Dia de Ação de Graças."
 
 #~ msgid "Not applicable"
 #~ msgstr "Não aplicável"
