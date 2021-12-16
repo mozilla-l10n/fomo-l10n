@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-15 09:32+0000\n"
+"POT-Creation-Date: 2021-12-16 11:05+0000\n"
 "PO-Revision-Date: 2021-11-19 11:32+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -127,162 +127,126 @@ msgstr "O que pode acontecer se algo der errado?"
 msgid "Tips to protect yourself"
 msgstr "Dicas para se proteger"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:122
-msgid "Privacy"
-msgstr "Privacidade"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:124
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:133
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:142
-msgctxt "icon description for screen readers"
-msgid "warning"
-msgstr "aviso"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:131
-msgid "Security"
-msgstr "Segurança"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:140
-msgid "A.I."
-msgstr "Inteligência artificial"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:152
-msgid "Can it snoop on me?"
-msgstr "Pode me bisbilhotar?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:154
-msgctxt "icon description for screen readers"
-msgid "information"
-msgstr "informações"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:158
-msgid "Camera"
-msgstr "Câmera"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:159
-msgid "Microphone"
-msgstr "Microfone"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:160
-msgid "Tracks location"
-msgstr "Rastreia localização"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:176
-msgid "What can be used to sign up?"
-msgstr "O que pode ser usado para se inscrever?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:179
-msgid "Email"
-msgstr "Email"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:180
-msgid "Phone"
-msgstr "Celular"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:181
-msgid "Third-party account"
-msgstr "Conta de terceiros"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:200
-msgid "What data does the company collect?"
-msgstr "Que dados a empresa coleta?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:203
-msgid "Personal"
-msgstr "Pessoal"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:204
-msgid "Body related"
-msgstr "Relacionado ao corpo"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:205
-msgid "Social"
-msgstr "Social"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:219
-msgid "How does the company use this data?"
-msgstr "Como a empresa usa esses dados?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:224
-msgid "How can you control your data?"
-msgstr "Como você pode controlar seus dados?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:227
-msgid "What is the company’s known track record of protecting users’ data?"
-msgstr "Qual é o histórico conhecido da empresa na proteção de dados dos usuários?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:230
-msgid "Can this product be used offline?"
-msgstr "Este produto pode ser usado offline?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:236
-msgid "User-friendly privacy information?"
-msgstr "Informações de privacidade fáceis de entender?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:240
-msgid "Links to privacy information"
-msgstr "Links para informações de privacidade"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:246
-#, python-format
-msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr "Este produto atende aos nossos <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">padrões mínimos de segurança</a>?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:251
-msgid "Encryption"
-msgstr "Criptografia"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:252
-msgid "Security updates"
-msgstr "Atualizações de segurança"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:253
-msgid "Strong password"
-msgstr "Senha forte"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:254
-msgid "Manages vulnerabilities"
-msgstr "Gerencia vulnerabilidades"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:255
-msgid "Privacy policy"
-msgstr "Política de privacidade"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:268
-msgid "Does the product use AI?"
-msgstr "O produto usa inteligência artificial?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:272
-msgid "Is this AI untrustworthy?"
-msgstr "Esta inteligência artificial não é confiável?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:277
-msgid "What kind of decisions does the AI make about you or for you?"
-msgstr "Que tipo de decisões a inteligência artificial faz sobre você ou por você?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:284
-msgid "Is the company transparent about how the AI works?"
-msgstr "A empresa é transparente sobre como funciona a inteligência artificial?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:287
-msgid "Does the user have control over the AI features?"
-msgstr "O usuário tem controle sobre os recursos da inteligência artificial?"
-
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:303
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:117
 msgid "News"
 msgstr "Novidades"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:321
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:135
 msgid "Related products"
 msgstr "Produtos relacionados"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:365
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:179
 msgid "Comments"
 msgstr "Comentários"
 
-#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:366
+#: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:180
 msgid "Got a comment? Let us hear it."
 msgstr "Tem um comentário a fazer? Nos diga."
+
+#~ msgid "Privacy"
+#~ msgstr "Privacidade"
+
+#~ msgctxt "icon description for screen readers"
+#~ msgid "warning"
+#~ msgstr "aviso"
+
+#~ msgid "Security"
+#~ msgstr "Segurança"
+
+#~ msgid "A.I."
+#~ msgstr "Inteligência artificial"
+
+#~ msgid "Can it snoop on me?"
+#~ msgstr "Pode me bisbilhotar?"
+
+#~ msgctxt "icon description for screen readers"
+#~ msgid "information"
+#~ msgstr "informações"
+
+#~ msgid "Camera"
+#~ msgstr "Câmera"
+
+#~ msgid "Microphone"
+#~ msgstr "Microfone"
+
+#~ msgid "Tracks location"
+#~ msgstr "Rastreia localização"
+
+#~ msgid "What can be used to sign up?"
+#~ msgstr "O que pode ser usado para se inscrever?"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Phone"
+#~ msgstr "Celular"
+
+#~ msgid "Third-party account"
+#~ msgstr "Conta de terceiros"
+
+#~ msgid "What data does the company collect?"
+#~ msgstr "Que dados a empresa coleta?"
+
+#~ msgid "Personal"
+#~ msgstr "Pessoal"
+
+#~ msgid "Body related"
+#~ msgstr "Relacionado ao corpo"
+
+#~ msgid "Social"
+#~ msgstr "Social"
+
+#~ msgid "How does the company use this data?"
+#~ msgstr "Como a empresa usa esses dados?"
+
+#~ msgid "How can you control your data?"
+#~ msgstr "Como você pode controlar seus dados?"
+
+#~ msgid "What is the company’s known track record of protecting users’ data?"
+#~ msgstr "Qual é o histórico conhecido da empresa na proteção de dados dos usuários?"
+
+#~ msgid "Can this product be used offline?"
+#~ msgstr "Este produto pode ser usado offline?"
+
+#~ msgid "User-friendly privacy information?"
+#~ msgstr "Informações de privacidade fáceis de entender?"
+
+#~ msgid "Links to privacy information"
+#~ msgstr "Links para informações de privacidade"
+
+#, python-format
+#~ msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+#~ msgstr "Este produto atende aos nossos <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">padrões mínimos de segurança</a>?"
+
+#~ msgid "Encryption"
+#~ msgstr "Criptografia"
+
+#~ msgid "Security updates"
+#~ msgstr "Atualizações de segurança"
+
+#~ msgid "Strong password"
+#~ msgstr "Senha forte"
+
+#~ msgid "Manages vulnerabilities"
+#~ msgstr "Gerencia vulnerabilidades"
+
+#~ msgid "Privacy policy"
+#~ msgstr "Política de privacidade"
+
+#~ msgid "Does the product use AI?"
+#~ msgstr "O produto usa inteligência artificial?"
+
+#~ msgid "Is this AI untrustworthy?"
+#~ msgstr "Esta inteligência artificial não é confiável?"
+
+#~ msgid "What kind of decisions does the AI make about you or for you?"
+#~ msgstr "Que tipo de decisões a inteligência artificial faz sobre você ou por você?"
+
+#~ msgid "Is the company transparent about how the AI works?"
+#~ msgstr "A empresa é transparente sobre como funciona a inteligência artificial?"
+
+#~ msgid "Does the user have control over the AI features?"
+#~ msgstr "O usuário tem controle sobre os recursos da inteligência artificial?"
 
 #~ msgid "In our *Privacy Not Included buyer’s guide we review connected sex toys. This content is targeted for readers 18+ and may contain sensitive or mature information."
 #~ msgstr "Em nosso guia do comprador *Privacidade não incluída, analisamos brinquedos sexuais conectados. Esse conteúdo é direcionado a leitores a partir de 18 anos e pode conter informações delicadas ou adultas."
