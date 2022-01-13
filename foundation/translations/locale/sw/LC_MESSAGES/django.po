@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-16 11:05+0000\n"
+"POT-Creation-Date: 2022-01-13 16:50+0000\n"
 "PO-Revision-Date: 2021-10-05 13:44+0000\n"
 "Last-Translator: kathleensiminyu <kathleensiminyu@gmail.com>\n"
 "Language-Team: \n"
@@ -321,36 +321,6 @@ msgctxt "icon description for screen readers"
 msgid "information"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:20
-msgctxt "Unknown rating"
-msgid "Can’t determine"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:22
-msgctxt "Unknown rating"
-msgid "Can’t Determine"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:25
-msgid "Not Applicable"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:28
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:30
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:13
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:20
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:36
-msgid "Yes"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:34
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:36
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:22
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:38
-msgid "No"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/fragments/product_privacy.html:12
 msgid "(opens in a new tab)"
 msgstr ""
@@ -453,23 +423,23 @@ msgstr ""
 msgid "Privacy policy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:129
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:128
 msgid "Does the product use AI?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:133
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
 msgid "Is this AI untrustworthy?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:138
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:137
 msgid "What kind of decisions does the AI make about you or for you?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:145
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:144
 msgid "Is the company transparent about how the AI works?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:148
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:147
 msgid "Does the user have control over the AI features?"
 msgstr ""
 
@@ -717,35 +687,45 @@ msgstr ""
 msgid "Loading form…"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:27
+msgid "No"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:13
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:25
+msgid "Yes"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:14
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:24
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:29
 msgid "Unknown"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:32
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:21
 msgid "Can’t Determine"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:34
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:23
 msgid "N/A"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:51
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:42
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Great"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:53
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:44
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Average"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:55
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:46
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Needs Improvement"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:57
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:48
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr ""
