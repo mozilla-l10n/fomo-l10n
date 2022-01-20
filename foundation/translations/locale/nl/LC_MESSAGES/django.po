@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-13 16:50+0000\n"
+"POT-Creation-Date: 2022-01-20 18:11+0000\n"
 "PO-Revision-Date: 2021-12-16 13:20+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -346,9 +346,9 @@ msgid "What can be used to sign up?"
 msgstr "Wat is er nodig om u aan te melden?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:40
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
+msgctxt "Email address"
 msgid "Email"
-msgstr "E-mailadres"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:41
 msgid "Phone"
@@ -662,6 +662,10 @@ msgstr "Het spijt ons, we kunnen dat nummer niet bellen. Controleer of het het j
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
 msgid "Facebook"
 msgstr "Facebook"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
+msgid "Email"
+msgstr "E-mailadres"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
 msgid "Copy"
