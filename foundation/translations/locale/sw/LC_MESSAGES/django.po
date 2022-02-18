@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-20 18:11+0000\n"
+"POT-Creation-Date: 2022-02-18 10:36+0000\n"
 "PO-Revision-Date: 2021-10-05 13:44+0000\n"
 "Last-Translator: kathleensiminyu <kathleensiminyu@gmail.com>\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/templates/404.html:4
+#: network-api/networkapi/templates/404.html:6
 msgid "Page Not Found"
 msgstr ""
 
@@ -42,7 +42,7 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/base.html:9
+#: network-api/networkapi/templates/pages/base.html:12
 #: network-api/networkapi/templates/partials/footer.html:31
 #: network-api/networkapi/templates/partials/primary_nav.html:45
 msgid "Mozilla Foundation"
@@ -111,6 +111,7 @@ msgid "More about us"
 msgstr ""
 
 #: network-api/networkapi/templates/partials/footer.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
 msgid "Twitter"
 msgstr ""
@@ -501,15 +502,13 @@ msgstr ""
 msgid "Privacy Not Included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:21
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:54
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:34
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:56
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:15
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
 msgid "SUMMARY"
 msgstr ""
 
@@ -523,7 +522,7 @@ msgstr ""
 msgid "More from our blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:60
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:54
 msgid "Comments"
 msgstr ""
 
@@ -578,6 +577,41 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
+msgid "Share on Facebook"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
+msgid "Facebook"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:17
+msgid "Share on Twitter"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:26
+msgid "Share by Email"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:28
+msgctxt "Button to share the page by email"
+msgid "Email"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:31
+msgid "Copy page URL to clipboard"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:33
+msgid "Copy to clipboard"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
+msgid "Copy"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
@@ -659,16 +693,8 @@ msgstr ""
 msgid "We’re sorry, we can’t call that number. Please check that it is the right number, or try a different one."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
-msgid "Facebook"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
 msgid "Email"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
-msgid "Copy"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:56
