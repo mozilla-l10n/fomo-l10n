@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-18 10:36+0000\n"
+"POT-Creation-Date: 2022-02-23 08:24+0000\n"
 "PO-Revision-Date: 2022-01-21 13:52+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: \n"
@@ -124,47 +124,51 @@ msgstr "Instagram"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/partials/footer.html:51
+#: network-api/networkapi/templates/partials/footer.html:45
+msgid "Youtube"
+msgstr ""
+
+#: network-api/networkapi/templates/partials/footer.html:52
 #: network-api/networkapi/templates/partials/primary_nav.html:66
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:27
 msgid "Donate"
 msgstr "Donearje"
 
-#: network-api/networkapi/templates/partials/footer.html:53
+#: network-api/networkapi/templates/partials/footer.html:54
 msgid "Careers"
 msgstr "Banen"
 
-#: network-api/networkapi/templates/partials/footer.html:54
+#: network-api/networkapi/templates/partials/footer.html:55
 msgid "Cookies"
 msgstr "Cookies"
 
-#: network-api/networkapi/templates/partials/footer.html:55
+#: network-api/networkapi/templates/partials/footer.html:56
 msgid "Legal"
 msgstr "Juridysk"
 
-#: network-api/networkapi/templates/partials/footer.html:56
+#: network-api/networkapi/templates/partials/footer.html:57
 msgid "Participation Guidelines"
 msgstr "Rjochtlinen foar dielname"
 
-#: network-api/networkapi/templates/partials/footer.html:57
+#: network-api/networkapi/templates/partials/footer.html:58
 msgid "Press Center"
 msgstr "Parsesintrum"
 
-#: network-api/networkapi/templates/partials/footer.html:58
+#: network-api/networkapi/templates/partials/footer.html:59
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:11
 msgid "Privacy"
 msgstr "Privacy"
 
-#: network-api/networkapi/templates/partials/footer.html:64
+#: network-api/networkapi/templates/partials/footer.html:65
 msgid "This website supports Web Monetization."
 msgstr "Dizze website stipet it generearjen fan ynkomsten fia it web."
 
-#: network-api/networkapi/templates/partials/footer.html:66
+#: network-api/networkapi/templates/partials/footer.html:67
 #, python-format
 msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
 msgstr "<a href=\"%(url)s\">Mear ynfo</a> oer ús ymplemintaasje"
 
-#: network-api/networkapi/templates/partials/footer.html:84
+#: network-api/networkapi/templates/partials/footer.html:85
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla is in wrâldwide non-profitorganisaasje, tawijd oan it behâlden fan de kontrôle oer jo onlinebelibbing en it foarmjen fan de takomst fan it ynternet yn it algemien belang. Besykje ús op <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. De measte ynhâld is beskikber ûnder in <a href=\"%(cc_website_url)s\">Creative Commons-lisinsje</a>."
