@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-23 08:24+0000\n"
+"POT-Creation-Date: 2022-03-28 14:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -506,13 +506,13 @@ msgstr ""
 msgid "Privacy Not Included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:15
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:33
 msgid "SUMMARY"
 msgstr ""
 
@@ -530,13 +530,24 @@ msgstr ""
 msgid "Comments"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:11
-msgid "By"
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/article_hero_guts.html:51
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:55
+msgid "Written by"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/article_hero_guts.html:56
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:13
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
 msgid "and"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/article_hero_guts.html:82
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
+msgid "Download PDF"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:11
+msgid "By"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:27
@@ -569,14 +580,6 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:9
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:88
 msgid "Read more news"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:55
-msgid "Written by"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
-msgid "Download PDF"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
