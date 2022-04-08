@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-28 14:02+0000\n"
+"POT-Creation-Date: 2022-04-08 12:21+0000\n"
 "PO-Revision-Date: 2021-10-05 13:44+0000\n"
 "Last-Translator: kathleensiminyu <kathleensiminyu@gmail.com>\n"
 "Language-Team: \n"
@@ -220,46 +220,46 @@ msgstr ""
 msgid "Super creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:788
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:791
 msgid "*Privacy Not Included review:"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:951
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:954
 msgid "Privacy & security guide"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1556
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1432
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1565
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1441
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1572
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1448
 msgctxt "Noun, media"
 msgid "Press"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1574
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1583
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1592
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1601
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1450
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1459
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1468
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1477
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1581
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1457
 msgid "Contact us"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1590
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1466
 msgid "Our methodology"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1599
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1475
 msgid "Contest terms and conditions"
 msgstr ""
 
@@ -268,8 +268,17 @@ msgstr ""
 msgid "this product has adult content"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:20
+#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18
+#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:93
 msgid "Summary"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
+msgid "Show All"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
+msgid "Close"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
@@ -504,6 +513,10 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:18
 msgid "Privacy Not Included"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:19
+msgid "Table of Contents"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:19
