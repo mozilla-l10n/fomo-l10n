@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-14 08:27+0000\n"
+"POT-Creation-Date: 2022-04-20 08:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,12 +22,9 @@ msgstr ""
 msgid "Page Not Found"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/article_prev_next.html:6
-msgid "Previous"
-msgstr ""
-
-#: network-api/networkapi/templates/fragments/article_prev_next.html:12
-msgid "Next"
+#: network-api/networkapi/templates/fragments/continuous_scrolling_next.html:6
+msgctxt "String followed by the next page title the user will reach by scrolling down"
+msgid "Keep Scrolling For"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footnotes.html:9
@@ -228,38 +225,38 @@ msgstr ""
 msgid "Privacy & security guide"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1432
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1445
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1441
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1454
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1448
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1461
 msgctxt "Noun, media"
 msgid "Press"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1450
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1459
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1468
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1477
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1463
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1472
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1481
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1490
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1457
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1470
 msgid "Contact us"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1466
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1479
 msgid "Our methodology"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1475
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1488
 msgid "Contest terms and conditions"
 msgstr ""
 
@@ -416,60 +413,64 @@ msgstr ""
 msgid "What is the company’s known track record of protecting users’ data?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:91
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:92
+msgid "Child Privacy Information"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:95
 msgid "Can this product be used offline?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:97
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:101
 msgid "User-friendly privacy information?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:101
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:105
 msgid "Links to privacy information"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:107
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:111
 #, python-format
 msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:112
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:116
 msgid "Encryption"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:113
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:117
 msgid "Security updates"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:114
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:118
 msgid "Strong password"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:115
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:119
 msgid "Manages vulnerabilities"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:116
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:120
 msgid "Privacy policy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:128
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
 msgid "Does the product use AI?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:136
 msgid "Is this AI untrustworthy?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:137
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:141
 msgid "What kind of decisions does the AI make about you or for you?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:144
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:148
 msgid "Is the company transparent about how the AI works?"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:147
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:151
 msgid "Does the user have control over the AI features?"
 msgstr ""
 
@@ -535,13 +536,13 @@ msgstr ""
 msgid "Table of Contents"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:19
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:33
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:43
 msgid "SUMMARY"
 msgstr ""
 

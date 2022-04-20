@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-14 08:27+0000\n"
+"POT-Creation-Date: 2022-04-20 08:14+0000\n"
 "PO-Revision-Date: 2022-02-22 19:58+0000\n"
 "Last-Translator: Christian Eduardo Noriega <cafiovafo@gmail.com>\n"
 "Language-Team: \n"
@@ -18,13 +18,10 @@ msgstr ""
 msgid "Page Not Found"
 msgstr "Página no encontrada"
 
-#: network-api/networkapi/templates/fragments/article_prev_next.html:6
-msgid "Previous"
-msgstr "Anterior"
-
-#: network-api/networkapi/templates/fragments/article_prev_next.html:12
-msgid "Next"
-msgstr "Siguiente"
+#: network-api/networkapi/templates/fragments/continuous_scrolling_next.html:6
+msgctxt "String followed by the next page title the user will reach by scrolling down"
+msgid "Keep Scrolling For"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/footnotes.html:9
 msgid "Footnotes"
@@ -224,38 +221,38 @@ msgstr "Reseña de *Privacidad no incluida:"
 msgid "Privacy & security guide"
 msgstr "Guía de seguridad y privacidad"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1432
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1445
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Cómo usar *privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1441
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1454
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Por qué hemos elaborado *privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1448
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1461
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Prensa"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1450
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1459
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1468
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1477
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1463
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1472
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1481
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1490
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidad no incluida"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1457
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1470
 msgid "Contact us"
 msgstr "Contacta con nosotros"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1466
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1479
 msgid "Our methodology"
 msgstr "Nuestra metodología"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1475
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1488
 msgid "Contest terms and conditions"
 msgstr "Términos y condiciones del concurso"
 
@@ -412,60 +409,64 @@ msgstr "¿Cómo puedes controlar el uso de tus datos?"
 msgid "What is the company’s known track record of protecting users’ data?"
 msgstr "¿Qué historial tiene la compañía en cuanto a la protección de los datos de los usuarios?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:91
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:92
+msgid "Child Privacy Information"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:95
 msgid "Can this product be used offline?"
 msgstr "¿El producto se puede usar sin conexión?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:97
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:101
 msgid "User-friendly privacy information?"
 msgstr "¿La información de privacidad es fácil de entender?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:101
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:105
 msgid "Links to privacy information"
 msgstr "Enlaces a información de privacidad"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:107
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:111
 #, python-format
 msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
 msgstr "¿El producto cumple nuestros <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">estándares mínimos de seguridad</a>?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:112
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:116
 msgid "Encryption"
 msgstr "Cifrado"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:113
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:117
 msgid "Security updates"
 msgstr "Actualizaciones de seguridad"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:114
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:118
 msgid "Strong password"
 msgstr "Contraseña fuerte"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:115
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:119
 msgid "Manages vulnerabilities"
 msgstr "Gestiona las vulnerabilidades"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:116
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:120
 msgid "Privacy policy"
 msgstr "Política de privacidad"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:128
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
 msgid "Does the product use AI?"
 msgstr "¿El producto usa AI?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:136
 msgid "Is this AI untrustworthy?"
 msgstr "¿Es poco confiable esta IA?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:137
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:141
 msgid "What kind of decisions does the AI make about you or for you?"
 msgstr "¿Qué tipo de decisiones toma la IA acerca de ti o por ti?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:144
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:148
 msgid "Is the company transparent about how the AI works?"
 msgstr "¿La empresa es transparente acerca del funcionamiento de la IA?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:147
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:151
 msgid "Does the user have control over the AI features?"
 msgstr "¿Tiene el usuario control sobre las características de la IA?"
 
@@ -531,13 +532,13 @@ msgstr "Privacidad no incluida"
 msgid "Table of Contents"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:19
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
 #, python-format
 msgid "%(title)s by @mozilla"
 msgstr "%(title)s por @mozilla"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:33
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:43
 msgid "SUMMARY"
 msgstr "RESUMEN"
 
@@ -791,6 +792,12 @@ msgstr "Necesita mejoras"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Malo"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
 
 #~ msgctxt "Unknown rating"
 #~ msgid "Can’t determine"
