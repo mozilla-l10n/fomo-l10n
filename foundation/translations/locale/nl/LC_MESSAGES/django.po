@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-01 07:33+0000\n"
-"PO-Revision-Date: 2022-06-01 07:55+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-06-01 09:18+0000\n"
+"Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -596,12 +596,12 @@ msgstr "Meer nieuws lezen"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:13
 msgctxt "Pagination link"
 msgid "Prev. page"
-msgstr ""
+msgstr "Vorige pagina"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:23
 msgctxt "Pagination link"
 msgid "Next page"
-msgstr ""
+msgstr "Volgende pagina"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
@@ -610,17 +610,17 @@ msgstr "Gerelateerde inhoud"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_filter_button.html:32
 msgctxt "Button"
 msgid "Filter"
-msgstr ""
+msgstr "Filteren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:3
 msgctxt "Button"
 msgid "Search"
-msgstr ""
+msgstr "Zoeken"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:4
 msgctxt "Search input"
 msgid "Search our research…"
-msgstr ""
+msgstr "Ons onderzoek doorzoeken…"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
 msgid "Share on Facebook"
@@ -689,95 +689,95 @@ msgstr "Meer resultaten laden"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:55
 msgid "Latest research"
-msgstr ""
+msgstr "Laatste onderzoek"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:64
 msgctxt "Button to see more than the latest three elements of research from an author"
 msgid "Browse all projects"
-msgstr ""
+msgstr "Door alle projecten bladeren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_authors_index_page.html:22
 msgid "No authors found."
-msgstr ""
+msgstr "Geen auteurs gevonden."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:47
 msgctxt "Research page section heading"
 msgid "Overview"
-msgstr ""
+msgstr "Overzicht"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:58
 msgid "Project leads"
-msgstr ""
+msgstr "Projectleiders"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:71
 msgid "Collaborators"
-msgstr ""
+msgstr "Medewerkers"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:32
 msgctxt "Button"
 msgid "Browse all"
-msgstr ""
+msgstr "Door alles bladeren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:38
 msgid "Latest Research"
-msgstr ""
+msgstr "Laatste onderzoek"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:47
 msgctxt "Button"
 msgid "Browse all projects"
-msgstr ""
+msgstr "Door alle projecten bladeren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:54
 msgctxt "Topic list heading"
 msgid "Browse by topic"
-msgstr ""
+msgstr "Bladeren op onderwerp"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:50
 msgctxt "Button"
 msgid "Sort"
-msgstr ""
+msgstr "Sorteren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:56
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>%(research_detail_pages_count)s</strong> resultaat"
+msgstr[1] "<strong>%(research_detail_pages_count)s</strong> resultaten"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:61
 msgctxt "Heading describing the count of search results for a given search term"
 msgid "for"
-msgstr ""
+msgstr "voor"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:92
 msgid "Filter"
-msgstr ""
+msgstr "Filteren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:96
 msgid "Topics"
-msgstr ""
+msgstr "Onderwerpen"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:109
 msgid "Publication date"
-msgstr ""
+msgstr "Publicatiedatum"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:113
 msgctxt "Option in a radio button list of years"
 msgid "Any"
-msgstr ""
+msgstr "Alle"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:126
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:139
 msgid "Regions"
-msgstr ""
+msgstr "Regio’s"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:150
 msgctxt "Button"
 msgid "Apply filters"
-msgstr ""
+msgstr "Filters toepassen"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37 network-api/networkapi/wagtailpages/utils.py:98
 msgid "Overview"
