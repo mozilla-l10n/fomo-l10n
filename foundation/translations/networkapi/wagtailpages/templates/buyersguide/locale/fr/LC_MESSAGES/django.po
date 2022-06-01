@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-20 08:14+0000\n"
+"POT-Creation-Date: 2022-06-01 07:33+0000\n"
 "PO-Revision-Date: 2021-12-16 12:12+0100\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: \n"
@@ -86,8 +86,8 @@ msgstr "À propos de ce guide"
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/primary_nav.html:10
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*privacy not included"
-msgstr "*confidentialité non incluse"
+msgid "*Privacy Not Included"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/buyersguide/primary_nav.html:17
 msgid "Privacy Not Included"
@@ -142,6 +142,10 @@ msgstr "Commentaires"
 #: network-api/networkapi/wagtailpages/templates/buyersguide/product_page.html:180
 msgid "Got a comment? Let us hear it."
 msgstr "Vous avez un commentaire ? Dites-nous tout."
+
+#~ msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "*privacy not included"
+#~ msgstr "*confidentialité non incluse"
 
 #~ msgid "Privacy"
 #~ msgstr "Confidentialité"
