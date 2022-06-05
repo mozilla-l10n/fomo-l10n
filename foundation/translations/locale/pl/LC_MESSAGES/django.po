@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-01 07:33+0000\n"
-"PO-Revision-Date: 2022-06-01 07:55+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2022-06-05 13:06+0000\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -593,12 +593,12 @@ msgstr "Więcej aktualności"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:13
 msgctxt "Pagination link"
 msgid "Prev. page"
-msgstr ""
+msgstr "Poprzednia strona"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:23
 msgctxt "Pagination link"
 msgid "Next page"
-msgstr ""
+msgstr "Następna strona"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
@@ -607,17 +607,17 @@ msgstr "Podobne"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_filter_button.html:32
 msgctxt "Button"
 msgid "Filter"
-msgstr ""
+msgstr "Filtruj"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:3
 msgctxt "Button"
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:4
 msgctxt "Search input"
 msgid "Search our research…"
-msgstr ""
+msgstr "Przeszukaj nasze badania…"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
 msgid "Share on Facebook"
@@ -687,96 +687,96 @@ msgstr "Więcej wyników"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:55
 msgid "Latest research"
-msgstr ""
+msgstr "Najnowsze badania"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:64
 msgctxt "Button to see more than the latest three elements of research from an author"
 msgid "Browse all projects"
-msgstr ""
+msgstr "Wszystkie projekty"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_authors_index_page.html:22
 msgid "No authors found."
-msgstr ""
+msgstr "Nie odnaleziono autorów."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:47
 msgctxt "Research page section heading"
 msgid "Overview"
-msgstr ""
+msgstr "Przegląd"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:58
 msgid "Project leads"
-msgstr ""
+msgstr "Liderzy projektu"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:71
 msgid "Collaborators"
-msgstr ""
+msgstr "Współtwórcy"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:32
 msgctxt "Button"
 msgid "Browse all"
-msgstr ""
+msgstr "Wszystkie"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:38
 msgid "Latest Research"
-msgstr ""
+msgstr "Najnowsze badania"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:47
 msgctxt "Button"
 msgid "Browse all projects"
-msgstr ""
+msgstr "Wszystkie projekty"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:54
 msgctxt "Topic list heading"
 msgid "Browse by topic"
-msgstr ""
+msgstr "Według tematu"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:50
 msgctxt "Button"
 msgid "Sort"
-msgstr ""
+msgstr "Sortuj"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:56
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "<strong>%(research_detail_pages_count)s</strong> wynik"
+msgstr[1] "<strong>%(research_detail_pages_count)s</strong> wyniki"
+msgstr[2] "<strong>%(research_detail_pages_count)s</strong> wyników"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:61
 msgctxt "Heading describing the count of search results for a given search term"
 msgid "for"
-msgstr ""
+msgstr "dla zapytania:"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:92
 msgid "Filter"
-msgstr ""
+msgstr "Filtruj"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:96
 msgid "Topics"
-msgstr ""
+msgstr "Tematy"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:109
 msgid "Publication date"
-msgstr ""
+msgstr "Data publikacji"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:113
 msgctxt "Option in a radio button list of years"
 msgid "Any"
-msgstr ""
+msgstr "Wszystkie"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:126
 msgid "Authors"
-msgstr ""
+msgstr "Autorzy"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:139
 msgid "Regions"
-msgstr ""
+msgstr "Regiony"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:150
 msgctxt "Button"
 msgid "Apply filters"
-msgstr ""
+msgstr "Zastosuj filtry"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37 network-api/networkapi/wagtailpages/utils.py:98
 msgid "Overview"
