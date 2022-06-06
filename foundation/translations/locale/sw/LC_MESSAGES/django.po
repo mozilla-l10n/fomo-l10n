@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-01 07:33+0000\n"
-"PO-Revision-Date: 2021-10-05 13:44+0000\n"
-"Last-Translator: kathleensiminyu <kathleensiminyu@gmail.com>\n"
+"PO-Revision-Date: 2022-06-06 12:52+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
@@ -20,802 +20,780 @@ msgstr ""
 
 #: network-api/networkapi/templates/404.html:6
 msgid "Page Not Found"
-msgstr ""
+msgstr "Ukurasa Haupatikani"
 
 #: network-api/networkapi/templates/fragments/continuous_scrolling_next.html:6
 msgctxt "String followed by the next page title the user will reach by scrolling down"
 msgid "Keep Scrolling For"
-msgstr ""
+msgstr "Endelea Kubingiriza"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:9
 msgid "Footnotes"
-msgstr ""
+msgstr "Vielezi chini"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:13
 msgid "Back to content"
-msgstr ""
+msgstr "Rudi kwenye maudhui"
 
 #: network-api/networkapi/templates/fragments/language_switcher.html:9
 msgid "Language"
-msgstr ""
+msgstr "Lugha"
 
-#: network-api/networkapi/templates/pages/base.html:12
-#: network-api/networkapi/templates/partials/footer.html:31
-#: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/pages/base.html:12 network-api/networkapi/templates/partials/footer.html:31 network-api/networkapi/templates/partials/primary_nav.html:45
 msgid "Mozilla Foundation"
-msgstr ""
+msgstr "Mozilla Foundation"
 
 #: network-api/networkapi/templates/partials/404.html:7
 msgid "Uh oh!"
-msgstr ""
+msgstr "Mh oh!"
 
 #: network-api/networkapi/templates/partials/404.html:9
 msgid "Sorry, the page does not exist"
-msgstr ""
+msgstr "Samahani, ukurasa haupo"
 
 #: network-api/networkapi/templates/partials/404.html:10
 #, python-format
 msgid "<a href=\"mailto:%(email)s\">Contact us</a> or ..."
-msgstr ""
+msgstr "<a href=\"mailto:%(email)s\">Wasiliana nasi</a> au ..."
 
 #: network-api/networkapi/templates/partials/404.html:11
 msgid "Go to home page"
-msgstr ""
+msgstr "Nenda kwenye ukurasa wa nyumbani"
 
-#: network-api/networkapi/templates/partials/banner.html:5
-#: network-api/networkapi/templates/partials/banner.html:6
+#: network-api/networkapi/templates/partials/banner.html:5 network-api/networkapi/templates/partials/banner.html:6
 msgid "Close Banner"
-msgstr ""
+msgstr "Funga Bango"
 
 #: network-api/networkapi/templates/partials/banner.html:15
 msgid "Help Mozilla fight for a better internet this holiday season"
-msgstr ""
+msgstr "Saidia Mozilla kupambania mtandao bora katika msimu huu wa likizo"
 
 #: network-api/networkapi/templates/partials/banner.html:18
 msgid "We're proudly nonprofit, working to keep the web healthy."
-msgstr ""
+msgstr "Tunajivunia kuwa shirika lisilo la faida, linalodumisha afya ya wavuti."
 
 #: network-api/networkapi/templates/partials/banner.html:29
 msgid "Your contributions help build a safe and open internet."
-msgstr ""
+msgstr "Michango yako husaidia kujenga mtandao salama na ulio wazi."
 
 #: network-api/networkapi/templates/partials/banner.html:32
 msgid "Can you donate today?"
-msgstr ""
+msgstr "Je, unaweza kuchanga leo?"
 
 #: network-api/networkapi/templates/partials/banner.html:39
 msgid "Support Mozilla"
-msgstr ""
+msgstr "Saidia Mozilla"
 
 #: network-api/networkapi/templates/partials/footer.html:12
 msgid "We all love the Web. Join Mozilla in defending it."
-msgstr ""
+msgstr "Sisi sote tunapenda Mtandao. Jiunge na Mozilla katika kuitetea."
 
 #: network-api/networkapi/templates/partials/footer.html:13
 msgid "Let’s protect the world’s largest resource for future generations."
-msgstr ""
+msgstr "Tulinde nyenzo kubwa zaidi ulimwenguni kwa vizazi vijavyo."
 
 #: network-api/networkapi/templates/partials/footer.html:15
 msgid "Donate now"
-msgstr ""
+msgstr "Changa sasa"
 
 #: network-api/networkapi/templates/partials/footer.html:31
 msgid "Return to Homepage"
-msgstr ""
+msgstr "Rudi kwenye Ukurasa wa Nyumbani"
 
 #: network-api/networkapi/templates/partials/footer.html:39
 msgid "More about us"
-msgstr ""
+msgstr "Mambo mengi kutuhusu"
 
-#: network-api/networkapi/templates/partials/footer.html:42
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
+#: network-api/networkapi/templates/partials/footer.html:42 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: network-api/networkapi/templates/partials/footer.html:43
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #: network-api/networkapi/templates/partials/footer.html:44
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: network-api/networkapi/templates/partials/footer.html:45
 msgid "Youtube"
-msgstr ""
+msgstr "YouTube"
 
-#: network-api/networkapi/templates/partials/footer.html:52
-#: network-api/networkapi/templates/partials/primary_nav.html:66
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:27
+#: network-api/networkapi/templates/partials/footer.html:52 network-api/networkapi/templates/partials/primary_nav.html:66 network-api/networkapi/wagtailpages/templates/primary_nav.html:27
 msgid "Donate"
-msgstr ""
+msgstr "Changa"
 
 #: network-api/networkapi/templates/partials/footer.html:54
 msgid "Careers"
-msgstr ""
+msgstr "Kazi"
 
 #: network-api/networkapi/templates/partials/footer.html:55
 msgid "Cookies"
-msgstr ""
+msgstr "Vidakuzi"
 
 #: network-api/networkapi/templates/partials/footer.html:56
 msgid "Legal"
-msgstr ""
+msgstr "Ya kisheria"
 
 #: network-api/networkapi/templates/partials/footer.html:57
 msgid "Participation Guidelines"
-msgstr ""
+msgstr "Miongozo ya Kushiriki"
 
 #: network-api/networkapi/templates/partials/footer.html:58
 msgid "Press Center"
-msgstr ""
+msgstr "Kituo cha Habari"
 
-#: network-api/networkapi/templates/partials/footer.html:59
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:11
+#: network-api/networkapi/templates/partials/footer.html:59 network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:11
 msgid "Privacy"
-msgstr ""
+msgstr "Faragha"
 
 #: network-api/networkapi/templates/partials/footer.html:65
 msgid "This website supports Web Monetization."
-msgstr ""
+msgstr "Tovuti hii inaunga mkono Kupata Pesa Mtandaoni."
 
 #: network-api/networkapi/templates/partials/footer.html:67
 #, python-format
 msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Soma zaidi</a> kuhusu utekelezaji wetu"
 
 #: network-api/networkapi/templates/partials/footer.html:85
 #, python-format
-msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
+msgid ""
+"Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a "
+"href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr ""
+"Mozilla ni shirika lisilo la faida la kimataifa lililojitolea kuhakikisha kwamba unadhibiti mambo unayopitia mtandaoni na kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma. Tutembelee"
+" kwenye <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Maudhui mengi yanapatikana chini ya leseni ya <a href=\"%(cc_website_url)s\">Creative Commons</a>."
 
 #: network-api/networkapi/templates/partials/primary_nav.html:18
 msgid "Home"
-msgstr ""
+msgstr "Nyumbani"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:21
-#: network-api/networkapi/templates/partials/primary_nav.html:67
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:28
+#: network-api/networkapi/templates/partials/primary_nav.html:21 network-api/networkapi/templates/partials/primary_nav.html:67 network-api/networkapi/wagtailpages/templates/primary_nav.html:28
 msgid "Newsletter"
-msgstr ""
+msgstr "Kijarida"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:31
 msgctxt "Tooltip on menu items"
 msgid "main site navigation"
-msgstr ""
+msgstr "tovuti ya msingi ya kuabiri"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:38
 msgid "Open menu"
-msgstr ""
+msgstr "Fungua menyu"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:45
 msgid "Mozilla Foundation Homepage"
-msgstr ""
+msgstr "Ukurasa wa Nyumbani wa Mozilla Foundation"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:87
 msgid "No thanks"
-msgstr ""
+msgstr "Hapana asante"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:268
 msgid "Not creepy"
-msgstr ""
+msgstr "Sio ya kuogofya"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:269
 msgid "A little creepy"
-msgstr ""
+msgstr "Inaogofya kidogo"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:270
 msgid "Somewhat creepy"
-msgstr ""
+msgstr "Inaogofya kiasi"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:271
 msgid "Very creepy"
-msgstr ""
+msgstr "Inaogofya sana"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:272
 msgid "Super creepy"
-msgstr ""
+msgstr "Inaogofya kabisa"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:791
 msgid "*Privacy Not Included review:"
-msgstr ""
+msgstr "*Ukaguzi wa Faragha Haujajumuishwa:"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:954
 msgid "Privacy & security guide"
-msgstr ""
+msgstr "Mwongozo wa faragha na usalama"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1445
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
-msgstr ""
+msgstr "Jinsi ya kutumia *faragha haijajumuishwa"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1454
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
-msgstr ""
+msgstr "Kwa nini tuliunda *faragha haijajumuishwa"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1461
 msgctxt "Noun, media"
 msgid "Press"
-msgstr ""
+msgstr "Wanahabari"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1463
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1472
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1481
+#: network-api/networkapi/wagtailpages/pagemodels/products.py:1463 network-api/networkapi/wagtailpages/pagemodels/products.py:1472 network-api/networkapi/wagtailpages/pagemodels/products.py:1481
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1490
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
-msgstr ""
+msgstr "*faragha haijajumuishwa"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1470
 msgid "Contact us"
-msgstr ""
+msgstr "Wasiliana Nasi"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1479
 msgid "Our methodology"
-msgstr ""
+msgstr "Mbinu yetu"
 
 #: network-api/networkapi/wagtailpages/pagemodels/products.py:1488
 msgid "Contest terms and conditions"
-msgstr ""
+msgstr "Pinga sheria na masharti"
 
 #: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:53
 msgid "Newest first"
-msgstr ""
+msgstr "Mpya zaidi kwanza"
 
 #: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:58
 msgid "Oldest first"
-msgstr ""
+msgstr "Zee zaidi kwanza"
 
 #: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:63
 msgid "Alphabetical (A-Z)"
-msgstr ""
+msgstr "Kialfabeti (A-Z)"
 
 #: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:68
 msgid "Alphabetical (Z-A)"
-msgstr ""
+msgstr "Kialfabeti (Z-A)"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:8
+#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7 network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:8
 msgid "this product has adult content"
-msgstr ""
+msgstr "bidhaa hii ina maudhui ya kingono"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18
-#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:92
+#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18 network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:92
 msgid "Summary"
-msgstr ""
+msgstr "Muhtasari"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Show All"
-msgstr ""
+msgstr "Onyesha Zote"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Close"
-msgstr ""
+msgstr "Funga"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:11
+#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10 network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:11
 msgid "*privacy not included with this product"
-msgstr ""
+msgstr "*faragha haijajumuishwa katika bidhaa hii"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:31
 #, python-format
 msgid "link to %(product)s"
-msgstr ""
+msgstr "kiungo cha %(product)s"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:6
 msgid "Device:"
-msgstr ""
+msgstr "Kifaa:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:7
 msgid "App:"
-msgstr ""
+msgstr "Programu:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/most_voted_rating.html:5
 msgid "People voted:"
-msgstr ""
+msgstr "Watu waliopiga kura:"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:4
 msgid "Sad face. No products were found."
-msgstr ""
+msgstr "Uso wenye huzuni. Hakuna bidhaa zilizopatikana."
 
 #: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:7
 msgid "Oh no! We didn’t find that here."
-msgstr ""
+msgstr "Hasha! Hatukupata hiyo hapa."
 
 #: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:12
 #, python-format
 msgid "Try going back to <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. You might find it there."
-msgstr ""
+msgstr "Jaribu kurudi kwenye <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">Zote</a>. Unaweza kuipata hapo."
 
 #: network-api/networkapi/wagtailpages/templates/fragments/pni_nav_links.html:5
 msgid "About the Guide"
-msgstr ""
+msgstr "Kuhusu Mwongozo"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:8
+#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:7 network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:8
 msgid "*privacy not included"
-msgstr ""
+msgstr "*faragha haijajumuishwa"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_criterion.html:4
 msgid "This section requires attention."
-msgstr ""
+msgstr "Sehemu hii inahitaji umakini."
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:8
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:15
+#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:8 network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:15
 msgctxt "icon description for screen readers"
 msgid "information"
-msgstr ""
+msgstr "taarifa"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_privacy.html:12
 msgid "(opens in a new tab)"
-msgstr ""
+msgstr "(inafungua kwenye kichupo kipya)"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:13
 msgid "Can it snoop on me?"
-msgstr ""
+msgstr "Unaweza kunichunguza?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:19
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:20
 msgid "Microphone"
-msgstr ""
+msgstr "Kipaza sauti"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:21
 msgid "Tracks location"
-msgstr ""
+msgstr "Inafuatilia eneo"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:37
 msgid "What can be used to sign up?"
-msgstr ""
+msgstr "Unaweza kutumia nini kujisajili?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:40
 msgctxt "Email address"
 msgid "Email"
-msgstr ""
+msgstr "Barua pepe"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:41
 msgid "Phone"
-msgstr ""
+msgstr "Simu"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:42
 msgid "Third-party account"
-msgstr ""
+msgstr "Akaunti ya mhusika mwingine"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:61
 msgid "What data does the company collect?"
-msgstr ""
+msgstr "Kampuni inakusanya data gani?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:64
 msgid "Personal"
-msgstr ""
+msgstr "Ya kibinafsi"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:65
 msgid "Body related"
-msgstr ""
+msgstr "Shirika linalohusiana"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:66
 msgid "Social"
-msgstr ""
+msgstr "Kijamii"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:80
 msgid "How does the company use this data?"
-msgstr ""
+msgstr "Je, kampuni inatumiaje data hii?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:85
 msgid "How can you control your data?"
-msgstr ""
+msgstr "Unawezaje kudhibiti data yako?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:88
 msgid "What is the company’s known track record of protecting users’ data?"
-msgstr ""
+msgstr "Je, rekodi ya kampuni inayojulikana ya kulinda data ya watumiaji ni gani?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:92
 msgid "Child Privacy Information"
-msgstr ""
+msgstr "Taarifa ya Faragha ya Mtoto"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:95
 msgid "Can this product be used offline?"
-msgstr ""
+msgstr "Je, bidhaa hii inaweza kutumika nje ya mtandao?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:101
 msgid "User-friendly privacy information?"
-msgstr ""
+msgstr "Maelezo ya faragha yanayofaa watumiaji?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:105
 msgid "Links to privacy information"
-msgstr ""
+msgstr "Viungo vya taarifa za faragha"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:111
 #, python-format
 msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr ""
+msgstr "Je, bidhaa hii inakidhi <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Viwango vyetu vya chini zaidi vya Usalama</a>?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:116
 msgid "Encryption"
-msgstr ""
+msgstr "Usimbaji fiche"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:117
 msgid "Security updates"
-msgstr ""
+msgstr "Masasisho ya usalama"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:118
 msgid "Strong password"
-msgstr ""
+msgstr "Nenosiri thabiti"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:119
 msgid "Manages vulnerabilities"
-msgstr ""
+msgstr "Inashughulikia hatari"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:120
 msgid "Privacy policy"
-msgstr ""
+msgstr "Sera ya faragha"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
 msgid "Does the product use AI?"
-msgstr ""
+msgstr "Je, bidhaa inatumia AI?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:136
 msgid "Is this AI untrustworthy?"
-msgstr ""
+msgstr "Je, AI hii haiaminiki?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:141
 msgid "What kind of decisions does the AI make about you or for you?"
-msgstr ""
+msgstr "Je, AI hukufanyia maamuzi gani?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:148
 msgid "Is the company transparent about how the AI works?"
-msgstr ""
+msgstr "Je, kampuni ina uwazi kuhusu jinsi AI inavyofanya kazi?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:151
 msgid "Does the user have control over the AI features?"
-msgstr ""
+msgstr "Je, mtumiaji anadhibiti vipengele vya AI?"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:13
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:22
+#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:13 network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:22
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:31
 msgctxt "icon description for screen readers"
 msgid "warning"
-msgstr ""
+msgstr "onyo"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:20
 msgid "Security"
-msgstr ""
+msgstr "Usalama"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:29
 msgid "A.I."
-msgstr ""
+msgstr "A.I."
 
 #: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:10
 #, python-format
 msgctxt "Date format (e.g. Nov. 19, 2020)"
 msgid "Review date: %(date)s"
-msgstr ""
+msgstr "Tarehe ya tathmini: %(date)s"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:15
 #, python-format
 msgid "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hour"
 msgid_plural "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<a %(link_attrs)s>Mozilla ilifanya utafiti</a> %(time_researched)s saa"
+msgstr[1] "<a %(link_attrs)s>Mozilla ilifanya utafiti </a> %(time_researched)s saa"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:27
 msgctxt "This string is followed by a thumb up, thumb down, or thumb on the side icon to summarize Mozilla’s review of the product"
 msgid "Mozilla says"
-msgstr ""
+msgstr "Mozilla inasema"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:3
 msgid "How are your recordings handled?"
-msgstr ""
+msgstr "Je, rekodi zako zinashughulikiwaje?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:4
 msgid "Alerts when calls are being recorded?"
-msgstr ""
+msgstr "Tahadhari wakati simu zinarekodiwa?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:5
 msgid "Does the platform say it is compliant with US medical privacy laws?"
-msgstr ""
+msgstr "Je, jukwaa linasema kwamba linatii sheria za faragha za matibabu za Marekani?"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/submit_a_product.html:3
 msgid "Submit a product"
-msgstr ""
+msgstr "Wasilisha bidhaa"
 
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:11
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included"
-msgstr ""
+msgstr "*Faragha Haijajumuishwa"
 
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:18
 msgid "Privacy Not Included"
-msgstr ""
+msgstr "Faragha Haijajumuishwa"
 
 #: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:18
 msgid "Table of Contents"
-msgstr ""
+msgstr "Yaliyomo"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29 network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
 #, python-format
 msgid "%(title)s by @mozilla"
-msgstr ""
+msgstr "%(title)s na @mozilla"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:43
 msgid "SUMMARY"
-msgstr ""
+msgstr "MUHTASARI"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55 network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
-msgstr ""
+msgstr "CHUKUA HATUA"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:16
 msgid "More from our blog"
-msgstr ""
+msgstr "Zaidi kutoka kwenye blogu yetu"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:54
 msgid "Comments"
-msgstr ""
+msgstr "Maoni"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:11
 msgid "By"
-msgstr ""
+msgstr "Na"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:13
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:13 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
 msgid "and"
-msgstr ""
+msgstr "na"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:27
 #, python-format
 msgid "by %(author)s"
-msgstr ""
+msgstr "na %(author)s"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:29
 #, python-format
 msgid "on %(date)s"
-msgstr ""
+msgstr "imewashwa %(date)s"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:51
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:55
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:51 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:55
 msgid "Written by"
-msgstr ""
+msgstr "Imeandikwa na"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:82
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:82 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
 msgid "Download PDF"
-msgstr ""
+msgstr "Pakua PDF"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
 #, python-format
 msgid "Learn more about: %(name)s"
-msgstr ""
+msgstr "Pata maelezo zaidi kuhusu: %(name)s"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
 msgid "Learn more →"
-msgstr ""
+msgstr "Jifunze zaidi"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_areas.html:5
 msgid "Our areas of focus"
-msgstr ""
+msgstr "Nyanja zetu"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
 msgid "News you can use"
-msgstr ""
+msgstr "Habari unayoweza kutumia"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:9
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:88
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:9 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:88
 msgid "Read more news"
-msgstr ""
+msgstr "Soma habari zaidi"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:13
 msgctxt "Pagination link"
 msgid "Prev. page"
-msgstr ""
+msgstr "Ukurusa uliopita"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:23
 msgctxt "Pagination link"
 msgid "Next page"
-msgstr ""
+msgstr "Ukurasa unaofuata"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
-msgstr ""
+msgstr "Maudhui yanayohusiana"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_filter_button.html:32
 msgctxt "Button"
 msgid "Filter"
-msgstr ""
+msgstr "Kichujio"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:3
 msgctxt "Button"
 msgid "Search"
-msgstr ""
+msgstr "Tafuta"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:4
 msgctxt "Search input"
 msgid "Search our research…"
-msgstr ""
+msgstr "Tafuta utafiti wetu…"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
 msgid "Share on Facebook"
-msgstr ""
+msgstr "Shiriki kwenye Facebook"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12 network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:17
 msgid "Share on Twitter"
-msgstr ""
+msgstr "Shiriki kwenye Twitter"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:26
 msgid "Share by Email"
-msgstr ""
+msgstr "Shiriki kwa Barua pepe"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:28
 msgctxt "Button to share the page by email"
 msgid "Email"
-msgstr ""
+msgstr "Barua pepe"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:31
 msgid "Copy page URL to clipboard"
-msgstr ""
+msgstr "Nakili URL ya ukurasa kwenye ubao nakili"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:33
 msgid "Copy to clipboard"
-msgstr ""
+msgstr "Nakili kwenye ubao nakili"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:35
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:35 network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
 msgid "Copy"
-msgstr ""
+msgstr "Nakili"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
 msgid "Spotlight"
-msgstr ""
+msgstr "Angaza"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
 msgid "Help shape the future of the web for the public good."
-msgstr ""
+msgstr "Saidia kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
 msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
-msgstr ""
+msgstr "Jiunge na orodha yetu ya barua pepe ya </b>Mozilla News<b> ili upate arifa za hatua na vidokezo vya mtandao moja kwa moja kwenye kisanduku pokezi chako."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:35
 #, python-format
 msgid "%(total_entries)s result"
 msgid_plural "%(total_entries)s results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(total_entries)s matokeo"
+msgstr[1] "%(total_entries)s matokeo"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:40
 msgctxt "Following “xx results” and followed by searched terms. Full string example: “12 results for Advocacy”"
 msgid "for"
-msgstr ""
+msgstr "kwa ajili ya"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:51
 msgid "clear filters"
-msgstr ""
+msgstr "futa vichujio"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:69
 msgid "Load more results"
-msgstr ""
+msgstr "Pakia matokeo zaidi"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:55
 msgid "Latest research"
-msgstr ""
+msgstr "Utafiti wa hivi karibuni"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:64
 msgctxt "Button to see more than the latest three elements of research from an author"
 msgid "Browse all projects"
-msgstr ""
+msgstr "Vinjari miradi yote"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_authors_index_page.html:22
 msgid "No authors found."
-msgstr ""
+msgstr "Hakuna waandishi waliopatikana."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:47
 msgctxt "Research page section heading"
 msgid "Overview"
-msgstr ""
+msgstr "Muhtasari"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:58
 msgid "Project leads"
-msgstr ""
+msgstr "Viongozi wa mradi"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:71
 msgid "Collaborators"
-msgstr ""
+msgstr "Washirika"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:32
 msgctxt "Button"
 msgid "Browse all"
-msgstr ""
+msgstr "Vinjari zote"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:38
 msgid "Latest Research"
-msgstr ""
+msgstr "Utafiti wa Hivi karibuni"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:47
 msgctxt "Button"
 msgid "Browse all projects"
-msgstr ""
+msgstr "Vinjari miradi yote"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_landing_page.html:54
 msgctxt "Topic list heading"
 msgid "Browse by topic"
-msgstr ""
+msgstr "Vinjari kwa mada"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:50
 msgctxt "Button"
 msgid "Sort"
-msgstr ""
+msgstr "Panga"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:56
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>%(research_detail_pages_count)s</strong> matokeo"
+msgstr[1] "<strong>%(research_detail_pages_count)s</strong> matokeo"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:61
 msgctxt "Heading describing the count of search results for a given search term"
 msgid "for"
-msgstr ""
+msgstr "kwa ajili ya"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:92
 msgid "Filter"
-msgstr ""
+msgstr "Kichujio"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:96
 msgid "Topics"
-msgstr ""
+msgstr "Mada"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:109
 msgid "Publication date"
-msgstr ""
+msgstr "Tarehe ya kuchapishwa"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:113
 msgctxt "Option in a radio button list of years"
 msgid "Any"
-msgstr ""
+msgstr "Yoyote"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:126
 msgid "Authors"
-msgstr ""
+msgstr "Waandishi"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:139
 msgid "Regions"
-msgstr ""
+msgstr "Mikoa"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:150
 msgctxt "Button"
 msgid "Apply filters"
-msgstr ""
+msgstr "Tumia vichujio"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
-#: network-api/networkapi/wagtailpages/utils.py:98
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37 network-api/networkapi/wagtailpages/utils.py:98
 msgid "Overview"
-msgstr ""
+msgstr "Muhtasari"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:39
 msgid "Advocacy"
-msgstr ""
+msgstr "Utetezi"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:40
 msgid "Internet Health Report"
-msgstr ""
+msgstr "Ripoti ya Afya ya Mtandao"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:41
 msgid "Fellowships"
-msgstr ""
+msgstr "Ushirika"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:42
 msgid "Awards"
@@ -823,93 +801,88 @@ msgstr "Tuzo"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:43
 msgid "MozFest"
-msgstr ""
+msgstr "MozFest"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:11
 msgid "Your phone number"
-msgstr ""
+msgstr "Namba yako ya Simu"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:12
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:13
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:12 network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:13
 msgid "Please enter a ten digit US phone number"
-msgstr ""
+msgstr "Tafadhali ingiza nambari ya simu ya Marekani yenye tarakimu kumi"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:15
 msgid "Your zipcode"
-msgstr ""
+msgstr "Msimbo wako wa posta"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:16
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:17
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:16 network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:17
 msgid "Please enter a five digit US zip code"
-msgstr ""
+msgstr "Tafadhali ingiza msimbo wa posta wa Marekani wenye tarakimu tano"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:22
 msgid "We’re sorry, we can’t call that number. Please check that it is the right number, or try a different one."
-msgstr ""
+msgstr "Samahani, hatuwezi kupiga namba hiyo. Tafadhali hakikisha kuwa ni nambari sahihi, au jaribu namba tofauti."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
 msgid "Email"
-msgstr ""
+msgstr "Barua pepe"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:56
 msgid "Something went wrong…"
-msgstr ""
+msgstr "Hitilafu fulani imetokea… "
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:57
 msgid "We’re sorry, we seem to be having some trouble. Please try again later."
-msgstr ""
+msgstr "Samahani, inaonekana kuwa tuna shida. Tafadhali jaribu tena baadaye."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:61
 msgid "Thank you for all your calls!"
-msgstr ""
+msgstr "Asante kwa simu zako zote!"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:62
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
-msgstr ""
+msgstr "Samahani, inaonekana umefikia kikomo cha kila saa. Tafadhali jaribu tena baada ya saa moja."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:37
 msgid "Loading form…"
-msgstr ""
+msgstr "Inapakia fomu..."
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:27
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11 network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:27
 msgid "No"
-msgstr ""
+msgstr "Hapana"
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:13
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:25
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:13 network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:25
 msgid "Yes"
-msgstr ""
+msgstr "Ndiyo"
 
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:14
-#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:29
+#: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:14 network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:29
 msgid "Unknown"
-msgstr ""
+msgstr "Isiyojulikana"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:21
 msgid "Can’t Determine"
-msgstr ""
+msgstr "Haiwezi Kuamua"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:23
 msgid "N/A"
-msgstr ""
+msgstr "Haihusiki"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:42
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Great"
-msgstr ""
+msgstr "Nzuri"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:44
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Average"
-msgstr ""
+msgstr "Wastani"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:46
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Needs Improvement"
-msgstr ""
+msgstr "Inahitaji kuimarishwa"
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:48
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
-msgstr ""
+msgstr "Mbaya"
