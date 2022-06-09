@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-01 07:33+0000\n"
+"POT-Creation-Date: 2022-06-09 10:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,28 +62,28 @@ msgstr ""
 msgid "Go to home page"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/banner.html:5
-#: network-api/networkapi/templates/partials/banner.html:6
+#: network-api/networkapi/templates/partials/banner.html:13
+#: network-api/networkapi/templates/partials/banner.html:14
 msgid "Close Banner"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/banner.html:15
+#: network-api/networkapi/templates/partials/banner.html:23
 msgid "Help Mozilla fight for a better internet this holiday season"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/banner.html:18
+#: network-api/networkapi/templates/partials/banner.html:26
 msgid "We're proudly nonprofit, working to keep the web healthy."
 msgstr ""
 
-#: network-api/networkapi/templates/partials/banner.html:29
+#: network-api/networkapi/templates/partials/banner.html:37
 msgid "Your contributions help build a safe and open internet."
 msgstr ""
 
-#: network-api/networkapi/templates/partials/banner.html:32
+#: network-api/networkapi/templates/partials/banner.html:40
 msgid "Can you donate today?"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/banner.html:39
+#: network-api/networkapi/templates/partials/banner.html:47
 msgid "Support Mozilla"
 msgstr ""
 
@@ -260,20 +260,25 @@ msgstr ""
 msgid "Contest terms and conditions"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:53
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:54
 msgid "Newest first"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:58
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:59
 msgid "Oldest first"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:63
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:64
 msgid "Alphabetical (A-Z)"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:68
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:69
 msgid "Alphabetical (Z-A)"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:187
+msgctxt "Option in a list of years"
+msgid "Any"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7
@@ -282,7 +287,7 @@ msgid "this product has adult content"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18
-#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:92
+#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:95
 msgid "Summary"
 msgstr ""
 
@@ -532,7 +537,7 @@ msgstr ""
 msgid "Privacy Not Included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:18
+#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:21
 msgid "Table of Contents"
 msgstr ""
 
@@ -770,32 +775,27 @@ msgctxt "Heading describing the count of search results for a given search term"
 msgid "for"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:92
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:102
 msgid "Filter"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:96
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:105
 msgid "Topics"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:109
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:110
 msgid "Publication date"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:113
-msgctxt "Option in a radio button list of years"
-msgid "Any"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:126
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:115
 msgid "Authors"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:139
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:120
 msgid "Regions"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:150
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:133
 msgctxt "Button"
 msgid "Apply filters"
 msgstr ""
