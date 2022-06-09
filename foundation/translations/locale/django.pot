@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-09 10:24+0000\n"
+"POT-Creation-Date: 2022-06-09 16:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -296,6 +296,7 @@ msgid "Show All"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:102
 msgid "Close"
 msgstr ""
 
@@ -763,39 +764,41 @@ msgctxt "Button"
 msgid "Sort"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:56
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:57
+#, python-format
+msgid "<strong>%(research_detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
+msgid_plural "<strong>%(research_detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:63
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
 msgstr[0] ""
 msgstr[1] ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:61
-msgctxt "Heading describing the count of search results for a given search term"
-msgid "for"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:102
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:109
 msgid "Filter"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:105
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:112
 msgid "Topics"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:110
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:117
 msgid "Publication date"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:115
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:122
 msgid "Authors"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:120
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:127
 msgid "Regions"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:133
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:140
 msgctxt "Button"
 msgid "Apply filters"
 msgstr ""
