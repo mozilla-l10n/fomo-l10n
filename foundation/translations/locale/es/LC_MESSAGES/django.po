@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-09 16:24+0000\n"
+"POT-Creation-Date: 2022-06-20 08:36+0000\n"
 "PO-Revision-Date: 2022-06-09 14:00+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -104,12 +104,14 @@ msgid "More about us"
 msgstr "Conoce más sobre nosotros"
 
 #: network-api/networkapi/templates/partials/footer.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
 msgid "Twitter"
 msgstr "Twitter"
 
 #: network-api/networkapi/templates/partials/footer.html:43
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
 msgid "Instagram"
 msgstr "Instagram"
 
@@ -558,6 +560,16 @@ msgstr "ACTUAR AHORA"
 msgid "More from our blog"
 msgstr "Más de nuestro blog"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:7
+msgctxt "Title of the blog search results page"
+msgid "Search blog"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:9
+msgctxt "Blog search bar"
+msgid "Search all blog"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:54
 msgid "Comments"
 msgstr "Comentarios"
@@ -572,15 +584,25 @@ msgstr "Por"
 msgid "and"
 msgstr "y"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:27
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:30
 #, python-format
 msgid "by %(author)s"
 msgstr "por %(author)s"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:29
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:32
 #, python-format
 msgid "on %(date)s"
 msgstr "el %(date)s"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_featured_video_post.html:7
+msgctxt "icon description for screen readers"
+msgid "video"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_search_bar.html:3
+msgctxt "Search input placeholder text"
+msgid "Search all blog"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:51
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:55
@@ -605,6 +627,16 @@ msgstr "Más información →"
 msgid "Our areas of focus"
 msgstr "Nuestras áreas de actuación"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:12
+msgid "YouTube"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:15
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
+msgid "Facebook"
+msgstr "Facebook"
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
 msgid "News you can use"
 msgstr "Noticias útiles"
@@ -613,6 +645,14 @@ msgstr "Noticias útiles"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:88
 msgid "Read more news"
 msgstr "Leer más noticias"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:9
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:10
+msgid "Help shape the future of the web for the public good. Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:13
 msgctxt "Pagination link"
@@ -633,24 +673,19 @@ msgctxt "Button"
 msgid "Filter"
 msgstr "Filtrar"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:3
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:2
+msgctxt "Search input placeholder text"
+msgid "Search our Research..."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/search_bar.html:3
 msgctxt "Button"
 msgid "Search"
 msgstr "Buscar"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:4
-msgctxt "Search input"
-msgid "Search our research…"
-msgstr "Busca en nuestras investigaciones..."
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
 msgid "Share on Facebook"
 msgstr "Compartir en Facebook"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
-msgid "Facebook"
-msgstr "Facebook"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:17
 msgid "Share on Twitter"
@@ -690,23 +725,23 @@ msgstr "Ayuda a dar forma al futuro de la web para el bien público."
 msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
 msgstr "Únete a nuestra lista de correo electrónico de <b>Noticias de Mozilla</b> para recibir alertas de acción y consejos sobre Internet directamente en tu bandeja de entrada."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:37
 #, python-format
 msgid "%(total_entries)s result"
 msgid_plural "%(total_entries)s results"
 msgstr[0] "%(total_entries)s resultado"
 msgstr[1] "%(total_entries)s resultados"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:42
 msgctxt "Following “xx results” and followed by searched terms. Full string example: “12 results for Advocacy”"
 msgid "for"
 msgstr "para"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:51
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:53
 msgid "clear filters"
 msgstr "borrar filtros"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:69
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:71
 msgid "Load more results"
 msgstr "Cargar más resultados"
 
@@ -912,6 +947,10 @@ msgstr "Necesita mejoras"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Malo"
+
+#~ msgctxt "Search input"
+#~ msgid "Search our research…"
+#~ msgstr "Busca en nuestras investigaciones..."
 
 #~ msgctxt "Heading describing the count of search results for a given search term"
 #~ msgid "for"
