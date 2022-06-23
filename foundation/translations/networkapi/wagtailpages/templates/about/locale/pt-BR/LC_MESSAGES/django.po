@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-18 10:36+0000\n"
-"PO-Revision-Date: 2022-06-21 12:44+0000\n"
+"PO-Revision-Date: 2022-06-23 06:56+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -62,7 +62,7 @@ msgstr "Para profissionais da imprensa com dúvidas sobre este guia, envie um e-
 #: network-api/networkapi/wagtailpages/templates/about/contact.html:27
 msgid "We don’t want to miss any products that might be important to you. Tell us what connected products you want reviewed in our holiday buyer’s guide and we’ll do our best to include them."
 msgstr ""
-"Não queremos deixar de fora nenhum produto que possa ser importante para você. Indique quais produtos conectados você deseja que sejam analisados no nosso guia de compras de fim de ano e faremos o "
+"Não queremos deixar de fora nenhum produto que possa ser importante para você. Indique quais produtos conectados você deseja que sejam avaliados no nosso guia de compras de fim de ano e faremos o "
 "possível para incluí-los."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:11
@@ -101,10 +101,10 @@ msgid ""
 msgstr ""
 "Nosso Guia do comprador <em>*Privacidade não incluída</em> traz selos de advertência <em>*Privacidade não incluída</em> nos produtos que os consumidores devem pensar duas vezes antes de comprar, "
 "segundo a nossa avaliação. Atribuir tal selo a um produto não é algo simples, por isso, definimos <a href=\"%(url)s\">padrões rigorosos</a>. Se não pudermos confirmar que um produto atende aos "
-"nossos Padrões Mínimos de Segurança, ele automaticamente recebe o selo <em>*Privacidade não incluída</em>, pois consideramos que esses padrões são o mínimo que um produto deve atender para estar no "
+"nossos Padrões mínimos de segurança, ele automaticamente recebe o selo <em>*Privacidade não incluída</em>, pois consideramos que esses padrões são o mínimo que um produto deve atender para estar no "
 "mercado. Também analisamos como uma empresa utiliza os dados que o produto coleta sobre você, como você pode controlar esses dados coletados e qual é o histórico de proteção de dados da empresa "
 "conhecido nos últimos dois anos. A forma como uma empresa se comporta segundo esses critérios determina se atribuímos a ela o selo de advertência. Você verá pequenas <span class='mini-warning-ding-"
-"icon'>notificações</span> em nossa seção de análise do guia que vão ajudar você a entender quais são nossas preocupações."
+"icon'>notificações</span> em nossa seção de avaliação do guia que vão ajudar você a entender quais são nossas preocupações."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:52
 msgid "What could happen if something goes wrong"
@@ -147,7 +147,7 @@ msgstr ""
 "conseguem fazer isso. Em vez disso, analisamos todas as informações disponíveis publicamente para compreender as preocupações com privacidade e segurança das quais você deve estar ciente. Queremos "
 "ajudar você a entender quanto tempo isso leva, em parte para que você saiba que dedicamos o tempo necessário para fazer as coisas direito. Mas também para ajudar você a entender como é ridículo "
 "esperar que os consumidores passem tanto tempo pesquisando produtos conectados antes de comprá-los apenas com o objetivo de, com sorte, proteger sua privacidade. Não deveria ser assim. As empresas "
-"deveriam agir melhor, incorporando a privacidade nos seus produtos como padrão."
+"deveriam agir melhor, incorporando a privacidade nos seus produtos desde o projeto."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:88
 msgid "Mozilla Says"
@@ -219,7 +219,7 @@ msgid ""
 msgstr ""
 "Os dispositivos conectados coletam informações sobre seus usuários. Analisamos quais dados pessoais, corporais e sociais um produto provavelmente coletará sobre você ao utilizá-lo. Saber que tipos "
 "de informações pessoais você precisará fornecer para usar um produto é útil para ajudar a entender o quanto uma empresa pode aprender sobre você. Quanto mais informações você fornecer, mais "
-"informações elas vão saber. Os dados pessoais incluem nome, e-mail, número de telefone, gênero, idade e data de nascimento. Dados corporais incluem registros de voz, impressões digitais, "
+"conhecimento terão sobre você. Os dados pessoais incluem nome, e-mail, número de telefone, gênero, idade e data de nascimento. Dados corporais incluem registros de voz, impressões digitais, "
 "reconhecimento facial, altura, peso, frequência cardíaca, dados de sono, ciclos menstruais e níveis de oxigênio no sangue. Os dados sociais incluem seus contatos e amigos ou conexões que você tem em"
 " uma plataforma, como amigos jogadores em um console de jogos ou conexões que você tem em um aplicativo de condicionamento físico."
 
@@ -354,7 +354,7 @@ msgid ""
 "the product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program.</a>"
 msgstr ""
 "As vulnerabilidades de segurança em produtos acontecem. O que importa é como as empresas as tratam quando elas aparecem. Analisamos se as empresas têm ou não um sistema para gerenciar as "
-"vulnerabilidades no produto quando elas são encontradas. Para isso, elas devem ter uma forma de contato para comunicar as vulnerabilidades ou um algo semelhante a um <a href=\"%(url)s\">programa de "
+"vulnerabilidades no produto quando elas são encontradas. Para isso, elas devem ter uma forma de contato para comunicar as vulnerabilidades ou um algo semelhante a um a href=\"%(url)s\">programa de "
 "recompensa por bugs</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/how_to_use.html:282
@@ -501,7 +501,7 @@ msgstr ""
 "A nossa pesquisa para <em>*Privacidade não incluída</em> foi feita sob o ponto de vista de um consumidor, mas com um pouco mais de tempo e experiência. Nós não compramos os produtos e os testamos em"
 " um laboratório, afinal os consumidores não conseguem fazer isso. Em vez disso, analisamos todas as informações disponíveis publicamente para os consumidores antes que eles comprem um produto para "
 "compreender as preocupações com privacidade e segurança das quais os consumidores devem estar cientes. Verificamos políticas de privacidade, sites de empresas, noticiários, artigos de pesquisa, "
-"listas de lojas de aplicativos, análise de consumidores e qualquer outra informação que encontramos e confiamos para fundamentar a nossa pesquisa. Frequentemente, as informações que as empresas "
+"listas de lojas de aplicativos, avaliações de consumidores e qualquer outra informação que encontramos e confiamos para fundamentar a nossa pesquisa. Frequentemente, as informações que as empresas "
 "disponibilizam publicamente são vagas ou incompletas. Muitas vezes, não temos como verificar se uma empresa está fazendo o que diz, mesmo depois de responderem às nossas solicitações. Buscamos um "
 "futuro em que horas de pesquisa como esta não sejam necessárias para comprar produtos seguros e responsáveis."
 
@@ -545,7 +545,7 @@ msgstr ""
 "dados. <a href=\"%(user_data_control)s\">Como os usuários podem controlar seus dados</a>. Nós gongamos empresas que não têm uma forma clara e acessível para os usuários excluírem seus dados da "
 "empresa ou que não explicam por quanto tempo retêm os dados dos usuários. <a href=\"%(track_record)s\">Qual é o histórico conhecido da empresa em termos de proteção dos dados dos usuários?</a> Nós "
 "gongamos empresas se elas tiverem um histórico ruim de não proteger os dados dos usuários com base em violações de segurança, vazamentos ou vulnerabilidades conhecidas e relatadas. Por último, nós "
-"gongamos empresas se não pudermos confirmar que o produto <a href=\"%(min_sec)s\">atenda às nossas Normas de Segurança Mínimas</a>. Em raras situações, podemos gongar uma empresa se ela receber "
+"gongamos empresas se não pudermos confirmar que o produto <a href=\"%(min_sec)s\">atenda aos nossos Padrões mínimos de segurança</a>. Em raras situações, podemos gongar uma empresa se ela receber "
 "apenas um alerta, desde que este se refira a algo particularmente preocupante para os consumidores."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:91
@@ -579,7 +579,7 @@ msgid ""
 "We review suggestions from both the product manufacturer and draw upon published privacy and security guidance from a range of experts, both within Mozilla and outside sources, to provide a few "
 "simple tips for each product users can take to protect themselves. These tips are recommendations for protection, not guarantees."
 msgstr ""
-"Analisamos sugestões do fabricante do produto e também orientações publicadas sobre privacidade e segurança de vários especialistas, tanto dentro como fora da Mozilla, para fornecer aos usuários de "
+"Avaliamos sugestões do fabricante do produto e também orientações publicadas sobre privacidade e segurança de vários especialistas, tanto dentro como fora da Mozilla, para fornecer aos usuários de "
 "cada produto algumas dicas simples para se protegerem. Essas dicas são recomendações de proteção, não garantias."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:137
@@ -601,8 +601,8 @@ msgid ""
 "requested by each app to determine whether the device and its app uses a camera, microphone, or tracks your location. (Note: an app may access “approximate” or “network” based location. “Tracks "
 "Location” was marked as “Yes” if an app requests any location information, including approximate location.)"
 msgstr ""
-"Para determinar isso, verificamos os sites de produtos e a <a href=\"%(google_play_url)s\">Google Play Store</a> ou a <a href=\"%(google_play_url)s\">Apple App Store</a> para verificar as permissões"
-" solicitadas por cada aplicativo para determinar se o dispositivo e seu aplicativo utiliza uma câmera, microfone ou rastreia sua localização. (Nota: um aplicativo pode acessar uma localização "
+"Para determinar isso, verificamos os sites de produtos e a <a href=\"%(google_play_url)s\">Google Play Store</a> ou a <a href=\"%(google_play_url)s\">Apple App Store</a>para verificar as permissões "
+"solicitadas por cada aplicativo para determinar se o dispositivo e seu aplicativo utiliza uma câmera, microfone ou rastreia sua localização. (Nota: um aplicativo pode acessar uma localização "
 "“aproximada” ou baseada em “rede”. “Monitora localização” foi marcado como “sim” se um aplicativo solicitar qualquer informação de localização, incluindo localização aproximada)."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:160
@@ -701,7 +701,7 @@ msgstr ""
 "Ao determinar se um produto recebe um alerta neste critério, consideramos três fatores principais: (1) Qual é a quantidade de dados que a empresa coleta sobre um usuário? O que a empresa aprende "
 "sobre você com esses dados? Ela coleta uma grande quantidade de dados pessoais ou apenas o que parece necessário para que seu produto funcione? (2) A empresa compartilha, combina ou vende esses "
 "dados a um grande número de terceiros para fins que vão além da função normal do produto? (3) A empresa fornece aviso claro e explícito antes de compartilhar os dados do usuário com terceiros? (4) "
-"Que tipos de dados são compartilhados para fins de publicidade e marketing? Em nossas análises, procuramos explicar aos usuários com quais tipos de coleta de dados eles devem se preocupar."
+"Que tipos de dados são compartilhados para fins de publicidade e marketing? Em nossas avaliações, procuramos explicar aos usuários com quais tipos de coleta de dados eles devem se preocupar."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:279
 msgid ""
@@ -785,10 +785,10 @@ msgid ""
 "the answers wherever possible. If we cannot determine an answer based on the company response and our own research for any of the five criteria below, we indicate the company does not meet our "
 "Minimum Security Standards. When a company responds, even after publication, with additional information, we add this information to product listings."
 msgstr ""
-"A Mozilla estabeleceu um conjunto de Padrões Mínimos de Segurança que determinamos que devam ser cumpridos por qualquer fabricante que desenvolva produtos conectados. Enviamos e-mails a cada empresa"
+"A Mozilla estabeleceu um conjunto de Padrões mínimos de segurança que determinamos que devam ser cumpridos por qualquer fabricante que desenvolva produtos conectados. Enviamos e-mails a cada empresa"
 " pelo menos três vezes (o primeiro e-mail pelo menos 30 dias antes da publicação) para solicitar mais informações sobre seu produto e como ele atende aos nossos padrões. No caso das empresas que não"
 " responderam, realizamos pesquisas adicionais para encontrar as respostas na medida do possível. Se não pudermos determinar uma resposta baseada no que a empresa informou e em nossa própria pesquisa"
-" para qualquer um dos cinco critérios abaixo, indicamos que a empresa não atende aos nossos Padrões Mínimos de Segurança. Quando uma empresa responde com informações adicionais, mesmo após a "
+" para qualquer um dos cinco critérios abaixo, indicamos que a empresa não atende aos nossos Padrões mínimos de segurança. Quando uma empresa responde com informações adicionais, mesmo após a "
 "publicação, adicionamos essas informações à listagem de produtos."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:390
@@ -803,7 +803,7 @@ msgid ""
 msgstr ""
 "Um produto deve usar criptografia em trânsito e em repouso (quando aplicável). O produto deve usar criptografia para todas as suas funções e capacidades de comunicação em rede, assegurando que as "
 "comunicações não sejam interceptadas ou modificadas em trânsito. Os dados do usuário devem ser criptografados quando forem armazenados. Embora a criptografia de ponta a ponta seja preferível, ela "
-"não é um requisito para atender os nossos Padrões Mínimos de Segurança."
+"não é um requisito para atender os nossos Padrões mínimos de segurança."
 
 #: network-api/networkapi/wagtailpages/templates/about/methodology.html:414
 msgid ""
@@ -974,7 +974,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/about/press.html:67
 #, python-format
 msgid "<strong>Mashable:</strong> <a href=\"%(url)s\">Privacy experts reviewed popular video-chat apps, and *yikes*</a>"
-msgstr "<strong>Mashable:</strong> <a href=\"%(url)s\">Especialistas em privacidade analisaram aplicativos de bate-papo por vídeo populares, e *eca*</a>"
+msgstr "<strong>Mashable:</strong> <a href=\"%(url)s\">Especialistas em privacidade avaliaram aplicativos de bate-papo por vídeo populares, e *eca*</a>"
 
 #: network-api/networkapi/wagtailpages/templates/about/press.html:71
 msgid ""
@@ -1199,9 +1199,9 @@ msgid ""
 "products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and "
 "having an accessible privacy policy. Read more about our Minimum Security Standards on our <a href=%(url)s>Methodology page</a>."
 msgstr ""
-"Sabemos que as pessoas querem <i>apenas saber</i> quais produtos são seguros e quais não são. Usamos nossa experiência técnica aqui na Mozilla para criar um conjunto de Padrões Mínimos de Segurança "
+"Sabemos que as pessoas querem <i>apenas saber</i> quais produtos são seguros e quais não são. Usamos nossa experiência técnica aqui na Mozilla para criar um conjunto de Padrões mínimos de segurança "
 "que acreditamos que todos os produtos devem atender para serem vendidos nas lojas. Esses padrões incluem o uso de criptografia, atualizações automáticas de segurança, exigência de senhas fortes, "
-"existência de um sistema para gerenciar vulnerabilidades e uma política de privacidade acessível. Leia mais sobre nossos Padrões Mínimos de Segurança na nossa <a href=%(url)s>página de "
+"existência de um sistema para gerenciar vulnerabilidades e uma política de privacidade acessível. Leia mais sobre nossos Padrões mínimos de segurança na nossa <a href=%(url)s>página de "
 "Metodologia</a>."
 
 #: network-api/networkapi/wagtailpages/templates/about/why_we_made.html:115
