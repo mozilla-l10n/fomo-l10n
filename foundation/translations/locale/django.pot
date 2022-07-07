@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-20 08:36+0000\n"
+"POT-Creation-Date: 2022-07-07 08:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -564,6 +564,19 @@ msgstr ""
 msgid "More from our blog"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:8
+msgid "Blog authors"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_authors_index_page.html:22
+msgid "No authors found."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:32
+msgid "Latest Blog Posts"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:7
 msgctxt "Title of the blog search results page"
 msgid "Search blog"
@@ -574,7 +587,7 @@ msgctxt "Blog search bar"
 msgid "Search all blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:54
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:56
 msgid "Comments"
 msgstr ""
 
@@ -603,9 +616,24 @@ msgctxt "icon description for screen readers"
 msgid "video"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_featured_video_post.html:26
+msgctxt "icon description for screen readers"
+msgid "Play Button"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_search_bar.html:3
 msgctxt "Search input placeholder text"
 msgid "Search all blog"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_search_no_results.html:4
+msgctxt "icon description for screen readers"
+msgid "Shocked face"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_search_no_results.html:6
+msgctxt "Search results page with no results to display."
+msgid "Sorry, we couldn’t find anything with that search term."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:51
@@ -672,6 +700,10 @@ msgstr ""
 msgid "Related content"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_topics_cutout.html:4
+msgid "Related Topics"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_filter_button.html:32
 msgctxt "Button"
 msgid "Filter"
@@ -679,12 +711,16 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:2
 msgctxt "Search input placeholder text"
-msgid "Search our Research..."
+msgid "Search our Research…"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/search_bar.html:3
 msgctxt "Button"
 msgid "Search"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/search_bar.html:4
+msgid "Search…"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
@@ -745,7 +781,7 @@ msgstr ""
 msgid "clear filters"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:71
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:70
 msgid "Load more results"
 msgstr ""
 
@@ -756,10 +792,6 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:64
 msgctxt "Button to see more than the latest three elements of research from an author"
 msgid "Browse all projects"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_authors_index_page.html:22
-msgid "No authors found."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:47

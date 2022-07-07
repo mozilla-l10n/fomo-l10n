@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 08:46+0000\n"
+"POT-Creation-Date: 2022-07-07 08:32+0000\n"
 "PO-Revision-Date: 2022-06-30 11:01+0200\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -564,6 +564,19 @@ msgstr "TOME UMA ATITUDE"
 msgid "More from our blog"
 msgstr "Mais do nosso blog"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:8
+msgid "Blog authors"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_authors_index_page.html:22
+msgid "No authors found."
+msgstr "Nenhum autor encontrado."
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:32
+msgid "Latest Blog Posts"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:7
 msgctxt "Title of the blog search results page"
 msgid "Search blog"
@@ -574,7 +587,7 @@ msgctxt "Blog search bar"
 msgid "Search all blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:54
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:56
 msgid "Comments"
 msgstr "Comentários"
 
@@ -603,14 +616,24 @@ msgctxt "icon description for screen readers"
 msgid "video"
 msgstr "vídeo"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_featured_video_post.html:26
+msgctxt "icon description for screen readers"
+msgid "Play Button"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_search_bar.html:3
 msgctxt "Search input placeholder text"
 msgid "Search all blog"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_search_no_results.html:4
+msgctxt "icon description for screen readers"
+msgid "Shocked face"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_search_no_results.html:6
 msgctxt "Search results page with no results to display."
-msgid "Sorry, we couldn't find anything with that search term."
+msgid "Sorry, we couldn’t find anything with that search term."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:51
@@ -677,6 +700,10 @@ msgstr "Próxima página"
 msgid "Related content"
 msgstr "Conteúdo relacionado"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_topics_cutout.html:4
+msgid "Related Topics"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_filter_button.html:32
 msgctxt "Button"
 msgid "Filter"
@@ -684,13 +711,17 @@ msgstr "Filtrar"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_search_bar.html:2
 msgctxt "Search input placeholder text"
-msgid "Search our Research..."
+msgid "Search our Research…"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/search_bar.html:3
 msgctxt "Button"
 msgid "Search"
 msgstr "Pesquisar"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/search_bar.html:4
+msgid "Search…"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
 msgid "Share on Facebook"
@@ -750,7 +781,7 @@ msgstr "para"
 msgid "clear filters"
 msgstr "limpar filtros"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:71
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:70
 msgid "Load more results"
 msgstr "Carregar mais resultados"
 
@@ -762,10 +793,6 @@ msgstr "Pesquisa mais recente"
 msgctxt "Button to see more than the latest three elements of research from an author"
 msgid "Browse all projects"
 msgstr "Ver todos os projetos"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/research_authors_index_page.html:22
-msgid "No authors found."
-msgstr "Nenhum autor encontrado."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_detail_page.html:47
 msgctxt "Research page section heading"
