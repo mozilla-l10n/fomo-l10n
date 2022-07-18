@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-07 08:32+0000\n"
+"POT-Creation-Date: 2022-07-18 16:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -573,7 +573,7 @@ msgstr ""
 msgid "No authors found."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:32
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:40
 msgid "Latest Blog Posts"
 msgstr ""
 
@@ -587,7 +587,7 @@ msgctxt "Blog search bar"
 msgid "Search all blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:56
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
 msgid "Comments"
 msgstr ""
 
@@ -595,28 +595,13 @@ msgstr ""
 msgid "By"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:13
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:15
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
 msgid "and"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:30
-#, python-format
-msgid "by %(author)s"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:32
-#, python-format
-msgid "on %(date)s"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_featured_video_post.html:7
-msgctxt "icon description for screen readers"
-msgid "video"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_featured_video_post.html:26
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
 msgctxt "icon description for screen readers"
 msgid "Play Button"
 msgstr ""
@@ -781,7 +766,7 @@ msgstr ""
 msgid "clear filters"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:70
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:69
 msgid "Load more results"
 msgstr ""
 
