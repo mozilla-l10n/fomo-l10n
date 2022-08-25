@@ -26,3 +26,8 @@ Use [pip-tools](https://github.com/jazzband/pip-tools) to update dependencies:
 - Update the .toml file and add your new locale to the appropriate project(s)
 - Run `inv makemessages` from the code repository
 - Make sure correct plural rules (i.e not the default one) are populated in each of the new .po files, or else Wagtail is going to choke on it
+
+
+## License
+
+Translations in this repository are available under the terms of the [Mozilla Public License v2.0](http://www.mozilla.org/MPL/2.0/).
