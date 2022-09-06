@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-18 16:40+0000\n"
+"POT-Creation-Date: 2022-09-06 08:18+0000\n"
 "PO-Revision-Date: 2022-07-07 10:50+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: \n"
@@ -560,6 +560,11 @@ msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "KOM YN AKSJE"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_index_callout_box.html:9
+msgctxt "icon description for screen readers"
+msgid "audio"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:16
 msgid "More from our blog"
 msgstr "Mear fan ús blog"
@@ -573,7 +578,7 @@ msgstr "Blogauteurs"
 msgid "No authors found."
 msgstr "Gjin auteurs fûn."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:71
 msgid "Latest Blog Posts"
 msgstr "Lêste blogartikelen"
 
@@ -601,7 +606,12 @@ msgstr "Troch"
 msgid "and"
 msgstr "en"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:10
+msgctxt "icon description for screen readers"
+msgid "video"
+msgstr "fideo"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:31
 msgctxt "icon description for screen readers"
 msgid "Play Button"
 msgstr "Ofspylknop"
@@ -922,7 +932,7 @@ msgstr "Tank foar al jo telefoantjes!"
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
 msgstr "Spitigernôch liket it derop dat jo de oerelimyt berikt hawwe. Probearje it oer in oere opnij."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
 msgid "Loading form…"
 msgstr "Formulier lade…"
 
@@ -976,10 +986,6 @@ msgstr "Min"
 #, python-format
 #~ msgid "on %(date)s"
 #~ msgstr "op %(date)s"
-
-#~ msgctxt "icon description for screen readers"
-#~ msgid "video"
-#~ msgstr "fideo"
 
 #~ msgctxt "Search input placeholder text"
 #~ msgid "Search our Research..."
