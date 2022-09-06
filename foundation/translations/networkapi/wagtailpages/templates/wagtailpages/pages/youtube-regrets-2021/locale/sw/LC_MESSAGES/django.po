@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-18 16:40+0000\n"
+"POT-Creation-Date: 2022-09-06 08:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,7 +36,7 @@ msgid "71%% of all Regret reports came from videos recommended to our volunteers
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:10
-msgid "The YouTube Regrets our volunteers flagged had tons of views, but it’s impossible to tell how many of those views came from YouTube’s recommendation algorithm, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
+msgid "The YouTube Regrets our volunteers flagged had tons of views, but it’s impossible to tell how many of those views came from YouTube’s recommendation algorithm, because <span class=\"tw-font-bold\">YouTube won’t release this information</span>."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:17
@@ -69,7 +69,7 @@ msgid "In 40%% of cases where recommended YouTube Regrets were taken down from Y
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:7
-msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over an average of 5 months that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
+msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over an average of 5 months that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"tw-font-bold\">YouTube won’t release this information</span>."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:15
@@ -80,9 +80,13 @@ msgstr ""
 msgid "views per video"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:20
+msgid "K"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:4
 #, python-format
-msgid "When YouTube is called out for recommending borderline content, the company usually boasts that their policy changes have led to a “70%% average drop in watch time of this content coming from non-subscribed recommendations in the U.S.” <span class=\"fw-bold\">But what about the rest of the world?</span>"
+msgid "When YouTube is called out for recommending borderline content, the company usually boasts that their policy changes have led to a “70%% average drop in watch time of this content coming from non-subscribed recommendations in the U.S.” <span class=\"tw-font-bold\">But what about the rest of the world?</span>"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:9
@@ -226,7 +230,7 @@ msgid "YouTube Regrets"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:11
-msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. <span class=\"fst-italic\">This is what we learned</span>."
+msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. <span class=\"tw-italic\">This is what we learned</span>."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:15
@@ -286,7 +290,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:11
 #, python-format
-msgid "Yet when confronted about its recommendation algorithm, <span class=\"fw-bold\">YouTube’s <a href=\"%(routine_response_url)s\">routine response</a> is to deny and deflect</span>."
+msgid "Yet when confronted about its recommendation algorithm, <span class=\"tw-font-bold\">YouTube’s <a href=\"%(routine_response_url)s\">routine response</a> is to deny and deflect</span>."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:16
@@ -303,7 +307,7 @@ msgid "Our research is powered by real YouTube users."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:11
-msgid "Specifically: <span class=\"fw-bold\">37,380 volunteers</span> across <span class=\"fw-bold\">190 countries</span> installed Mozilla’s RegretsReporter browser extensions for Firefox and Chrome."
+msgid "Specifically: <span class=\"tw-font-bold\">37,380 volunteers</span> across <span class=\"tw-font-bold\">190 countries</span> installed Mozilla’s RegretsReporter browser extensions for Firefox and Chrome."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:15
@@ -314,28 +318,28 @@ msgstr ""
 msgid "Reports"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:27
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:32
 msgid "Volunteers"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:31
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:41
 msgid "Countries"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:39
-msgid "Reports were submitted between <span class=\"fw-bold\">July 2020 - May 2021</span>. Volunteers who downloaded the extension but did <span class=\"fw-bold\">not</span> file a report were an important part of our study. Their data — for example, how often they use YouTube — was essential to our understanding of how frequent regrettable experiences are on YouTube and how this varies between countries."
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:49
+msgid "Reports were submitted between <span class=\"tw-font-bold\">July 2020 - May 2021</span>. Volunteers who downloaded the extension but did <span class=\"tw-font-bold\">not</span> file a report were an important part of our study. Their data — for example, how often they use YouTube — was essential to our understanding of how frequent regrettable experiences are on YouTube and how this varies between countries."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:44
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:55
 #, python-format
 msgid "After delving into the data with a team of research assistants from the University of Exeter, Mozilla came away with three major criticisms of YouTube recommendations: from a problematic algorithm to poor corporate oversight to geographic disparities. And our <a href=\"%(research_link)s\">past research</a> shows that these problems can inflict lasting harm on people."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:49
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:61
 msgid "Here’s what we found"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:50
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:62
 msgid "(Click to read more)"
 msgstr ""
 

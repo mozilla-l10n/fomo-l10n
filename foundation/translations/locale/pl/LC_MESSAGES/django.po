@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-18 16:40+0000\n"
+"POT-Creation-Date: 2022-09-06 08:18+0000\n"
 "PO-Revision-Date: 2022-07-16 14:32+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
@@ -557,6 +557,11 @@ msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "PODEJMIJ DZIAŁANIE"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_index_callout_box.html:9
+msgctxt "icon description for screen readers"
+msgid "audio"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:16
 msgid "More from our blog"
 msgstr "Więcej z naszego bloga"
@@ -570,7 +575,7 @@ msgstr "Autorzy bloga"
 msgid "No authors found."
 msgstr "Nie odnaleziono autorów."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:71
 msgid "Latest Blog Posts"
 msgstr "Najnowsze wpisy na blogu"
 
@@ -598,7 +603,12 @@ msgstr "Autorzy:"
 msgid "and"
 msgstr "i"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:10
+msgctxt "icon description for screen readers"
+msgid "video"
+msgstr "film"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:31
 msgctxt "icon description for screen readers"
 msgid "Play Button"
 msgstr "Przycisk odtwarzania"
@@ -922,7 +932,7 @@ msgstr "Dziękujemy za wszystkie telefony!"
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
 msgstr "Wygląda na to, że osiągnięto godzinne ograniczenie. Spróbuj ponownie za godzinę."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
 msgid "Loading form…"
 msgstr "Wczytywanie formularza…"
 
@@ -976,10 +986,6 @@ msgstr "Zła"
 #, python-format
 #~ msgid "on %(date)s"
 #~ msgstr "— %(date)s"
-
-#~ msgctxt "icon description for screen readers"
-#~ msgid "video"
-#~ msgstr "film"
 
 #~ msgctxt "Search input placeholder text"
 #~ msgid "Search our Research..."

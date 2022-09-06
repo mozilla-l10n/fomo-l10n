@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-06 08:18+0000\n"
+"PO-Revision-Date: 2022-09-02 17:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero.html:12
+msgid "Does this button work?"
+msgstr "Ce bouton fonctionne-t-il ?"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero.html:14
+msgid "<span class=\"tw-font-bold\">Investigating YouTube's ineffective user controls</span> powered by 22,722 volunteers, Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm. <span class=\"tw-italic\">This is what we learned</span>."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero.html:21
+msgid "Read the Full Report"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:8
+msgid "People feel like they don’t have control over their YouTube recommendations..."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:10
+#, python-format
+msgid "Our <a href=\"%(2021_report_link)s\">2021 investigation into YouTube’s recommender system</a> uncovered a range of problems on the platform: an opaque algorithm, inconsistent oversight, and geographic inequalities. We also learned that people feel they don’t have control over their YouTube experience — particularly the videos that are recommended to them."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:15
+#, python-format
+msgid "YouTube says that people can manage their video recommendations through <a href=\"%(tools_link)s\">the feedback tools the platform offers.</a> But do YouTube’s user controls actually work?"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:21
+msgid "and our study shows that they really don’t."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:27
+msgid "Our work is the first-ever experimental audit of YouTube by independent researchers, powered by Mozilla’s RegretsReporter."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:30
+#, python-format
+msgid "Using <a href=\"%(reporter_link)s\">RegretsReporter</a>, an open source tool Mozilla built to study YouTube’s recommendation algorithm, we were able to independently audit YouTube."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:36
+msgid "We combined qualitative and quantitative insights to paint a more complete picture of the effectiveness — or rather, ineffectiveness — of YouTube’s controls."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:39
+msgid "We leveraged a massive-scale community to collect our data."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:42
+msgid "We applied rigorous and powerful research methods including a randomized controlled experiment and a machine learning model."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:6
+msgid "But it’s hard to know what really works."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:7
+msgid "Let's call on YouTube to empower users with real, meaningful controls"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:10
+msgid "Sign the Petition"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:8
+msgid "Participants"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:12
+msgid "Videos Analyzed"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:16
+msgid "People Surveyed"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:5
+msgid "<h2 class=\"tw-text-4xl medium:tw-text-[3.25rem] tw-leading-none\">People take a trial-and-error approach to controlling their recommendations.</h2> <p>In the qualitative portion of our study, we learned that people do not feel in control of their experience on YouTube, nor do they have clear information about how to curate their recommendations. Many people take a trial-and-error approach to controlling their recommendations using YouTube’s hodgepodge of options, like “Dislike,” “Not Interested,” and other buttons. It rarely works. Said one user:</p> <blockquote class=\"tw-text-white tw-font-zilla tw-text-[1.625rem] medium:tw-text-[1.75rem] tw-leading-8 tw-font-normal\">“Nothing changed. Sometimes I would report things as misleading and spam and the next day it was back in. It almost feels like the more negative feedback I provide to their suggestions the higher bulls**t mountain gets. <span class=\"tw-text-youtube-regrets-red\">Even when you block certain sources they eventually return.</span>” </blockquote> <p class=\"tw-text-xl tw-font-bold tw-font-changa\">When YouTube’s own controls fail, people take matters into their own hands, using tactics including VPNs, new devices, and altered behavior like not clicking on or hovering over videos.</p>"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:4
+msgid "Ultimately, we found:"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:8
+msgid "01"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:9
+msgid "People overwhelmingly feel that using YouTube’s user controls <span class=\"tw-text-[#FF3D3D]\">does not change</span> their recommendations at all."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:13
+msgid "and"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:16
+msgid "02"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:17
+msgid "They’re right. YouTube’s user control mechanisms <span class=\"tw-text-[#FF3D3D]\">don’t effectively prevent</span> “unwanted” recommendations."
+msgstr ""

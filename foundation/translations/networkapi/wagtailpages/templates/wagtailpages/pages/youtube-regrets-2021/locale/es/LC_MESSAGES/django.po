@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-18 16:40+0000\n"
+"POT-Creation-Date: 2022-09-06 08:18+0000\n"
 "PO-Revision-Date: 2021-07-08 20:49+0000\n"
 "Last-Translator: Paulina Rodriguez <pauli.rodriguez.c@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,8 +37,8 @@ msgid "71%% of all Regret reports came from videos recommended to our volunteers
 msgstr "El 71 %% de todos los informes sobre contrariedades hacían referencia a vídeos recomendados a nuestros voluntarios, mientras que la probabilidad de lamentar haber visto un vídeo aumentaba un 40 %% si este era recomendado en vez de buscado. "
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:10
-msgid "The YouTube Regrets our volunteers flagged had tons of views, but it’s impossible to tell how many of those views came from YouTube’s recommendation algorithm, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
-msgstr "Las contrariedades en YouTube señaladas por nuestros voluntarios tenían un montón de visualizaciones, pero es imposible saber cuántas de ellas procedieron del algoritmo de recomendaciones porque <span class=\"fw-bold\">YouTube se niega a compartir esta información.</span>"
+msgid "The YouTube Regrets our volunteers flagged had tons of views, but it’s impossible to tell how many of those views came from YouTube’s recommendation algorithm, because <span class=\"tw-font-bold\">YouTube won’t release this information</span>."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_1.html:17
 msgid "Reported Videos"
@@ -70,8 +70,8 @@ msgid "In 40%% of cases where recommended YouTube Regrets were taken down from Y
 msgstr "En el 40 %% de los casos en que se eliminaron de la plataforma contrariedades recomendadas, YouTube no proporcionó datos sobre el motivo de dicha eliminación."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:7
-msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over an average of 5 months that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
-msgstr "No obstante, sabemos que, en el momento en que se denunciaron, estos vídeos habían acumulado un total de 160 millones de visualizaciones, con una media de 760 000 visualizaciones por vídeo a lo largo de la media de 160 días que habían estado en la plataforma. Es imposible saber cuántas de ellas fueron resultado de recomendaciones porque <span class=\"fw-bold\">YouTube se niega a compartir esta información.</span>"
+msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over an average of 5 months that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"tw-font-bold\">YouTube won’t release this information</span>."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:15
 msgid "views over ~5 months"
@@ -81,10 +81,14 @@ msgstr "VISUALIZACIONES A LO LARGO DE ~160 DÍAS"
 msgid "views per video"
 msgstr "VISUALIZACIONES POR VÍDEO"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_2.html:20
+msgid "K"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:4
 #, python-format
-msgid "When YouTube is called out for recommending borderline content, the company usually boasts that their policy changes have led to a “70%% average drop in watch time of this content coming from non-subscribed recommendations in the U.S.” <span class=\"fw-bold\">But what about the rest of the world?</span>"
-msgstr "Cuando recriminan a YouTube el hecho de recomendar contenidos que rozan el límite de aceptabilidad, la empresa suele presumir de que los cambios aplicados en su política \"han generado una disminución media del 70 %% en el tiempo de visualización de dichos contenidos procedente de recomendaciones no suscritas en Estados Unidos\"… <span class=\"fw-bold\">Muy bien, pero ¿qué hay del resto del mundo?</span>"
+msgid "When YouTube is called out for recommending borderline content, the company usually boasts that their policy changes have led to a “70%% average drop in watch time of this content coming from non-subscribed recommendations in the U.S.” <span class=\"tw-font-bold\">But what about the rest of the world?</span>"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/accordion_section_3.html:9
 #, python-format
@@ -227,8 +231,8 @@ msgid "YouTube Regrets"
 msgstr "Contrariedades en YouTube"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:11
-msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. <span class=\"fst-italic\">This is what we learned</span>."
-msgstr "Con la participación de 37 380 usuarios de YouTube, Mozilla ha llevado a cabo un estudio para comprender mejor las recomendaciones lamentables en YouTube. <span class=\"fst-italic\">He aquí lo que hemos descubierto.</span>"
+msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. <span class=\"tw-italic\">This is what we learned</span>."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/hero.html:15
 msgid "Download Full Report"
@@ -287,8 +291,8 @@ msgstr "En 2019, Mozilla recopiló <a %(stories_link)s>incontables historias</a>
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:11
 #, python-format
-msgid "Yet when confronted about its recommendation algorithm, <span class=\"fw-bold\">YouTube’s <a href=\"%(routine_response_url)s\">routine response</a> is to deny and deflect</span>."
-msgstr "Sin embargo, cuando se piden explicaciones sobre su algoritmo de recomendaciones, <span class=\"fw-bold\">YouTube <a href=\"%(routine_response_url)s\">suele responder</a> con negativas y evasivas.</span>"
+msgid "Yet when confronted about its recommendation algorithm, <span class=\"tw-font-bold\">YouTube’s <a href=\"%(routine_response_url)s\">routine response</a> is to deny and deflect</span>."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/intro.html:16
 #, python-format
@@ -304,8 +308,8 @@ msgid "Our research is powered by real YouTube users."
 msgstr "Nuestra investigación se basa en usuarios de YouTube reales."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:11
-msgid "Specifically: <span class=\"fw-bold\">37,380 volunteers</span> across <span class=\"fw-bold\">190 countries</span> installed Mozilla’s RegretsReporter browser extensions for Firefox and Chrome."
-msgstr "En concreto, <span class=\"fw-bold\">37 380 voluntarios</span> de <span class=\"fw-bold\">190 países</span> instalaron la extensión del navegador diseñada por Mozilla para Firefox y Chrome llamada RegretsReporter. "
+msgid "Specifically: <span class=\"tw-font-bold\">37,380 volunteers</span> across <span class=\"tw-font-bold\">190 countries</span> installed Mozilla’s RegretsReporter browser extensions for Firefox and Chrome."
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:15
 msgid "For this report, We gathered from"
@@ -315,28 +319,28 @@ msgstr "PARA ELABORAR ESTE INFORME, RECOPILAMOS INFORMACIÓN DE…"
 msgid "Reports"
 msgstr "INFORMES"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:27
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:32
 msgid "Volunteers"
 msgstr "VOLUNTARIOS"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:31
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:41
 msgid "Countries"
 msgstr "PAÍSES"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:39
-msgid "Reports were submitted between <span class=\"fw-bold\">July 2020 - May 2021</span>. Volunteers who downloaded the extension but did <span class=\"fw-bold\">not</span> file a report were an important part of our study. Their data — for example, how often they use YouTube — was essential to our understanding of how frequent regrettable experiences are on YouTube and how this varies between countries."
-msgstr "Los informes se enviaron <span class=\"fw-bold\">entre julio de 2020 y mayo de 2021</span>. Los voluntarios que descargaron la extensión pero <span class=\"fw-bold\">no</span> presentaron un informe tuvieron mucho peso en nuestro estudio; sus datos (por ejemplo, lo a menudo que usan YouTube) fueron esenciales para entender con qué frecuencia se producen experiencias lamentables en YouTube y cómo varían de un país a otro."
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:49
+msgid "Reports were submitted between <span class=\"tw-font-bold\">July 2020 - May 2021</span>. Volunteers who downloaded the extension but did <span class=\"tw-font-bold\">not</span> file a report were an important part of our study. Their data — for example, how often they use YouTube — was essential to our understanding of how frequent regrettable experiences are on YouTube and how this varies between countries."
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:44
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:55
 #, python-format
 msgid "After delving into the data with a team of research assistants from the University of Exeter, Mozilla came away with three major criticisms of YouTube recommendations: from a problematic algorithm to poor corporate oversight to geographic disparities. And our <a href=\"%(research_link)s\">past research</a> shows that these problems can inflict lasting harm on people."
 msgstr "Tras analizar los datos en profundidad junto con un equipo de asistentes de investigación de la Universidad de Exeter, Mozilla hizo tres grandes críticas a las recomendaciones de YouTube: el uso de un algoritmo problemático, la pésima supervisión corporativa y las disparidades geográficas. Nuestras <a href=\"%(research_link)s\">investigaciones pasadas</a> indican que dichos problemas pueden infligir daños duraderos a la gente."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:49
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:61
 msgid "Here’s what we found"
 msgstr "He aquí lo que hemos descubierto:"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:50
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/fragments/our-research.html:62
 msgid "(Click to read more)"
 msgstr "(HAZ CLIC PARA LEER MÁS AL RESPECTO)"
 
@@ -415,6 +419,29 @@ msgstr "Las contrariedades en YouTube pueden alterar las vidas de las personas p
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2021/youtube_regrets_accordion.html:107
 msgid "Our past work has shown that these video recommendations can have significant impacts on people’s lives."
 msgstr "Nuestros estudios pasados indican que estas recomendaciones de vídeos pueden tener un impacto significativo en la vida de la gente."
+
+#~ msgid "The YouTube Regrets our volunteers flagged had tons of views, but it’s impossible to tell how many of those views came from YouTube’s recommendation algorithm, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
+#~ msgstr "Las contrariedades en YouTube señaladas por nuestros voluntarios tenían un montón de visualizaciones, pero es imposible saber cuántas de ellas procedieron del algoritmo de recomendaciones porque <span class=\"fw-bold\">YouTube se niega a compartir esta información.</span>"
+
+#~ msgid "What we do know is at the time they were reported they had racked up a collective 160 million views, an average of 760 thousand views per video, accrued over an average of 5 months that the videos had been up at the time they were reported. It is impossible to tell how many of these views were a result of recommendations, because <span class=\"fw-bold\">YouTube won’t release this information</span>."
+#~ msgstr "No obstante, sabemos que, en el momento en que se denunciaron, estos vídeos habían acumulado un total de 160 millones de visualizaciones, con una media de 760 000 visualizaciones por vídeo a lo largo de la media de 160 días que habían estado en la plataforma. Es imposible saber cuántas de ellas fueron resultado de recomendaciones porque <span class=\"fw-bold\">YouTube se niega a compartir esta información.</span>"
+
+#, python-format
+#~ msgid "When YouTube is called out for recommending borderline content, the company usually boasts that their policy changes have led to a “70%% average drop in watch time of this content coming from non-subscribed recommendations in the U.S.” <span class=\"fw-bold\">But what about the rest of the world?</span>"
+#~ msgstr "Cuando recriminan a YouTube el hecho de recomendar contenidos que rozan el límite de aceptabilidad, la empresa suele presumir de que los cambios aplicados en su política \"han generado una disminución media del 70 %% en el tiempo de visualización de dichos contenidos procedente de recomendaciones no suscritas en Estados Unidos\"… <span class=\"fw-bold\">Muy bien, pero ¿qué hay del resto del mundo?</span>"
+
+#~ msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. <span class=\"fst-italic\">This is what we learned</span>."
+#~ msgstr "Con la participación de 37 380 usuarios de YouTube, Mozilla ha llevado a cabo un estudio para comprender mejor las recomendaciones lamentables en YouTube. <span class=\"fst-italic\">He aquí lo que hemos descubierto.</span>"
+
+#, python-format
+#~ msgid "Yet when confronted about its recommendation algorithm, <span class=\"fw-bold\">YouTube’s <a href=\"%(routine_response_url)s\">routine response</a> is to deny and deflect</span>."
+#~ msgstr "Sin embargo, cuando se piden explicaciones sobre su algoritmo de recomendaciones, <span class=\"fw-bold\">YouTube <a href=\"%(routine_response_url)s\">suele responder</a> con negativas y evasivas.</span>"
+
+#~ msgid "Specifically: <span class=\"fw-bold\">37,380 volunteers</span> across <span class=\"fw-bold\">190 countries</span> installed Mozilla’s RegretsReporter browser extensions for Firefox and Chrome."
+#~ msgstr "En concreto, <span class=\"fw-bold\">37 380 voluntarios</span> de <span class=\"fw-bold\">190 países</span> instalaron la extensión del navegador diseñada por Mozilla para Firefox y Chrome llamada RegretsReporter. "
+
+#~ msgid "Reports were submitted between <span class=\"fw-bold\">July 2020 - May 2021</span>. Volunteers who downloaded the extension but did <span class=\"fw-bold\">not</span> file a report were an important part of our study. Their data — for example, how often they use YouTube — was essential to our understanding of how frequent regrettable experiences are on YouTube and how this varies between countries."
+#~ msgstr "Los informes se enviaron <span class=\"fw-bold\">entre julio de 2020 y mayo de 2021</span>. Los voluntarios que descargaron la extensión pero <span class=\"fw-bold\">no</span> presentaron un informe tuvieron mucho peso en nuestro estudio; sus datos (por ejemplo, lo a menudo que usan YouTube) fueron esenciales para entender con qué frecuencia se producen experiencias lamentables en YouTube y cómo varían de un país a otro."
 
 #~ msgid "views over ~160 days"
 #~ msgstr "VISUALIZACIONES A LO LARGO DE ~160 DÍAS"
