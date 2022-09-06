@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-18 16:40+0000\n"
+"POT-Creation-Date: 2022-09-06 08:18+0000\n"
 "PO-Revision-Date: 2022-07-08 15:24+0000\n"
 "Last-Translator: Luana Coelho <luanamaira@gmail.com>\n"
 "Language-Team: \n"
@@ -560,6 +560,11 @@ msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "TOME UMA ATITUDE"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_index_callout_box.html:9
+msgctxt "icon description for screen readers"
+msgid "audio"
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:16
 msgid "More from our blog"
 msgstr "Mais do nosso blog"
@@ -573,7 +578,7 @@ msgstr "Autores do blog"
 msgid "No authors found."
 msgstr "Nenhum autor encontrado."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:71
 msgid "Latest Blog Posts"
 msgstr "Últimas publicações no blog"
 
@@ -601,7 +606,12 @@ msgstr "Por"
 msgid "and"
 msgstr "e"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:10
+msgctxt "icon description for screen readers"
+msgid "video"
+msgstr "vídeo"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:31
 msgctxt "icon description for screen readers"
 msgid "Play Button"
 msgstr "Botão de reprodução"
@@ -922,7 +932,7 @@ msgstr "Obrigado por todas as suas ligações!"
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
 msgstr "Infelizmente, parece que você atingiu o limite horário. Tente novamente daqui a uma hora."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:37
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
 msgid "Loading form…"
 msgstr "Carregando formulário…"
 
@@ -976,10 +986,6 @@ msgstr "Ruim"
 #, python-format
 #~ msgid "on %(date)s"
 #~ msgstr "em %(date)s"
-
-#~ msgctxt "icon description for screen readers"
-#~ msgid "video"
-#~ msgstr "vídeo"
 
 #~ msgid "Previous"
 #~ msgstr "Anterior"
