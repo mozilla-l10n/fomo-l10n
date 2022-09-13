@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-12 11:48+0000\n"
+"POT-Creation-Date: 2022-09-13 14:39+0000\n"
 "PO-Revision-Date: 2022-09-10 12:32+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
@@ -290,8 +290,9 @@ msgid "Summary"
 msgstr "Podsumowanie"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
-msgid "Show All"
-msgstr "Wyświetl wszystko"
+#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:21
+msgid "Table of Contents"
+msgstr "Spis treści"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:102
@@ -536,10 +537,6 @@ msgstr "*Prywatność do nabycia osobno"
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:18
 msgid "Privacy Not Included"
 msgstr "Prywatność do nabycia osobno"
-
-#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:21
-msgid "Table of Contents"
-msgstr "Spis treści"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
@@ -978,6 +975,9 @@ msgstr "Wymaga poprawy"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Zła"
+
+#~ msgid "Show All"
+#~ msgstr "Wyświetl wszystko"
 
 #~ msgid "by %(author)s"
 #~ msgstr "Autorzy: %(author)s"

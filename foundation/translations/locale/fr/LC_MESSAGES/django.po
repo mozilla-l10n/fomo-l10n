@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-12 11:48+0000\n"
+"POT-Creation-Date: 2022-09-13 14:39+0000\n"
 "PO-Revision-Date: 2022-09-06 08:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -290,8 +290,9 @@ msgid "Summary"
 msgstr "Sommaire"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
-msgid "Show All"
-msgstr "Tout afficher"
+#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:21
+msgid "Table of Contents"
+msgstr "Table des matières"
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_library_page.html:102
@@ -535,10 +536,6 @@ msgstr "*Confidentialité non incluse"
 #: network-api/networkapi/wagtailpages/templates/primary_nav.html:18
 msgid "Privacy Not Included"
 msgstr "Confidentialité non incluse"
-
-#: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:21
-msgid "Table of Contents"
-msgstr "Table des matières"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
@@ -974,6 +971,9 @@ msgstr "À améliorer"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mauvais"
+
+#~ msgid "Show All"
+#~ msgstr "Tout afficher"
 
 #~ msgid "by %(author)s"
 #~ msgstr "par %(author)s"
