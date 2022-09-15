@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-15 11:37+0000\n"
+"POT-Creation-Date: 2022-09-15 16:09+0000\n"
 "PO-Revision-Date: 2022-09-15 11:54+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,13 +24,8 @@ msgid "The result? People can’t escape bad recommendations."
 msgstr "O resultado? As pessoas não conseguem escapar das recomendações ruins."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:10
-msgid ""
-"In the quantitative portion of our study, we ran a randomized controlled experiment across our community of RegretsReporter participants that could directly test the effectiveness of YouTube’s user "
-"controls. We found that YouTube’s user controls somewhat influence what is recommended, but this effect is meager and most unwanted videos still slip through."
-msgstr ""
-"Na parte quantitativa de nosso estudo, fizemos um experimento controlado randomizado com a comunidade de participantes do RegretsReporter. Com isso, conseguimos testar de forma direta a eficácia dos"
-" controles de usuário do YouTube. Descobrimos que esses controles têm alguma influência sobre o que é recomendado, mas esse efeito é mínimo e a maioria dos vídeos indesejados ainda escapa do "
-"controle."
+msgid "In the quantitative portion of our study, we ran a randomized controlled experiment across our community of RegretsReporter participants that could directly test the effectiveness of YouTube’s user controls. We found that YouTube’s user controls somewhat influence what is recommended, but this effect is meager and most unwanted videos still slip through."
+msgstr "Na parte quantitativa de nosso estudo, fizemos um experimento controlado randomizado com a comunidade de participantes do RegretsReporter. Com isso, conseguimos testar de forma direta a eficácia dos controles de usuário do YouTube. Descobrimos que esses controles têm alguma influência sobre o que é recomendado, mas esse efeito é mínimo e a maioria dos vídeos indesejados ainda escapa do controle."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:16
 msgid "Percentage of Bad Recommendations"
@@ -49,12 +44,8 @@ msgid "What is a bad recommendation?"
 msgstr "O que é uma recomendação ruim?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:29
-msgid ""
-"In our experiment, a “bad recommendation” is when YouTube recommends videos to users that are similar to a video they had previously rejected (clicked “Stop Recommending”). We determined whether "
-"videos were similar by relying on assessments by our research assistants and our machine learning video similarity model."
-msgstr ""
-"Em nossa experiência, uma “recomendação ruim” é quando o YouTube recomenda vídeos aos usuários semelhantes a um que eles haviam rejeitado anteriormente (tendo clicado em “Parar de recomendar”). "
-"Determinamos se os vídeos eram semelhantes utilizando as avaliações de nossos assistentes de pesquisa e o nosso modelo de similaridade de vídeo baseado em aprendizado de máquina."
+msgid "In our experiment, a “bad recommendation” is when YouTube recommends videos to users that are similar to a video they had previously rejected (clicked “Stop Recommending”). We determined whether videos were similar by relying on assessments by our research assistants and our machine learning video similarity model."
+msgstr "Em nossa experiência, uma “recomendação ruim” é quando o YouTube recomenda vídeos aos usuários semelhantes a um que eles haviam rejeitado anteriormente (tendo clicado em “Parar de recomendar”). Determinamos se os vídeos eram semelhantes utilizando as avaliações de nossos assistentes de pesquisa e o nosso modelo de similaridade de vídeo baseado em aprendizado de máquina."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/downloads.html:7
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:7
@@ -80,12 +71,8 @@ msgid "Investigating YouTube’s ineffective user controls"
 msgstr "Investigando os controles de usuário ineficazes do YouTube"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero.html:17
-msgid ""
-"Powered by 22,722 volunteers, Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm. <span class=\"tw-italic\">This is what we "
-"learned</span>."
-msgstr ""
-"Com a ajuda de 22.722 voluntários, a Mozilla analisou o YouTube detalhadamente para determinar o controle real que as pessoas têm sobre o algoritmo de recomendação da plataforma. <span class=\"tw-"
-"italic\">Veja o que constatamos.</span>"
+msgid "Powered by 22,722 volunteers, Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm. <span class=\"tw-italic\">This is what we learned</span>."
+msgstr "Com a ajuda de 22.722 voluntários, a Mozilla analisou o YouTube detalhadamente para determinar o controle real que as pessoas têm sobre o algoritmo de recomendação da plataforma. <span class=\"tw-italic\">Veja o que constatamos.</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:7
 msgid "People said:"
@@ -100,18 +87,12 @@ msgid "Next slide"
 msgstr "Próximo slide"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:34
-msgid ""
-"<span class=\"tw-text-youtube-regrets-red\">I avoided clicking a video</span> I would like to watch, only because I was worried that doing so would lead me to get politically extreme "
-"recommendations."
+msgid "<span class=\"tw-text-youtube-regrets-red\">I avoided clicking a video</span> I would like to watch, only because I was worried that doing so would lead me to get politically extreme recommendations."
 msgstr "Eu <span class=\"tw-text-youtube-regrets-red\">evitei clicar em um vídeo</span> que gostaria de assistir, apenas porque tinha medo de que isso me levasse a ter recomendações de política radicais."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:48
-msgid ""
-"When the Superbowl came around…if someone recommended a particular commercial, <span class=\"tw-text-youtube-regrets-red\">I used to log out of YouTube</span>, watch the commercial, and then log "
-"back in. I have sometimes even gone to a different device just because…I don't want that clouding my recommendations."
-msgstr ""
-"Durante o Superbowl… se alguém recomendasse um comercial, <span class=\"tw-text-youtube-regrets-red\">eu costumava sair do YouTube</span>, assistia ao comercial e depois entrava de novo. <span "
-"class=\"tw-text-youtube-regrets-red\">Cheguei a usar um dispositivo diferente</span> só porque… não queria isso atrapalhando as minhas recomendações."
+msgid "When the Superbowl came around…if someone recommended a particular commercial, <span class=\"tw-text-youtube-regrets-red\">I used to log out of YouTube</span>, watch the commercial, and then log back in. I have sometimes even gone to a different device just because…I don't want that clouding my recommendations."
+msgstr "Durante o Superbowl… se alguém recomendasse um comercial, <span class=\"tw-text-youtube-regrets-red\">eu costumava sair do YouTube</span>, assistia ao comercial e depois entrava de novo. <span class=\"tw-text-youtube-regrets-red\">Cheguei a usar um dispositivo diferente</span> só porque… não queria isso atrapalhando as minhas recomendações."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:62
 msgid "Just not clicking or hovering over certain videos in hope things will improve."
@@ -123,20 +104,13 @@ msgstr "As pessoas têm a sensação de que não controlam as recomendações qu
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:10
 #, python-format
-msgid ""
-"Our <a href=\"%(2021_report_link)s\">2021 investigation into YouTube’s recommender system</a> uncovered a range of problems on the platform: an opaque algorithm, inconsistent oversight, and "
-"geographic inequalities. We also learned that people feel they don’t have control over their YouTube experience — particularly the videos that are recommended to them."
-msgstr ""
-"Nossa <a href=\"%(2021_report_link)s\">investigação sobre o sistema de recomendações do YouTube realizada em 2021</a> revelou uma série de problemas na plataforma, como algoritmo obscuro, "
-"fiscalização inconsistente e desigualdades geográficas. Também constatamos que as pessoas têm a sensação de que não controlam sua experiência no YouTube – em especial, as recomendações de vídeos que"
-" recebem."
+msgid "Our <a href=\"%(2021_report_link)s\">2021 investigation into YouTube’s recommender system</a> uncovered a range of problems on the platform: an opaque algorithm, inconsistent oversight, and geographic inequalities. We also learned that people feel they don’t have control over their YouTube experience — particularly the videos that are recommended to them."
+msgstr "Nossa <a href=\"%(2021_report_link)s\">investigação sobre o sistema de recomendações do YouTube realizada em 2021</a> revelou uma série de problemas na plataforma, como algoritmo obscuro, fiscalização inconsistente e desigualdades geográficas. Também constatamos que as pessoas têm a sensação de que não controlam sua experiência no YouTube – em especial, as recomendações de vídeos que recebem."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:15
 #, python-format
 msgid "YouTube says that people can manage their video recommendations through <a href=\"%(tools_link)s\">the feedback tools the platform offers.</a> But do YouTube’s user controls actually work?"
-msgstr ""
-"O YouTube diz que as pessoas podem gerenciar suas recomendações de vídeo utilizando <a href=\"%(tools_link)s\">as ferramentas de feedback que a plataforma oferece</a>. Mas será que os controles de "
-"usuário do YouTube realmente funcionam?"
+msgstr "O YouTube diz que as pessoas podem gerenciar suas recomendações de vídeo utilizando <a href=\"%(tools_link)s\">as ferramentas de feedback que a plataforma oferece</a>. Mas será que os controles de usuário do YouTube realmente funcionam?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:21
 msgid "and our study shows that they really don’t."
@@ -148,12 +122,8 @@ msgstr "Nosso trabalho representa a maior auditoria experimental do YouTube real
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:32
 #, python-format
-msgid ""
-"Using <a href=\"%(reporter_link)s\">RegretsReporter</a>, an open source tool Mozilla built to study YouTube’s recommendation algorithm, we were able to independently audit the platform’s user "
-"controls."
-msgstr ""
-"Por meio do <a href=\"%(reporter_link)s\">RegretsReporter</a>, uma ferramenta de código aberto desenvolvida pela Mozilla para estudar o algoritmo de recomendação do YouTube, pudemos auditar os "
-"controles de usuário da plataforma de forma independente."
+msgid "Using <a href=\"%(reporter_link)s\">RegretsReporter</a>, an open source tool Mozilla built to study YouTube’s recommendation algorithm, we were able to independently audit the platform’s user controls."
+msgstr "Por meio do <a href=\"%(reporter_link)s\">RegretsReporter</a>, uma ferramenta de código aberto desenvolvida pela Mozilla para estudar o algoritmo de recomendação do YouTube, pudemos auditar os controles de usuário da plataforma de forma independente."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:38
 msgid "We combined qualitative and quantitative insights to paint a more complete picture of the effectiveness — or rather, ineffectiveness — of YouTube’s controls."
@@ -176,50 +146,29 @@ msgid "Our main recommendation is that YouTube should enable people to shape wha
 msgstr "Nossa principal recomendação é que o YouTube deve permitir que as pessoas ajustem o que veem."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:14
-msgid ""
-"<span class=\"recommendations__accent\">YouTube’s user controls should be easy to understand and access.</span> People should be provided with clear information about the steps they can take to "
-"influence their recommendations, and should be empowered to use those tools."
-msgstr ""
-"<span class=\"recommendations__accent\">Os controles de usuário do YouTube deveriam ser fáceis de entender e de acessar.</span> As pessoas deveriam receber informações claras sobre as medidas que "
-"podem adotar para influenciar suas recomendações e deveriam poder usar essas ferramentas."
+msgid "<span class=\"recommendations__accent\">YouTube’s user controls should be easy to understand and access.</span> People should be provided with clear information about the steps they can take to influence their recommendations, and should be empowered to use those tools."
+msgstr "<span class=\"recommendations__accent\">Os controles de usuário do YouTube deveriam ser fáceis de entender e de acessar.</span> As pessoas deveriam receber informações claras sobre as medidas que podem adotar para influenciar suas recomendações e deveriam poder usar essas ferramentas."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:20
-msgid ""
-"<span class=\"recommendations__accent\">YouTube should design its feedback tools in a way that puts people in the driver’s seat.</span> Feedback tools should enable people to proactively shape their"
-" experience, with user feedback given more weight in determining what videos are recommended."
-msgstr ""
-"<span class=\"recommendations__accent\">O YouTube deveria desenvolver suas ferramentas de feedback de forma a oferecer controle para as pessoas.</span> As ferramentas de feedback devem permitir que "
-"as pessoas moldem sua experiência de forma proativa, dando mais peso ao feedback do usuário para determinar quais vídeos são recomendados."
+msgid "<span class=\"recommendations__accent\">YouTube should design its feedback tools in a way that puts people in the driver’s seat.</span> Feedback tools should enable people to proactively shape their experience, with user feedback given more weight in determining what videos are recommended."
+msgstr "<span class=\"recommendations__accent\">O YouTube deveria desenvolver suas ferramentas de feedback de forma a oferecer controle para as pessoas.</span> As ferramentas de feedback devem permitir que as pessoas moldem sua experiência de forma proativa, dando mais peso ao feedback do usuário para determinar quais vídeos são recomendados."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:26
-msgid ""
-"<span class=\"recommendations__accent\">YouTube should enhance its data access tools.</span> YouTube should provide researchers with access to better tools that allow them to assess the signals that"
-" impact YouTube’s algorithm."
-msgstr ""
-"<span class=\"recommendations__accent\">O YouTube deveria melhorar suas ferramentas de acesso aos dados.</span> O YouTube deveria fornecer aos pesquisadores acesso a ferramentas melhores que lhes "
-"permitam avaliar os sinais que impactam o algoritmo do YouTube."
+msgid "<span class=\"recommendations__accent\">YouTube should enhance its data access tools.</span> YouTube should provide researchers with access to better tools that allow them to assess the signals that impact YouTube’s algorithm."
+msgstr "<span class=\"recommendations__accent\">O YouTube deveria melhorar suas ferramentas de acesso aos dados.</span> O YouTube deveria fornecer aos pesquisadores acesso a ferramentas melhores que lhes permitam avaliar os sinais que impactam o algoritmo do YouTube."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:32
-msgid ""
-"<span class=\"recommendations__accent\">Policymakers should protect public interest researchers.</span> Policymakers should pass and/or clarify laws that provide legal protections for public "
-"interest research."
-msgstr ""
-"<span class=\"recommendations__accent\">Os responsáveis pela elaboração de políticas deveriam proteger pesquisadores de questões de interesse público.</span> Os responsáveis pela elaboração de "
-"políticas deveriam aprovar e/ou explicitar leis que forneçam proteções legais para a pesquisa de interesse público."
+msgid "<span class=\"recommendations__accent\">Policymakers should protect public interest researchers.</span> Policymakers should pass and/or clarify laws that provide legal protections for public interest research."
+msgstr "<span class=\"recommendations__accent\">Os responsáveis pela elaboração de políticas deveriam proteger pesquisadores de questões de interesse público.</span> Os responsáveis pela elaboração de políticas deveriam aprovar e/ou explicitar leis que forneçam proteções legais para a pesquisa de interesse público."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:37
 #, python-format
 msgid "People who use YouTube can get informed about how YouTube recommendations work and download <a href=\"%(reporter_link)s\">RegretsReporter</a> to contribute data to future crowdsourced research."
-msgstr ""
-"Os usuários do YouTube deveriam ser informados sobre como as recomendações do YouTube funcionam e baixar o <a href=\"%(reporter_link)s\">RegretsReporter</a> para contribuir com dados para futuras "
-"pesquisas com colaboração pública."
+msgstr "Os usuários do YouTube deveriam ser informados sobre como as recomendações do YouTube funcionam e baixar o <a href=\"%(reporter_link)s\">RegretsReporter</a> para contribuir com dados para futuras pesquisas com colaboração pública."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:41
-msgid ""
-"Mozilla will continue to operate RegretsReporter as an independent tool for scrutinizing YouTube’s recommendation algorithm. We’ll run research experiments, analyze data, and publish our findings."
-msgstr ""
-"A Mozilla continuará a utilizar o RegretsReporter como uma ferramenta independente para investigar a fundo o algoritmo de recomendação do YouTube. Vamos realizar experimentos de pesquisa, analisar "
-"dados e publicar nossas constatações."
+msgid "Mozilla will continue to operate RegretsReporter as an independent tool for scrutinizing YouTube’s recommendation algorithm. We’ll run research experiments, analyze data, and publish our findings."
+msgstr "A Mozilla continuará a utilizar o RegretsReporter como uma ferramenta independente para investigar a fundo o algoritmo de recomendação do YouTube. Vamos realizar experimentos de pesquisa, analisar dados e publicar nossas constatações."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:4
 msgid "Which method was most effective?"
@@ -271,245 +220,253 @@ msgstr "vídeos analisados"
 msgid "People Surveyed"
 msgstr "pessoas entrevistadas"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:6
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:7
 msgid "“It seems like you routinely have to prune things away or it will keep shoving them in your face until you tell it otherwise.”"
 msgstr "“Parece que é preciso fazer uma limpeza de maneira sistemática ou eles continuarão exibindo coisas até que se mande parar.”"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:11
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:8
+msgid "(Participant 112)"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:14
 msgid "Scroll to explore a real recommendation timeline from our study"
 msgstr "Role para conhecer uma cronologia real de recomendação do nosso estudo"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:23
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:44
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:26
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:47
 msgid "X-Ray image of broken bones"
 msgstr "Imagem de raio-x de ossos quebrados"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:24
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:45
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:150
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:27
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:48
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:153
 msgid "A Grandma Ate Cookie Dough For Lunch Every Week. This Is What Happened To Her Bones."
 msgstr "Uma avó comeu massa de cookie no almoço toda semana. Isto é o que aconteceu com seus ossos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:31
 msgid "A user sees a video they would rather not see again"
 msgstr "Um usuário assiste a um vídeo que prefere não ver novamente"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:33
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:58
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:36
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:61
 msgid "Dec 8, 2021"
 msgstr "8 de dezembro de 2021"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:46
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:49
 msgid "Cross over top of image"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:52
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:55
 msgid "The user decides to use YouTube’s feedback mechanism, ‘Remove from history’"
 msgstr "O usuário decide usar o mecanismo de feedback do YouTube “Remover do histórico”."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:68
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:71
 msgid "A Dad Ate 25 Packs Silica Gel For Breakfast. This Is What Happened To His Stomach."
 msgstr "Um pai comeu 25 pacotes de sílica pela manhã. Isto é o que aconteceu com seu estômago."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:73
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:76
 msgid "A Student Ate 108 Gummy Antacids For Breakfast. This Is What Happened To Her Kidneys."
 msgstr "Uma estudante tomou 108 antiácidos pela manhã. Isto é o que aconteceu com seus rins."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:78
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:81
 msgid "But similar videos keep showing up…"
 msgstr "Mas vídeos semelhantes continuam aparecendo…"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:83
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:86
 msgid "A week later"
 msgstr "Uma semana depois"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:92
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:95
 msgid "A Dad Mistakenly Drank A Lava Lamp At Bedtime. This Is What Happened To His Kidneys."
 msgstr "Um pai ingeriu uma lava lamp na hora de dormir. Isto é o que aconteceu com seus rins."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:94
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:182
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:217
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:97
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:185
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:220
 msgid "A Student Felt A Sharp Pain In Her Side. This Is How Her Organs Shut Down."
 msgstr "Uma estudante sentiu uma dor aguda na lateral. Foi assim que seus órgãos pararam."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:96
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:99
 msgid "A Mom Drank 3 Gallons Water In 2 Hours. This is What Happened to Her Brain."
 msgstr "Uma mãe bebeu 11 litros de água em 2 horas. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:98
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:101
 msgid "A Gamer Drank 12 Energy Drinks In 10 Minutes. This Is What Happened To His Organs."
 msgstr "Um gamer tomou 12 energéticos em 10 minutos. Isto é o que aconteceu com seus órgãos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:103
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:106
 #, python-format
 msgid "A Woman Drank \"35%% Food Grade Hydrogen Peroxide.\" This Is What Happened To Her Brain."
 msgstr "Uma mulher tomou água oxigenada 35%% de grau alimentício. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:105
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:108
 msgid "A Student Drank 2 Bottles Over The Counter Cough Medicine. This Is What Happened To Her Brain."
 msgstr "Uma estudante tomou 2 frascos de xarope para tosse. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:107
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:110
 msgid "A Toddler Drank His Mom's Essential Oils. This Is What Happened To His Brain."
 msgstr "Uma criança ingeriu óleos essenciais da mãe. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:112
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:115
 msgctxt "First occurrence"
 msgid "…and showing up"
 msgstr "…e aparecendo"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:117
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:120
 msgid "A month later"
 msgstr "Um mês depois"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:126
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:129
 msgid "A Student Ate Suspicious Leftovers For Lunch. This Is What Happened To His Limbs."
 msgstr "Um estudante comeu sobras suspeitas no almoço. Isto é o que aconteceu com seus membros."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:128
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:131
 msgid "A Boy Ate 25 Laxative Brownies In 1 Hour. This Is What Happened To His Kidneys."
 msgstr "Um garoto comeu 25 brownies laxantes em 1 hora. Isto é o que aconteceu com seus rins."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:130
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:133
 msgid "A TikToker Drank 2 Bottles Benadryl. This Is What Happened To Her Organs."
 msgstr "Uma TikToker tomou 2 frascos de antialérgico. Isto é o que aconteceu com seus órgãos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:132
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:135
 msgid "A Bitcoin Miner Heatstroked In His Sleep. This Is What Happened To His Organs."
 msgstr "Um minerador de bitcoin teve insolação dormindo. Isto é o que aconteceu com seus órgãos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:134
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:137
 msgid "A TikToker Drank 1 Liter Cough Syrup. This Is What Happened To His Brain."
 msgstr "Um TikToker tomou 1 litro de xarope para tosse. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:136
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:139
 msgid "A Man Drank 6 Glowsticks For Dinner. This Is What Happened To His Stomach."
 msgstr "Um homem ingeriu 6 colares de neon no jantar. Isto é o que aconteceu com seu estômago."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:138
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:141
 msgid "A Man Swallowed A Fishbone. This Is What Happened To His Liver."
 msgstr "Um homem engoliu uma espinha de peixe. Isto é o que aconteceu com seu fígado."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:140
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:143
 msgid "A Student Ate 5 Day Old Pasta For Lunch. This Is How His Liver Shut Down."
 msgstr "Um estudante comeu massa de 5 dias no almoço. Foi assim que seu fígado parou."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:146
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:149
 msgid "A TikToker Chugged 8 Scoops PreWorkout Supplement. This Is What Happened To His Brain."
 msgstr "Um TikToker tomou 8 doses de suplemento de pré-treino. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:148
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:151
 msgid "A Dad Drank A Snowglobe. This Is What Happened To His Kidneys."
 msgstr "Um pai ingeriu um globo de neve. Isto é o que aconteceu com seus rins."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:152
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:155
 msgid "A Man Ate 2 Pounds Licorice Candy. This Is What Happened To His Organs."
 msgstr "Um homem comeu 1 quilo de bala de alcaçuz. Isto é o que aconteceu com seus órgãos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:154
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:157
 msgid "A Grandma Ate 1 Pound Chocolate In 6 Hours. This Is What Happened To Her Brain."
 msgstr "Uma avó comeu 0,5 kg de chocolate em 6 horas. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:156
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:159
 msgid "A Man Ate 100 Zinc Vitamin C Gummies Everyday. This Is What Happened To His Spinal Cord."
 msgstr "Um homem ingeriu 100 vitaminas c com zinco todo dia. Isto é o que aconteceu com sua medula espinhal."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:162
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:165
 msgctxt "Second occurrence"
 msgid "…and showing up"
 msgstr "…e aparecendo"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:167
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:170
 msgid "Two months later"
 msgstr "Dois meses depois"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:176
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:179
 msgid "A Boy Ate 150 Gummy Vitamins For Breakfast. This Is What Happened To His Bones."
 msgstr "Um menino ingeriu 150 vitaminas pela manhã. Isto é o que aconteceu com seus ossos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:178
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:181
 msgid "A Toddler Chewed Lead Paint Off His Toys. This Is What Happened To His Brain."
 msgstr "Uma criança ingeriu tinta com chumbo do brinquedo. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:180
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:183
 msgid "A Girl Suddenly Grew A Beard. This is What Happened To Her Ovaries."
 msgstr "Uma garota ficou com barba de repente. Isto é o que aconteceu com seus ovários."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:184
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:187
 msgid "A Toddler Played With His Cat. This Is What Happened To His Brain."
 msgstr "Uma criança brincou com seu gato. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:186
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:189
 msgid "A Boy Ate Only Chips And French Fries For 10 Years. This Is What Happened To His Eyes."
 msgstr "Um garoto comeu só batatas fritas durante 10 anos. Isto é o que aconteceu com seus olhos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:188
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:191
 msgid "A Dad Didn't Brush His Teeth For 40 Days. This Is What Happened To His Kidneys."
 msgstr "Um pai não escovou os dentes por 40 dias. Isto é o que aconteceu com seus rins."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:190
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:193
 msgid "A Lawyer Couldn't Sleep For 9 Days. This Is What Happened To Her Colon."
 msgstr "Uma advogada não conseguiu dormir por 9 dias. Isto é o que aconteceu com seu cólon."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:192
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:195
 msgid "A Woman Drank 1 Liter Soy Sauce Colon Cleanse In 2 Hours. This Is What Happened To Her Brain."
 msgstr "Uma mulher tomou 1 litro de shoyu e limpou o cólon em 2 horas. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:194
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:197
 msgid "A Grandpa Set His Clock Forward 1 Hour. This Is What Happened To His Heart."
 msgstr "Um avô adiantou seu relógio em 1 hora. Isto é o que aconteceu com seu coração."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:196
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:199
 msgid "A Student Ate Gas Station Sushi For Breakfast. This Is What Happened To His Stomach."
 msgstr "Um estudante comeu sushi da loja de conveniência pela manhã. Isto é o que aconteceu com seu estômago."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:198
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:201
 msgid "A TikToker Drank 1 Bottle Nutmeg Spice. This Is What Happened To His Brain."
 msgstr "Um TikToker ingeriu 1 frasco de noz-moscada. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:200
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:203
 msgid "A Man Played Video Games Nonstop For 73 Hours. This Is How His Organs Shut Down."
 msgstr "Um homem jogou videogame sem parar por 73 horas. Foi assim que seus órgãos pararam."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:205
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:208
 msgid "A Scientist Spilled 2 Drops Organic Mercury On Her Hand. This Is What Happened To Her Brain."
 msgstr "Uma cientista derramou 2 gotas de mercúrio orgânico na mão. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:207
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:210
 msgid "A Dad Drank 50 Beers Everyday For 6 Weeks. This Is What Happened To His Brain."
 msgstr "Um pai tomou 50 cervejas todo dia por 6 semanas. Isto é o que aconteceu com seu cérebro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:209
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:212
 msgid "A Man Was Licked By His Dog. This Is How His Organs Shut Down."
 msgstr "Um homem foi lambido pelo cachorro. Foi assim que seus órgãos pararam."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:211
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:214
 msgid "A Chef Ate Gas Station Nachos For Dinner. This Is What Happened To His Limbs."
 msgstr "Um chef comeu um salgado de uma loja de conveniência no jantar. Isto é o que aconteceu com seus membros."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:213
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:216
 msgid "A Diabetic Mom Caught A Fever. This Is How Her Kidneys Shut Down."
 msgstr "Uma mãe diabética teve febre. Foi assim que seus rins pararam."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:215
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:218
 msgid "A Man Microdosed Dark Web Bought Mushrooms. This Is What Happened To His Organs."
 msgstr "Um homem usou microdoses de cogumelo da dark web. Isto é o que aconteceu com seus órgãos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:222
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:225
 msgctxt "Third occurrence"
 msgid "…and showing up"
 msgstr "…e aparecendo"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:227
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:230
 msgid "Three months later"
 msgstr "Três meses depois"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:238
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:241
 msgid "“Eventually it always comes back. The algorithm seems incapable of remembering a lesson for very long.”"
 msgstr "“No fim das contas, ele sempre volta. O algoritmo parece incapaz de lembrar uma lição por muito tempo.”"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:248
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:242
+msgid "(Participant 187)"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:253
 msgid "Even the most effective feedback methods prevent less than half of bad recommendations."
 msgstr "Mesmo os métodos mais eficazes de feedback evitam menos da metade das recomendações ruins."
 
@@ -518,22 +475,12 @@ msgid "People take a trial-and-error approach to controlling their recommendatio
 msgstr "As pessoas adotam o método de tentativa e erro para controlar suas recomendações."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:8
-msgid ""
-"In the qualitative portion of our study, we learned that people do not feel in control of their experience on YouTube, nor do they have clear information about how to curate their recommendations. "
-"Many people take a trial-and-error approach to controlling their recommendations using YouTube’s hodgepodge of options, like “Dislike,” “Not Interested,” and other buttons. It doesn’t seem to work. "
-"Said one person:"
-msgstr ""
-"Na parte qualitativa do nosso estudo, constatamos que as pessoas não se sentem no controle de sua experiência no YouTube, nem têm informações claras sobre como selecionar suas recomendações. Muitas "
-"pessoas adotam o método de tentativa e erro para controlar suas recomendações usando as opções confusas do YouTube, como “Não gostei”, “Não tenho interesse” e outros botões. Não parece funcionar. "
-"Uma pessoa disse:"
+msgid "In the qualitative portion of our study, we learned that people do not feel in control of their experience on YouTube, nor do they have clear information about how to curate their recommendations. Many people take a trial-and-error approach to controlling their recommendations using YouTube’s hodgepodge of options, like “Dislike,” “Not Interested,” and other buttons. It doesn’t seem to work. Said one person:"
+msgstr "Na parte qualitativa do nosso estudo, constatamos que as pessoas não se sentem no controle de sua experiência no YouTube, nem têm informações claras sobre como selecionar suas recomendações. Muitas pessoas adotam o método de tentativa e erro para controlar suas recomendações usando as opções confusas do YouTube, como “Não gostei”, “Não tenho interesse” e outros botões. Não parece funcionar. Uma pessoa disse:"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:14
-msgid ""
-"“Nothing changed. Sometimes I would report things as misleading and spam and the next day it was back in. It almost feels like the more negative feedback I provide to their suggestions the higher "
-"bulls**t mountain gets. <span class=\"tw-text-youtube-regrets-red\">Even when you block certain sources they eventually return.</span>”"
-msgstr ""
-"“Nada mudou. Algumas vezes, eu denunciei coisas como enganosas e spam e, no dia seguinte, elas estavam de volta. Parece que quanto mais negativo é o meu feedback às recomendações deles, maior é a "
-"pilha de porcaria que aparece. <span class=\"tw-text-youtube-regrets-red\">Mesmo bloqueando certas fontes, elas acabam voltando.</span>”"
+msgid "“Nothing changed. Sometimes I would report things as misleading and spam and the next day it was back in. It almost feels like the more negative feedback I provide to their suggestions the higher bulls**t mountain gets. <span class=\"tw-text-youtube-regrets-red\">Even when you block certain sources they eventually return.</span>”"
+msgstr "“Nada mudou. Algumas vezes, eu denunciei coisas como enganosas e spam e, no dia seguinte, elas estavam de volta. Parece que quanto mais negativo é o meu feedback às recomendações deles, maior é a pilha de porcaria que aparece. <span class=\"tw-text-youtube-regrets-red\">Mesmo bloqueando certas fontes, elas acabam voltando.</span>”"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:19
 msgid "When YouTube’s own controls fail, people take matters into their own hands, relying on privacy tools or even changing how they watch videos on YouTube."
