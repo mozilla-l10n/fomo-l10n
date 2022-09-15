@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-15 11:37+0000\n"
-"PO-Revision-Date: 2022-09-15 10:12+0000\n"
+"PO-Revision-Date: 2022-09-15 11:55+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -24,8 +24,13 @@ msgid "The result? People can’t escape bad recommendations."
 msgstr "¿Conclusión? Las personas no pueden librarse de las malas recomendaciones"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:10
-msgid "In the quantitative portion of our study, we ran a randomized controlled experiment across our community of RegretsReporter participants that could directly test the effectiveness of YouTube’s user controls. We found that YouTube’s user controls somewhat influence what is recommended, but this effect is meager and most unwanted videos still slip through."
-msgstr "En la parte cuantitativa de nuestra investigación, realizamos una prueba controlada aleatoria entre nuestra comunidad de participantes de RegretsReporter para comprobar directamente la efectividad de los controles de usuario de YouTube. Descubrimos que esos controles de usuario influyen un poco en qué se recomienda, pero su efecto es mínimo y la mayor parte de los videos no deseados logran colarse."
+msgid ""
+"In the quantitative portion of our study, we ran a randomized controlled experiment across our community of RegretsReporter participants that could directly test the effectiveness of YouTube’s user "
+"controls. We found that YouTube’s user controls somewhat influence what is recommended, but this effect is meager and most unwanted videos still slip through."
+msgstr ""
+"En la parte cuantitativa de nuestra investigación, realizamos una prueba controlada aleatoria entre nuestra comunidad de participantes de RegretsReporter para comprobar directamente la efectividad "
+"de los controles de usuario de YouTube. Descubrimos que esos controles de usuario influyen un poco en qué se recomienda, pero su efecto es mínimo y la mayor parte de los videos no deseados logran "
+"colarse."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:16
 msgid "Percentage of Bad Recommendations"
@@ -44,8 +49,13 @@ msgid "What is a bad recommendation?"
 msgstr "¿Qué es una mala recomendación?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:29
-msgid "In our experiment, a “bad recommendation” is when YouTube recommends videos to users that are similar to a video they had previously rejected (clicked “Stop Recommending”). We determined whether videos were similar by relying on assessments by our research assistants and our machine learning video similarity model."
-msgstr "En nuestro experimento, se consideró como mala una recomendación de YouTube si los videos recomendados se parecen a los que los usuarios ya rechazaron anteriormente (mediante hacer clic en \"Dejar de recomendar\"). Determinamos la similitud de los videos a partir de la evaluación de nuestros asistentes de investigación y con base en nuestro modelo de identificación automática de videos similares."
+msgid ""
+"In our experiment, a “bad recommendation” is when YouTube recommends videos to users that are similar to a video they had previously rejected (clicked “Stop Recommending”). We determined whether "
+"videos were similar by relying on assessments by our research assistants and our machine learning video similarity model."
+msgstr ""
+"En nuestro experimento, se consideró como mala una recomendación de YouTube si los videos recomendados se parecen a los que los usuarios ya rechazaron anteriormente (mediante hacer clic en \"Dejar "
+"de recomendar\"). Determinamos la similitud de los videos a partir de la evaluación de nuestros asistentes de investigación y con base en nuestro modelo de identificación automática de videos "
+"similares."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/downloads.html:7
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:7
@@ -71,8 +81,12 @@ msgid "Investigating YouTube’s ineffective user controls"
 msgstr "Una investigación sobre los inefectivos controles de usuario de YouTube"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero.html:17
-msgid "Powered by 22,722 volunteers, Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm. <span class=\"tw-italic\">This is what we learned</span>."
-msgstr "Con la ayuda de 22 722 voluntarios, Mozilla escudriñó YouTube para averiguar qué tanto control tienen realmente las personas sobre el algoritmo de recomendaciones de la plataforma. <span class=\"tw-italic\">A continuación, el resultado de nuestra indagación.</span>"
+msgid ""
+"Powered by 22,722 volunteers, Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm. <span class=\"tw-italic\">This is what we "
+"learned</span>."
+msgstr ""
+"Con la ayuda de 22 722 voluntarios, Mozilla escudriñó YouTube para averiguar qué tanto control tienen realmente las personas sobre el algoritmo de recomendaciones de la plataforma. <span class=\"tw-"
+"italic\">A continuación, el resultado de nuestra indagación.</span>"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:7
 msgid "People said:"
@@ -87,12 +101,20 @@ msgid "Next slide"
 msgstr "Siguiente diapositiva"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:34
-msgid "<span class=\"tw-text-youtube-regrets-red\">I avoided clicking a video</span> I would like to watch, only because I was worried that doing so would lead me to get politically extreme recommendations."
-msgstr "<span class=\"tw-text-youtube-regrets-red\">He llegado a evitar dar clic en algún video</span> que quisiera ver, solo porque me preocupa que hacerlo ocasione que me lleguen recomendaciones extremas políticamente."
+msgid ""
+"<span class=\"tw-text-youtube-regrets-red\">I avoided clicking a video</span> I would like to watch, only because I was worried that doing so would lead me to get politically extreme "
+"recommendations."
+msgstr ""
+"<span class=\"tw-text-youtube-regrets-red\">He llegado a evitar dar clic en algún video</span> que quisiera ver, solo porque me preocupa que hacerlo ocasione que me lleguen recomendaciones extremas "
+"políticamente."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:48
-msgid "When the Superbowl came around…if someone recommended a particular commercial, <span class=\"tw-text-youtube-regrets-red\">I used to log out of YouTube</span>, watch the commercial, and then log back in. I have sometimes even gone to a different device just because…I don't want that clouding my recommendations."
-msgstr "Cuando llega el Supertazón… si alguien recomienda un comercial en especial, <span class=\"tw-text-youtube-regrets-red\">acostumbro salirme de YouTube</span>, veo el anuncio y luego vuelvo a entrar. Incluso a veces lo veo desde otro dispositivo, solo porque no quiero que eso enturbie mis recomendaciones."
+msgid ""
+"When the Superbowl came around…if someone recommended a particular commercial, <span class=\"tw-text-youtube-regrets-red\">I used to log out of YouTube</span>, watch the commercial, and then log "
+"back in. I have sometimes even gone to a different device just because…I don't want that clouding my recommendations."
+msgstr ""
+"Cuando llega el Supertazón… si alguien recomienda un comercial en especial, <span class=\"tw-text-youtube-regrets-red\">acostumbro salirme de YouTube</span>, veo el anuncio y luego vuelvo a entrar. "
+"Incluso a veces lo veo desde otro dispositivo, solo porque no quiero que eso enturbie mis recomendaciones."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:62
 msgid "Just not clicking or hovering over certain videos in hope things will improve."
@@ -104,13 +126,19 @@ msgstr "Las personas consideran que no tienen el control de las recomendaciones 
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:10
 #, python-format
-msgid "Our <a href=\"%(2021_report_link)s\">2021 investigation into YouTube’s recommender system</a> uncovered a range of problems on the platform: an opaque algorithm, inconsistent oversight, and geographic inequalities. We also learned that people feel they don’t have control over their YouTube experience — particularly the videos that are recommended to them."
-msgstr "Nuestra <a href=\"%(2021_report_link)s\">investigación de 2021 sobre el sistema de recomendaciones de YouTube</a> reveló una variedad de problemas en la plataforma: un algoritmo opaco, supervisión inconsistente y desigualdades geográficas. También averiguamos que las personas consideran que no controlan su experiencia en YouTube, en especial las recomendaciones de videos."
+msgid ""
+"Our <a href=\"%(2021_report_link)s\">2021 investigation into YouTube’s recommender system</a> uncovered a range of problems on the platform: an opaque algorithm, inconsistent oversight, and "
+"geographic inequalities. We also learned that people feel they don’t have control over their YouTube experience — particularly the videos that are recommended to them."
+msgstr ""
+"Nuestra <a href=\"%(2021_report_link)s\">investigación de 2021 sobre el sistema de recomendaciones de YouTube</a> reveló una variedad de problemas en la plataforma: un algoritmo opaco, supervisión "
+"inconsistente y desigualdades geográficas. También averiguamos que las personas consideran que no controlan su experiencia en YouTube, en especial las recomendaciones de videos."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:15
 #, python-format
 msgid "YouTube says that people can manage their video recommendations through <a href=\"%(tools_link)s\">the feedback tools the platform offers.</a> But do YouTube’s user controls actually work?"
-msgstr "YouTube dice que las personas pueden gestionar <a href=\"%(tools_link)s\">las recomendaciones de videos mediante las herramientas para enviar comentarios que ofrece la plataforma</a>, pero… ¿realmente funcionan los controles de usuario en YouTube?"
+msgstr ""
+"YouTube dice que las personas pueden gestionar <a href=\"%(tools_link)s\">las recomendaciones de videos mediante las herramientas para enviar comentarios que ofrece la plataforma</a>, pero… "
+"¿realmente funcionan los controles de usuario en YouTube?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:21
 msgid "and our study shows that they really don’t."
@@ -122,8 +150,12 @@ msgstr "Nuestro trabajo constituye la más extensa auditoría experimental pract
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:32
 #, python-format
-msgid "Using <a href=\"%(reporter_link)s\">RegretsReporter</a>, an open source tool Mozilla built to study YouTube’s recommendation algorithm, we were able to independently audit the platform’s user controls."
-msgstr "Con <a href=\"%(reporter_link)s\">RegretsReporter</a>, una herramienta de fuente abierta que Mozilla creó para estudiar el algoritmo de recomendaciones de YouTube, pudimos auditar de manera independiente los controles de usuario de la plataforma."
+msgid ""
+"Using <a href=\"%(reporter_link)s\">RegretsReporter</a>, an open source tool Mozilla built to study YouTube’s recommendation algorithm, we were able to independently audit the platform’s user "
+"controls."
+msgstr ""
+"Con <a href=\"%(reporter_link)s\">RegretsReporter</a>, una herramienta de fuente abierta que Mozilla creó para estudiar el algoritmo de recomendaciones de YouTube, pudimos auditar de manera "
+"independiente los controles de usuario de la plataforma."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:38
 msgid "We combined qualitative and quantitative insights to paint a more complete picture of the effectiveness — or rather, ineffectiveness — of YouTube’s controls."
@@ -146,29 +178,50 @@ msgid "Our main recommendation is that YouTube should enable people to shape wha
 msgstr "Nuestra principal recomendación es que YouTube permita a las personas configurar lo que ven."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:14
-msgid "<span class=\"recommendations__accent\">YouTube’s user controls should be easy to understand and access.</span> People should be provided with clear information about the steps they can take to influence their recommendations, and should be empowered to use those tools."
-msgstr "<span class=\"recommendations__accent\">Debería ser fácil entender cómo usar los controles de usuario de YouTube e ingresar a ellos.</span> Las personas deberían contar con información clara de qué herramientas usar para influir en las recomendaciones que reciben y realmente poder usarlas."
+msgid ""
+"<span class=\"recommendations__accent\">YouTube’s user controls should be easy to understand and access.</span> People should be provided with clear information about the steps they can take to "
+"influence their recommendations, and should be empowered to use those tools."
+msgstr ""
+"<span class=\"recommendations__accent\">Debería ser fácil entender cómo usar los controles de usuario de YouTube e ingresar a ellos.</span> Las personas deberían contar con información clara de qué "
+"herramientas usar para influir en las recomendaciones que reciben y realmente poder usarlas."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:20
-msgid "<span class=\"recommendations__accent\">YouTube should design its feedback tools in a way that puts people in the driver’s seat.</span> Feedback tools should enable people to proactively shape their experience, with user feedback given more weight in determining what videos are recommended."
-msgstr "<span class=\"recommendations__accent\">YouTube debería diseñar sus herramientas de información sobre la experiencia de tal manera que las personas tengan el mando.</span> Tales herramientas deberían posibilitar la configuración proactiva de la experiencia de los usuarios, de manera que puedan influir más en qué videos les recomiendan."
+msgid ""
+"<span class=\"recommendations__accent\">YouTube should design its feedback tools in a way that puts people in the driver’s seat.</span> Feedback tools should enable people to proactively shape their"
+" experience, with user feedback given more weight in determining what videos are recommended."
+msgstr ""
+"<span class=\"recommendations__accent\">YouTube debería diseñar sus herramientas de información sobre la experiencia de tal manera que las personas tengan el mando.</span> Tales herramientas "
+"deberían posibilitar la configuración proactiva de la experiencia de los usuarios, de manera que puedan influir más en qué videos les recomiendan."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:26
-msgid "<span class=\"recommendations__accent\">YouTube should enhance its data access tools.</span> YouTube should provide researchers with access to better tools that allow them to assess the signals that impact YouTube’s algorithm."
-msgstr "<span class=\"recommendations__accent\">YouTube debería mejorar sus herramientas de acceso a los datos.</span> YouTube debería proporcionar a los investigadores acceso a mejores herramientas que les permitan evaluar las señales que afectan el algoritmo de YouTube."
+msgid ""
+"<span class=\"recommendations__accent\">YouTube should enhance its data access tools.</span> YouTube should provide researchers with access to better tools that allow them to assess the signals that"
+" impact YouTube’s algorithm."
+msgstr ""
+"<span class=\"recommendations__accent\">YouTube debería mejorar sus herramientas de acceso a los datos.</span> YouTube debería proporcionar a los investigadores acceso a mejores herramientas que les"
+" permitan evaluar las señales que afectan el algoritmo de YouTube."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:32
-msgid "<span class=\"recommendations__accent\">Policymakers should protect public interest researchers.</span> Policymakers should pass and/or clarify laws that provide legal protections for public interest research."
-msgstr "<span class=\"recommendations__accent\">Los formuladores de políticas deberían proteger a los investigadores para el interés público.</span> Los formuladores de políticas deberían aprobar o aclarar las leyes que amparan jurídicamentee la investigación para el interés público."
+msgid ""
+"<span class=\"recommendations__accent\">Policymakers should protect public interest researchers.</span> Policymakers should pass and/or clarify laws that provide legal protections for public "
+"interest research."
+msgstr ""
+"<span class=\"recommendations__accent\">Los formuladores de políticas deberían proteger a los investigadores para el interés público.</span> Los formuladores de políticas deberían aprobar o aclarar "
+"las leyes que amparan jurídicamentee la investigación para el interés público."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:37
 #, python-format
 msgid "People who use YouTube can get informed about how YouTube recommendations work and download <a href=\"%(reporter_link)s\">RegretsReporter</a> to contribute data to future crowdsourced research."
-msgstr "Los usuarios de YouTube pueden informarse acerca de cómo funcionan las recomendaciones de YouTube y descargar <a href=\"%(reporter_link)s\">RegretsReporter</a> con el fin de aportar datos para futuras investigaciones colaborativas."
+msgstr ""
+"Los usuarios de YouTube pueden informarse acerca de cómo funcionan las recomendaciones de YouTube y descargar <a href=\"%(reporter_link)s\">RegretsReporter</a> con el fin de aportar datos para "
+"futuras investigaciones colaborativas."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:41
-msgid "Mozilla will continue to operate RegretsReporter as an independent tool for scrutinizing YouTube’s recommendation algorithm. We’ll run research experiments, analyze data, and publish our findings."
-msgstr "Mozilla seguirá usando RegretsReporter como herramienta independiente para escudriñar el algoritmo de recomendaciones de YouTube. Seguiremos realizando experimentos indagatorios, analizando datos y publicando nuestros hallazgos."
+msgid ""
+"Mozilla will continue to operate RegretsReporter as an independent tool for scrutinizing YouTube’s recommendation algorithm. We’ll run research experiments, analyze data, and publish our findings."
+msgstr ""
+"Mozilla seguirá usando RegretsReporter como herramienta independiente para escudriñar el algoritmo de recomendaciones de YouTube. Seguiremos realizando experimentos indagatorios, analizando datos y "
+"publicando nuestros hallazgos."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:4
 msgid "Which method was most effective?"
@@ -250,7 +303,7 @@ msgstr "8 de diciembre de 2021"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:46
 msgid "Cross over top of image"
-msgstr ""
+msgstr "Cruce sobre la parte superior de la imagen"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:52
 msgid "The user decides to use YouTube’s feedback mechanism, ‘Remove from history’"
@@ -306,7 +359,7 @@ msgstr "Un bebé se tomó aceite esencial de su mamá. Esto le sucedió a su cer
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:112
 msgctxt "First occurrence"
 msgid "…and showing up"
-msgstr ""
+msgstr "... y vuelven a aparecer"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:117
 msgid "A month later"
@@ -367,7 +420,7 @@ msgstr "Un hombre comió 100 gomitas de vitamina C y zinc a diario. Esto le pas�
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:162
 msgctxt "Second occurrence"
 msgid "…and showing up"
-msgstr ""
+msgstr "... y vuelven a aparecer"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:167
 msgid "Two months later"
@@ -448,7 +501,7 @@ msgstr "Un hombre se microdosificó hongos comprados en la red oscura. Esto le p
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:222
 msgctxt "Third occurrence"
 msgid "…and showing up"
-msgstr ""
+msgstr "... y vuelven a aparecer"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:227
 msgid "Three months later"
@@ -467,12 +520,22 @@ msgid "People take a trial-and-error approach to controlling their recommendatio
 msgstr "Ensayo y error para controlar las recomendaciones."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:8
-msgid "In the qualitative portion of our study, we learned that people do not feel in control of their experience on YouTube, nor do they have clear information about how to curate their recommendations. Many people take a trial-and-error approach to controlling their recommendations using YouTube’s hodgepodge of options, like “Dislike,” “Not Interested,” and other buttons. It doesn’t seem to work. Said one person:"
-msgstr "La parte cualitativa de nuestra investigación nos mostró que las personas consideran que no controlan su experiencia en YouTube, ni tienen información clara de cómo filtrar las recomendaciones recibidas. Es a base de ensayo y error que muchas intentan controlar las recomendaciones, probando la variedad de alternativas en YouTube —como \"No me gusta\", \"No me interesa\" y otros botones— para ver si finalmente lo logran. Pero ni así. Una persona dijo:"
+msgid ""
+"In the qualitative portion of our study, we learned that people do not feel in control of their experience on YouTube, nor do they have clear information about how to curate their recommendations. "
+"Many people take a trial-and-error approach to controlling their recommendations using YouTube’s hodgepodge of options, like “Dislike,” “Not Interested,” and other buttons. It doesn’t seem to work. "
+"Said one person:"
+msgstr ""
+"La parte cualitativa de nuestra investigación nos mostró que las personas consideran que no controlan su experiencia en YouTube, ni tienen información clara de cómo filtrar las recomendaciones "
+"recibidas. Es a base de ensayo y error que muchas intentan controlar las recomendaciones, probando la variedad de alternativas en YouTube —como \"No me gusta\", \"No me interesa\" y otros botones— "
+"para ver si finalmente lo logran. Pero ni así. Una persona dijo:"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:14
-msgid "“Nothing changed. Sometimes I would report things as misleading and spam and the next day it was back in. It almost feels like the more negative feedback I provide to their suggestions the higher bulls**t mountain gets. <span class=\"tw-text-youtube-regrets-red\">Even when you block certain sources they eventually return.</span>”"
-msgstr "\"No cambia nada. Algunas veces denuncio cosas como engañosas y como spam, pero al día siguiente aparecen de nuevo. Casi siento que entre más envío comentarios negativos sobre sus sugerencias, más crece la montaña de basura. <span class=\"tw-text-youtube-regrets-red\">Aun bloqueando algunas fuentes, reaparecen con el tiempo</span>\"."
+msgid ""
+"“Nothing changed. Sometimes I would report things as misleading and spam and the next day it was back in. It almost feels like the more negative feedback I provide to their suggestions the higher "
+"bulls**t mountain gets. <span class=\"tw-text-youtube-regrets-red\">Even when you block certain sources they eventually return.</span>”"
+msgstr ""
+"\"No cambia nada. Algunas veces denuncio cosas como engañosas y como spam, pero al día siguiente aparecen de nuevo. Casi siento que entre más envío comentarios negativos sobre sus sugerencias, más "
+"crece la montaña de basura. <span class=\"tw-text-youtube-regrets-red\">Aun bloqueando algunas fuentes, reaparecen con el tiempo</span>\"."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:19
 msgid "When YouTube’s own controls fail, people take matters into their own hands, relying on privacy tools or even changing how they watch videos on YouTube."
@@ -500,7 +563,9 @@ msgstr "02"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:17
 msgid "They’re right. YouTube’s user control mechanisms <span class=\"tw-text-[#FF3D3D]\"><span class=\"tw-italic\">don’t</span> effectively prevent</span> “unwanted” recommendations."
-msgstr "están en lo cierto. La configuración de los controles de usuario de YouTube <span class=\"tw-text-[#FF3D3D]\"><span class=\"tw-italic\">no</span> impide eficazmente</span> las recomendaciones \"no deseadas\"."
+msgstr ""
+"están en lo cierto. La configuración de los controles de usuario de YouTube <span class=\"tw-text-[#FF3D3D]\"><span class=\"tw-italic\">no</span> impide eficazmente</span> las recomendaciones \"no "
+"deseadas\"."
 
 #~ msgid "…and showing up"
 #~ msgstr "... y vuelven a aparecer"
