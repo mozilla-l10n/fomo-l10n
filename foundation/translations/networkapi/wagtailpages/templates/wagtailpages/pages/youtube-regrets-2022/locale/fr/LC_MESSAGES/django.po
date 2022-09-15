@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-13 14:39+0000\n"
-"PO-Revision-Date: 2022-09-15 07:43+0000\n"
+"PO-Revision-Date: 2022-09-15 07:49+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -20,50 +20,55 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:9
 msgid "The result? People can’t escape bad recommendations."
-msgstr ""
+msgstr "Résultat ? Impossible d’échapper aux mauvaises recommandations."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:10
 msgid ""
 "In the quantitative portion of our study, we ran a randomized controlled experiment across our community of RegretsReporter participants that could directly test the effectiveness of YouTube’s user "
 "controls. We found that YouTube’s user controls somewhat influence what is recommended, but this effect is meager and most unwanted videos still slip through."
 msgstr ""
+"Pour la partie quantitative de notre enquête, nous avons mis en place un essai randomisé contrôlé au sein de notre communauté de participant·e·s utilisant RegretsReporter, afin de tester directement"
+" la qualité des contrôles d’utilisation de YouTube. Nous avons découvert que ces contrôles influencent vaguement les recommandations, mais que leur effet est très limité et que la plupart des vidéos"
+" indésirables y échappent."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:16
 msgid "Percentage of Bad Recommendations"
-msgstr ""
+msgstr "Pourcentage de mauvaises recommandations"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:17
 msgid "among high-risk video pairs assessed by our research assistants"
-msgstr ""
+msgstr "parmi des paires de vidéos à haut risque définies par nos assistant·e·s de recherche"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:19
 msgid "YouTube Percentage of Bad Recommendations Chart"
-msgstr ""
+msgstr "Graphique du pourcentage de mauvaises recommandations YouTube"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:28
 msgid "What is a bad recommendation?"
-msgstr ""
+msgstr "Qu’est-ce qu’une mauvaise recommandation ?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/chart_section.html:29
 msgid ""
 "In our experiment, a “bad recommendation” is when YouTube recommends videos to users that are similar to a video they had previously rejected (clicked “Stop Recommending”). We determined whether "
 "videos were similar by relying on assessments by our research assistants and our machine learning video similarity model."
 msgstr ""
+"Dans le cadre de notre expérience, une « mauvaise recommandation » se produit lorsque YouTube recommande à un·e internaute une vidéo similaire à un contenu qu’il ou elle a précédemment exclu (option"
+" « Ne pas recommander »). Nous évaluons la similarité des vidéos grâce au travail de nos assistant·e·s de recherche et notre modèle de similarité des vidéos basé sur l’apprentissage automatique."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/downloads.html:7
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:7
 msgid "Let’s call on YouTube to empower users with real, meaningful controls"
-msgstr ""
+msgstr "Demandons à YouTube de fournir aux internautes des contrôles efficaces et pertinents"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/downloads.html:17
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:10
 msgid "Sign the Petition"
-msgstr ""
+msgstr "Signer la pétition"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/downloads.html:23
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero.html:24
 msgid "Read the Full Report"
-msgstr ""
+msgstr "Lire le rapport complet"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero.html:13
 msgid "Does this button work?"
@@ -83,31 +88,35 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:7
 msgid "People said:"
-msgstr ""
+msgstr "Témoignages :"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:16
 msgid "Previous slide"
-msgstr ""
+msgstr "Écran précédent"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:19
 msgid "Next slide"
-msgstr ""
+msgstr "Écran suivant"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:34
 msgid ""
 "<span class=\"tw-text-youtube-regrets-red\">I avoided clicking a video</span> I would like to watch, only because I was worried that doing so would lead me to get politically extreme "
 "recommendations."
 msgstr ""
+"<span class=\"tw-text-youtube-regrets-red\">J’évitais de cliquer sur certaines vidéos</span> que j’avais envie de regarder, parce que j’avais peur que ça entraîne des recommandations politiquement "
+"extrêmes."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:48
 msgid ""
 "When the Superbowl came around…if someone recommended a particular commercial, <span class=\"tw-text-youtube-regrets-red\">I used to log out of YouTube</span>, watch the commercial, and then log "
 "back in. I have sometimes even gone to a different device just because…I don't want that clouding my recommendations."
 msgstr ""
+"Au moment du Superbowl, si quelqu’un me conseillait de regarder une publicité, <span class=\"tw-text-youtube-regrets-red\">je me déconnectais de YouTube</span> pour la regarder, puis je me "
+"reconnectais. Parfois, j’ai même changé d’appareil juste parce que je ne voulais pas que ça envahisse mes recommandations. "
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/hero_carousel.html:62
 msgid "Just not clicking or hovering over certain videos in hope things will improve."
-msgstr ""
+msgstr "J’évite de cliquer ou de laisser mon curseur sur certaines vidéos pour essayer d’améliorer la situation."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:8
 msgid "People feel like they don’t have control over their YouTube recommendations…"
@@ -513,27 +522,31 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:19
 msgid "When YouTube’s own controls fail, people take matters into their own hands, relying on privacy tools or even changing how they watch videos on YouTube."
 msgstr ""
+"Les contrôles de YouTube étant inefficaces, les internautes doivent prendre les choses en main en utilisant des outils de confidentialité, voire en modifiant leurs habitudes de visionnage de vidéos "
+"sur YouTube."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:4
 msgid "Ultimately, we found:"
-msgstr ""
+msgstr "Voici ce que nous avons découvert :"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:8
 msgid "01"
-msgstr ""
+msgstr "01"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:9
 msgid "People feel that using YouTube’s user controls <span class=\"tw-text-[#FF3D3D]\">does not change</span> their recommendations at all."
-msgstr ""
+msgstr "Les internautes ont l’impression qu’utiliser les contrôles d’utilisation de YouTube <span class=\"tw-text-[#FF3D3D]\">ne change rien</span> à leurs recommandations."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:13
 msgid "and"
-msgstr ""
+msgstr "et"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:16
 msgid "02"
-msgstr ""
+msgstr "02"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/we_found_section.html:17
 msgid "They’re right. YouTube’s user control mechanisms <span class=\"tw-text-[#FF3D3D]\"><span class=\"tw-italic\">don’t</span> effectively prevent</span> “unwanted” recommendations."
 msgstr ""
+"C’est vrai. Les mécanismes de contrôle d’utilisation de YouTube n’empêchent <span class=\"tw-text-[#FF3D3D]\"><span class=\"tw-italic\">pas</span> de façon efficace</span> les recommandations "
+"« indésirables »."
