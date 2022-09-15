@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-13 14:39+0000\n"
-"PO-Revision-Date: 2022-09-15 07:34+0000\n"
+"PO-Revision-Date: 2022-09-15 07:43+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -203,35 +203,39 @@ msgstr ""
 #, python-format
 msgid "People who use YouTube can get informed about how YouTube recommendations work and download <a href=\"%(reporter_link)s\">RegretsReporter</a> to contribute data to future crowdsourced research."
 msgstr ""
+"Les utilisateurs et utilisatrices de YouTube peuvent s’informer sur le fonctionnement des recommandations YouTube et télécharger <a href=\"%(reporter_link)s\">RegretsReporter</a> afin de fournir des"
+" données aux futurs travaux de recherche participative."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:41
 msgid ""
 "Mozilla will continue to operate RegretsReporter as an independent tool for scrutinizing YouTube’s recommendation algorithm. We’ll run research experiments, analyze data, and publish our findings."
 msgstr ""
+"Mozilla continuera d’utiliser RegretsReporter comme un outil indépendant permettant d’analyser l’algorithme de recommandation de YouTube. Nous mènerons des expériences, analyserons les données et "
+"publierons nos résultats de recherches."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:4
 msgid "Which method was most effective?"
-msgstr ""
+msgstr "Quelle méthode a été la plus efficace ?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:5
 msgid "None of them really."
-msgstr ""
+msgstr "À dire vrai, aucune."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:8
 msgid "Don’t recommend channel"
-msgstr ""
+msgstr "NE PAS RECOMMANDER LA CHAÎNE"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:9
 msgid "Not interested"
-msgstr ""
+msgstr "PAS INTÉRESSÉ"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:10
 msgid "Dislike"
-msgstr ""
+msgstr "JE N’AIME PAS"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:11
 msgid "Remove from watch history"
-msgstr ""
+msgstr "SUPPRIMER DE L’HISTORIQUE DES VIDÉOS REGARDÉES"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:12
 #, python-format
@@ -241,36 +245,36 @@ msgstr " %%"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:20
 msgid "Percentage of bad recommendations prevented"
-msgstr ""
+msgstr "Pourcentage de mauvaises recommandations évitées :"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:23
 msgid "Bad recommendations resurfaced over time."
-msgstr ""
+msgstr "Les mauvaises recommandations sont réapparues après un moment."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:8
 msgid "Participants"
-msgstr ""
+msgstr "participant·e·s"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:12
 msgid "Videos Analyzed"
-msgstr ""
+msgstr "de vidéos analysées"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:16
 msgid "People Surveyed"
-msgstr ""
+msgstr "personnes interrogées"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:6
 msgid "“It seems like you routinely have to prune things away or it will keep shoving them in your face until you tell it otherwise.”"
-msgstr ""
+msgstr "« Il semble qu’on doive régulièrement exclure des contenus, sans quoi ils reviennent sans cesse dans les recommandations. »"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:11
 msgid "Scroll to explore a real recommendation timeline from our study"
-msgstr ""
+msgstr "Faites défiler pour découvrir une véritable chronologie des recommandations extraite de notre étude."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:23
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:44
 msgid "X-Ray image of broken bones"
-msgstr ""
+msgstr "Image radiographique d’os brisés"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:24
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:45
@@ -280,12 +284,12 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:28
 msgid "A user sees a video they would rather not see again"
-msgstr ""
+msgstr "Une personne voit une vidéo qu’elle préférerait ne pas revoir."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:33
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:58
 msgid "Dec 8, 2021"
-msgstr ""
+msgstr "8 déc. 2021"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:46
 msgid "Cross over top of image"
@@ -293,15 +297,15 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:52
 msgid "The user decides to use YouTube’s feedback mechanism, ‘Remove from history’"
-msgstr ""
+msgstr "Cette personne utilise l’outil « Supprimer de l’historique » de YouTube."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:76
 msgid "But similar videos keep showing up…"
-msgstr ""
+msgstr "Mais des vidéos similaires continuent d’apparaître…"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:81
 msgid "A week later"
-msgstr ""
+msgstr "Une semaine plus tard"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:90
 msgid "A Dad Mistakenly Drank A Lava Lamp At Bedtime. This Is What Happened To His Kidneys."
@@ -338,11 +342,11 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:160
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:220
 msgid "…and showing up"
-msgstr ""
+msgstr "… et encore…"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:115
 msgid "A month later"
-msgstr ""
+msgstr "Un mois plus tard"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:124
 msgid "A Student Ate Suspicious Leftovers For Lunch. This Is What Happened To His Limbs."
@@ -398,7 +402,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:165
 msgid "Two months later"
-msgstr ""
+msgstr "Deux mois plus tard"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:174
 msgid "A Boy Ate 150 Gummy Vitamins For Breakfast. This Is What Happened To His Bones."
@@ -474,19 +478,19 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:225
 msgid "Three months later"
-msgstr ""
+msgstr "Trois mois plus tard"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:236
 msgid "“Eventually it always comes back. The algorithm seems incapable of remembering a lesson for very long.”"
-msgstr ""
+msgstr "« Ça finit toujours par revenir. L’algorithme semble incapable de garder une information en mémoire très longtemps. »"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:246
 msgid "Even the most effective feedback methods prevent less than half of bad recommendations."
-msgstr ""
+msgstr "Même les méthodes les plus efficaces permettent seulement d’éviter moins de la moitié des mauvaises recommandations."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:6
 msgid "People take a trial-and-error approach to controlling their recommendations."
-msgstr ""
+msgstr "Les internautes procèdent par essais/erreurs pour contrôler leurs recommandations."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:8
 msgid ""
@@ -494,12 +498,17 @@ msgid ""
 "Many people take a trial-and-error approach to controlling their recommendations using YouTube’s hodgepodge of options, like “Dislike,” “Not Interested,” and other buttons. It doesn’t seem to work. "
 "Said one person:"
 msgstr ""
+"La partie qualitative de notre enquête nous a permis d’apprendre que les internautes n’ont pas l’impression de contrôler leur expérience sur YouTube et ne disposent pas d’informations claires sur la"
+" façon de personnaliser leurs recommandations. De nombreuses personnes adoptent une approche basée sur des essais/erreurs pour contrôler leurs recommandations en utilisant le fouillis d’options "
+"proposées par YouTube, comme les boutons « Je n’aime pas », « Pas intéressé », etc. En vain, semble-t-il. D’après une des personnes interrogées :"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:14
 msgid ""
 "“Nothing changed. Sometimes I would report things as misleading and spam and the next day it was back in. It almost feels like the more negative feedback I provide to their suggestions the higher "
 "bulls**t mountain gets. <span class=\"tw-text-youtube-regrets-red\">Even when you block certain sources they eventually return.</span>”"
 msgstr ""
+"« Ça n’a rien changé. Parfois, je signalais des vidéos en tant que Spam ou contenu trompeur, et le lendemain, elles réapparaissaient. J’avais l’impression que, plus je fournissais des retours "
+"négatifs à leurs suggestions, plus la quantité de c*nneries augmentait. <span class=\"tw-text-youtube-regrets-red\">Même en bloquant certaines chaînes, elles finissaient par réapparaître.</span> »"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/trial_and_error.html:19
 msgid "When YouTube’s own controls fail, people take matters into their own hands, relying on privacy tools or even changing how they watch videos on YouTube."
