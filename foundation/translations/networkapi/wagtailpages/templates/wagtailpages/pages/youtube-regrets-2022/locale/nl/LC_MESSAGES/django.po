@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-15 08:39+0000\n"
-"PO-Revision-Date: 2022-09-15 09:44+0000\n"
+"PO-Revision-Date: 2022-09-15 09:53+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -129,19 +129,24 @@ msgid ""
 "Our <a href=\"%(2021_report_link)s\">2021 investigation into YouTube’s recommender system</a> uncovered a range of problems on the platform: an opaque algorithm, inconsistent oversight, and "
 "geographic inequalities. We also learned that people feel they don’t have control over their YouTube experience — particularly the videos that are recommended to them."
 msgstr ""
+"Ons <a href=\"%(2021_report_link)s\">onderzoek uit 2021, waarin we het aanbevelingssysteem van YouTube hebben onderzocht</a>, heeft een aantal problemen blootgelegd op het platform: een "
+"ondoorzichtig algoritme, geen consequent toezicht en geografische ongelijkheden. Ook hebben we geleerd dat mensen het idee hebben dat ze geen controle hebben over hun YouTube ervaringen — in het "
+"bijzonder de video's die hen worden aangeraden."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:15
 #, python-format
 msgid "YouTube says that people can manage their video recommendations through <a href=\"%(tools_link)s\">the feedback tools the platform offers.</a> But do YouTube’s user controls actually work?"
 msgstr ""
+"YouTube claimt dat mensen hun videoaanbevelingen kunnen managen door middel van <a href=\"%(tools_link)s\">de feedback tools die het platform biedt</a>. Maar werkt YouTube’s gebruikersbediening "
+"eigenlijk wel?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:21
 msgid "and our study shows that they really don’t."
-msgstr ""
+msgstr "en ons onderzoek wijst uit dat ze eigenlijk niet werken."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:29
 msgid "Our work is the largest experimental audit of YouTube by independent researchers, powered by Mozilla’s RegretsReporter."
-msgstr ""
+msgstr "Dit onderzoek is de grootste experimentele audit van YouTube door onafhankelijke onderzoekers, mogelijk gemaakt door Mozilla’s RegretsReporter."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:32
 #, python-format
@@ -149,123 +154,137 @@ msgid ""
 "Using <a href=\"%(reporter_link)s\">RegretsReporter</a>, an open source tool Mozilla built to study YouTube’s recommendation algorithm, we were able to independently audit the platform’s user "
 "controls."
 msgstr ""
+"Door middel van <a href=\"%(reporter_link)s\">RegretsReporter</a>, een open source tool gebouwd door Mozilla om YouTube’s aanbevelingsalgoritme te bestuderen, waren we in staat om onafhankelijk de "
+"gebruikersbediening van het platform te onderzoeken. "
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:38
 msgid "We combined qualitative and quantitative insights to paint a more complete picture of the effectiveness — or rather, ineffectiveness — of YouTube’s controls."
-msgstr ""
+msgstr "We hebben kwalitatieve en kwantitatieve inzichten gebruikt om een compleet beeld van de effectiviteit - of eigenlijk het gebrek daaraan - van YouTube’s bediening te schetsen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:41
 msgid "We leveraged a massive-scale community to collect our data."
-msgstr ""
+msgstr "We hebben een gigantische community ingezet om onze data te verzamelen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/intro.html:44
 msgid "We applied rigorous and powerful research methods including a randomized controlled experiment and a machine learning model."
-msgstr ""
+msgstr "We hebben rigoureuze en krachtige methodes ingezet inclusief een gerandomiseerd, gecontroleerd experiment en machine learning."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/petition_cta.html:6
 msgid "But it’s hard to know what really works."
-msgstr ""
+msgstr "Maar het is moeilijk om erachter te komen wat precies werkt."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:12
 msgid "Our main recommendation is that YouTube should enable people to shape what they see."
-msgstr ""
+msgstr "Onze belangrijkste aanbeveling is dat YouTube gebruikers in staat moet stellen om te bepalen wat ze kijken."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:14
 msgid ""
 "<span class=\"recommendations__accent\">YouTube’s user controls should be easy to understand and access.</span> People should be provided with clear information about the steps they can take to "
 "influence their recommendations, and should be empowered to use those tools."
 msgstr ""
+"<span class=\"recommendations__accent\">YouTube’s gebruikersbediening zou gemakkelijk en toegankelijk moeten zijn.</span> Mensen zouden duidelijk geïnformeerd moeten worden over de stappen die ze "
+"moeten zetten om hun aanbevelingen te beheren en ze zouden in staat moeten zijn om deze tools te gebruiken."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:20
 msgid ""
 "<span class=\"recommendations__accent\">YouTube should design its feedback tools in a way that puts people in the driver’s seat.</span> Feedback tools should enable people to proactively shape their"
 " experience, with user feedback given more weight in determining what videos are recommended."
 msgstr ""
+"<span class=\"recommendations__accent\">YouTube zou hun feedback tools moeten herdefiniëren, zodat gebruikers volledige controle hebben.</span> Feedback tools moeten mensen in staat stellen om "
+"proactief hun ervaring te beheren, met meer aandacht voor feedback van gebruikers wanneer het aankomt op welke video's worden aanbevolen."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:26
 msgid ""
 "<span class=\"recommendations__accent\">YouTube should enhance its data access tools.</span> YouTube should provide researchers with access to better tools that allow them to assess the signals that"
 " impact YouTube’s algorithm."
 msgstr ""
+"<span class=\"recommendations__accent\">YouTube zou hun data access tools moeten verbeteren.</span> YouTube zou onderzoekers toegang moeten geven tot betere tools, zodat ze in staat zijn om de "
+"signalen te kunnen beoordelen die invloed hebben op YouTube's algoritme."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:32
 msgid ""
 "<span class=\"recommendations__accent\">Policymakers should protect public interest researchers.</span> Policymakers should pass and/or clarify laws that provide legal protections for public "
 "interest research."
 msgstr ""
+"<span class=\"recommendations__accent\">Beleidsmakers moeten onderzoekers beschermen die een publiek belang behartigen.</span> Beleidsmakers moeten wetten invoeren/aanscherpen, die wettelijke "
+"bescherming bieden voor onderzoek dat publiek belang dient."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:37
 #, python-format
 msgid "People who use YouTube can get informed about how YouTube recommendations work and download <a href=\"%(reporter_link)s\">RegretsReporter</a> to contribute data to future crowdsourced research."
 msgstr ""
+"Mensen die YouTube gebruiken kunnen zich informeren over hoe aanbevelingen werken, door het downloaden van <a href=\"%(reporter_link)s\">RegretsReporter</a> en zo data bijdragen aan toekomstig "
+"onderzoek met behulp van crowdsourcing."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/recommendations.html:41
 msgid ""
 "Mozilla will continue to operate RegretsReporter as an independent tool for scrutinizing YouTube’s recommendation algorithm. We’ll run research experiments, analyze data, and publish our findings."
 msgstr ""
+"Mozilla zal RegretsReporter blijven gebruiken als een onafhankelijke tool voor het onderzoeken van YouTube’s aanbevelingsalgoritme. We zullen onderzoeksexperimenten blijven uitvoeren, data "
+"analyseren en we zullen onze bevindingen blijven publiceren."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:4
 msgid "Which method was most effective?"
-msgstr ""
+msgstr "Welke methode was het meest effectief?"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:5
 msgid "None of them really."
-msgstr ""
+msgstr "Eigenlijk geen van allen"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:8
 msgid "Don’t recommend channel"
-msgstr ""
+msgstr "KANAAL NIET AANBEVELEN"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:9
 msgid "Not interested"
-msgstr ""
+msgstr "NIET GEÏNTERESSEERD"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:10
 msgid "Dislike"
-msgstr ""
+msgstr "VIND IK NIET LEUK"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:11
 msgid "Remove from watch history"
-msgstr ""
+msgstr "ZOEKGESCHIEDENIS WISSEN"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:12
 #, python-format
 msgctxt "Added after a number"
 msgid "%%"
-msgstr ""
+msgstr "%%"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:20
 msgid "Percentage of bad recommendations prevented"
-msgstr ""
+msgstr "Percentages van slechte aanbevelingen die werden voorkomen"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/standout_stats.html:23
 msgid "Bad recommendations resurfaced over time."
-msgstr ""
+msgstr "Slechte aanbevelingen kwamen weer terug."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:8
 msgid "Participants"
-msgstr ""
+msgstr "deelnemers"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:12
 msgid "Videos Analyzed"
-msgstr ""
+msgstr "geanalyseerde video's"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/stats.html:16
 msgid "People Surveyed"
-msgstr ""
+msgstr "mensen ondervraagd"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:6
 msgid "“It seems like you routinely have to prune things away or it will keep shoving them in your face until you tell it otherwise.”"
-msgstr ""
+msgstr "“Het lijkt erop dat je eens in de zoveel tijd dingen moet verwijderen, want anders blijven ze het door je strot duwen tenzij je zegt dat je dit niet wilt.”"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:11
 msgid "Scroll to explore a real recommendation timeline from our study"
-msgstr ""
+msgstr "Scroll om een echte aanbelevingenstijdlijn te bekijken uit onze studie."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:23
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:44
 msgid "X-Ray image of broken bones"
-msgstr ""
+msgstr "Röntgenfoto van gebroken botten"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:24
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:45
@@ -275,12 +294,12 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:28
 msgid "A user sees a video they would rather not see again"
-msgstr ""
+msgstr "Een gebruiker bekijkt een video die hij liever niet nog eens zou zien"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:33
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:58
 msgid "Dec 8, 2021"
-msgstr ""
+msgstr "8 dec. 2021"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:46
 msgid "Cross over top of image"
@@ -288,7 +307,7 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:52
 msgid "The user decides to use YouTube’s feedback mechanism, ‘Remove from history’"
-msgstr ""
+msgstr "Gebruiker besluit YouTube’s feedback mechanisme te gebruiken, ‘Zoekgeschiedens wissen'"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:68
 msgid "A Dad Ate 25 Packs Silica Gel For Breakfast. This Is What Happened To His Stomach."
@@ -300,11 +319,11 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:78
 msgid "But similar videos keep showing up…"
-msgstr ""
+msgstr "Maar soortgelijke video's blijven maar opduiken…"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:83
 msgid "A week later"
-msgstr ""
+msgstr "Een week later"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube-regrets-2022/fragments/timeline.html:92
 msgid "A Dad Mistakenly Drank A Lava Lamp At Bedtime. This Is What Happened To His Kidneys."
