@@ -10,3 +10,10 @@ l10n = "foundation/translations/networkapi/wagtailpages/templates/buyersguide/lo
     locales = [
         "de", "es", "fr", "pt-BR"
     ]
+
+[[paths]]
+    reference = "foundation/translations/networkapi/templates/pages/buyersguide/about/locale/django.pot"
+    l10n = "foundation/translations/networkapi/templates/pages/buyersguide/about/locale/{locale}/LC_MESSAGES/django.po"
+    locales = [
+        "de", "es", "fr", "pt-BR"
+    ]
