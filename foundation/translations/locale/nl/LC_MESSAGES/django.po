@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-20 13:49+0000\n"
+"POT-Creation-Date: 2022-10-27 13:18+0000\n"
 "PO-Revision-Date: 2022-09-06 12:57+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: \n"
@@ -21,6 +21,479 @@ msgstr ""
 #: network-api/networkapi/templates/404.html:6
 msgid "Page Not Found"
 msgstr "Pagina niet gevonden"
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:11
+msgctxt "Tooltip on menu items"
+msgid "about sections"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:12
+msgid "Why we made this guide"
+msgstr "Waarom we *privacy niet inbegrepen hebben gemaakt"
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:13
+msgid "How to use this guide"
+msgstr "Gebruik van *privacy niet inbegrepen"
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:14
+msgid "Methodology"
+msgstr "Onze methodologie"
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:229
+msgid "Contact us"
+msgstr "Contact"
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:16
+msgid "Press"
+msgstr "Pers"
+
+#: network-api/networkapi/templates/fragments/buyersguide/adult_content_badge.html:7
+#: network-api/networkapi/templates/fragments/buyersguide/adult_content_badge.html:8
+msgid "this product has adult content"
+msgstr "dit product bevat inhoud voor volwassenen"
+
+#: network-api/networkapi/templates/fragments/buyersguide/article_listing_compact.html:33
+#: network-api/networkapi/templates/fragments/buyersguide/article_listing_wide.html:13
+msgid "All articles"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/article_listing_what_to_read_next.html:3
+msgid "What to read next"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:9
+msgid "Ask Jen"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:18
+msgid "Have a question you want to ask? <a target=\"_blank\" href=\"https://mozillafoundation.typeform.com/ask-jen\" class=\"tw-underline tw-text-blue-80\">Submit it here!</a>"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:32
+msgctxt "Short for ‘question’, please keep this translation short"
+msgid "Q:"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:34
+msgctxt "Short for ‘answer’, please keep this translation short"
+msgid "A:"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:39
+msgid "Read full answer"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:21
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:43
+msgid "More"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:23
+msgid "Open category drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:45
+msgid "Close category drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:5
+msgid "Dive Deeper"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:23
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:24
+msgid "Show more"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:23
+msgid "Show less"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/editorial_content_index_items.html:30
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:69
+msgid "Load more results"
+msgstr "Meer resultaten laden"
+
+#: network-api/networkapi/templates/fragments/buyersguide/featured_article.html:16
+#: network-api/networkapi/templates/fragments/byline.html:9
+msgid "By"
+msgstr "Door"
+
+#: network-api/networkapi/templates/fragments/buyersguide/in_the_press.html:4
+msgid "In the press"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/in_the_press.html:21
+msgid "All press"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/it_uses.html:6
+msgid "Device:"
+msgstr "Apparaat:"
+
+#: network-api/networkapi/templates/fragments/buyersguide/it_uses.html:7
+msgid "App:"
+msgstr "App:"
+
+#: network-api/networkapi/templates/fragments/buyersguide/item.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/item.html:28
+msgid "*privacy not included with this product"
+msgstr "*bij dit product is privacy niet inbegrepen"
+
+#: network-api/networkapi/templates/fragments/buyersguide/item.html:48
+#, python-format
+msgid "link to %(product)s"
+msgstr "koppeling naar %(product)s"
+
+#: network-api/networkapi/templates/fragments/buyersguide/most_voted_rating.html:5
+msgid "People voted:"
+msgstr "Mensen stemden op:"
+
+#: network-api/networkapi/templates/fragments/buyersguide/no_search_results.html:5
+msgid "Sad face. No products were found."
+msgstr "Boehoe. Geen producten gevonden."
+
+#: network-api/networkapi/templates/fragments/buyersguide/no_search_results.html:8
+msgid "Oh no! We didn’t find that here."
+msgstr "Oh nee! We hebben dat hier niet gevonden."
+
+#: network-api/networkapi/templates/fragments/buyersguide/no_search_results.html:13
+#, python-format
+msgid "Try going back to <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. You might find it there."
+msgstr "Probeer terug te gaan naar <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">Alles</a>. Wellicht vindt u het daar."
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:2
+msgctxt "Tooltip on menu items"
+msgid "site navigation"
+msgstr "hoofdwebsitenavigatie"
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:10
+#: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:19
+#: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:29
+#: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:31
+msgid "All Categories"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:8
+msgid "All Product Reviews"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:10
+msgid "All Reviews"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:31
+msgid "Search all products"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:6
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:43
+msgid "Product Reviews"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:16
+msgid "About"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:7
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:7
+#: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:8
+msgid "*privacy not included"
+msgstr "*privacy niet inbegrepen"
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
+msgid "Help shape the future of the web for the public good."
+msgstr "Help mee de toekomst van het internet vorm te geven voor het algemeen belang."
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
+msgid "Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:22
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:37
+msgid "Creepiness: Least – Most"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:26
+msgid "Open drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:40
+msgid "Close drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:47
+msgid "Creepiness: Most – Least"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:53
+msgid "Alphabetical"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/popular_articles.html:3
+#: network-api/networkapi/templates/pages/buyersguide/editorial_content_index_page.html:46
+#: network-api/networkapi/templates/pages/buyersguide/editorial_content_index_page.html:69
+msgid "Popular"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:18
+msgid "Search All Products"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:36
+msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "Privacy Not Included"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:54
+#: network-api/networkapi/templates/partials/footer.html:52
+#: network-api/networkapi/templates/partials/primary_nav.html:67
+msgid "Donate"
+msgstr "Doneren"
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:55
+#: network-api/networkapi/templates/partials/primary_nav.html:22
+#: network-api/networkapi/templates/partials/primary_nav.html:68
+msgid "Newsletter"
+msgstr "Nieuwsbrief"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_criterion.html:4
+msgid "This section requires attention."
+msgstr "Deze sectie vereist aandacht."
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_criterion_primary_info.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:16
+msgctxt "icon description for screen readers"
+msgid "information"
+msgstr "informatie"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_privacy.html:12
+msgid "(opens in a new tab)"
+msgstr "(opent in een nieuw tabblad)"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:14
+msgid "Can it snoop on me?"
+msgstr "Kan het me bespioneren?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:20
+msgid "Camera"
+msgstr "Camera"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:21
+msgid "Microphone"
+msgstr "Microfoon"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:22
+msgid "Tracks location"
+msgstr "Volgt locatie"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:38
+msgid "What can be used to sign up?"
+msgstr "Wat is er nodig om u aan te melden?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:41
+msgctxt "Email address"
+msgid "Email"
+msgstr "E-mailadres"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:42
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:43
+msgid "Third-party account"
+msgstr "Account van derden"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:62
+msgid "What data does the company collect?"
+msgstr "Welke gegevens verzamelt het bedrijf?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:65
+msgid "Personal"
+msgstr "Persoonlijke"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:66
+msgid "Body related"
+msgstr "Lichaamsgerelateerd"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:67
+msgid "Social"
+msgstr "Sociale"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:81
+msgid "How does the company use this data?"
+msgstr "Hoe gebruikt het bedrijf deze gegevens?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:86
+msgid "How can you control your data?"
+msgstr "Hoe kunt u uw gegevens beheren?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:89
+msgid "What is the company’s known track record of protecting users’ data?"
+msgstr "Hoe staat het bedrijf bekend als het gaat om het beschermen van gebruikersgegevens?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:93
+msgid "Child Privacy Information"
+msgstr "Privacyinformatie voor kinderen"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:96
+msgid "Can this product be used offline?"
+msgstr "Kan dit product offline worden gebruikt?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:102
+msgid "User-friendly privacy information?"
+msgstr "Gebruikersvriendelijke privacy-informatie?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:106
+msgid "Links to privacy information"
+msgstr "Koppelingen naar privacy-informatie"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:112
+#, python-format
+msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+msgstr "Voldoet dit product aan onze <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">minimale beveiligingsnormen</a>?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:117
+msgid "Encryption"
+msgstr "Versleuteling"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:118
+msgid "Security updates"
+msgstr "Beveiligingsupdates"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:119
+msgid "Strong password"
+msgstr "Sterk wachtwoord"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:120
+msgid "Manages vulnerabilities"
+msgstr "Beheert kwetsbaarheden"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:121
+msgid "Privacy policy"
+msgstr "Privacybeleid"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:133
+msgid "Does the product use AI?"
+msgstr "Gebruikt het product AI?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:137
+msgid "Is this AI untrustworthy?"
+msgstr "Is deze AI onbetrouwbaar?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:142
+msgid "What kind of decisions does the AI make about you or for you?"
+msgstr "Wat voor soort beslissingen neemt de AI over u of voor u?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:149
+msgid "Is the company transparent about how the AI works?"
+msgstr "Is het bedrijf transparant over hoe de AI werkt?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:152
+msgid "Does the user have control over the AI features?"
+msgstr "Heeft de gebruiker controle over de AI-functies?"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:11
+#: network-api/networkapi/templates/partials/footer.html:59
+msgid "Privacy"
+msgstr "Privacy"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:13
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:22
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:31
+msgctxt "icon description for screen readers"
+msgid "warning"
+msgstr "waarschuwing"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:20
+msgid "Security"
+msgstr "Beveiliging"
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:29
+msgid "A.I."
+msgstr "A.I."
+
+#: network-api/networkapi/templates/fragments/buyersguide/related_reading.html:3
+msgid "Related"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/research_details.html:10
+#, python-format
+msgctxt "Date format (e.g. Nov. 19, 2020)"
+msgid "Review date: %(date)s"
+msgstr "Beoordelingsdatum: %(date)s"
+
+#: network-api/networkapi/templates/fragments/buyersguide/research_details.html:15
+#, python-format
+msgid "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hour"
+msgid_plural "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hours"
+msgstr[0] "<a %(link_attrs)s>Mozilla onderzocht</a> %(time_researched)s uur"
+msgstr[1] "<a %(link_attrs)s>Mozilla onderzocht</a> %(time_researched)s uur"
+
+#: network-api/networkapi/templates/fragments/buyersguide/research_details.html:27
+msgctxt "This string is followed by a thumb up, thumb down, or thumb on the side icon to summarize Mozilla’s review of the product"
+msgid "Mozilla says"
+msgstr "Mozilla zegt"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:10
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
+msgid "Share on Facebook"
+msgstr "Delen op Facebook"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:15
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
+msgid "Facebook"
+msgstr "Facebook"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:17
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:17
+msgid "Share on Twitter"
+msgstr "Delen op Twitter"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:19
+#: network-api/networkapi/templates/partials/footer.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
+msgid "Twitter"
+msgstr "Twitter"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:26
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:26
+msgid "Share by Email"
+msgstr "Delen via e-mail"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:28
+msgctxt "Button to share the page by email"
+msgid "Email"
+msgstr "E-mail"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:31
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:31
+msgid "Copy page URL to clipboard"
+msgstr "Pagina-URL naar klembord kopiëren"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:33
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:33
+msgid "Copy to clipboard"
+msgstr "Kopiëren naar klembord"
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: network-api/networkapi/templates/fragments/buyersguide/submit_a_product.html:3
+msgid "Submit a product"
+msgstr "Een product voorstellen"
 
 #: network-api/networkapi/templates/fragments/continuous_scrolling_next.html:6
 msgctxt "String followed by the next page title the user will reach by scrolling down"
@@ -39,11 +512,123 @@ msgstr "Terug naar inhoud"
 msgid "Language"
 msgstr "Taal"
 
+#: network-api/networkapi/templates/fragments/pagination.html:13
+msgctxt "Pagination link"
+msgid "Prev. page"
+msgstr "Vorige pagina"
+
+#: network-api/networkapi/templates/fragments/pagination.html:23
+msgctxt "Pagination link"
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: network-api/networkapi/templates/fragments/profile_names_list.html:4
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
+msgid "and"
+msgstr "en"
+
 #: network-api/networkapi/templates/pages/base.html:12
 #: network-api/networkapi/templates/partials/footer.html:31
-#: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/partials/primary_nav.html:46
 msgid "Mozilla Foundation"
 msgstr "Mozilla Foundation"
+
+#: network-api/networkapi/templates/pages/buyersguide/article_page.html:31
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
+#, python-format
+msgid "%(title)s by @mozilla"
+msgstr "%(title)s door @mozilla"
+
+#: network-api/networkapi/templates/pages/buyersguide/article_page.html:52
+msgid "PRIMARY RELATED ARTICLES"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:10
+msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*privacy not included | Shop smart and safe"
+msgstr "*privacy niet inbegrepen"
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:19
+msgctxt "*Privacy Not Included can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*Privacy Not Included: A Buyer’s Guide for Connected Products"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:26
+msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*privacy not included | Shop smart and safe | Mozilla Foundation"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:27
+msgid "Privacy & Security Guide | Mozilla Foundation"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:61
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:69
+msgctxt "Sticky button in mobile view on campaign pages"
+msgid "TAKE ACTION"
+msgstr "ONDERNEEM ACTIE"
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:16
+msgid "Make smart choices to protect your privacy. <br /> Search for products. Read expert reviews. Get tips and tricks."
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:81
+msgid "Has privacy ding"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:101
+msgid "Sort by "
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:146
+msgid "Don’t see the product you’re looking for?"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:147
+msgid "Let us know what product you would like reviewed in the guide."
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:12
+#, fuzzy, python-format
+msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "privacy not included - %(product.title)s"
+msgstr "*privacy niet inbegrepen"
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:54
+msgid "<strong>Warning</strong>: *privacy not included with this product"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:78
+msgid "Wi-Fi"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:81
+msgid "Bluetooth"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:120
+msgid "What could happen if something goes wrong?"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:128
+msgid "Tips to protect yourself"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:178
+msgid "Related products"
+msgstr "Gerelateerde inhoud"
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:196
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
+msgid "Comments"
+msgstr "Opmerkingen"
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:197
+msgid "Got a comment? Let us hear it."
+msgstr ""
 
 #: network-api/networkapi/templates/partials/404.html:7
 msgid "Uh oh!"
@@ -107,13 +692,6 @@ msgstr "Terug naar startpagina"
 msgid "More about us"
 msgstr "Meer over ons"
 
-#: network-api/networkapi/templates/partials/footer.html:42
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
-msgid "Twitter"
-msgstr "Twitter"
-
 #: network-api/networkapi/templates/partials/footer.html:43
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
 msgid "Instagram"
@@ -126,12 +704,6 @@ msgstr "GitHub"
 #: network-api/networkapi/templates/partials/footer.html:45
 msgid "Youtube"
 msgstr "YouTube"
-
-#: network-api/networkapi/templates/partials/footer.html:52
-#: network-api/networkapi/templates/partials/primary_nav.html:66
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:27
-msgid "Donate"
-msgstr "Doneren"
 
 #: network-api/networkapi/templates/partials/footer.html:54
 msgid "Careers"
@@ -153,11 +725,6 @@ msgstr "Richtlijnen voor deelname"
 msgid "Press Center"
 msgstr "Perscentrum"
 
-#: network-api/networkapi/templates/partials/footer.html:59
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:11
-msgid "Privacy"
-msgstr "Privacy"
-
 #: network-api/networkapi/templates/partials/footer.html:65
 msgid "This website supports Web Monetization."
 msgstr "Deze website ondersteunt Web Monetization."
@@ -172,95 +739,89 @@ msgstr "<a href=\"%(url)s\">Meer info</a> over onze implementatie"
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla is een wereldwijde non-profitorganisatie, toegewijd aan het geven van de controle over uw onlinebeleving en het vormen van de toekomst van het internet in het algemeen belang. Bezoek ons op <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. De meeste inhoud is beschikbaar onder een <a href=\"%(cc_website_url)s\">Creative Commons-licentie</a>."
 
-#: network-api/networkapi/templates/partials/primary_nav.html:18
+#: network-api/networkapi/templates/partials/primary_nav.html:19
 msgid "Home"
 msgstr "Startpagina"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:21
-#: network-api/networkapi/templates/partials/primary_nav.html:67
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:28
-msgid "Newsletter"
-msgstr "Nieuwsbrief"
-
-#: network-api/networkapi/templates/partials/primary_nav.html:31
+#: network-api/networkapi/templates/partials/primary_nav.html:32
 msgctxt "Tooltip on menu items"
 msgid "main site navigation"
 msgstr "hoofdwebsitenavigatie"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:38
+#: network-api/networkapi/templates/partials/primary_nav.html:39
 msgid "Open menu"
 msgstr "Menu openen"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/partials/primary_nav.html:46
 msgid "Mozilla Foundation Homepage"
 msgstr "Startpagina Mozilla Foundation"
 
-#: network-api/networkapi/templates/partials/primary_nav.html:87
+#: network-api/networkapi/templates/partials/primary_nav.html:88
 msgid "No thanks"
 msgstr "Nee, bedankt"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:268
-msgid "Not creepy"
-msgstr "Niet griezelig"
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:78
+msgid "Related articles"
+msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:269
-msgid "A little creepy"
-msgstr "Een beetje griezelig"
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:270
-msgid "Somewhat creepy"
-msgstr "Enigszins griezelig"
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:271
-msgid "Very creepy"
-msgstr "Heel griezelig"
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:272
-msgid "Super creepy"
-msgstr "Supergriezelig"
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:791
-msgid "*Privacy Not Included review:"
-msgstr "*Privacy niet inbegrepen-beoordeling:"
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:954
-msgid "Privacy & security guide"
-msgstr "Privacy- en beveiligingsgids"
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1445
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:204
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Gebruik van *privacy niet inbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1454
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:213
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Waarom we *privacy niet inbegrepen hebben gemaakt"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1461
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:220
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Pers"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1463
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1472
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1481
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1490
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:222
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:240
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy niet inbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1470
-msgid "Contact us"
-msgstr "Contact"
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1479
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:238
 msgid "Our methodology"
 msgstr "Onze methodologie"
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1488
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:247
 msgid "Contest terms and conditions"
 msgstr "Wedstrijdvoorwaarden"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:258
+msgid "Not creepy"
+msgstr "Niet griezelig"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:259
+msgid "A little creepy"
+msgstr "Een beetje griezelig"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:260
+msgid "Somewhat creepy"
+msgstr "Enigszins griezelig"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:261
+msgid "Very creepy"
+msgstr "Heel griezelig"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:262
+msgid "Super creepy"
+msgstr "Supergriezelig"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:781
+msgid "*Privacy Not Included review:"
+msgstr "*Privacy niet inbegrepen-beoordeling:"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:956
+msgid "Privacy & security guide"
+msgstr "Privacy- en beveiligingsgids"
 
 #: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:54
 msgid "Newest first"
@@ -283,11 +844,6 @@ msgctxt "Option in a list of years"
 msgid "Any"
 msgstr "Alle"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:8
-msgid "this product has adult content"
-msgstr "dit product bevat inhoud voor volwassenen"
-
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18
 #: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:95
 msgid "Summary"
@@ -303,259 +859,9 @@ msgstr "Inhoudsopgave"
 msgid "Close"
 msgstr "Sluiten"
 
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:11
-msgid "*privacy not included with this product"
-msgstr "*bij dit product is privacy niet inbegrepen"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:31
-#, python-format
-msgid "link to %(product)s"
-msgstr "koppeling naar %(product)s"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:6
-msgid "Device:"
-msgstr "Apparaat:"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:7
-msgid "App:"
-msgstr "App:"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/most_voted_rating.html:5
-msgid "People voted:"
-msgstr "Mensen stemden op:"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:4
-msgid "Sad face. No products were found."
-msgstr "Boehoe. Geen producten gevonden."
-
-#: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:7
-msgid "Oh no! We didn’t find that here."
-msgstr "Oh nee! We hebben dat hier niet gevonden."
-
-#: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:12
-#, python-format
-msgid "Try going back to <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. You might find it there."
-msgstr "Probeer terug te gaan naar <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">Alles</a>. Wellicht vindt u het daar."
-
-#: network-api/networkapi/wagtailpages/templates/fragments/pni_nav_links.html:5
-msgid "About the Guide"
-msgstr "Over de gids"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:8
-msgid "*privacy not included"
-msgstr "*privacy niet inbegrepen"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion.html:4
-msgid "This section requires attention."
-msgstr "Deze sectie vereist aandacht."
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:8
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:15
-msgctxt "icon description for screen readers"
-msgid "information"
-msgstr "informatie"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_privacy.html:12
-msgid "(opens in a new tab)"
-msgstr "(opent in een nieuw tabblad)"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:13
-msgid "Can it snoop on me?"
-msgstr "Kan het me bespioneren?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:19
-msgid "Camera"
-msgstr "Camera"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:20
-msgid "Microphone"
-msgstr "Microfoon"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:21
-msgid "Tracks location"
-msgstr "Volgt locatie"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:37
-msgid "What can be used to sign up?"
-msgstr "Wat is er nodig om u aan te melden?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:40
-msgctxt "Email address"
-msgid "Email"
-msgstr "E-mailadres"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:41
-msgid "Phone"
-msgstr "Telefoonnummer"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:42
-msgid "Third-party account"
-msgstr "Account van derden"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:61
-msgid "What data does the company collect?"
-msgstr "Welke gegevens verzamelt het bedrijf?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:64
-msgid "Personal"
-msgstr "Persoonlijke"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:65
-msgid "Body related"
-msgstr "Lichaamsgerelateerd"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:66
-msgid "Social"
-msgstr "Sociale"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:80
-msgid "How does the company use this data?"
-msgstr "Hoe gebruikt het bedrijf deze gegevens?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:85
-msgid "How can you control your data?"
-msgstr "Hoe kunt u uw gegevens beheren?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:88
-msgid "What is the company’s known track record of protecting users’ data?"
-msgstr "Hoe staat het bedrijf bekend als het gaat om het beschermen van gebruikersgegevens?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:92
-msgid "Child Privacy Information"
-msgstr "Privacyinformatie voor kinderen"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:95
-msgid "Can this product be used offline?"
-msgstr "Kan dit product offline worden gebruikt?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:101
-msgid "User-friendly privacy information?"
-msgstr "Gebruikersvriendelijke privacy-informatie?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:105
-msgid "Links to privacy information"
-msgstr "Koppelingen naar privacy-informatie"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:111
-#, python-format
-msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr "Voldoet dit product aan onze <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">minimale beveiligingsnormen</a>?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:116
-msgid "Encryption"
-msgstr "Versleuteling"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:117
-msgid "Security updates"
-msgstr "Beveiligingsupdates"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:118
-msgid "Strong password"
-msgstr "Sterk wachtwoord"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:119
-msgid "Manages vulnerabilities"
-msgstr "Beheert kwetsbaarheden"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:120
-msgid "Privacy policy"
-msgstr "Privacybeleid"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
-msgid "Does the product use AI?"
-msgstr "Gebruikt het product AI?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:136
-msgid "Is this AI untrustworthy?"
-msgstr "Is deze AI onbetrouwbaar?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:141
-msgid "What kind of decisions does the AI make about you or for you?"
-msgstr "Wat voor soort beslissingen neemt de AI over u of voor u?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:148
-msgid "Is the company transparent about how the AI works?"
-msgstr "Is het bedrijf transparant over hoe de AI werkt?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:151
-msgid "Does the user have control over the AI features?"
-msgstr "Heeft de gebruiker controle over de AI-functies?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:13
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:22
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:31
-msgctxt "icon description for screen readers"
-msgid "warning"
-msgstr "waarschuwing"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:20
-msgid "Security"
-msgstr "Beveiliging"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:29
-msgid "A.I."
-msgstr "A.I."
-
-#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:10
-#, python-format
-msgctxt "Date format (e.g. Nov. 19, 2020)"
-msgid "Review date: %(date)s"
-msgstr "Beoordelingsdatum: %(date)s"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:15
-#, python-format
-msgid "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hour"
-msgid_plural "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hours"
-msgstr[0] "<a %(link_attrs)s>Mozilla onderzocht</a> %(time_researched)s uur"
-msgstr[1] "<a %(link_attrs)s>Mozilla onderzocht</a> %(time_researched)s uur"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:27
-msgctxt "This string is followed by a thumb up, thumb down, or thumb on the side icon to summarize Mozilla’s review of the product"
-msgid "Mozilla says"
-msgstr "Mozilla zegt"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:3
-msgid "How are your recordings handled?"
-msgstr "Hoe wordt er met uw opnames omgegaan?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:4
-msgid "Alerts when calls are being recorded?"
-msgstr "Waarschuwt wanneer oproepen worden opgenomen?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:5
-msgid "Does the platform say it is compliant with US medical privacy laws?"
-msgstr "Stelt het platform dat het in overeenstemming is met Amerikaanse medische privacywetgeving?"
-
-#: network-api/networkapi/wagtailpages/templates/fragments/submit_a_product.html:3
-msgid "Submit a product"
-msgstr "Een product voorstellen"
-
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:11
-msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*Privacy Not Included"
-msgstr "*Privacy niet inbegrepen"
-
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:18
-msgid "Privacy Not Included"
-msgstr "Privacy niet inbegrepen"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
-#, python-format
-msgid "%(title)s by @mozilla"
-msgstr "%(title)s door @mozilla"
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:43
 msgid "SUMMARY"
 msgstr "SAMENVATTING"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
-msgctxt "Sticky button in mobile view on campaign pages"
-msgid "TAKE ACTION"
-msgstr "ONDERNEEM ACTIE"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_index_callout_box.html:9
 msgctxt "icon description for screen readers"
@@ -588,20 +894,6 @@ msgstr "Blog doorzoeken"
 msgctxt "Blog search bar"
 msgid "Search all blog"
 msgstr "Alle blogs doorzoeken"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
-msgid "Comments"
-msgstr "Opmerkingen"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:11
-msgid "By"
-msgstr "Door"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:15
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
-msgid "and"
-msgstr "en"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:10
 msgctxt "icon description for screen readers"
@@ -655,12 +947,6 @@ msgstr "Onze aandachtsgebieden"
 msgid "YouTube"
 msgstr "YouTube"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:15
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
-msgid "Facebook"
-msgstr "Facebook"
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
 msgid "News you can use"
 msgstr "Nieuws dat u kunt gebruiken"
@@ -677,16 +963,6 @@ msgstr "Abonneren op onze nieuwsbrief"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:10
 msgid "Help shape the future of the web for the public good. Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
 msgstr "Help mee de toekomst van het web vorm te geven voor het algemeen belang. Word lid van onze Mozilla News-e-maillijst om actiewaarschuwingen en internettips rechtstreeks in uw Postvak IN te ontvangen."
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:13
-msgctxt "Pagination link"
-msgid "Prev. page"
-msgstr "Vorige pagina"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:23
-msgctxt "Pagination link"
-msgid "Next page"
-msgstr "Volgende pagina"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
@@ -715,43 +991,9 @@ msgstr "Zoeken"
 msgid "Search…"
 msgstr "Zoeken…"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
-msgid "Share on Facebook"
-msgstr "Delen op Facebook"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:17
-msgid "Share on Twitter"
-msgstr "Delen op Twitter"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:26
-msgid "Share by Email"
-msgstr "Delen via e-mail"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:28
-msgctxt "Button to share the page by email"
-msgid "Email"
-msgstr "E-mail"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:31
-msgid "Copy page URL to clipboard"
-msgstr "Pagina-URL naar klembord kopiëren"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:33
-msgid "Copy to clipboard"
-msgstr "Kopiëren naar klembord"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:35
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
-msgid "Copy"
-msgstr "Kopiëren"
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
 msgid "Spotlight"
 msgstr "Spotlight"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
-msgid "Help shape the future of the web for the public good."
-msgstr "Help mee de toekomst van het internet vorm te geven voor het algemeen belang."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
 msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
@@ -772,10 +1014,6 @@ msgstr "voor"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:53
 msgid "clear filters"
 msgstr "filters wissen"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:69
-msgid "Load more results"
-msgstr "Meer resultaten laden"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:55
 msgid "Latest research"
@@ -976,6 +1214,25 @@ msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Slecht"
 
+#~ msgid "About the Guide"
+#~ msgstr "Over de gids"
+
+#~ msgid "How are your recordings handled?"
+#~ msgstr "Hoe wordt er met uw opnames omgegaan?"
+
+#~ msgid "Alerts when calls are being recorded?"
+#~ msgstr "Waarschuwt wanneer oproepen worden opgenomen?"
+
+#~ msgid "Does the platform say it is compliant with US medical privacy laws?"
+#~ msgstr "Stelt het platform dat het in overeenstemming is met Amerikaanse medische privacywetgeving?"
+
+#~ msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "*Privacy Not Included"
+#~ msgstr "*Privacy niet inbegrepen"
+
+#~ msgid "Privacy Not Included"
+#~ msgstr "Privacy niet inbegrepen"
+
 #~ msgid "Show All"
 #~ msgstr "Alles tonen"
 
@@ -1059,20 +1316,8 @@ msgstr "Slecht"
 #~ msgid "28 reasons why YouTube must change: startling stories of YouTube’s recommendations leading people down bizarre and dangerous paths"
 #~ msgstr "28 redenen waarom YouTube moet veranderen: verbijsterende verhalen van aanbevelingen van YouTube die mensen in bizarre en gevaarlijke richtingen leiden"
 
-#~ msgid "Why we made this guide"
-#~ msgstr "Waarom we *privacy niet inbegrepen hebben gemaakt"
-
-#~ msgid "How to use this guide"
-#~ msgstr "Gebruik van *privacy niet inbegrepen"
-
-#~ msgid "Methodology"
-#~ msgstr "Onze methodologie"
-
 #~ msgid "Minimum Security Standards explained"
 #~ msgstr "Onze minimale beveiligingsnormen"
-
-#~ msgid "Press"
-#~ msgstr "Pers"
 
 #~ msgid "Contact Us"
 #~ msgstr "Contact"
@@ -1097,21 +1342,6 @@ msgstr "Slecht"
 
 #~ msgid "Minimum Security Standards"
 #~ msgstr "Onze minimale beveiligingsnormen"
-
-#~ msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
-#~ msgid "*privacy not included | Shop smart and safe"
-#~ msgstr "*privacy niet inbegrepen"
-
-#~ msgctxt "Tooltip on menu items"
-#~ msgid "site navigation"
-#~ msgstr "hoofdwebsitenavigatie"
-
-#~ msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-#~ msgid "privacy not included - %(product.title)s"
-#~ msgstr "*privacy niet inbegrepen"
-
-#~ msgid "Related products"
-#~ msgstr "Gerelateerde inhoud"
 
 #~ msgid "This is part of a broader movement for a healthy internet. <a %(see_more_link)s>See more</a>."
 #~ msgstr "Dit maakt deel uit van een bredere beweging die streeft naar een gezond internet. <a %(see_more_link)s>Meer lezen</a>."
