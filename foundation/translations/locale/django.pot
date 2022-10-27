@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-20 13:49+0000\n"
+"POT-Creation-Date: 2022-10-27 13:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,479 @@ msgstr ""
 
 #: network-api/networkapi/templates/404.html:6
 msgid "Page Not Found"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:11
+msgctxt "Tooltip on menu items"
+msgid "about sections"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:12
+msgid "Why we made this guide"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:13
+msgid "How to use this guide"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:14
+msgid "Methodology"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:229
+msgid "Contact us"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:16
+msgid "Press"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/adult_content_badge.html:7
+#: network-api/networkapi/templates/fragments/buyersguide/adult_content_badge.html:8
+msgid "this product has adult content"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/article_listing_compact.html:33
+#: network-api/networkapi/templates/fragments/buyersguide/article_listing_wide.html:13
+msgid "All articles"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/article_listing_what_to_read_next.html:3
+msgid "What to read next"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:9
+msgid "Ask Jen"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:18
+msgid "Have a question you want to ask? <a target=\"_blank\" href=\"https://mozillafoundation.typeform.com/ask-jen\" class=\"tw-underline tw-text-blue-80\">Submit it here!</a>"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:32
+msgctxt "Short for ‘question’, please keep this translation short"
+msgid "Q:"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:34
+msgctxt "Short for ‘answer’, please keep this translation short"
+msgid "A:"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/ask_jen_advice_section.html:39
+msgid "Read full answer"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:21
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:43
+msgid "More"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:23
+msgid "Open category drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:45
+msgid "Close category drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:5
+msgid "Dive Deeper"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:23
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:24
+msgid "Show more"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:23
+msgid "Show less"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/editorial_content_index_items.html:30
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:69
+msgid "Load more results"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/featured_article.html:16
+#: network-api/networkapi/templates/fragments/byline.html:9
+msgid "By"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/in_the_press.html:4
+msgid "In the press"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/in_the_press.html:21
+msgid "All press"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/it_uses.html:6
+msgid "Device:"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/it_uses.html:7
+msgid "App:"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/item.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/item.html:28
+msgid "*privacy not included with this product"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/item.html:48
+#, python-format
+msgid "link to %(product)s"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/most_voted_rating.html:5
+msgid "People voted:"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/no_search_results.html:5
+msgid "Sad face. No products were found."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/no_search_results.html:8
+msgid "Oh no! We didn’t find that here."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/no_search_results.html:13
+#, python-format
+msgid "Try going back to <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. You might find it there."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:2
+msgctxt "Tooltip on menu items"
+msgid "site navigation"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:10
+#: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:19
+#: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:29
+#: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:31
+msgid "All Categories"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:8
+msgid "All Product Reviews"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:10
+msgid "All Reviews"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:31
+msgid "Search all products"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:6
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:43
+msgid "Product Reviews"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:16
+msgid "About"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:7
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:7
+#: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:8
+msgid "*privacy not included"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
+msgid "Help shape the future of the web for the public good."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
+msgid "Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:22
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:37
+msgid "Creepiness: Least – Most"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:26
+msgid "Open drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:40
+msgid "Close drop down"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:47
+msgid "Creepiness: Most – Least"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:53
+msgid "Alphabetical"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/popular_articles.html:3
+#: network-api/networkapi/templates/pages/buyersguide/editorial_content_index_page.html:46
+#: network-api/networkapi/templates/pages/buyersguide/editorial_content_index_page.html:69
+msgid "Popular"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:18
+msgid "Search All Products"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:36
+msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "Privacy Not Included"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:54
+#: network-api/networkapi/templates/partials/footer.html:52
+#: network-api/networkapi/templates/partials/primary_nav.html:67
+msgid "Donate"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:55
+#: network-api/networkapi/templates/partials/primary_nav.html:22
+#: network-api/networkapi/templates/partials/primary_nav.html:68
+msgid "Newsletter"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_criterion.html:4
+msgid "This section requires attention."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_criterion_primary_info.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:16
+msgctxt "icon description for screen readers"
+msgid "information"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_privacy.html:12
+msgid "(opens in a new tab)"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:14
+msgid "Can it snoop on me?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:20
+msgid "Camera"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:21
+msgid "Microphone"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:22
+msgid "Tracks location"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:38
+msgid "What can be used to sign up?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:41
+msgctxt "Email address"
+msgid "Email"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:42
+msgid "Phone"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:43
+msgid "Third-party account"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:62
+msgid "What data does the company collect?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:65
+msgid "Personal"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:66
+msgid "Body related"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:67
+msgid "Social"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:81
+msgid "How does the company use this data?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:86
+msgid "How can you control your data?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:89
+msgid "What is the company’s known track record of protecting users’ data?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:93
+msgid "Child Privacy Information"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:96
+msgid "Can this product be used offline?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:102
+msgid "User-friendly privacy information?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:106
+msgid "Links to privacy information"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:112
+#, python-format
+msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:117
+msgid "Encryption"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:118
+msgid "Security updates"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:119
+msgid "Strong password"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:120
+msgid "Manages vulnerabilities"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:121
+msgid "Privacy policy"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:133
+msgid "Does the product use AI?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:137
+msgid "Is this AI untrustworthy?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:142
+msgid "What kind of decisions does the AI make about you or for you?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:149
+msgid "Is the company transparent about how the AI works?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:152
+msgid "Does the user have control over the AI features?"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:11
+#: network-api/networkapi/templates/partials/footer.html:59
+msgid "Privacy"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:13
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:22
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:31
+msgctxt "icon description for screen readers"
+msgid "warning"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:20
+msgid "Security"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:29
+msgid "A.I."
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/related_reading.html:3
+msgid "Related"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/research_details.html:10
+#, python-format
+msgctxt "Date format (e.g. Nov. 19, 2020)"
+msgid "Review date: %(date)s"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/research_details.html:15
+#, python-format
+msgid "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hour"
+msgid_plural "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/research_details.html:27
+msgctxt "This string is followed by a thumb up, thumb down, or thumb on the side icon to summarize Mozilla’s review of the product"
+msgid "Mozilla says"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:10
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
+msgid "Share on Facebook"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:15
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
+msgid "Facebook"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:17
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:17
+msgid "Share on Twitter"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:19
+#: network-api/networkapi/templates/partials/footer.html:42
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
+msgid "Twitter"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:26
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:26
+msgid "Share by Email"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:28
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:28
+msgctxt "Button to share the page by email"
+msgid "Email"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:31
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:31
+msgid "Copy page URL to clipboard"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:33
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:33
+msgid "Copy to clipboard"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/share-buttons.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
+msgid "Copy"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/submit_a_product.html:3
+msgid "Submit a product"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/continuous_scrolling_next.html:6
@@ -39,10 +512,122 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
+#: network-api/networkapi/templates/fragments/pagination.html:13
+msgctxt "Pagination link"
+msgid "Prev. page"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/pagination.html:23
+msgctxt "Pagination link"
+msgid "Next page"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/profile_names_list.html:4
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
+msgid "and"
+msgstr ""
+
 #: network-api/networkapi/templates/pages/base.html:12
 #: network-api/networkapi/templates/partials/footer.html:31
-#: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/partials/primary_nav.html:46
 msgid "Mozilla Foundation"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/article_page.html:31
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
+#, python-format
+msgid "%(title)s by @mozilla"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/article_page.html:52
+msgid "PRIMARY RELATED ARTICLES"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:10
+msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*privacy not included | Shop smart and safe"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:19
+msgctxt "*Privacy Not Included can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*Privacy Not Included: A Buyer’s Guide for Connected Products"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:26
+msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*privacy not included | Shop smart and safe | Mozilla Foundation"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/base.html:27
+msgid "Privacy & Security Guide | Mozilla Foundation"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:61
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:69
+msgctxt "Sticky button in mobile view on campaign pages"
+msgid "TAKE ACTION"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:16
+msgid "Make smart choices to protect your privacy. <br /> Search for products. Read expert reviews. Get tips and tricks."
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:81
+msgid "Has privacy ding"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:101
+msgid "Sort by "
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:146
+msgid "Don’t see the product you’re looking for?"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:147
+msgid "Let us know what product you would like reviewed in the guide."
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:12
+#, python-format
+msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "privacy not included - %(product.title)s"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:54
+msgid "<strong>Warning</strong>: *privacy not included with this product"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:78
+msgid "Wi-Fi"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:81
+msgid "Bluetooth"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:120
+msgid "What could happen if something goes wrong?"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:128
+msgid "Tips to protect yourself"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:178
+msgid "Related products"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:196
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
+msgid "Comments"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:197
+msgid "Got a comment? Let us hear it."
 msgstr ""
 
 #: network-api/networkapi/templates/partials/404.html:7
@@ -107,13 +692,6 @@ msgstr ""
 msgid "More about us"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/footer.html:42
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:19
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:46
-msgid "Twitter"
-msgstr ""
-
 #: network-api/networkapi/templates/partials/footer.html:43
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
 msgid "Instagram"
@@ -125,12 +703,6 @@ msgstr ""
 
 #: network-api/networkapi/templates/partials/footer.html:45
 msgid "Youtube"
-msgstr ""
-
-#: network-api/networkapi/templates/partials/footer.html:52
-#: network-api/networkapi/templates/partials/primary_nav.html:66
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:27
-msgid "Donate"
 msgstr ""
 
 #: network-api/networkapi/templates/partials/footer.html:54
@@ -153,11 +725,6 @@ msgstr ""
 msgid "Press Center"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/footer.html:59
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:11
-msgid "Privacy"
-msgstr ""
-
 #: network-api/networkapi/templates/partials/footer.html:65
 msgid "This website supports Web Monetization."
 msgstr ""
@@ -172,94 +739,88 @@ msgstr ""
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr ""
 
-#: network-api/networkapi/templates/partials/primary_nav.html:18
+#: network-api/networkapi/templates/partials/primary_nav.html:19
 msgid "Home"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/primary_nav.html:21
-#: network-api/networkapi/templates/partials/primary_nav.html:67
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:28
-msgid "Newsletter"
-msgstr ""
-
-#: network-api/networkapi/templates/partials/primary_nav.html:31
+#: network-api/networkapi/templates/partials/primary_nav.html:32
 msgctxt "Tooltip on menu items"
 msgid "main site navigation"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/primary_nav.html:38
+#: network-api/networkapi/templates/partials/primary_nav.html:39
 msgid "Open menu"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/partials/primary_nav.html:46
 msgid "Mozilla Foundation Homepage"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/primary_nav.html:87
+#: network-api/networkapi/templates/partials/primary_nav.html:88
 msgid "No thanks"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:268
-msgid "Not creepy"
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:78
+msgid "Related articles"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:269
-msgid "A little creepy"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:270
-msgid "Somewhat creepy"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:271
-msgid "Very creepy"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:272
-msgid "Super creepy"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:791
-msgid "*Privacy Not Included review:"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:954
-msgid "Privacy & security guide"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1445
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:204
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1454
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:213
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1461
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:220
 msgctxt "Noun, media"
 msgid "Press"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1463
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1472
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1481
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1490
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:222
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:240
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1470
-msgid "Contact us"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1479
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:238
 msgid "Our methodology"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/products.py:1488
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:247
 msgid "Contest terms and conditions"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:258
+msgid "Not creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:259
+msgid "A little creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:260
+msgid "Somewhat creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:261
+msgid "Very creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:262
+msgid "Super creepy"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:781
+msgid "*Privacy Not Included review:"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:956
+msgid "Privacy & security guide"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:54
@@ -283,11 +844,6 @@ msgctxt "Option in a list of years"
 msgid "Any"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/adult_content_badge.html:8
-msgid "this product has adult content"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18
 #: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:95
 msgid "Summary"
@@ -303,258 +859,8 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:10
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:11
-msgid "*privacy not included with this product"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/buyersguide_item.html:31
-#, python-format
-msgid "link to %(product)s"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:6
-msgid "Device:"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/it_uses.html:7
-msgid "App:"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/most_voted_rating.html:5
-msgid "People voted:"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:4
-msgid "Sad face. No products were found."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:7
-msgid "Oh no! We didn’t find that here."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/no_search_results.html:12
-#, python-format
-msgid "Try going back to <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. You might find it there."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/pni_nav_links.html:5
-msgid "About the Guide"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:7
-#: network-api/networkapi/wagtailpages/templates/fragments/privacy_ding.html:8
-msgid "*privacy not included"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion.html:4
-msgid "This section requires attention."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_criterion_primary_info.html:8
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:15
-msgctxt "icon description for screen readers"
-msgid "information"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_privacy.html:12
-msgid "(opens in a new tab)"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:13
-msgid "Can it snoop on me?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:19
-msgid "Camera"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:20
-msgid "Microphone"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:21
-msgid "Tracks location"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:37
-msgid "What can be used to sign up?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:40
-msgctxt "Email address"
-msgid "Email"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:41
-msgid "Phone"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:42
-msgid "Third-party account"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:61
-msgid "What data does the company collect?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:64
-msgid "Personal"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:65
-msgid "Body related"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:66
-msgid "Social"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:80
-msgid "How does the company use this data?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:85
-msgid "How can you control your data?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:88
-msgid "What is the company’s known track record of protecting users’ data?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:92
-msgid "Child Privacy Information"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:95
-msgid "Can this product be used offline?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:101
-msgid "User-friendly privacy information?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:105
-msgid "Links to privacy information"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:111
-#, python-format
-msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:116
-msgid "Encryption"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:117
-msgid "Security updates"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:118
-msgid "Strong password"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:119
-msgid "Manages vulnerabilities"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:120
-msgid "Privacy policy"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:132
-msgid "Does the product use AI?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:136
-msgid "Is this AI untrustworthy?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:141
-msgid "What kind of decisions does the AI make about you or for you?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:148
-msgid "Is the company transparent about how the AI works?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab.html:151
-msgid "Does the user have control over the AI features?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:13
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:22
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:31
-msgctxt "icon description for screen readers"
-msgid "warning"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:20
-msgid "Security"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/product_tab_header.html:29
-msgid "A.I."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:10
-#, python-format
-msgctxt "Date format (e.g. Nov. 19, 2020)"
-msgid "Review date: %(date)s"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:15
-#, python-format
-msgid "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hour"
-msgid_plural "<a %(link_attrs)s>Mozilla researched</a> %(time_researched)s hours"
-msgstr[0] ""
-msgstr[1] ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/research_details.html:27
-msgctxt "This string is followed by a thumb up, thumb down, or thumb on the side icon to summarize Mozilla’s review of the product"
-msgid "Mozilla says"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:3
-msgid "How are your recordings handled?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:4
-msgid "Alerts when calls are being recorded?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/software_product_privacy.html:5
-msgid "Does the platform say it is compliant with US medical privacy laws?"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/fragments/submit_a_product.html:3
-msgid "Submit a product"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:11
-msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*Privacy Not Included"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/primary_nav.html:18
-msgid "Privacy Not Included"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
-#, python-format
-msgid "%(title)s by @mozilla"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:43
 msgid "SUMMARY"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:66
-msgctxt "Sticky button in mobile view on campaign pages"
-msgid "TAKE ACTION"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_index_callout_box.html:9
@@ -587,20 +893,6 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:9
 msgctxt "Blog search bar"
 msgid "Search all blog"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
-msgid "Comments"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:11
-msgid "By"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_authors.html:15
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
-msgid "and"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/blog_index_feature.html:10
@@ -655,12 +947,6 @@ msgstr ""
 msgid "YouTube"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:15
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:12
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:45
-msgid "Facebook"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:7
 msgid "News you can use"
 msgstr ""
@@ -676,16 +962,6 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:10
 msgid "Help shape the future of the web for the public good. Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:13
-msgctxt "Pagination link"
-msgid "Prev. page"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/pagination.html:23
-msgctxt "Pagination link"
-msgid "Next page"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
@@ -715,42 +991,8 @@ msgstr ""
 msgid "Search…"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:10
-msgid "Share on Facebook"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:17
-msgid "Share on Twitter"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:26
-msgid "Share by Email"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:28
-msgctxt "Button to share the page by email"
-msgid "Email"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:31
-msgid "Copy page URL to clipboard"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:33
-msgid "Copy to clipboard"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/share-buttons.html:35
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:50
-msgid "Copy"
-msgstr ""
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
 msgid "Spotlight"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
-msgid "Help shape the future of the web for the public good."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
@@ -771,10 +1013,6 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:53
 msgid "clear filters"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:69
-msgid "Load more results"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/research_author_detail_page.html:55
