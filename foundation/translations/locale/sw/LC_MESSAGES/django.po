@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-19 08:58+0000\n"
+"POT-Creation-Date: 2023-02-06 07:54+0000\n"
 "PO-Revision-Date: 2022-12-15 09:44+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -184,6 +184,10 @@ msgstr ""
 msgid "Search all products"
 msgstr "Tafuta bidhaa zote"
 
+#: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_search.html:15
+msgid "Search All Products"
+msgstr ""
+
 #: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:6
 #: network-api/networkapi/templates/pages/buyersguide/catalog.html:43
 msgid "Product Reviews"
@@ -192,6 +196,12 @@ msgstr ""
 #: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:16
 msgid "About"
 msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:17
+#: network-api/networkapi/templates/partials/footer.html:52
+#: network-api/networkapi/templates/partials/primary_nav.html:66
+msgid "Donate"
+msgstr "Changa"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:7
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:8
@@ -236,22 +246,12 @@ msgstr ""
 msgid "Popular"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:22
-msgid "Search All Products"
-msgstr ""
-
-#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:41
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:18
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "Privacy Not Included"
 msgstr "Faragha Haijajumuishwa"
 
-#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:59
-#: network-api/networkapi/templates/partials/footer.html:52
-#: network-api/networkapi/templates/partials/primary_nav.html:66
-msgid "Donate"
-msgstr "Changa"
-
-#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:60
+#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:36
 #: network-api/networkapi/templates/partials/primary_nav.html:21
 #: network-api/networkapi/templates/partials/primary_nav.html:67
 msgid "Newsletter"
@@ -500,6 +500,23 @@ msgctxt "String followed by the next page title the user will reach by scrolling
 msgid "Keep Scrolling For"
 msgstr "Endelea Kubingiriza"
 
+#: network-api/networkapi/templates/fragments/custom_hero_guts.html:51
+#: network-api/networkapi/templates/fragments/publication_hero.html:54
+msgid "Written by"
+msgstr "Imeandikwa na"
+
+#: network-api/networkapi/templates/fragments/custom_hero_guts.html:56
+#: network-api/networkapi/templates/fragments/profile_names_list.html:5
+#: network-api/networkapi/templates/fragments/publication_hero.html:59
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/article_teaser_block.html:34
+msgid "and"
+msgstr "na"
+
+#: network-api/networkapi/templates/fragments/custom_hero_guts.html:82
+#: network-api/networkapi/templates/fragments/publication_hero.html:73
+msgid "Download PDF"
+msgstr "Pakua PDF"
+
 #: network-api/networkapi/templates/fragments/footnotes.html:9
 msgid "Footnotes"
 msgstr "Vielezi chini"
@@ -522,25 +539,22 @@ msgctxt "Pagination link"
 msgid "Next page"
 msgstr "Ukurasa unaofuata"
 
-#: network-api/networkapi/templates/fragments/profile_names_list.html:5
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/article_teaser_block.html:34
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:56
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:60
-msgid "and"
-msgstr "na"
+#: network-api/networkapi/templates/pages/article_page.html:29
+#: network-api/networkapi/templates/pages/buyersguide/article_page.html:29
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
+#, python-format
+msgid "%(title)s by @mozilla"
+msgstr "%(title)s na @mozilla"
+
+#: network-api/networkapi/templates/pages/article_page.html:43
+msgid "SUMMARY"
+msgstr "MUHTASARI"
 
 #: network-api/networkapi/templates/pages/base.html:12
 #: network-api/networkapi/templates/partials/footer.html:31
 #: network-api/networkapi/templates/partials/primary_nav.html:45
 msgid "Mozilla Foundation"
 msgstr "Mozilla Foundation"
-
-#: network-api/networkapi/templates/pages/buyersguide/article_page.html:29
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:29
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:27
-#, python-format
-msgid "%(title)s by @mozilla"
-msgstr "%(title)s na @mozilla"
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:10
 msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
@@ -856,10 +870,6 @@ msgstr "Yaliyomo"
 msgid "Close"
 msgstr "Funga"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/article_page.html:43
-msgid "SUMMARY"
-msgstr "MUHTASARI"
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_index_callout_box.html:9
 msgctxt "icon description for screen readers"
 msgid "audio"
@@ -917,16 +927,6 @@ msgctxt "Search results page with no results to display."
 msgid "Sorry, we couldn’t find anything with that search term."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:51
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:55
-msgid "Written by"
-msgstr "Imeandikwa na"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/custom_hero_guts.html:82
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/publication_hero.html:74
-msgid "Download PDF"
-msgstr "Pakua PDF"
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_area.html:11
 #, python-format
 msgid "Learn more about: %(name)s"
@@ -969,7 +969,7 @@ msgstr "Maudhui yanayohusiana"
 msgid "Related Topics"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_filter_button.html:32
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/research_filter_button.html:34
 msgctxt "Button"
 msgid "Filter"
 msgstr "Kichujio"
