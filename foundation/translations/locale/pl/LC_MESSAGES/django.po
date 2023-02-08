@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-06 07:54+0000\n"
+"POT-Creation-Date: 2023-02-08 13:32+0000\n"
 "PO-Revision-Date: 2023-02-05 15:22+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
@@ -346,8 +346,8 @@ msgstr "Odnośniki do informacji o prywatności"
 
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:112
 #, python-format
-msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr "Czy ten produkt spełnia nasze <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">minimalne standardy bezpieczeństwa</a>?"
+msgid "Does this product meet our <span class=\"tw-ml-2\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:117
 msgid "Encryption"
@@ -1210,6 +1210,10 @@ msgstr "Wymaga poprawy"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Zła"
+
+#, python-format
+#~ msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+#~ msgstr "Czy ten produkt spełnia nasze <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">minimalne standardy bezpieczeństwa</a>?"
 
 #~ msgid "Scroll to see how creepy <br/> people find these products!"
 #~ msgstr "Przewiń, aby zobaczyć, jak bardzo te produkty <br/> przyprawiają innych o gęsią skórkę!"

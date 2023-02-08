@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-06 07:54+0000\n"
+"POT-Creation-Date: 2023-02-08 13:32+0000\n"
 "PO-Revision-Date: 2022-12-15 09:44+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -350,8 +350,8 @@ msgstr "Viungo vya taarifa za faragha"
 
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:112
 #, python-format
-msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
-msgstr "Je, bidhaa hii inakidhi <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Viwango vyetu vya chini zaidi vya Usalama</a>?"
+msgid "Does this product meet our <span class=\"tw-ml-2\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab.html:117
 msgid "Encryption"
@@ -1210,6 +1210,10 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#, python-format
+#~ msgid "Does this product meet our <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Minimum Security Standards</a>?"
+#~ msgstr "Je, bidhaa hii inakidhi <span class=\"tw-ml-1\"></span> <a id=\"mss-link\" class=\"\" href=\"%(url)s\">Viwango vyetu vya chini zaidi vya Usalama</a>?"
 
 #~ msgid "We're proudly nonprofit, working to keep the web healthy."
 #~ msgstr "Tunajivunia kuwa shirika lisilo la faida, linalodumisha afya ya wavuti."
