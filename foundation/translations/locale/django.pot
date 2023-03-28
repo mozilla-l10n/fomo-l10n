@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-08 13:32+0000\n"
+"POT-Creation-Date: 2023-03-28 11:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,7 +40,7 @@ msgid "Methodology"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:214
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
 msgid "Contact us"
 msgstr ""
 
@@ -115,7 +115,7 @@ msgstr ""
 msgid "Load more results"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/featured_article.html:50
+#: network-api/networkapi/templates/fragments/buyersguide/featured_page.html:52
 msgctxt "Article author attribution"
 msgid "By"
 msgstr ""
@@ -393,23 +393,23 @@ msgstr ""
 msgid "Does the user have control over the AI features?"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:11
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:15
 #: network-api/networkapi/templates/partials/footer.html:59
 msgid "Privacy"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:13
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:22
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:31
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:17
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:29
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:41
 msgctxt "icon description for screen readers"
 msgid "warning"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:20
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:27
 msgid "Security"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:29
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:39
 msgid "A.I."
 msgstr ""
 
@@ -771,66 +771,66 @@ msgstr ""
 msgid "No thanks"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
-msgid "Related articles"
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:70
+msgid "Related reading"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:181
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:184
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:191
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:194
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:200
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
 msgctxt "Noun, media"
 msgid "Press"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:204
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:218
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:232
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:246
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:228
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
 msgid "Our methodology"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:242
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
 msgid "Contest terms and conditions"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:273
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:266
 msgid "Not creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:274
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:267
 msgid "A little creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:275
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:268
 msgid "Somewhat creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:276
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:269
 msgid "Very creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:277
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:270
 msgid "Super creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:691
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:684
 msgid "*Privacy Not Included review:"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:863
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:857
 msgid "Privacy & security guide"
 msgstr ""
 
