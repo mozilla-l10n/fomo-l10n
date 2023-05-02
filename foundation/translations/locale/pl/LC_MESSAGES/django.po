@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 10:38+0000\n"
+"POT-Creation-Date: 2023-05-02 11:47+0000\n"
 "PO-Revision-Date: 2023-04-01 12:26+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
@@ -725,12 +725,12 @@ msgctxt "Topic list heading"
 msgid "Browse by topic"
 msgstr "Według tematu"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:50
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:52
 msgctxt "Button"
 msgid "Sort"
 msgstr "Sortuj"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:57
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:60
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
@@ -738,7 +738,7 @@ msgstr[0] "<strong>%(research_detail_pages_count)s</strong> wynik dla zapytania:
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> wyniki dla zapytania: <q>%(search_query)s</q>"
 msgstr[2] "<strong>%(research_detail_pages_count)s</strong> wyników dla zapytania: <q>%(search_query)s</q>"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:63
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:66
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
@@ -746,32 +746,16 @@ msgstr[0] "<strong>%(research_detail_pages_count)s</strong> wynik"
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> wyniki"
 msgstr[2] "<strong>%(research_detail_pages_count)s</strong> wyników"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:102
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:93
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Close"
 msgstr "Zamknij"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:109
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:98
 msgid "Filter"
 msgstr "Filtruj"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:112
-msgid "Topics"
-msgstr "Tematy"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:117
-msgid "Publication date"
-msgstr "Data publikacji"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:122
-msgid "Authors"
-msgstr "Autorzy"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:127
-msgid "Regions"
-msgstr "Regiony"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:140
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:107
 msgctxt "Button"
 msgid "Apply filters"
 msgstr "Zastosuj filtry"
@@ -961,10 +945,30 @@ msgstr "Alfabetycznie (A-Z)"
 msgid "Alphabetical (Z-A)"
 msgstr "Alfabetycznie (Z-A)"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/library_page.py:168
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:36
 msgctxt "Option in a list of years"
 msgid "Any"
 msgstr "Wszystkie"
+
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:46
+msgctxt "Filter form field label"
+msgid "Topics"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:52
+msgctxt "Filter form field label"
+msgid "Publication Date"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:58
+msgctxt "Filter form field label"
+msgid "Authors"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:64
+msgctxt "Filter form field label"
+msgid "Regions"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18
 #: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:95
@@ -1217,6 +1221,18 @@ msgstr "Wymaga poprawy"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Zła"
+
+#~ msgid "Topics"
+#~ msgstr "Tematy"
+
+#~ msgid "Publication date"
+#~ msgstr "Data publikacji"
+
+#~ msgid "Authors"
+#~ msgstr "Autorzy"
+
+#~ msgid "Regions"
+#~ msgstr "Regiony"
 
 #~ msgid "Related articles"
 #~ msgstr "Powiązane artykuły"
