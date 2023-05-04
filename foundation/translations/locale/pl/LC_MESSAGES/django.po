@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-02 11:47+0000\n"
+"POT-Creation-Date: 2023-05-04 16:52+0000\n"
 "PO-Revision-Date: 2023-04-01 12:26+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
@@ -36,7 +36,7 @@ msgid "Methodology"
 msgstr "Nasza metodologia"
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:215
 msgid "Contact us"
 msgstr "Kontakt z nami"
 
@@ -725,12 +725,12 @@ msgctxt "Topic list heading"
 msgid "Browse by topic"
 msgstr "Według tematu"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:52
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:50
 msgctxt "Button"
 msgid "Sort"
 msgstr "Sortuj"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:60
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:57
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
@@ -738,7 +738,7 @@ msgstr[0] "<strong>%(research_detail_pages_count)s</strong> wynik dla zapytania:
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> wyniki dla zapytania: <q>%(search_query)s</q>"
 msgstr[2] "<strong>%(research_detail_pages_count)s</strong> wyników dla zapytania: <q>%(search_query)s</q>"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:66
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:63
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
@@ -746,16 +746,32 @@ msgstr[0] "<strong>%(research_detail_pages_count)s</strong> wynik"
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> wyniki"
 msgstr[2] "<strong>%(research_detail_pages_count)s</strong> wyników"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:93
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:102
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Close"
 msgstr "Zamknij"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:98
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:109
 msgid "Filter"
 msgstr "Filtruj"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:107
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:112
+msgid "Topics"
+msgstr "Tematy"
+
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:117
+msgid "Publication date"
+msgstr "Data publikacji"
+
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:122
+msgid "Authors"
+msgstr "Autorzy"
+
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:127
+msgid "Regions"
+msgstr "Regiony"
+
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:140
 msgctxt "Button"
 msgid "Apply filters"
 msgstr "Zastosuj filtry"
@@ -866,66 +882,66 @@ msgstr "Główna strona Mozilla Foundation"
 msgid "No thanks"
 msgstr "Nie, dziękuję"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:70
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:68
 msgid "Related reading"
 msgstr "Powiązane artykuły"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:184
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:182
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Jak korzystać z przewodnika *Prywatność do nabycia osobno"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:194
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:192
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Dlaczego napisaliśmy przewodnik *Prywatność do nabycia osobno"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:201
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Dla prasy"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:205
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:219
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:233
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:247
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*Prywatność do nabycia osobno"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:229
 msgid "Our methodology"
 msgstr "Nasza metodologia"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:243
 msgid "Contest terms and conditions"
 msgstr "Zasady i warunki konkursu"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:266
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:264
 msgid "Not creepy"
 msgstr "Nieprzerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:267
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:265
 msgid "A little creepy"
 msgstr "Trochę przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:268
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:266
 msgid "Somewhat creepy"
 msgstr "Nieco przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:269
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:267
 msgid "Very creepy"
 msgstr "Bardzo przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:270
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:268
 msgid "Super creepy"
 msgstr "Ogromnie przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:684
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:682
 msgid "*Privacy Not Included review:"
 msgstr "Recenzja z przewodnika *Prywatność do nabycia osobno:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:857
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:855
 msgid "Privacy & security guide"
 msgstr "Przewodnik prywatności i bezpieczeństwa"
 
@@ -1109,7 +1125,7 @@ msgid "clear filters"
 msgstr "wyczyść filtry"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
-#: network-api/networkapi/wagtailpages/utils.py:101
+#: network-api/networkapi/wagtailpages/utils.py:103
 msgid "Overview"
 msgstr "Przegląd"
 
@@ -1221,18 +1237,6 @@ msgstr "Wymaga poprawy"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Zła"
-
-#~ msgid "Topics"
-#~ msgstr "Tematy"
-
-#~ msgid "Publication date"
-#~ msgstr "Data publikacji"
-
-#~ msgid "Authors"
-#~ msgstr "Autorzy"
-
-#~ msgid "Regions"
-#~ msgstr "Regiony"
 
 #~ msgid "Related articles"
 #~ msgstr "Powiązane artykuły"
