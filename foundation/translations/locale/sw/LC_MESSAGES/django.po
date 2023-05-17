@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 16:52+0000\n"
+"POT-Creation-Date: 2023-05-17 09:08+0000\n"
 "PO-Revision-Date: 2023-05-02 12:13+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -21,6 +21,47 @@ msgstr ""
 #: network-api/networkapi/templates/404.html:6
 msgid "Page Not Found"
 msgstr "Ukurasa Haupatikani"
+
+#: network-api/networkapi/templates/donate/fragments/footer.html:14
+#: network-api/networkapi/templates/pages/base.html:12
+#: network-api/networkapi/templates/partials/footer.html:31
+#: network-api/networkapi/templates/partials/primary_nav.html:45
+msgid "Mozilla Foundation"
+msgstr "Shirika la Mozilla Foundation"
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:4
+#, python-format
+msgid "Mozilla is committed to your privacy; please read our <a href=\"%(privacy_url)s\">privacy policy here</a>. Your payment details will be processed by <a href=\"%(stripe_url)s\">Stripe</a>, or <a href=\"%(paypal_url)s\">PayPal</a>, and a record of your donation will be stored by Mozilla."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:9
+#, python-format
+msgid "<b>Other ways to give: <a href=\"%(check_url)s\">Check</a></b>"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:14
+#, python-format
+msgid "<b>Question donating?</b> Visit our <a href=\"%(faq_url)s\">FAQ</a> for answers to most common questions."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:19
+#, python-format
+msgid "<b>Need to reach us about your donation?</b> <a href=\"%(help_url)s\">Contact us</a>."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:24
+#, python-format
+msgid "Contributions go to the <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted by law."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/nav.html:3
+#: network-api/networkapi/templates/partials/primary_nav.html:18
+msgid "Home"
+msgstr "Nyumbani"
+
+#: network-api/networkapi/templates/donate/pages/landing_page.html:21
+msgid "featured image"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:11
 msgctxt "Tooltip on menu items"
@@ -587,12 +628,6 @@ msgstr "%(title)s na @mozilla"
 msgid "SUMMARY"
 msgstr "MUHTASARI"
 
-#: network-api/networkapi/templates/pages/base.html:12
-#: network-api/networkapi/templates/partials/footer.html:31
-#: network-api/networkapi/templates/partials/primary_nav.html:45
-msgid "Mozilla Foundation"
-msgstr "Shirika la Mozilla Foundation"
-
 #: network-api/networkapi/templates/pages/buyersguide/base.html:10
 msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included | Shop smart and safe"
@@ -728,51 +763,35 @@ msgctxt "Topic list heading"
 msgid "Browse by topic"
 msgstr "Vinjari kwa mada"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:50
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:52
 msgctxt "Button"
 msgid "Sort"
 msgstr "Panga"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:57
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:60
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
 msgstr[0] "<strong>%(research_detail_pages_count)s</strong> tafuta <q>%(search_query)s</q>"
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> matokeo ya <q>%(search_query)s</q>"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:63
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:66
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
 msgstr[0] "<strong>%(research_detail_pages_count)s</strong> tokeo"
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> matokeo"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:102
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:93
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Close"
 msgstr "Funga"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:109
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:98
 msgid "Filter"
 msgstr "Kichujio"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:112
-msgid "Topics"
-msgstr "Mada"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:117
-msgid "Publication date"
-msgstr "Tarehe ya kuchapishwa"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:122
-msgid "Authors"
-msgstr "Waandishi"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:127
-msgid "Regions"
-msgstr "Mikoa"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:140
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:107
 msgctxt "Button"
 msgid "Apply filters"
 msgstr "Tumia vichujio"
@@ -861,10 +880,6 @@ msgstr "<a href=\"%(url)s\">Soma zaidi</a> kuhusu utekelezaji wetu"
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla ni shirika lisilo la faida la kimataifa lililojitolea kuhakikisha kwamba unadhibiti mambo unayopitia mtandaoni na kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma. Tutembelee kwenye <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Maudhui mengi yanapatikana chini ya leseni ya <a href=\"%(cc_website_url)s\">Creative Commons</a>."
-
-#: network-api/networkapi/templates/partials/primary_nav.html:18
-msgid "Home"
-msgstr "Nyumbani"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:31
 msgctxt "Tooltip on menu items"
@@ -1237,6 +1252,18 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#~ msgid "Topics"
+#~ msgstr "Mada"
+
+#~ msgid "Publication date"
+#~ msgstr "Tarehe ya kuchapishwa"
+
+#~ msgid "Authors"
+#~ msgstr "Waandishi"
+
+#~ msgid "Regions"
+#~ msgstr "Mikoa"
 
 #~ msgid "Related articles"
 #~ msgstr "Makala yanayohusiana"

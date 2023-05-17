@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 16:52+0000\n"
+"POT-Creation-Date: 2023-05-17 09:08+0000\n"
 "PO-Revision-Date: 2023-05-02 12:07+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -21,6 +21,47 @@ msgstr ""
 #: network-api/networkapi/templates/404.html:6
 msgid "Page Not Found"
 msgstr "Página não encontrada"
+
+#: network-api/networkapi/templates/donate/fragments/footer.html:14
+#: network-api/networkapi/templates/pages/base.html:12
+#: network-api/networkapi/templates/partials/footer.html:31
+#: network-api/networkapi/templates/partials/primary_nav.html:45
+msgid "Mozilla Foundation"
+msgstr "Fundação Mozilla"
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:4
+#, python-format
+msgid "Mozilla is committed to your privacy; please read our <a href=\"%(privacy_url)s\">privacy policy here</a>. Your payment details will be processed by <a href=\"%(stripe_url)s\">Stripe</a>, or <a href=\"%(paypal_url)s\">PayPal</a>, and a record of your donation will be stored by Mozilla."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:9
+#, python-format
+msgid "<b>Other ways to give: <a href=\"%(check_url)s\">Check</a></b>"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:14
+#, python-format
+msgid "<b>Question donating?</b> Visit our <a href=\"%(faq_url)s\">FAQ</a> for answers to most common questions."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:19
+#, python-format
+msgid "<b>Need to reach us about your donation?</b> <a href=\"%(help_url)s\">Contact us</a>."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:24
+#, python-format
+msgid "Contributions go to the <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted by law."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/nav.html:3
+#: network-api/networkapi/templates/partials/primary_nav.html:18
+msgid "Home"
+msgstr "Início"
+
+#: network-api/networkapi/templates/donate/pages/landing_page.html:21
+msgid "featured image"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:11
 msgctxt "Tooltip on menu items"
@@ -587,12 +628,6 @@ msgstr "%(title)s por @mozilla"
 msgid "SUMMARY"
 msgstr "RESUMO"
 
-#: network-api/networkapi/templates/pages/base.html:12
-#: network-api/networkapi/templates/partials/footer.html:31
-#: network-api/networkapi/templates/partials/primary_nav.html:45
-msgid "Mozilla Foundation"
-msgstr "Fundação Mozilla"
-
 #: network-api/networkapi/templates/pages/buyersguide/base.html:10
 msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included | Shop smart and safe"
@@ -728,51 +763,35 @@ msgctxt "Topic list heading"
 msgid "Browse by topic"
 msgstr "Ver por tópico"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:50
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:52
 msgctxt "Button"
 msgid "Sort"
 msgstr "Ordenar"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:57
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:60
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
 msgstr[0] "<strong>%(research_detail_pages_count)s</strong> resultado de <q>%(search_query)s</q>"
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> resultados de <q>%(search_query)s</q>"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:63
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:66
 #, python-format
 msgid "<strong>%(research_detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
 msgstr[0] "<strong>%(research_detail_pages_count)s</strong> resultado"
 msgstr[1] "<strong>%(research_detail_pages_count)s</strong> resultados"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:102
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:93
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Close"
 msgstr "Fechar"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:109
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:98
 msgid "Filter"
 msgstr "Filtrar"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:112
-msgid "Topics"
-msgstr "Tópicos"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:117
-msgid "Publication date"
-msgstr "Data de publicação"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:122
-msgid "Authors"
-msgstr "Autores"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:127
-msgid "Regions"
-msgstr "Regiões"
-
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:140
+#: network-api/networkapi/templates/pages/research_hub/library_page.html:107
 msgctxt "Button"
 msgid "Apply filters"
 msgstr "Aplicar filtros"
@@ -861,10 +880,6 @@ msgstr "<a href=\"%(url)s\">Leia mais</a> sobre nossa implementação"
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "A Mozilla é uma organização global sem fins lucrativos, dedicada a colocar você no controle da sua experiência online e moldar o futuro da web para o bem público. Visite-nos em <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. A maioria do conteúdo está disponível sob uma <a href=\"%(cc_website_url)s\">licença Creative Commons</a>."
-
-#: network-api/networkapi/templates/partials/primary_nav.html:18
-msgid "Home"
-msgstr "Início"
 
 #: network-api/networkapi/templates/partials/primary_nav.html:31
 msgctxt "Tooltip on menu items"
@@ -1237,6 +1252,18 @@ msgstr "Precisa de melhorias"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Ruim"
+
+#~ msgid "Topics"
+#~ msgstr "Tópicos"
+
+#~ msgid "Publication date"
+#~ msgstr "Data de publicação"
+
+#~ msgid "Authors"
+#~ msgstr "Autores"
+
+#~ msgid "Regions"
+#~ msgstr "Regiões"
 
 #~ msgid "Related articles"
 #~ msgstr "Artigos relacionados"
