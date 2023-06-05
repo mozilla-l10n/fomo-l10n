@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-17 17:01+0000\n"
+"POT-Creation-Date: 2023-06-05 07:32+0000\n"
 "PO-Revision-Date: 2023-05-17 09:12+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -650,7 +650,7 @@ msgstr "Guía de privacidad y seguirdad | Mozilla Foundation"
 
 #: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:61
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:67
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:71
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "ACTUAR AHORA"
@@ -711,6 +711,7 @@ msgstr "Productos relacionados"
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:196
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:305
 msgid "Comments"
 msgstr "Comentarios"
 
@@ -962,43 +963,43 @@ msgstr "Reseña de *Privacidad no incluida:"
 msgid "Privacy & security guide"
 msgstr "Guía de seguridad y privacidad"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/constants.py:10
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:10
 msgid "Newest first"
 msgstr "El más reciente primero"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/constants.py:15
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:15
 msgid "Oldest first"
 msgstr "Lo más antiguo primero"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/constants.py:20
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:20
 msgid "Alphabetical (A-Z)"
 msgstr "Alfabético (A-Z)"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/constants.py:25
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:25
 msgid "Alphabetical (Z-A)"
 msgstr "Alfabético (Z-A)"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:36
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:39
 msgctxt "Option in a list of years"
 msgid "Any"
 msgstr "Cualquiera"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:46
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:49
 msgctxt "Filter form field label"
 msgid "Topics"
 msgstr "Temas"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:52
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:55
 msgctxt "Filter form field label"
 msgid "Publication Date"
 msgstr "Fecha de publicación"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:58
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:61
 msgctxt "Filter form field label"
 msgid "Authors"
 msgstr "Autores"
 
-#: network-api/networkapi/wagtailpages/pagemodels/research_hub/forms.py:64
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:67
 msgctxt "Filter form field label"
 msgid "Regions"
 msgstr "Regiones"
@@ -1077,6 +1078,31 @@ msgstr "Más información →"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/focus_areas.html:5
 msgid "Our areas of focus"
 msgstr "Nuestras áreas de actuación"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:48
+msgid "First Name"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:51
+msgid "Last Name"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:54
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:58
+msgid "Country"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:300
+msgid "Postal Code"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:314
+msgid "Add my name"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:12
 msgid "YouTube"
@@ -1187,10 +1213,6 @@ msgstr "Por favor introduce un código postal estadounidense"
 msgid "We’re sorry, we can’t call that number. Please check that it is the right number, or try a different one."
 msgstr "Lo sentimos, no podemos llamar a ese número. Por favor asegúrate de que el número está correcto, o intenta con otro."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
-msgid "Email"
-msgstr "Correo electrónico"
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:56
 msgid "Something went wrong…"
 msgstr "Algo salió mal..."
@@ -1207,7 +1229,7 @@ msgstr "¡Gracias por todas sus llamadas!"
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
 msgstr "Lamentablemente, parece que has llegado al límite de tiempo. Intenta de nuevo en una hora."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:38
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:76
 msgid "Loading form…"
 msgstr "Cargando formulario…"
 
