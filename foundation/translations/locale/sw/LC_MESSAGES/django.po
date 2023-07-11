@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-05 07:32+0000\n"
+"POT-Creation-Date: 2023-07-11 19:43+0000\n"
 "PO-Revision-Date: 2023-05-02 12:13+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -602,6 +602,21 @@ msgstr "Rudi kwenye maudhui"
 msgid "Language"
 msgstr "Lugha"
 
+#: network-api/networkapi/templates/fragments/libraries/filter_button.html:34
+msgctxt "Button"
+msgid "Filter"
+msgstr "Kichujio"
+
+#: network-api/networkapi/templates/fragments/libraries/rcc/search_bar.html:2
+msgctxt "Search input placeholder text"
+msgid "Search our Curriculum…"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/libraries/research_hub/search_bar.html:2
+msgctxt "Search input placeholder text"
+msgid "Search our Research…"
+msgstr "Tafuta utafiti wetu…"
+
 #: network-api/networkapi/templates/fragments/pagination.html:17
 msgctxt "Pagination link"
 msgid "Prev. page"
@@ -611,16 +626,6 @@ msgstr "Ukurusa uliopita"
 msgctxt "Pagination link"
 msgid "Next page"
 msgstr "Ukurasa unaofuata"
-
-#: network-api/networkapi/templates/fragments/research_hub/filter_button.html:34
-msgctxt "Button"
-msgid "Filter"
-msgstr "Kichujio"
-
-#: network-api/networkapi/templates/fragments/research_hub/search_bar.html:2
-msgctxt "Search input placeholder text"
-msgid "Search our Research…"
-msgstr "Tafuta utafiti wetu…"
 
 #: network-api/networkapi/templates/pages/article_page.html:29
 #: network-api/networkapi/templates/pages/buyersguide/article_page.html:29
@@ -652,7 +657,7 @@ msgstr "*faragha haijajumuishwa | Duka janja na salama | Mozilla Foundation"
 msgid "Privacy & Security Guide | Mozilla Foundation"
 msgstr "Mwongozo wa Faragha na Usalama | Mozilla Foundation"
 
-#: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:61
+#: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:65
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:71
 msgctxt "Sticky button in mobile view on campaign pages"
@@ -715,7 +720,7 @@ msgstr "Bidhaa zinazohusiana"
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:196
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:305
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:307
 msgid "Comments"
 msgstr "Maoni"
 
@@ -723,84 +728,107 @@ msgstr "Maoni"
 msgid "Got a comment? Let us hear it."
 msgstr "Una maoni? Tuambie."
 
-#: network-api/networkapi/templates/pages/research_hub/author_detail_page.html:55
-msgid "Latest research"
-msgstr "Utafiti wa hivi karibuni"
-
-#: network-api/networkapi/templates/pages/research_hub/author_detail_page.html:64
-msgctxt "Button to see more than the latest three elements of research from an author"
-msgid "Browse all projects"
-msgstr "Vinjari miradi yote"
-
-#: network-api/networkapi/templates/pages/research_hub/authors_index_page.html:22
+#: network-api/networkapi/templates/pages/libraries/authors_index_page.html:22
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:40
 msgid "No authors found."
 msgstr "Hakuna waandishi waliopatikana."
 
-#: network-api/networkapi/templates/pages/research_hub/detail_page.html:51
-msgctxt "Research page section heading"
+#: network-api/networkapi/templates/pages/libraries/detail_page.html:45
+msgctxt "Library detail page section heading"
 msgid "Overview"
-msgstr "Muhtasari"
+msgstr ""
 
-#: network-api/networkapi/templates/pages/research_hub/detail_page.html:62
+#: network-api/networkapi/templates/pages/libraries/detail_page.html:56
 msgid "Project leads"
 msgstr "Viongozi wa mradi"
 
-#: network-api/networkapi/templates/pages/research_hub/detail_page.html:75
+#: network-api/networkapi/templates/pages/libraries/detail_page.html:71
 msgid "Collaborators"
 msgstr "Washirika"
 
-#: network-api/networkapi/templates/pages/research_hub/landing_page.html:32
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:33
 msgctxt "Button"
 msgid "Browse all"
 msgstr "Vinjari zote"
 
-#: network-api/networkapi/templates/pages/research_hub/landing_page.html:38
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:42
 msgid "Latest Research"
 msgstr "Utafiti wa Hivi karibuni"
 
-#: network-api/networkapi/templates/pages/research_hub/landing_page.html:47
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:51
 msgctxt "Button"
 msgid "Browse all projects"
 msgstr "Vinjari miradi yote"
 
-#: network-api/networkapi/templates/pages/research_hub/landing_page.html:54
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:61
 msgctxt "Topic list heading"
 msgid "Browse by topic"
 msgstr "Vinjari kwa mada"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:52
+#: network-api/networkapi/templates/pages/libraries/library_page.html:49
 msgctxt "Button"
 msgid "Sort"
 msgstr "Panga"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:60
+#: network-api/networkapi/templates/pages/libraries/library_page.html:57
 #, python-format
-msgid "<strong>%(research_detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
-msgid_plural "<strong>%(research_detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
-msgstr[0] "<strong>%(research_detail_pages_count)s</strong> tafuta <q>%(search_query)s</q>"
-msgstr[1] "<strong>%(research_detail_pages_count)s</strong> matokeo ya <q>%(search_query)s</q>"
+msgid "<strong>%(detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
+msgid_plural "<strong>%(detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
+msgstr[0] ""
+msgstr[1] ""
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:66
+#: network-api/networkapi/templates/pages/libraries/library_page.html:63
 #, python-format
-msgid "<strong>%(research_detail_pages_count)s</strong> result"
-msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
-msgstr[0] "<strong>%(research_detail_pages_count)s</strong> tokeo"
-msgstr[1] "<strong>%(research_detail_pages_count)s</strong> matokeo"
+msgid "<strong>%(detail_pages_count)s</strong> result"
+msgid_plural "<strong>%(detail_pages_count)s</strong> results"
+msgstr[0] ""
+msgstr[1] ""
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:93
+#: network-api/networkapi/templates/pages/libraries/library_page.html:87
 #: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Close"
 msgstr "Funga"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:98
+#: network-api/networkapi/templates/pages/libraries/library_page.html:92
 msgid "Filter"
 msgstr "Kichujio"
 
-#: network-api/networkapi/templates/pages/research_hub/library_page.html:107
+#: network-api/networkapi/templates/pages/libraries/library_page.html:101
 msgctxt "Button"
 msgid "Apply filters"
 msgstr "Tumia vichujio"
+
+#: network-api/networkapi/templates/pages/libraries/profile_page.html:56
+msgctxt "Button to see more than the latest three articles from an author"
+msgid "Browse all projects"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/rcc/author_detail_page.html:6
+msgid "Latest articles"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/rcc/detail_page.html:18
+msgid "Contributors"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:9
+#: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:25
+msgctxt "Button"
+msgid "Show all"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:13
+msgid "Latest"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:29
+msgctxt "Content Type list heading"
+msgid "Browse by Content Type"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/research_hub/author_detail_page.html:6
+msgid "Latest research"
+msgstr "Utafiti wa hivi karibuni"
 
 #: network-api/networkapi/templates/partials/404.html:7
 msgid "Uh oh!"
@@ -967,31 +995,47 @@ msgstr "*Ukaguzi wa Faragha Haujajumuishwa:"
 msgid "Privacy & security guide"
 msgstr "Mwongozo wa faragha na usalama"
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:10
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/constants.py:10
 msgid "Newest first"
 msgstr "Mpya zaidi kwanza"
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:15
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/constants.py:15
 msgid "Oldest first"
 msgstr "Zee zaidi kwanza"
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:20
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/constants.py:20
 msgid "Alphabetical (A-Z)"
 msgstr "Kialfabeti (A-Z)"
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/constants.py:25
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/constants.py:25
 msgid "Alphabetical (Z-A)"
 msgstr "Kialfabeti (Z-A)"
+
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:38
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:49
+msgctxt "Filter form field label"
+msgid "Topics"
+msgstr "Mada"
+
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:44
+msgctxt "Filter form field label"
+msgid "Curricular Area"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:50
+msgctxt "Filter form field label"
+msgid "Content Type"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:56
+msgctxt "Filter form field label - Authors of RCC articles"
+msgid "Contributors"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:39
 msgctxt "Option in a list of years"
 msgid "Any"
 msgstr "Yoyote"
-
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:49
-msgctxt "Filter form field label"
-msgid "Topics"
-msgstr "Mada"
 
 #: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:55
 msgctxt "Filter form field label"
@@ -1083,28 +1127,41 @@ msgstr "Jifunze zaidi →"
 msgid "Our areas of focus"
 msgstr "Nyanja zetu"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:48
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:50
 msgid "First Name"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:51
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:53
 msgid "Last Name"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:54
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:56
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
 msgid "Email"
 msgstr "Barua pepe"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:58
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:60
 msgid "Country"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:300
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:60
+msgid "Please select..."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:302
 msgid "Postal Code"
 msgstr ""
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:311
+#, python-format
+msgid "I’m okay with Mozilla handling my info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>."
+msgstr ""
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:314
+msgid "Yes, I want to receive email updates about Mozilla’s campaigns."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:316
 msgid "Add my name"
 msgstr ""
 
@@ -1233,10 +1290,6 @@ msgstr "Asante kwa simu zako zote!"
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
 msgstr "Samahani, inaonekana umefikia kikomo cha kila saa. Tafadhali jaribu tena baada ya saa moja."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:76
-msgid "Loading form…"
-msgstr "Inapakia fomu..."
-
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:27
 msgid "No"
@@ -1279,6 +1332,29 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#~ msgctxt "Button to see more than the latest three elements of research from an author"
+#~ msgid "Browse all projects"
+#~ msgstr "Vinjari miradi yote"
+
+#~ msgctxt "Research page section heading"
+#~ msgid "Overview"
+#~ msgstr "Muhtasari"
+
+#, python-format
+#~ msgid "<strong>%(research_detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
+#~ msgid_plural "<strong>%(research_detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
+#~ msgstr[0] "<strong>%(research_detail_pages_count)s</strong> tafuta <q>%(search_query)s</q>"
+#~ msgstr[1] "<strong>%(research_detail_pages_count)s</strong> matokeo ya <q>%(search_query)s</q>"
+
+#, python-format
+#~ msgid "<strong>%(research_detail_pages_count)s</strong> result"
+#~ msgid_plural "<strong>%(research_detail_pages_count)s</strong> results"
+#~ msgstr[0] "<strong>%(research_detail_pages_count)s</strong> tokeo"
+#~ msgstr[1] "<strong>%(research_detail_pages_count)s</strong> matokeo"
+
+#~ msgid "Loading form…"
+#~ msgstr "Inapakia fomu..."
 
 #~ msgid "Topics"
 #~ msgstr "Mada"
