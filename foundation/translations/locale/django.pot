@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-11 19:43+0000\n"
+"POT-Creation-Date: 2023-07-18 09:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -720,7 +720,7 @@ msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:196
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:307
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:315
 msgid "Comments"
 msgstr ""
 
@@ -1127,41 +1127,41 @@ msgstr ""
 msgid "Our areas of focus"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:50
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:58
 msgid "First Name"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:53
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:61
 msgid "Last Name"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:56
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:64
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
 msgid "Email"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:60
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:68
 msgid "Country"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:60
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:68
 msgid "Please select..."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:302
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:310
 msgid "Postal Code"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:311
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:319
 #, python-format
 msgid "I’m okay with Mozilla handling my info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:314
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:322
 msgid "Yes, I want to receive email updates about Mozilla’s campaigns."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:316
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:324
 msgid "Add my name"
 msgstr ""
 
@@ -1288,6 +1288,10 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:62
 msgid "Unfortunately, it looks like you’ve reached the hourly limit. Please try again in an hour."
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/petition.html:23
+msgid " * indicates a required field "
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templatetags/bg_selector_tags.py:11
