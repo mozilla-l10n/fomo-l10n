@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-18 09:32+0000\n"
-"PO-Revision-Date: 2023-07-18 09:44+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"PO-Revision-Date: 2023-07-30 12:02+0000\n"
+"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -575,7 +575,7 @@ msgstr "Filtruj"
 #: network-api/networkapi/templates/fragments/libraries/rcc/search_bar.html:2
 msgctxt "Search input placeholder text"
 msgid "Search our Curriculum…"
-msgstr ""
+msgstr "Przeszukaj nasz program…"
 
 #: network-api/networkapi/templates/fragments/libraries/research_hub/search_bar.html:2
 msgctxt "Search input placeholder text"
@@ -697,7 +697,7 @@ msgstr "Nie odnaleziono autorów."
 #: network-api/networkapi/templates/pages/libraries/detail_page.html:45
 msgctxt "Library detail page section heading"
 msgid "Overview"
-msgstr ""
+msgstr "Przegląd"
 
 #: network-api/networkapi/templates/pages/libraries/detail_page.html:56
 msgid "Project leads"
@@ -735,17 +735,17 @@ msgstr "Sortuj"
 #, python-format
 msgid "<strong>%(detail_pages_count)s</strong> result for <q>%(search_query)s</q>"
 msgid_plural "<strong>%(detail_pages_count)s</strong> results for <q>%(search_query)s</q>"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "<strong>%(detail_pages_count)s</strong> wynik dla zapytania: <q>%(search_query)s</q>"
+msgstr[1] "<strong>%(detail_pages_count)s</strong> wyniki dla zapytania: <q>%(search_query)s</q>"
+msgstr[2] "<strong>%(detail_pages_count)s</strong> wyników dla zapytania: <q>%(search_query)s</q>"
 
 #: network-api/networkapi/templates/pages/libraries/library_page.html:63
 #, python-format
 msgid "<strong>%(detail_pages_count)s</strong> result"
 msgid_plural "<strong>%(detail_pages_count)s</strong> results"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "<strong>%(detail_pages_count)s</strong> wynik"
+msgstr[1] "<strong>%(detail_pages_count)s</strong> wyniki"
+msgstr[2] "<strong>%(detail_pages_count)s</strong> wyników"
 
 #: network-api/networkapi/templates/pages/libraries/library_page.html:87 network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 msgid "Close"
@@ -763,29 +763,29 @@ msgstr "Zastosuj filtry"
 #: network-api/networkapi/templates/pages/libraries/profile_page.html:56
 msgctxt "Button to see more than the latest three articles from an author"
 msgid "Browse all projects"
-msgstr ""
+msgstr "Wszystkie projekty"
 
 #: network-api/networkapi/templates/pages/libraries/rcc/author_detail_page.html:6
 msgid "Latest articles"
-msgstr ""
+msgstr "Najnowsze artykuły"
 
 #: network-api/networkapi/templates/pages/libraries/rcc/detail_page.html:18
 msgid "Contributors"
-msgstr ""
+msgstr "Współtwórcy"
 
 #: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:9 network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:25
 msgctxt "Button"
 msgid "Show all"
-msgstr ""
+msgstr "Wyświetl wszystkie"
 
 #: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:13
 msgid "Latest"
-msgstr ""
+msgstr "Najnowsze"
 
 #: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:29
 msgctxt "Content Type list heading"
 msgid "Browse by Content Type"
-msgstr ""
+msgstr "Przeglądaj według rodzaju treści"
 
 #: network-api/networkapi/templates/pages/libraries/research_hub/author_detail_page.html:6
 msgid "Latest research"
@@ -980,17 +980,17 @@ msgstr "Tematy"
 #: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:44
 msgctxt "Filter form field label"
 msgid "Curricular Area"
-msgstr ""
+msgstr "Obszar programowy"
 
 #: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:50
 msgctxt "Filter form field label"
 msgid "Content Type"
-msgstr ""
+msgstr "Rodzaj treści"
 
 #: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:56
 msgctxt "Filter form field label - Authors of RCC articles"
 msgid "Contributors"
-msgstr ""
+msgstr "Współtwórcy"
 
 #: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:39
 msgctxt "Option in a list of years"
