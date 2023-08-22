@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-18 09:32+0000\n"
+"POT-Creation-Date: 2023-08-22 13:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,6 +26,7 @@ msgstr ""
 #: network-api/networkapi/templates/pages/base.html:12
 #: network-api/networkapi/templates/partials/footer.html:31
 #: network-api/networkapi/templates/partials/primary_nav.html:45
+#: network-api/networkapi/templates/pattern_library_base.html:12
 msgid "Mozilla Foundation"
 msgstr ""
 
@@ -573,20 +574,20 @@ msgctxt "String followed by the next page title the user will reach by scrolling
 msgid "Keep Scrolling For"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/custom_hero_guts.html:51
-#: network-api/networkapi/templates/fragments/publication_hero.html:54
+#: network-api/networkapi/templates/fragments/custom_hero_guts.html:54
+#: network-api/networkapi/templates/fragments/publication_hero.html:57
 msgid "Written by"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/custom_hero_guts.html:56
+#: network-api/networkapi/templates/fragments/custom_hero_guts.html:59
 #: network-api/networkapi/templates/fragments/profile_names_list.html:5
-#: network-api/networkapi/templates/fragments/publication_hero.html:59
+#: network-api/networkapi/templates/fragments/publication_hero.html:62
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/article_teaser_block.html:34
 msgid "and"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/custom_hero_guts.html:82
-#: network-api/networkapi/templates/fragments/publication_hero.html:73
+#: network-api/networkapi/templates/fragments/custom_hero_guts.html:85
+#: network-api/networkapi/templates/fragments/publication_hero.html:76
 msgid "Download PDF"
 msgstr ""
 
@@ -720,7 +721,7 @@ msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:196
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:315
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:317
 msgid "Comments"
 msgstr ""
 
@@ -763,6 +764,16 @@ msgstr ""
 #: network-api/networkapi/templates/pages/libraries/landing_page.html:61
 msgctxt "Topic list heading"
 msgid "Browse by topic"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:76
+msgctxt "Section title"
+msgid "Featured authors"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:86
+msgctxt "Featured authors button label"
+msgid "Browse all authors"
 msgstr ""
 
 #: network-api/networkapi/templates/pages/libraries/library_page.html:49
@@ -826,8 +837,23 @@ msgctxt "Content Type list heading"
 msgid "Browse by Content Type"
 msgstr ""
 
+#: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:43
+msgctxt "Section title"
+msgid "Participating Schools"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/rcc/landing_page.html:47
+msgctxt "Featured authors button label"
+msgid "See all schools"
+msgstr ""
+
 #: network-api/networkapi/templates/pages/libraries/research_hub/author_detail_page.html:6
 msgid "Latest research"
+msgstr ""
+
+#: network-api/networkapi/templates/pages/libraries/research_hub/landing_page.html:28
+msgctxt "Section title"
+msgid "Meet the researchers"
 msgstr ""
 
 #: network-api/networkapi/templates/partials/404.html:7
@@ -987,11 +1013,11 @@ msgstr ""
 msgid "Super creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:682
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:683
 msgid "*Privacy Not Included review:"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:855
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:856
 msgid "Privacy & security guide"
 msgstr ""
 
@@ -1012,7 +1038,7 @@ msgid "Alphabetical (Z-A)"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/libraries/rcc/forms.py:38
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:49
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:51
 msgctxt "Filter form field label"
 msgid "Topics"
 msgstr ""
@@ -1032,22 +1058,22 @@ msgctxt "Filter form field label - Authors of RCC articles"
 msgid "Contributors"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:39
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:41
 msgctxt "Option in a list of years"
 msgid "Any"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:55
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:57
 msgctxt "Filter form field label"
 msgid "Publication Date"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:61
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:63
 msgctxt "Filter form field label"
 msgid "Authors"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:67
+#: network-api/networkapi/wagtailpages/pagemodels/libraries/research_hub/forms.py:69
 msgctxt "Filter form field label"
 msgid "Regions"
 msgstr ""
@@ -1127,41 +1153,41 @@ msgstr ""
 msgid "Our areas of focus"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:58
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:60
 msgid "First Name"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:61
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:63
 msgid "Last Name"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:64
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:66
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
 msgid "Email"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:68
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:70
 msgid "Country"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:68
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:70
 msgid "Please select..."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:310
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:312
 msgid "Postal Code"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:319
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:321
 #, python-format
 msgid "I’m okay with Mozilla handling my info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:322
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:324
 msgid "Yes, I want to receive email updates about Mozilla’s campaigns."
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:324
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:326
 msgid "Add my name"
 msgstr ""
 
