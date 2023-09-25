@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-22 13:53+0000\n"
+"POT-Creation-Date: 2023-09-25 13:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,7 +87,7 @@ msgid "Methodology"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:215
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:213
 msgid "Contact us"
 msgstr ""
 
@@ -131,6 +131,10 @@ msgstr ""
 msgid "Read full answer"
 msgstr ""
 
+#: network-api/networkapi/templates/fragments/buyersguide/average_vote_rating.html:5
+msgid "People voted:"
+msgstr ""
+
 #: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:21
 #: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:43
 msgid "More Categories"
@@ -167,41 +171,41 @@ msgctxt "Article author attribution"
 msgid "By"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:6
+#: network-api/networkapi/templates/fragments/buyersguide/footer.html:7
 #: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:17
-#: network-api/networkapi/templates/partials/footer.html:52
+#: network-api/networkapi/templates/partials/footer.html:53
 #: network-api/networkapi/templates/partials/primary_nav.html:66
 msgid "Donate"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:8
-#: network-api/networkapi/templates/partials/footer.html:54
-msgid "Careers"
-msgstr ""
-
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:9
 #: network-api/networkapi/templates/partials/footer.html:55
-msgid "Cookies"
+msgid "Careers"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:10
 #: network-api/networkapi/templates/partials/footer.html:56
-msgid "Legal"
+msgid "Cookies"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:11
 #: network-api/networkapi/templates/partials/footer.html:57
-msgid "Participation Guidelines"
+msgid "Legal"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:12
 #: network-api/networkapi/templates/partials/footer.html:58
-msgid "Press Center"
+msgid "Participation Guidelines"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:13
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:15
 #: network-api/networkapi/templates/partials/footer.html:59
+msgid "Press Center"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/footer.html:14
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:15
+#: network-api/networkapi/templates/partials/footer.html:60
 msgid "Privacy"
 msgstr ""
 
@@ -230,10 +234,6 @@ msgstr ""
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:44
 #, python-format
 msgid "link to %(product)s"
-msgstr ""
-
-#: network-api/networkapi/templates/fragments/buyersguide/most_voted_rating.html:5
-msgid "People voted:"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/no_search_results.html:5
@@ -730,7 +730,7 @@ msgid "Got a comment? Let us hear it."
 msgstr ""
 
 #: network-api/networkapi/templates/pages/libraries/authors_index_page.html:22
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:40
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:41
 msgid "No authors found."
 msgstr ""
 
@@ -761,17 +761,17 @@ msgctxt "Button"
 msgid "Browse all projects"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/libraries/landing_page.html:61
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:62
 msgctxt "Topic list heading"
 msgid "Browse by topic"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/libraries/landing_page.html:76
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:85
 msgctxt "Section title"
 msgid "Featured authors"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/libraries/landing_page.html:86
+#: network-api/networkapi/templates/pages/libraries/landing_page.html:95
 msgctxt "Featured authors button label"
 msgid "Browse all authors"
 msgstr ""
@@ -927,16 +927,16 @@ msgstr ""
 msgid "Youtube"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/footer.html:65
+#: network-api/networkapi/templates/partials/footer.html:67
 msgid "This website supports Web Monetization."
 msgstr ""
 
-#: network-api/networkapi/templates/partials/footer.html:67
+#: network-api/networkapi/templates/partials/footer.html:69
 #, python-format
 msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
 msgstr ""
 
-#: network-api/networkapi/templates/partials/footer.html:85
+#: network-api/networkapi/templates/partials/footer.html:87
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr ""
@@ -958,66 +958,70 @@ msgstr ""
 msgid "No thanks"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:68
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:66
 msgid "Related reading"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:182
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:180
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:192
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:190
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:201
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:199
 msgctxt "Noun, media"
 msgid "Press"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:205
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:219
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:233
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:247
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:229
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:227
 msgid "Our methodology"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:243
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:241
 msgid "Contest terms and conditions"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:264
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:257
+msgid "No votes"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:275
 msgid "Not creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:265
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:276
 msgid "A little creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:266
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:277
 msgid "Somewhat creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:267
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:278
 msgid "Very creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:268
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:279
 msgid "Super creepy"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:683
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:670
 msgid "*Privacy Not Included review:"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:856
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:843
 msgid "Privacy & security guide"
 msgstr ""
 
@@ -1097,20 +1101,20 @@ msgstr ""
 msgid "More from our blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:8
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_author_index_page.html:9
 msgid "Blog authors"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:71
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:74
 msgid "Latest Blog Posts"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:7
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:8
 msgctxt "Title of the blog search results page"
 msgid "Search blog"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:9
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_search.html:10
 msgctxt "Blog search bar"
 msgid "Search all blog"
 msgstr ""
