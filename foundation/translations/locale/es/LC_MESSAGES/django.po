@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-03 07:52+0000\n"
+"POT-Creation-Date: 2023-10-09 13:27+0000\n"
 "PO-Revision-Date: 2023-07-18 09:42+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -654,9 +654,9 @@ msgstr "*privacidad no incluida | Compra de forma segura e informada | Mozilla F
 msgid "Privacy & Security Guide | Mozilla Foundation"
 msgstr "Guía de privacidad y seguirdad | Mozilla Foundation"
 
-#: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:65
+#: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:61
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:71
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:67
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "ACTUAR AHORA"
@@ -989,35 +989,46 @@ msgstr "Nuestra metodología"
 msgid "Contest terms and conditions"
 msgstr "Términos y condiciones del concurso"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:257
-msgid "No votes"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:275
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:269
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:81
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:101
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:133
 msgid "Not creepy"
 msgstr "Nada siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:276
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:270
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:82
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:102
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:134
 msgid "A little creepy"
 msgstr "Un poco siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:277
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:271
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:83
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:103
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:135
 msgid "Somewhat creepy"
 msgstr "Algo siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:278
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:272
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:84
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:104
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:136
 msgid "Very creepy"
 msgstr "Muy siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:279
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:273
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:85
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:105
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:137
 msgid "Super creepy"
 msgstr "Sumamente siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:670
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:671
 msgid "*Privacy Not Included review:"
 msgstr "Reseña de *Privacidad no incluida:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:843
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:845
 msgid "Privacy & security guide"
 msgstr "Guía de seguridad y privacidad"
 
