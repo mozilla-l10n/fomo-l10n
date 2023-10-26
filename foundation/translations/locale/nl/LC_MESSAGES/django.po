@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-09 13:27+0000\n"
+"POT-Creation-Date: 2023-10-26 12:07+0000\n"
 "PO-Revision-Date: 2023-10-03 10:54+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: \n"
@@ -87,7 +87,7 @@ msgid "Methodology"
 msgstr "Onze methodologie"
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:213
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:218
 msgid "Contact us"
 msgstr "Contact"
 
@@ -873,26 +873,10 @@ msgstr "<a href=\"mailto:%(email)s\">Neem contact met ons op</a> of …"
 msgid "Go to home page"
 msgstr "Naar startpagina"
 
-#: network-api/networkapi/templates/partials/banner.html:13
-#: network-api/networkapi/templates/partials/banner.html:14
+#: network-api/networkapi/templates/partials/donate_banner.html:14
+#: network-api/networkapi/templates/partials/donate_banner.html:15
 msgid "Close Banner"
 msgstr "Banner sluiten"
-
-#: network-api/networkapi/templates/partials/banner.html:22
-msgid "Help Mozilla fight for a better internet this holiday season"
-msgstr "Help Mozilla te strijden voor een beter internet tijdens de feestdagen"
-
-#: network-api/networkapi/templates/partials/banner.html:25
-msgid "We're proudly nonprofit, working to keep the web healthy. Your contributions help build a safe and open internet."
-msgstr "We zijn trotse non-profit en werken eraan om het web gezond te houden. Uw bijdragen helpen bij het bouwen van een veilig en open internet."
-
-#: network-api/networkapi/templates/partials/banner.html:30
-msgid "Can you donate today?"
-msgstr "Kunt u vandaag doneren?"
-
-#: network-api/networkapi/templates/partials/banner.html:34
-msgid "Support Mozilla"
-msgstr "Steun Mozilla"
 
 #: network-api/networkapi/templates/partials/footer.html:12
 msgid "We all love the Web. Join Mozilla in defending it."
@@ -958,38 +942,38 @@ msgstr "Startpagina Mozilla Foundation"
 msgid "No thanks"
 msgstr "Nee, bedankt"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:66
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
 msgid "Related reading"
 msgstr "Gerelateerde documentatie"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:180
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:185
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Gebruik van *privacy niet inbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:190
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:195
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Waarom we *privacy niet inbegrepen hebben gemaakt"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:199
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:204
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Pers"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:208
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:222
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:236
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:250
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy niet inbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:227
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:232
 msgid "Our methodology"
 msgstr "Onze methodologie"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:241
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:246
 msgid "Contest terms and conditions"
 msgstr "Wedstrijdvoorwaarden"
 
@@ -1381,6 +1365,18 @@ msgstr "Verbetering nodig"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Slecht"
+
+#~ msgid "Help Mozilla fight for a better internet this holiday season"
+#~ msgstr "Help Mozilla te strijden voor een beter internet tijdens de feestdagen"
+
+#~ msgid "We're proudly nonprofit, working to keep the web healthy. Your contributions help build a safe and open internet."
+#~ msgstr "We zijn trotse non-profit en werken eraan om het web gezond te houden. Uw bijdragen helpen bij het bouwen van een veilig en open internet."
+
+#~ msgid "Can you donate today?"
+#~ msgstr "Kunt u vandaag doneren?"
+
+#~ msgid "Support Mozilla"
+#~ msgstr "Steun Mozilla"
 
 #~ msgid "No votes"
 #~ msgstr "Geen stemmen"
