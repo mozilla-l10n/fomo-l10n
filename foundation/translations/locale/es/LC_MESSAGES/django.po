@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-26 12:07+0000\n"
+"POT-Creation-Date: 2023-11-07 10:48+0000\n"
 "PO-Revision-Date: 2023-07-18 09:42+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -30,6 +30,154 @@ msgstr "Fundación Mozilla"
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a class=\"link\" href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a class=\"link\" href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla es una organización global sin fines de lucro dedicada a entregarte el control de tu experiencia en línea y dar forma al futuro de la web para el bien público. Visítanos en <a class=\"link\" href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. La mayoría del contenido está disponible bajo una <a class=\"link\" href=\"%(cc_website_url)s\">licencia Creative Commons</a>."
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:72
+msgid "I need"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:72
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:120
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:70
+msgid "Please select..."
+msgstr "Por favor selecciona..."
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:73
+msgid "Help with the donation form"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:74
+msgid "To change or cancel my monthly recurring donation"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:75
+msgid "To update my email address or contact info"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:76
+msgid "Help donating by bank transfer (SEPA/IBAN)"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:77
+msgid "Help donating with another currency or payment method"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:78
+msgid "Help with an unauthorized or fraudulent donation"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:79
+msgid "A copy of my donation receipt"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:80
+msgid "A year-end donation summary"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:81
+msgid "My donation refunded"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:82
+msgid "To submit feedback"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:83
+msgid "Help with something else"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:86
+msgid "We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single European Payment Area (SEPA) transfer."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:92
+msgid "Make your donation online now"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:92
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:100
+msgid "Still have questions? Contact us by submitting a case."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:94
+msgid "Access your donation account settings using the '<b>Manage My Donation</b>' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. You can also cancel your recurring donation plan."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:102
+msgid "Any other details that might help"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:105
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:106
+msgid "Add a screenshot to help us with your request (optional)"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:106
+msgid "JPG, PNG and BMP files only"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:111
+msgid "Name"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:114
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:116
+#, python-format
+msgid "Mozilla will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(link)s\" target=\"_blank\">privacy policy</a> for further information."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:120
+#: network-api/networkapi/templates/fragments/language_switcher.html:9
+msgid "Language"
+msgstr "Idioma"
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:121
+msgid "Dutch"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:122
+msgid "English"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:123
+msgid "French"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:124
+msgid "German"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:125
+msgid "Other"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:126
+msgid "Polish"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:127
+msgid "Portuguese"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:128
+msgid "Spanish"
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:138
+msgid "reCAPTCHA helps prevent automated form spam."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:140
+msgid "The submit button will be disabled until you complete the CAPTCHA."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/fragments/formassembly_body.html:143
+msgid "Submit"
+msgstr ""
 
 #: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:4
 #, python-format
@@ -60,6 +208,15 @@ msgstr "Las contribuciones se destinan a la <a href=\"%(mozilla_url)s\">Fundaci�
 #: network-api/networkapi/templates/partials/primary_nav.html:18
 msgid "Home"
 msgstr "Página principal"
+
+#: network-api/networkapi/templates/donate/pages/help_page.html:20
+#, python-format
+msgid "If you need help with a <a href=\"%(link)s\" target=\"_blank\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon as possible."
+msgstr ""
+
+#: network-api/networkapi/templates/donate/pages/help_page.html:25
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
 
 #: network-api/networkapi/templates/donate/pages/landing_page.html:21
 msgid "featured image"
@@ -594,10 +751,6 @@ msgstr "Notas al pie"
 #: network-api/networkapi/templates/fragments/footnotes.html:13
 msgid "Back to content"
 msgstr "Volver al contenido"
-
-#: network-api/networkapi/templates/fragments/language_switcher.html:9
-msgid "Language"
-msgstr "Idioma"
 
 #: network-api/networkapi/templates/fragments/libraries/filter_button.html:34
 msgctxt "Button"
@@ -1160,18 +1313,9 @@ msgstr "Nombre"
 msgid "Last Name"
 msgstr "Apellido"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:66
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
-msgid "Email"
-msgstr "Correo electrónico"
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:70
 msgid "Country"
 msgstr "País"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:70
-msgid "Please select..."
-msgstr "Por favor selecciona..."
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:312
 msgid "Postal Code"
@@ -1538,9 +1682,6 @@ msgstr "Malo"
 
 #~ msgid "Minimum Security Standards explained"
 #~ msgstr "Nuestros estándares mínimos de seguridad"
-
-#~ msgid "Contact Us"
-#~ msgstr "Contacta con nosotros"
 
 #~ msgid "*Privacy Not Included Warning Label"
 #~ msgstr "*privacidad no incluida"
