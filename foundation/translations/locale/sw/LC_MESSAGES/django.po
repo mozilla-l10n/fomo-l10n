@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-07 10:48+0000\n"
+"POT-Creation-Date: 2023-11-09 08:04+0000\n"
 "PO-Revision-Date: 2023-07-18 09:43+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -244,7 +244,7 @@ msgid "Methodology"
 msgstr "Methodolojia"
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:218
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
 msgid "Contact us"
 msgstr "Wasiliana nasi"
 
@@ -422,7 +422,7 @@ msgstr "Kategoria Zote"
 msgid "All Reviews"
 msgstr "Maoni Yote"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:25
 msgid "Search all products"
 msgstr "Tafuta bidhaa zote"
 
@@ -1026,10 +1026,10 @@ msgstr "<a href=\"mailto:%(email)s\">Wasiliana nasi</a> au ..."
 msgid "Go to home page"
 msgstr "Nenda kwenye ukurasa wa nyumbani"
 
-#: network-api/networkapi/templates/partials/donate_banner.html:14
-#: network-api/networkapi/templates/partials/donate_banner.html:15
-msgid "Close Banner"
-msgstr "Funga Bango"
+#: network-api/networkapi/templates/partials/donate_banner.html:7
+#: network-api/networkapi/templates/partials/donate_banner.html:8
+msgid " Close Banner"
+msgstr ""
 
 #: network-api/networkapi/templates/partials/footer.html:12
 msgid "We all love the Web. Join Mozilla in defending it."
@@ -1095,81 +1095,92 @@ msgstr "Ukurasa wa Nyumbani wa Mozilla Foundation"
 msgid "No thanks"
 msgstr "Hapana asante"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:66
 msgid "Related reading"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:185
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:184
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Jinsi ya kutumia *faragha haijajumuishwa"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:195
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:194
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Kwa nini tuliunda *faragha haijajumuishwa"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:204
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Wanahabari"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:208
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:222
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:236
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:250
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*faragha haijajumuishwa"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:232
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
 msgid "Our methodology"
 msgstr "Mbinu yetu"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:246
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
 msgid "Contest terms and conditions"
 msgstr "Pinga sheria na masharti"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:269
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:81
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:101
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:133
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:287
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:115
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:140
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:185
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:267
 msgid "Not creepy"
 msgstr "Sio ya kuogofya"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:270
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:82
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:102
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:134
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:288
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:116
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:141
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:151
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:186
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:196
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:268
 msgid "A little creepy"
 msgstr "Inaogofya kidogo"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:271
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:83
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:103
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:135
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:289
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:117
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:142
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:269
 msgid "Somewhat creepy"
 msgstr "Inaogofya kiasi"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:272
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:84
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:104
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:136
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:290
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:118
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:270
 msgid "Very creepy"
 msgstr "Inaogofya sana"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:273
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:85
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:105
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:137
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:291
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:119
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:144
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:189
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:271
 msgid "Super creepy"
 msgstr "Inaogofya kabisa"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:671
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:401
+msgid "No votes"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:804
 msgid "*Privacy Not Included review:"
 msgstr "*Ukaguzi wa Faragha Haujajumuishwa:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:845
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:978
 msgid "Privacy & security guide"
 msgstr "Mwongozo wa faragha na usalama"
 
@@ -1509,6 +1520,9 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#~ msgid "Close Banner"
+#~ msgstr "Funga Bango"
 
 #~ msgid "Help Mozilla fight for a better internet this holiday season"
 #~ msgstr "Saidia Mozilla kupambania mtandao bora katika msimu huu wa likizo"

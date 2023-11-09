@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-07 10:48+0000\n"
+"POT-Creation-Date: 2023-11-09 08:04+0000\n"
 "PO-Revision-Date: 2023-10-03 16:31+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -244,7 +244,7 @@ msgid "Methodology"
 msgstr "Nossa metodologia"
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:218
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
 msgid "Contact us"
 msgstr "Entre em contato conosco"
 
@@ -422,7 +422,7 @@ msgstr "Todas as categorias"
 msgid "All Reviews"
 msgstr "Todas as avaliações"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:25
 msgid "Search all products"
 msgstr "Pesquisar em todos os produtos"
 
@@ -1026,10 +1026,10 @@ msgstr "<a href=\"mailto:%(email)s\">Entre em contato conosco</a> ou ..."
 msgid "Go to home page"
 msgstr "Ir para a página inicial"
 
-#: network-api/networkapi/templates/partials/donate_banner.html:14
-#: network-api/networkapi/templates/partials/donate_banner.html:15
-msgid "Close Banner"
-msgstr "Fechar aviso"
+#: network-api/networkapi/templates/partials/donate_banner.html:7
+#: network-api/networkapi/templates/partials/donate_banner.html:8
+msgid " Close Banner"
+msgstr ""
 
 #: network-api/networkapi/templates/partials/footer.html:12
 msgid "We all love the Web. Join Mozilla in defending it."
@@ -1095,81 +1095,92 @@ msgstr "Página inicial da Fundação Mozilla"
 msgid "No thanks"
 msgstr "Não, obrigado"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:66
 msgid "Related reading"
 msgstr "Leitura relacionada"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:185
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:184
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Como usar a *privacidade não incluída"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:195
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:194
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Por que criamos a *privacidade não incluída"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:204
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Imprensa"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:208
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:222
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:236
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:250
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacidade não incluída"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:232
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
 msgid "Our methodology"
 msgstr "Nossa metodologia"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:246
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
 msgid "Contest terms and conditions"
 msgstr "Termos e condições da competição"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:269
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:81
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:101
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:133
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:287
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:115
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:140
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:185
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:267
 msgid "Not creepy"
 msgstr "Não é assustador"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:270
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:82
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:102
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:134
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:288
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:116
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:141
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:151
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:186
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:196
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:268
 msgid "A little creepy"
 msgstr "Um pouco assustador"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:271
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:83
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:103
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:135
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:289
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:117
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:142
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:269
 msgid "Somewhat creepy"
 msgstr "Razoavelmente assustador"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:272
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:84
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:104
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:136
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:290
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:118
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:270
 msgid "Very creepy"
 msgstr "Muito assustador"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:273
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:85
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:105
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:137
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:291
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:119
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:144
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:189
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:271
 msgid "Super creepy"
 msgstr "Assustador demais"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:671
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:401
+msgid "No votes"
+msgstr "Nenhum voto"
+
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:804
 msgid "*Privacy Not Included review:"
 msgstr "Avaliação de *Privacidade não incluída:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:845
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:978
 msgid "Privacy & security guide"
 msgstr "Guia de privacidade e segurança"
 
@@ -1510,6 +1521,9 @@ msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Ruim"
 
+#~ msgid "Close Banner"
+#~ msgstr "Fechar aviso"
+
 #~ msgid "Help Mozilla fight for a better internet this holiday season"
 #~ msgstr "Ajude a Mozilla a lutar por uma internet melhor"
 
@@ -1521,9 +1535,6 @@ msgstr "Ruim"
 
 #~ msgid "Support Mozilla"
 #~ msgstr "Apoie a Mozilla"
-
-#~ msgid "No votes"
-#~ msgstr "Nenhum voto"
 
 #~ msgctxt "Button to see more than the latest three elements of research from an author"
 #~ msgid "Browse all projects"
