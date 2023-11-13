@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-09 08:04+0000\n"
-"PO-Revision-Date: 2023-11-13 11:40+0000\n"
+"PO-Revision-Date: 2023-11-13 20:31+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -94,6 +94,8 @@ msgid ""
 "We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single "
 "European Payment Area (SEPA) transfer."
 msgstr ""
+"Realmente apreciamos seu generoso apoio e estamos felizes em oferecer agora uma maneira mais fácil de fazer doações por meio de transferência bancária online. Podemos aceitar doações por débito "
+"direto em euros através de transferência no Single European Payment Area (SEPA)."
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:92
 msgid "Make your donation online now"
@@ -101,29 +103,31 @@ msgstr "Faça já sua doação online"
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:92 network-api/networkapi/templates/donate/fragments/formassembly_body.html:100
 msgid "Still have questions? Contact us by submitting a case."
-msgstr ""
+msgstr "Ainda tem dúvidas? Entre em contato conosco incluindo detalhes no formulário."
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:94
 msgid ""
 "Access your donation account settings using the '<b>Manage My Donation</b>' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge "
 "date. You can also cancel your recurring donation plan."
 msgstr ""
+"Acesse as configurações da sua conta de doação usando o botão '<b>Gerenciar minha doação</b>' em seu email de confirmação de doação recente. Lá você pode alterar valor, frequência, método de "
+"pagamento e data da cobrança. Você também pode cancelar seu plano de doação periódica."
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:102
 msgid "Any other details that might help"
-msgstr ""
+msgstr "Quaisquer outros detalhes que possam ajudar"
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:105 network-api/networkapi/templates/donate/fragments/formassembly_body.html:106
 msgid "Add a screenshot to help us with your request (optional)"
-msgstr ""
+msgstr "Adicione uma captura de tela para nos ajudar a resolver sua solicitação (opcional)"
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:106
 msgid "JPG, PNG and BMP files only"
-msgstr ""
+msgstr "Somente arquivos JPG, PNG ou BMP"
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:111
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:114 network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:66
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:49
@@ -134,6 +138,8 @@ msgstr "Email"
 #, python-format
 msgid "Mozilla will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(link)s\" target=\"_blank\">privacy policy</a> for further information."
 msgstr ""
+"A Mozilla só usará as informações enviadas para fins de comunicação com você sobre sua solicitação. Consulte mais informações na nossa <a href=\"%(link)s\" target=\"_blank\">política de "
+"privacidade</a>."
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:120 network-api/networkapi/templates/fragments/language_switcher.html:9
 msgid "Language"
@@ -226,6 +232,8 @@ msgid ""
 "If you need help with a <a href=\"%(link)s\" target=\"_blank\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative "
 "will get back to you as soon as possible."
 msgstr ""
+"Se precisar de ajuda com uma <a href=\"%(link)s\" target=\"_blank\">doação</a> para a Fundação Mozilla, selecione o motivo de sua consulta no menu suspenso e um representante de atendimento a "
+"doadores entrará em contato com você assim que possível."
 
 #: network-api/networkapi/templates/donate/pages/help_page.html:25
 msgid "Contact Us"
@@ -990,7 +998,7 @@ msgstr "Ir para a página inicial"
 
 #: network-api/networkapi/templates/partials/donate_banner.html:7 network-api/networkapi/templates/partials/donate_banner.html:8
 msgid " Close Banner"
-msgstr ""
+msgstr "Fechar aviso"
 
 #: network-api/networkapi/templates/partials/footer.html:12
 msgid "We all love the Web. Join Mozilla in defending it."
