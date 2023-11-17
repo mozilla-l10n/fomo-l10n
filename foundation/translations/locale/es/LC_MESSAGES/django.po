@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-09 08:04+0000\n"
+"POT-Creation-Date: 2023-11-17 09:27+0000\n"
 "PO-Revision-Date: 2023-11-08 08:03+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -186,8 +186,8 @@ msgstr "Mozilla tiene un compromiso con tu privacidad; lee nuestra <a href=\"%(p
 
 #: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:9
 #, python-format
-msgid "<b>Other ways to give: <a href=\"%(check_url)s\">Check</a></b>"
-msgstr "<b>Otras maneras de dar: <a href=\"%(check_url)s\">Cheque</a></b>"
+msgid "<b>Other ways to give:  <a href=\"%(ways_to_give_url)s\">Check, Bank Transfer, Stocks</a></b>"
+msgstr ""
 
 #: network-api/networkapi/templates/donate/fragments/fundraise_up_disclaimer.html:14
 #, python-format
@@ -211,8 +211,8 @@ msgstr "Página principal"
 
 #: network-api/networkapi/templates/donate/pages/help_page.html:20
 #, python-format
-msgid "If you need help with a <a href=\"%(link)s\" target=\"_blank\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon as possible."
-msgstr "Si necesitas ayuda para hacer una <a href=\"%(link)s\" target=\"_blank\">donación</a> a la Fundación Mozilla, elige el tema de tu consulta en la lista desplegable y alguien del equipo de donaciones se pondrá en contacto contigo lo antes posible."
+msgid "If you need help with a <a href=\"%(link)s\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon as possible."
+msgstr ""
 
 #: network-api/networkapi/templates/donate/pages/help_page.html:25
 msgid "Contact Us"
@@ -1126,7 +1126,7 @@ msgstr "Nuestra metodología"
 msgid "Contest terms and conditions"
 msgstr "Términos y condiciones del concurso"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:287
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:305
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:115
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:140
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:185
@@ -1134,7 +1134,7 @@ msgstr "Términos y condiciones del concurso"
 msgid "Not creepy"
 msgstr "Nada siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:288
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:306
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:116
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:141
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:151
@@ -1144,7 +1144,7 @@ msgstr "Nada siniestro"
 msgid "A little creepy"
 msgstr "Un poco siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:289
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:307
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:117
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:142
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
@@ -1152,7 +1152,7 @@ msgstr "Un poco siniestro"
 msgid "Somewhat creepy"
 msgstr "Algo siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:290
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:308
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:118
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
@@ -1160,7 +1160,7 @@ msgstr "Algo siniestro"
 msgid "Very creepy"
 msgstr "Muy siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:291
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:309
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:119
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:144
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:189
@@ -1168,15 +1168,15 @@ msgstr "Muy siniestro"
 msgid "Super creepy"
 msgstr "Sumamente siniestro"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:401
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:419
 msgid "No votes"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:804
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:822
 msgid "*Privacy Not Included review:"
 msgstr "Reseña de *Privacidad no incluida:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:978
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:996
 msgid "Privacy & security guide"
 msgstr "Guía de seguridad y privacidad"
 
@@ -1516,6 +1516,14 @@ msgstr "Necesita mejoras"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Malo"
+
+#, python-format
+#~ msgid "<b>Other ways to give: <a href=\"%(check_url)s\">Check</a></b>"
+#~ msgstr "<b>Otras maneras de dar: <a href=\"%(check_url)s\">Cheque</a></b>"
+
+#, python-format
+#~ msgid "If you need help with a <a href=\"%(link)s\" target=\"_blank\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon as possible."
+#~ msgstr "Si necesitas ayuda para hacer una <a href=\"%(link)s\" target=\"_blank\">donación</a> a la Fundación Mozilla, elige el tema de tu consulta en la lista desplegable y alguien del equipo de donaciones se pondrá en contacto contigo lo antes posible."
 
 #~ msgid "Close Banner"
 #~ msgstr "Cerrar banner"
