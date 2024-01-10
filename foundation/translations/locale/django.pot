@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-05 17:25+0000\n"
+"POT-Creation-Date: 2024-01-10 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgid "Page Not Found"
 msgstr ""
 
 #: network-api/networkapi/templates/donate/fragments/footer.html:14
-#: network-api/networkapi/templates/fragments/footer.html:36
+#: network-api/networkapi/templates/fragments/footer.html:38
 #: network-api/networkapi/templates/fragments/primary_nav.html:45
 #: network-api/networkapi/templates/pages/base.html:18
 #: network-api/networkapi/templates/pattern_library_base.html:12
@@ -353,39 +353,39 @@ msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:7
 #: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:20
-#: network-api/networkapi/templates/fragments/footer.html:58
+#: network-api/networkapi/templates/fragments/footer.html:60
 #: network-api/networkapi/templates/fragments/primary_nav.html:66
 msgid "Donate"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:9
-#: network-api/networkapi/templates/fragments/footer.html:60
+#: network-api/networkapi/templates/fragments/footer.html:62
 msgid "Careers"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:10
-#: network-api/networkapi/templates/fragments/footer.html:61
+#: network-api/networkapi/templates/fragments/footer.html:63
 msgid "Cookies"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:11
-#: network-api/networkapi/templates/fragments/footer.html:62
+#: network-api/networkapi/templates/fragments/footer.html:64
 msgid "Legal"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:12
-#: network-api/networkapi/templates/fragments/footer.html:63
+#: network-api/networkapi/templates/fragments/footer.html:65
 msgid "Participation Guidelines"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:13
-#: network-api/networkapi/templates/fragments/footer.html:64
+#: network-api/networkapi/templates/fragments/footer.html:66
 msgid "Press Center"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/footer.html:14
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:15
-#: network-api/networkapi/templates/fragments/footer.html:65
+#: network-api/networkapi/templates/fragments/footer.html:67
 msgid "Privacy"
 msgstr ""
 
@@ -470,12 +470,19 @@ msgid "*privacy not included"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
-#: network-api/networkapi/templates/fragments/footer.html:32
+#: network-api/networkapi/templates/fragments/footer.html:33
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
+msgctxt "Submit button for newsletter signup form"
+msgid "Sign up"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
+#: network-api/networkapi/templates/fragments/footer.html:34
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
 msgid "Help shape the future of the web for the public good."
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
+#: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:16
 msgid "Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
 msgstr ""
 
@@ -737,48 +744,48 @@ msgstr ""
 msgid "Donate now"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:33
+#: network-api/networkapi/templates/fragments/footer.html:35
 msgid "<p>Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox.</p>"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:36
+#: network-api/networkapi/templates/fragments/footer.html:38
 msgid "Return to Homepage"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:44
+#: network-api/networkapi/templates/fragments/footer.html:46
 msgid "More about us"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:47
+#: network-api/networkapi/templates/fragments/footer.html:49
 #: network-api/networkapi/templates/fragments/share-buttons.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:48
 msgid "Twitter"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:48
+#: network-api/networkapi/templates/fragments/footer.html:50
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
 msgid "Instagram"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:49
+#: network-api/networkapi/templates/fragments/footer.html:51
 msgid "GitHub"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:50
+#: network-api/networkapi/templates/fragments/footer.html:52
 msgid "Youtube"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:72
+#: network-api/networkapi/templates/fragments/footer.html:74
 msgid "This website supports Web Monetization."
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:74
+#: network-api/networkapi/templates/fragments/footer.html:76
 #, python-format
 msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:92
+#: network-api/networkapi/templates/fragments/footer.html:94
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr ""
@@ -901,7 +908,7 @@ msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:61
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:67
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:69
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr ""
@@ -1202,11 +1209,11 @@ msgstr ""
 msgid "No votes"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:825
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:824
 msgid "*Privacy Not Included review:"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1013
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1012
 msgid "Privacy & security guide"
 msgstr ""
 
@@ -1376,6 +1383,11 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:9
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:88
 msgid "Read more news"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:8
+msgctxt "Submit button for newsletter signup form"
+msgid "Subscribe"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:9
