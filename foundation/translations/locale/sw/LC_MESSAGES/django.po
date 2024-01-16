@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-10 10:31+0000\n"
+"POT-Creation-Date: 2024-01-16 14:14+0000\n"
 "PO-Revision-Date: 2024-01-05 17:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -471,14 +471,17 @@ msgstr "*faragha haijajumuishwa"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
 #: network-api/networkapi/templates/fragments/footer.html:33
+#: network-api/networkapi/templates/fragments/primary_nav.html:89
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
 #: network-api/networkapi/templates/fragments/footer.html:34
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
+#: network-api/networkapi/templates/fragments/primary_nav.html:90
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:36
 msgid "Help shape the future of the web for the public good."
 msgstr "Saidia kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma."
 
@@ -745,8 +748,10 @@ msgid "Donate now"
 msgstr "Changa sasa"
 
 #: network-api/networkapi/templates/fragments/footer.html:35
-msgid "<p>Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox.</p>"
-msgstr "<p>Jiunge na orodha yetu ya barua pepe ya <b>Mozilla News</b> ili upate arifa za hatua na vidokezo vya mtandao moja kwa moja kwenye kisanduku pokezi chako.</p>"
+#: network-api/networkapi/templates/fragments/primary_nav.html:91
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:37
+msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
+msgstr "Jiunge na orodha yetu ya barua pepe ya </b>Mozilla News<b> ili upate arifa za hatua na vidokezo vya mtandao moja kwa moja kwenye kisanduku pokezi chako."
 
 #: network-api/networkapi/templates/fragments/footer.html:38
 msgid "Return to Homepage"
@@ -836,7 +841,7 @@ msgstr "Fungua menyu"
 msgid "Mozilla Foundation Homepage"
 msgstr "Ukurasa wa Nyumbani wa Mozilla Foundation"
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:87
+#: network-api/networkapi/templates/fragments/primary_nav.html:94
 msgid "No thanks"
 msgstr "Hapana asante"
 
@@ -1162,7 +1167,7 @@ msgstr "Pinga sheria na masharti"
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:232
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:245
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:371
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:383
 msgid "Not creepy"
 msgstr "Sio ya kuogofya"
 
@@ -1171,7 +1176,7 @@ msgstr "Sio ya kuogofya"
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:259
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:372
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:384
 msgid "A little creepy"
 msgstr "Inaogofya kidogo"
 
@@ -1182,7 +1187,7 @@ msgstr "Inaogofya kidogo"
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:189
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:198
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:274
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:373
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:385
 msgid "Somewhat creepy"
 msgstr "Inaogofya kiasi"
 
@@ -1191,7 +1196,7 @@ msgstr "Inaogofya kiasi"
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:145
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:190
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:288
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:374
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:386
 msgid "Very creepy"
 msgstr "Inaogofya sana"
 
@@ -1200,7 +1205,8 @@ msgstr "Inaogofya sana"
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:146
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:191
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:301
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:375
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:313
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:387
 msgid "Super creepy"
 msgstr "Inaogofya kabisa"
 
@@ -1209,11 +1215,11 @@ msgstr "Inaogofya kabisa"
 msgid "No votes"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:824
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:829
 msgid "*Privacy Not Included review:"
 msgstr "*Ukaguzi wa Faragha Haujajumuishwa:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1012
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1017
 msgid "Privacy & security guide"
 msgstr "Mwongozo wa faragha na usalama"
 
@@ -1419,10 +1425,6 @@ msgstr "Tafuta..."
 msgid "Spotlight"
 msgstr "Angaza"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
-msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
-msgstr "Jiunge na orodha yetu ya barua pepe ya </b>Mozilla News<b> ili upate arifa za hatua na vidokezo vya mtandao moja kwa moja kwenye kisanduku pokezi chako."
-
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:37
 #, python-format
 msgid "%(total_entries)s result"
@@ -1548,6 +1550,9 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#~ msgid "<p>Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox.</p>"
+#~ msgstr "<p>Jiunge na orodha yetu ya barua pepe ya <b>Mozilla News</b> ili upate arifa za hatua na vidokezo vya mtandao moja kwa moja kwenye kisanduku pokezi chako.</p>"
 
 #~ msgid "Close Banner"
 #~ msgstr "Funga Bango"

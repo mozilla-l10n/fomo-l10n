@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-10 10:31+0000\n"
+"POT-Creation-Date: 2024-01-16 14:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -471,14 +471,17 @@ msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
 #: network-api/networkapi/templates/fragments/footer.html:33
+#: network-api/networkapi/templates/fragments/primary_nav.html:89
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
 #: network-api/networkapi/templates/fragments/footer.html:34
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:34
+#: network-api/networkapi/templates/fragments/primary_nav.html:90
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:36
 msgid "Help shape the future of the web for the public good."
 msgstr ""
 
@@ -745,7 +748,9 @@ msgid "Donate now"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:35
-msgid "<p>Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox.</p>"
+#: network-api/networkapi/templates/fragments/primary_nav.html:91
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:37
+msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:38
@@ -836,7 +841,7 @@ msgstr ""
 msgid "Mozilla Foundation Homepage"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:87
+#: network-api/networkapi/templates/fragments/primary_nav.html:94
 msgid "No thanks"
 msgstr ""
 
@@ -1162,7 +1167,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:232
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:245
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:371
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:383
 msgid "Not creepy"
 msgstr ""
 
@@ -1171,7 +1176,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:259
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:372
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:384
 msgid "A little creepy"
 msgstr ""
 
@@ -1182,7 +1187,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:189
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:198
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:274
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:373
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:385
 msgid "Somewhat creepy"
 msgstr ""
 
@@ -1191,7 +1196,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:145
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:190
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:288
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:374
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:386
 msgid "Very creepy"
 msgstr ""
 
@@ -1200,7 +1205,8 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:146
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:191
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:301
-#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:375
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:313
+#: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:387
 msgid "Super creepy"
 msgstr ""
 
@@ -1209,11 +1215,11 @@ msgstr ""
 msgid "No votes"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:824
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:829
 msgid "*Privacy Not Included review:"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1012
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1017
 msgid "Privacy & security guide"
 msgstr ""
 
@@ -1417,10 +1423,6 @@ msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/spotlight_posts.html:6
 msgid "Spotlight"
-msgstr ""
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
-msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/index_page.html:37
