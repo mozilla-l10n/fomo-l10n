@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-26 14:00+0000\n"
-"PO-Revision-Date: 2024-01-26 14:12+0000\n"
+"PO-Revision-Date: 2024-01-26 14:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -926,10 +926,13 @@ msgid ""
 "<em>*Privacy Not Included</em> helps consumers shop for trustworthy connected products while shining a light on products with poor privacy and security practices. We also uplift companies who get it"
 " right. If you’re looking for inspiration for your company’s own privacy policy, <a href=\"%(best_of_url)s\">start here</a>."
 msgstr ""
+"<em>*Confidentialité non incluse</em> aide les consommateurs et consommatrices à acheter des objets connectés dignes de confiance tout en mettant en lumière les produits dont les pratiques en "
+"matière de protection de la vie privée et de sécurité laissent à désirer. Nous encourageons également les entreprises qui font les choses correctement. Si vous cherchez de l’inspiration pour la "
+"politique de confidentialité de votre entreprise, <a href=\"%(best_of_url)s\">commencez par ici</a>."
 
 #: network-api/networkapi/templates/pages/buyersguide/about/press.html:21
 msgid "Are you a journalist researching connected products or a member of the press covering privacy?"
-msgstr ""
+msgstr "Êtes-vous un·e journaliste qui fait des recherches sur les objets connectés ou qui s’intéresse à la vie privée ?"
 
 #: network-api/networkapi/templates/pages/buyersguide/about/press.html:26
 #, python-format
@@ -937,6 +940,9 @@ msgid ""
 "<em>*Privacy Not Included</em> can help inform your research. Let the <a href=\"%(pni_url)s\">product guide</a> assist you in incorporating privacy—and not just price and performance—into your "
 "consumer technology coverage. If you don’t find the product you’re looking for, you can submit your suggestion <a href=\"%(typeform_url)s\">here</a>."
 msgstr ""
+"<em>*Confidentialité non incluse</em> peut vous aider à orienter vos recherches. <a href=\"%(pni_url)s\">Le guide des produits</a> vous aidera à intégrer la protection de la vie privée (et pas "
+"seulement le prix et les performances) dans votre traitement des technologies grand public. Si vous ne trouvez pas le produit que vous recherchez, vous pouvez soumettre votre suggestion <a "
+"href=\"%(typeform_url)s\">ici</a>."
 
 #: network-api/networkapi/templates/pages/buyersguide/about/press.html:33
 #, python-format
