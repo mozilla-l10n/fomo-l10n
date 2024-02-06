@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-01 08:20+0000\n"
+"POT-Creation-Date: 2024-02-06 09:18+0000\n"
 "PO-Revision-Date: 2024-01-10 11:05+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: \n"
@@ -262,7 +262,7 @@ msgid "Methodology"
 msgstr "Onze methodologie"
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:220
 msgid "Contact us"
 msgstr "Contact"
 
@@ -472,8 +472,10 @@ msgstr "*privacy niet inbegrepen"
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
 #: network-api/networkapi/templates/fragments/footer.html:33
 #: network-api/networkapi/templates/fragments/primary_nav.html:89
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:71
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/signup.html:9
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr "Registreren"
@@ -1126,42 +1128,42 @@ msgstr "<a href=\"mailto:%(email)s\">Neem contact met ons op</a> of …"
 msgid "Go to home page"
 msgstr "Naar startpagina"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:66
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
 msgid "Related reading"
 msgstr "Gerelateerde documentatie"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:184
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:187
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Gebruik van *privacy niet inbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:194
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:197
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Waarom we *privacy niet inbegrepen hebben gemaakt"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:206
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Pers"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:210
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:224
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:238
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:252
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*privacy niet inbegrepen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:234
 msgid "Our methodology"
 msgstr "Onze methodologie"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:248
 msgid "Contest terms and conditions"
 msgstr "Wedstrijdvoorwaarden"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:306
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:305
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:117
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:142
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
@@ -1171,7 +1173,7 @@ msgstr "Wedstrijdvoorwaarden"
 msgid "Not creepy"
 msgstr "Niet griezelig"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:307
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:306
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:118
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
@@ -1180,7 +1182,7 @@ msgstr "Niet griezelig"
 msgid "A little creepy"
 msgstr "Een beetje griezelig"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:308
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:307
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:119
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:144
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:153
@@ -1191,7 +1193,7 @@ msgstr "Een beetje griezelig"
 msgid "Somewhat creepy"
 msgstr "Enigszins griezelig"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:309
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:308
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:120
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:145
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:190
@@ -1200,7 +1202,7 @@ msgstr "Enigszins griezelig"
 msgid "Very creepy"
 msgstr "Heel griezelig"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:310
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:309
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:121
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:146
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:191
@@ -1210,16 +1212,16 @@ msgstr "Heel griezelig"
 msgid "Super creepy"
 msgstr "Supergriezelig"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:422
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:421
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:220
 msgid "No votes"
 msgstr "Geen stemmen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:829
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:833
 msgid "*Privacy Not Included review:"
 msgstr "*Privacy niet inbegrepen-beoordeling:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1017
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1024
 msgid "Privacy & security guide"
 msgstr "Privacy- en beveiligingsgids"
 
@@ -1295,6 +1297,12 @@ msgctxt "icon description for screen readers"
 msgid "audio"
 msgstr "Audio"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/newsletter_signup_block.html:13
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:8
+msgctxt "Submit button for newsletter signup form"
+msgid "Subscribe"
+msgstr "Abonneren"
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:16
 msgid "More from our blog"
 msgstr "Meer van onze blog"
@@ -1303,7 +1311,7 @@ msgstr "Meer van onze blog"
 msgid "Blog authors"
 msgstr "Blogauteurs"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:74
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:80
 msgid "Latest Blog Posts"
 msgstr "Laatste blogartikelen"
 
@@ -1390,11 +1398,6 @@ msgstr "Nieuws dat u kunt gebruiken"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:88
 msgid "Read more news"
 msgstr "Meer nieuws lezen"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:8
-msgctxt "Submit button for newsletter signup form"
-msgid "Subscribe"
-msgstr "Abonneren"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:9
 msgid "Subscribe to our newsletter"

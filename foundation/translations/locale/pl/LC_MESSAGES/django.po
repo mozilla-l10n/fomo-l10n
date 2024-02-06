@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-01 08:20+0000\n"
+"POT-Creation-Date: 2024-02-06 09:18+0000\n"
 "PO-Revision-Date: 2024-01-14 17:37+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: \n"
@@ -258,7 +258,7 @@ msgid "Methodology"
 msgstr "Nasza metodologia"
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:217
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:220
 msgid "Contact us"
 msgstr "Kontakt z nami"
 
@@ -468,8 +468,10 @@ msgstr "*Prywatność do nabycia osobno"
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
 #: network-api/networkapi/templates/fragments/footer.html:33
 #: network-api/networkapi/templates/fragments/primary_nav.html:89
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:71
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/signup.html:9
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr "Zapisz się"
@@ -1125,42 +1127,42 @@ msgstr "<a href=\"mailto:%(email)s\">Skontaktuj się z nami</a> lub…"
 msgid "Go to home page"
 msgstr "Przejdź na stronę główną"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:66
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
 msgid "Related reading"
 msgstr "Powiązane artykuły"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:184
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:187
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Jak korzystać z przewodnika *Prywatność do nabycia osobno"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:194
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:197
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Dlaczego napisaliśmy przewodnik *Prywatność do nabycia osobno"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:203
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:206
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Dla prasy"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:210
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:224
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:238
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:252
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "*Prywatność do nabycia osobno"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:231
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:234
 msgid "Our methodology"
 msgstr "Nasza metodologia"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:245
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:248
 msgid "Contest terms and conditions"
 msgstr "Zasady i warunki konkursu"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:306
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:305
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:117
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:142
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
@@ -1170,7 +1172,7 @@ msgstr "Zasady i warunki konkursu"
 msgid "Not creepy"
 msgstr "Nieprzerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:307
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:306
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:118
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
@@ -1179,7 +1181,7 @@ msgstr "Nieprzerażające"
 msgid "A little creepy"
 msgstr "Trochę przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:308
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:307
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:119
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:144
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:153
@@ -1190,7 +1192,7 @@ msgstr "Trochę przerażające"
 msgid "Somewhat creepy"
 msgstr "Nieco przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:309
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:308
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:120
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:145
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:190
@@ -1199,7 +1201,7 @@ msgstr "Nieco przerażające"
 msgid "Very creepy"
 msgstr "Bardzo przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:310
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:309
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:121
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:146
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:191
@@ -1209,16 +1211,16 @@ msgstr "Bardzo przerażające"
 msgid "Super creepy"
 msgstr "Ogromnie przerażające"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:422
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:421
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:220
 msgid "No votes"
 msgstr "Brak głosów"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:829
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:833
 msgid "*Privacy Not Included review:"
 msgstr "Recenzja z przewodnika *Prywatność do nabycia osobno:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1017
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1024
 msgid "Privacy & security guide"
 msgstr "Przewodnik prywatności i bezpieczeństwa"
 
@@ -1294,6 +1296,12 @@ msgctxt "icon description for screen readers"
 msgid "audio"
 msgstr "dźwięk"
 
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/newsletter_signup_block.html:13
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:8
+msgctxt "Submit button for newsletter signup form"
+msgid "Subscribe"
+msgstr "Subskrybuj"
+
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/recent_blog_entries.html:16
 msgid "More from our blog"
 msgstr "Więcej z naszego bloga"
@@ -1302,7 +1310,7 @@ msgstr "Więcej z naszego bloga"
 msgid "Blog authors"
 msgstr "Autorzy bloga"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:74
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:80
 msgid "Latest Blog Posts"
 msgstr "Najnowsze wpisy na blogu"
 
@@ -1389,11 +1397,6 @@ msgstr "Aktualności, które mogą się przydać"
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/news_you_can_use.html:88
 msgid "Read more news"
 msgstr "Więcej aktualności"
-
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:8
-msgctxt "Submit button for newsletter signup form"
-msgid "Subscribe"
-msgstr "Subskrybuj"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:9
 msgid "Subscribe to our newsletter"

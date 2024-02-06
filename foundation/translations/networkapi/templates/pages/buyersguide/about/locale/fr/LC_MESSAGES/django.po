@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-01 08:20+0000\n"
+"POT-Creation-Date: 2024-02-06 09:18+0000\n"
 "PO-Revision-Date: 2024-01-26 17:05+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -553,146 +553,147 @@ msgid "Are you a journalist researching connected products or a member of the pr
 msgstr "Êtes-vous un·e journaliste qui fait des recherches sur les objets connectés ou qui s’intéresse à la vie privée ?"
 
 #: network-api/networkapi/templates/pages/buyersguide/about/press.html:26
-#, python-format
-msgid "<em>*Privacy Not Included</em> can help inform your research. Let the <a href=\"%(pni_url)s\">product guide</a> assist you in incorporating privacy—and not just price and performance—into your consumer technology coverage. If you don’t find the product you’re looking for, you can submit your suggestion <a href=\"%(typeform_url)s\">here</a>."
+#, fuzzy, python-format
+#| msgid "<em>*Privacy Not Included</em> can help inform your research. Let the <a href=\"%(pni_url)s\">product guide</a> assist you in incorporating privacy—and not just price and performance—into your consumer technology coverage. If you don’t find the product you’re looking for, you can submit your suggestion <a href=\"%(typeform_url)s\">here</a>."
+msgid "<em>*Privacy Not Included</em> can help inform your research. Let the <a href=\"%(pni_url)s\">product guide</a> assist you in incorporating privacy—and not just price and performance—into your consumer technology coverage."
 msgstr "<em>*Confidentialité non incluse</em> peut vous aider à orienter vos recherches. <a href=\"%(pni_url)s\">Le guide des produits</a> vous aidera à intégrer la protection de la vie privée (et pas seulement le prix et les performances) dans votre traitement des technologies grand public. Si vous ne trouvez pas le produit que vous recherchez, vous pouvez soumettre votre suggestion <a href=\"%(typeform_url)s\">ici</a>."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:33
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:32
 #, python-format
 msgid "Have questions for the <em>*Privacy Not Included</em> team? Email <b>%(email)s</b> at <a href=\"mailto:%(email)s\">%(email)s</a>. Our researchers can answer questions about specific products, or speak to broader trends in the realm of privacy, security, and trustworthy AI. We can also provide high-resolution graphics and gifs from our guide."
 msgstr "Vous avez des questions pour l’équipe <em>*Confidentialité non incluse</em> ? Envoyez un e-mail à <b>%(email)s</b> à l’adresse <a href=\"mailto:%(email)s\">%(email)s</a>. Nos chercheurs et chercheuses peuvent répondre à des questions sur des produits spécifiques ou parler de tendances plus larges dans les domaines de la confidentialité, de la sécurité et de l’IA digne de confiance. Nous pouvons également fournir des images en haute résolution et des GIF de notre guide."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:44
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:43
 #, python-format
 msgid "<b>The people have spoken!</b> Mozilla’s <em>*Privacy Not Included</em> <a href=\"%(url)s\">won two Webby</a> awards in 2023: the “Responsible Information” award in the Inaugural Responsible Technology category and the “People’s Voice” award. This win marks their second “People’s Voice” win since 2020."
 msgstr "<b>Le public s’est exprimé !</b> <em>*Confidentialité non incluse</em> de Mozilla <a href=\"%(url)s\">a remporté deux Webby awards</a> en 2023 : le prix « Information responsable » dans la nouvelle catégorie « Technologie responsable » et le prix « People’s Voice ». C’est la deuxième fois que <em>*Confidentialité non incluse</em> remporte le prix « People’s Voice » depuis 2020."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:51
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:50
 msgid "Since launching 2017, <em>*Privacy Not Included</em> has reached millions and garnered hundreds of stories around the world. The guide’s groundbreaking product reviews scrutinize the privacy features and flaws of <b>connected gifts, sex toys, dating apps, reproductive health apps, mental health apps,</b> and <b>cars</b>."
 msgstr "Depuis son lancement en 2017, le site <em>*Confidentialité non incluse</em> a touché des millions de personnes et des centaines d’articles ont été publiés dans le monde entier. Ces analyses novatrices de produits passent en revue les fonctionnalités de confidentialité et les failles des <b>objets connectés, des sextoys, des applications de rencontres, des applications de santé reproductive, des applications de santé mentale</b> et des <b>voitures</b>."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:61
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:60
 #, python-format
 msgid "<strong>BBC Top Gear:</strong> <a href=\"%(url)s\">Modern cars branded a ‘privacy nightmare’ by Mozilla</a>"
 msgstr "<strong>BBC Top Gear :</strong> <a href=\"%(url)s\">Les voitures modernes sont qualifiées de « cauchemar pour la vie privée » par Mozilla</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:65
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:64
 msgid "Published September 2023. “First up, Mozilla says every car brand collects “too much personal data”... Secondly, the survey concluded that 84 per cent of motor manufacturers share your data and a worrying 76 per cent sell drivers’ personal data.”"
 msgstr "Publication en septembre 2023. « Tout d’abord, selon Mozilla, l’ensemble des constructeurs automobiles collecte « trop de données personnelles »… Ensuite, le sondage a conclu que 84 % des constructeurs partagent vos données personnelles et que 76 % vendent les données personnelles des conducteurs. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:73
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:72
 msgid "For generations, the car in America has come to symbolize freedom… And for many, freedom and privacy go hand in hand. It's hard to have one without the other. But according to a new report, your car could be worse than your phone when it comes to privacy."
 msgstr "Depuis des générations, la voiture aux États-Unis est devenue un symbole de liberté… Et pour beaucoup, liberté et vie privée vont de pair et sont des concepts interdépendants. Mais selon un nouveau rapport, votre voiture pourrait être pire que votre téléphone en matière de confidentialité."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:91
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:90
 #, python-format
 msgid "<strong>The Washington Post:</strong> <a href=\"%(url)s\">Carmakers fail privacy test, give owners little or no control on personal data they collect</a>"
 msgstr "<strong>The Washington Post :</strong> <a href=\"%(url)s\">Les constructeurs automobiles échouent au test de confidentialité et ne laissent pas ou peu de contrôle sur les données personnelles qu’ils collectent</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:95
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:94
 msgid "Published September 2023. “Cars are getting an “F” in data privacy. Most major manufacturers admit they may be selling your personal information, a new study finds, with half also saying they would share it with the government or law enforcement without a court order.”"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:102
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:101
 #, python-format
 msgid "<strong>Gizmodo:</strong> <a href=\"%(url)s\">If You've Got a New Car, It's a Data Privacy Nightmare </a>"
 msgstr "<strong>Gizmodo :</strong> <a href=\"%(url)s\">Si vous avez une voiture neuve, c’est un cauchemar pour la protection de vos données</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:106
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:105
 msgid "Published September 2023. “Mozilla found brands including BMW, Ford, Toyota, Tesla, and Subaru collect data about drivers including race, facial expressions, weight, health information, and where you drive.”"
 msgstr "Publié en septembre 2023. « Mozilla a découvert que des marques comme BMW, Ford, Toyota, Tesla et Subaru collectent des données sur les conducteurs telles que l’ethnicité, les expressions faciales, le poids, des informations sur la santé et sur les lieux où vous conduisez. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:112
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:111
 #, python-format
 msgid "<strong>Los Angeles Times:</strong> <a href=\"%(url)s\">Mental health apps may put your privacy at risk. Here's what to look for </a>"
 msgstr "<strong>Los Angeles Times :</strong> <a href=\"%(url)s\">Les applications de santé mentale peuvent mettre en danger votre vie privée. Voici ce à quoi il faut faire attention</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:116
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:115
 msgid "Published May 2023. “Jen Caltrider, director of Mozilla’s Privacy Not Included work, said it’s important to read an app’s privacy policy before downloading it because some of them start collecting data from users moments after they’re activated.”"
 msgstr "Publié en mai 2023. « Jen Caltrider, directrice du guide Confidentialité non incluse chez Mozilla, a déclaré qu’il était important de lire la politique de confidentialité des applications avant de les télécharger, car certaines d’entre elles commencent à collecter des données peu de temps après leur activation. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:123
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:122
 #, python-format
 msgid "<strong>The Verge:</strong> <a href=\"%(url)s\">Mental health app privacy language opens up holes for user data</a>"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:127
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:126
 msgid "Published May 2022. “Mozilla researchers said this week that mental health apps have some of the worst privacy protections of any app category.”"
 msgstr "Publié en mai 2022. « Les chercheurs de Mozilla ont déclaré cette semaine que les applications de santé mentale sont la catégorie d’applications qui protègent le moins bien la vie privée. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:133
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:132
 #, python-format
 msgid "<strong>VICE:</strong> <a href=\"%(url)s\">Period-Tracking Apps Won’t Say Whether They’ll Hand Your Data Over to Cops</a>"
 msgstr "<strong>VICE :</strong> <a href=\"%(url)s\">Les applications de suivi des règles refusent de dire si vos données sont partagées avec la police</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:137
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:136
 msgid "Published August 2022. “In total, of the 25 apps and products Mozilla reviewed, 18 were slapped with its ‘Privacy Not Included’ label, indicating that people should be cautious of using them.”"
 msgstr "Publié en août 2022. « Au total, sur les 25 applications et produits passés en revue par Mozilla, 18 se sont vu attribuer la mention « Confidentialité non incluse », indiquant que les utilisateurs et utilisatrices doivent faire preuve de prudence avant de les utiliser. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:143
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:142
 #, python-format
 msgid "<strong>The Guardian:</strong> <a href=\"%(url)s\">How private is your period-tracking app? Not very, study reveals</a>"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:147
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:146
 msgid "Published August 2022. “Experts at internet research non-profit Mozilla studied more than 20 pregnancy and period tracking apps for privacy and security features and said the results were grim.”"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:153
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:152
 #, python-format
 msgid "<strong>Daily Dot:</strong> <a href=\"%(url)s\">These sex toys and dating apps may jeopardize your privacy, Mozilla warns</a>"
 msgstr "<strong>Daily Dot :</strong> <a href=\"%(url)s\">Ces sextoys et applications de rencontres peuvent mettre en danger votre vie privée, prévient Mozilla</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:157
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:156
 msgid "Published February 2021. “Mozilla’s new Privacy Not Included report looks at 50 sex toys and dating apps and ranks them based on how they respect users’ privacy. And the answers aren’t sexy.”"
 msgstr "Publié en février 2021. « Le nouveau rapport de Mozilla Confidentialité non incluse passe en revue 50 sextoys et applications de rencontres et les classe en fonction de leur respect de la vie privée des utilisateurs. Et les réponses ne sont pas sexy. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:163
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:162
 #, python-format
 msgid "<strong>Mashable:</strong> <a href=\"%(url)s\">Privacy experts reviewed popular video-chat apps, and *yikes*</a>"
 msgstr "<strong>Mashable :</strong> <a href=\"%(url)s\">Des expert·e·s en matière de confidentialité ont examiné des applis populaires de discussion vidéo, et... au secours !</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:167
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:166
 msgid "Published April 2020. “[Mozilla] researchers combed through privacy policies, sifted through app specifications, and looked at critical questions.”"
 msgstr "Publié en avril 2020. « Les chercheurs de [Mozilla] ont passé au crible les politiques de confidentialité, passé au crible les spécifications des applications et se sont posé des questions critiques. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:173
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:172
 #, python-format
 msgid "<strong>NPR:</strong> <a href=\"%(url)s\">Mozilla’s Latest “Privacy Not Included” Buyer’s Guide</a>"
 msgstr "<strong>NPR :</strong> <a href=\"%(url)s\">Le dernier guide d’achat « Confidentialité non incluse » de Mozilla</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:177
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:176
 msgid "Published December 2019. Ashley Boyd, Mozilla’s VP of Advocacy and Engagement, spoke with host Steve Inskeep about the surveillance features that are often built into consumer technology."
 msgstr "Publication en décembre 2019. Ashley Boyd, vice-présidente du secteur Militantisme et engagement chez Mozilla, échange avec le présentateur Steve Inskeep à propos des fonctionnalités de surveillance souvent intégrées à des technologies de consommation courante."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:184
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:183
 msgid "Here’s a warning that should be on some of the items on your holiday shopping list—privacy not included. That’s the point of a shopping guide put out by the Mozilla Foundation."
 msgstr "Certains produits de votre liste de cadeaux de Noël devraient porter la mention « Confidentialité non incluse ». C’est ce qu’explique ce guide d’achat conçu par la Fondation Mozilla."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:201
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:200
 #, python-format
 msgid "<strong>USA Today:</strong> <a href=\"%(url)s\">Before you buy, consider privacy, please</a>"
 msgstr "<strong>USA Today :</strong> <a href=\"%(url)s\">Avant d’acheter, n’oubliez pas la confidentialité</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:205
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:204
 msgid "Published November 2019. Mozilla researcher Becca Ricks spoke with technology columnist Jefferson Graham about the privacy and security flaws of connected doorbells."
 msgstr "Publication en novembre 2019. La chercheuse Becca Ricks, de chez Mozilla, et le journaliste spécialisé dans la technologie Jefferson Graham discutent des problèmes de sécurité et de confidentialité des sonnettes connectées."
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:211
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:210
 #, python-format
 msgid "<strong>WIRED:</strong> <a href=\"%(url)s\">Mozilla Makes a Naughty List of Gifts that Aren’t Secure</a>"
 msgstr "<strong>WIRED :</strong> <a href=\"%(url)s\">Mozilla publie une liste de cadeaux à éviter</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:215
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:214
 msgid "Published November 2018. “In its second annual Privacy Not Included guide, the nonprofit highlights internet-connected items that value your privacy—and the ones that may not.”"
 msgstr "Publication en novembre 2018. « Dans cette deuxième édition du guide d’achat annuel Confidentialité non incluse, l’organisation à but non lucratif identifie les objets connectés qui protègent votre vie privée... et ceux qui ne le font pas. »"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:221
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:220
 #, python-format
 msgid "<strong>New York Times:</strong> <a href=\"%(url)s\">Don’t Give Kids Holiday Gifts That Can Spy on Them</a>"
 msgstr "<strong>New York Times :</strong> <a href=\"%(url)s\">Pour Noël, évitez d’offrir aux enfants des jouets qui les espionnent</a>"
 
-#: network-api/networkapi/templates/pages/buyersguide/about/press.html:225
+#: network-api/networkapi/templates/pages/buyersguide/about/press.html:224
 msgid "Published December 2017. Writes Ashley Boyd in this print and digital op-ed: “During the holiday season, my husband and I tend to offer suggestions to those who are generous enough to insist on buying presents for our kids. This year we’re adding a new rule to our list: No toys that can spy.”"
 msgstr "Publication en décembre 2017. Dans cet article d’opinion papier et numérique, Ashley Boyd explique : « Pendant la saison des fêtes, mon mari et moi donnons des idées de cadeaux à nos proches qui veulent gâter nos enfants. Cette année, nous ajoutons une nouvelle règle : pas de jouets espions. »"
 
