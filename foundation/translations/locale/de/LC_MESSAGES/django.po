@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-06 09:18+0000\n"
+"POT-Creation-Date: 2024-02-21 12:52+0000\n"
 "PO-Revision-Date: 2024-01-10 11:13+0000\n"
 "Last-Translator: RD.Marschall <rd.marschall@web.de>\n"
 "Language-Team: \n"
@@ -258,7 +258,7 @@ msgid "Methodology"
 msgstr "Unsere Methodik"
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:220
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
 msgid "Contact us"
 msgstr "Kontakt"
 
@@ -403,7 +403,7 @@ msgstr "App:"
 
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:21
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:22
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:94
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
 msgid "*privacy not included with this product"
 msgstr "*Datenschutz nicht inbegriffen bei diesem Produkt"
 
@@ -425,23 +425,23 @@ msgstr "Oh nein! Das haben wir hier nicht gefunden."
 msgid "Try going back to <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">All</a>. You might find it there."
 msgstr "Versuchen Sie es nochmal mit <a href=\"%(home_url)s\" class=\"go-back-to-all-link\">Alle</a>. Vielleicht finden Sie es dort."
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:2
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:3
 msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "Seitennavigation"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:9
 #: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:17
 #: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:25
 #: network-api/networkapi/templates/fragments/buyersguide/pni_mobile_nav.html:27
 msgid "All Categories"
 msgstr "Alle Kategorien"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:8
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:9
 msgid "All Reviews"
 msgstr "Alle Bewertungen"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:26
+#: network-api/networkapi/templates/fragments/buyersguide/pni_category_nav.html:27
 msgid "Search all products"
 msgstr "Alle Produkte durchsuchen"
 
@@ -675,6 +675,10 @@ msgstr "Sicherheit"
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:39
 msgid "A.I."
 msgstr "KI"
+
+#: network-api/networkapi/templates/fragments/buyersguide/related_products_section.html:6
+msgid "Related products"
+msgstr "Verwandte Produkte"
 
 #: network-api/networkapi/templates/fragments/buyersguide/related_reading.html:3
 msgid "Related"
@@ -924,19 +928,19 @@ msgstr "Treffen Sie kluge Entscheidungen, um Ihre Privatsphäre zu schützen. <b
 msgid "Scroll to see how creepy people find these products!"
 msgstr "Scrollen Sie, um zu sehen, wie gruselig die Leute diese Produkte finden!"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:94
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
 msgid "privacy not included"
 msgstr "Datenschutz nicht inbegriffen"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:114
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:115
 msgid "Sort by "
 msgstr "Sortieren nach"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:178
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:179
 msgid "Don’t see the product you’re looking for?"
 msgstr "Sie sehen das gesuchte Produkt nicht?"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:180
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:181
 msgid "Try <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">search</a> or let us know what product you would like reviewed in the guide."
 msgstr "Sie können <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">suchen</a> oder uns Produkte zur Prüfung in diesem Leitfaden vorschlagen."
 
@@ -966,17 +970,13 @@ msgstr "Was könnte passieren, wenn etwas schiefgeht?"
 msgid "Tips to protect yourself"
 msgstr "Tipps zu Ihrem Schutz"
 
-#: network-api/networkapi/templates/pages/buyersguide/product_page.html:176
-msgid "Related products"
-msgstr "Verwandte Produkte"
-
-#: network-api/networkapi/templates/pages/buyersguide/product_page.html:194
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:187
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:317
 msgid "Comments"
 msgstr "Kommentare"
 
-#: network-api/networkapi/templates/pages/buyersguide/product_page.html:195
+#: network-api/networkapi/templates/pages/buyersguide/product_page.html:188
 msgid "Got a comment? Let us hear it."
 msgstr "Möchten Sie einen Kommentar loswerden? Schreiben Sie uns."
 
@@ -1124,42 +1124,42 @@ msgstr "<a href=\"mailto:%(email)s\">Kontaktieren Sie uns</a> oder …"
 msgid "Go to home page"
 msgstr "Zur Startseite gehen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:68
 msgid "Related reading"
 msgstr "Verwandte Beiträge"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:187
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:188
 msgctxt "*privacy not included can be localized."
 msgid "How to use *privacy not included"
 msgstr "Wie Sie „* Datenschutz nicht inbegriffen“ verwenden"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:197
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:198
 msgctxt "*privacy not included can be localized."
 msgid "Why we made *privacy not included"
 msgstr "Warum wir „* Datenschutz nicht inbegriffen“ entwickelt haben"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:206
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
 msgctxt "Noun, media"
 msgid "Press"
 msgstr "Presse"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:210
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:224
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:238
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:252
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:211
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:225
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:239
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:253
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*privacy not included"
 msgstr "* Datenschutz nicht inbegriffen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:234
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
 msgid "Our methodology"
 msgstr "Unsere Methodik"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:248
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
 msgid "Contest terms and conditions"
 msgstr "Wettbewerbsbedingungen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:305
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:121
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:117
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:142
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:187
@@ -1169,7 +1169,7 @@ msgstr "Wettbewerbsbedingungen"
 msgid "Not creepy"
 msgstr "Nicht unheimlich"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:306
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:122
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:118
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:143
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:188
@@ -1178,7 +1178,7 @@ msgstr "Nicht unheimlich"
 msgid "A little creepy"
 msgstr "Ein bisschen unheimlich"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:307
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:123
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:119
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:144
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:153
@@ -1189,7 +1189,7 @@ msgstr "Ein bisschen unheimlich"
 msgid "Somewhat creepy"
 msgstr "Ziemlich unheimlich"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:308
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:124
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:120
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:145
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:190
@@ -1198,7 +1198,7 @@ msgstr "Ziemlich unheimlich"
 msgid "Very creepy"
 msgstr "Sehr unheimlich"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:309
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:125
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:121
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:146
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:191
@@ -1208,16 +1208,16 @@ msgstr "Sehr unheimlich"
 msgid "Super creepy"
 msgstr "Extrem unheimlich"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:421
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:237
 #: network-api/networkapi/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:220
 msgid "No votes"
 msgstr "Keine Stimmen"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:833
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:664
 msgid "*Privacy Not Included review:"
 msgstr "Bewertung durch *Datenschutz nicht inbegriffen:"
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:1024
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/products.py:864
 msgid "Privacy & security guide"
 msgstr "Leitfaden zu Datenschutz & Sicherheit"
 
