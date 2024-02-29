@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-21 12:52+0000\n"
+"POT-Creation-Date: 2024-02-29 10:09+0000\n"
 "PO-Revision-Date: 2024-01-10 17:23+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -310,18 +310,10 @@ msgstr "Ler resposta completa"
 msgid "People voted:"
 msgstr "Votos das pessoas:"
 
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:21
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:43
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:20
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:23
 msgid "More Categories"
 msgstr "Mais categorias"
-
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:23
-msgid "Open category drop down"
-msgstr "Abrir lista suspensa de categorias"
-
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:45
-msgid "Close category drop down"
-msgstr "Fechar lista suspensa de categorias"
 
 #: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:5
 msgid "Dive Deeper"
@@ -1553,6 +1545,12 @@ msgstr "Precisa de melhorias"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Ruim"
+
+#~ msgid "Open category drop down"
+#~ msgstr "Abrir lista suspensa de categorias"
+
+#~ msgid "Close category drop down"
+#~ msgstr "Fechar lista suspensa de categorias"
 
 #~ msgid "<p>Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox.</p>"
 #~ msgstr "<p>Junte-se à nossa lista de emails <b>Mozilla News</b> para receber alertas de ações e dicas de internet direto na sua caixa de entrada.</p>"

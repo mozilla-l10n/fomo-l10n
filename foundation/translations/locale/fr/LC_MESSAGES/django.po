@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-21 12:52+0000\n"
+"POT-Creation-Date: 2024-02-29 10:09+0000\n"
 "PO-Revision-Date: 2024-01-10 10:34+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -306,18 +306,10 @@ msgstr "Lire la réponse complète"
 msgid "People voted:"
 msgstr "Vote du public :"
 
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:21
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:43
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:20
+#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:23
 msgid "More Categories"
 msgstr "Plus de catégories"
-
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:23
-msgid "Open category drop down"
-msgstr "Ouvrir la liste déroulante des catégories"
-
-#: network-api/networkapi/templates/fragments/buyersguide/category_dropdown.html:45
-msgid "Close category drop down"
-msgstr "Fermer la liste déroulante des catégories"
 
 #: network-api/networkapi/templates/fragments/buyersguide/dive_deeper.html:5
 msgid "Dive Deeper"
@@ -1549,6 +1541,12 @@ msgstr "À améliorer"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mauvais"
+
+#~ msgid "Open category drop down"
+#~ msgstr "Ouvrir la liste déroulante des catégories"
+
+#~ msgid "Close category drop down"
+#~ msgstr "Fermer la liste déroulante des catégories"
 
 #~ msgid "<p>Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox.</p>"
 #~ msgstr "<p>Abonnez-vous à notre newsletter <b>Actualités de Mozilla</b> pour recevoir des conseils pour Internet et des alertes pour passer à l’action.</p>"
