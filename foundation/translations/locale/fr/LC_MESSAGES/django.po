@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-29 10:09+0000\n"
+"POT-Creation-Date: 2024-03-05 08:26+0000\n"
 "PO-Revision-Date: 2024-01-10 10:34+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -479,24 +479,44 @@ msgstr "Aidez à façonner l’avenir du Web pour le bien commun."
 msgid "Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
 msgstr "Abonnez-vous à notre newsletter Actualités de Mozilla pour recevoir des conseils pour Internet et des alertes pour passer à l’action."
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:30
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:8
+msgid "Sort by "
+msgstr "Trier par"
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:20
+#, fuzzy
+#| msgid "Sort by "
+msgid "Sort by creepiness"
+msgstr "Trier par"
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:54
 msgid "Creepiness: Least – Most"
 msgstr "Du moins flippant au plus flippant"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:34
-msgid "Open drop down"
-msgstr "Ouvrir le menu déroulant"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+#, fuzzy
+#| msgid "Creepiness: Least – Most"
+msgid "Creepiness least to most"
+msgstr "Du moins flippant au plus flippant"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:48
-msgid "Close drop down"
-msgstr "Fermer le menu déroulant"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:59
+#, fuzzy
+#| msgid "Creepiness: Most – Least"
+msgid "Creepiness most to least"
+msgstr "Du plus flippant au moins flippant"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:55
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:68
 msgid "Creepiness: Most – Least"
 msgstr "Du plus flippant au moins flippant"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:61
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:73
+#, fuzzy
+#| msgid "Alphabetical (A-Z)"
+msgid "Alphabetical (ascending)"
+msgstr "Ordre alphabétique (A-Z)"
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:82
 msgid "Alphabetical"
 msgstr "Ordre alphabétique"
 
@@ -924,15 +944,11 @@ msgstr "Faites défiler pour voir à quel point les utilisateurs trouvent ces pr
 msgid "privacy not included"
 msgstr "confidentialité non incluse"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:115
-msgid "Sort by "
-msgstr "Trier par"
-
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:179
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:176
 msgid "Don’t see the product you’re looking for?"
 msgstr "Vous ne trouvez pas le produit que vous recherchez ?"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:181
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:178
 msgid "Try <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">search</a> or let us know what product you would like reviewed in the guide."
 msgstr "Essayez de <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">rechercher un produit</a> ou indiquez-nous le produit que vous souhaitez voir dans le guide."
 
@@ -1541,6 +1557,12 @@ msgstr "À améliorer"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mauvais"
+
+#~ msgid "Open drop down"
+#~ msgstr "Ouvrir le menu déroulant"
+
+#~ msgid "Close drop down"
+#~ msgstr "Fermer le menu déroulant"
 
 #~ msgid "Open category drop down"
 #~ msgstr "Ouvrir la liste déroulante des catégories"

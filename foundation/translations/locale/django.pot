@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-29 10:09+0000\n"
+"POT-Creation-Date: 2024-03-05 08:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -483,24 +483,36 @@ msgstr ""
 msgid "Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:30
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:8
+msgid "Sort by "
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:20
+msgid "Sort by creepiness"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:54
 msgid "Creepiness: Least – Most"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:34
-msgid "Open drop down"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+msgid "Creepiness least to most"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:48
-msgid "Close drop down"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:59
+msgid "Creepiness most to least"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:55
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:68
 msgid "Creepiness: Most – Least"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:61
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:73
+msgid "Alphabetical (ascending)"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:82
 msgid "Alphabetical"
 msgstr ""
 
@@ -928,15 +940,11 @@ msgstr ""
 msgid "privacy not included"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:115
-msgid "Sort by "
-msgstr ""
-
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:179
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:176
 msgid "Don’t see the product you’re looking for?"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:181
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:178
 msgid "Try <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">search</a> or let us know what product you would like reviewed in the guide."
 msgstr ""
 

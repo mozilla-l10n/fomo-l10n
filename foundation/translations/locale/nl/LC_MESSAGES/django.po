@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-29 10:09+0000\n"
+"POT-Creation-Date: 2024-03-05 08:26+0000\n"
 "PO-Revision-Date: 2024-01-10 11:05+0000\n"
 "Last-Translator: Mark Heijl <markh@babelzilla.org>\n"
 "Language-Team: \n"
@@ -483,24 +483,44 @@ msgstr "Help mee de toekomst van het internet vorm te geven voor het algemeen be
 msgid "Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
 msgstr "Schrijf u in voor onze mailinglijst Mozilla News en ontvang actiemeldingen en internettips rechtstreeks in uw Postvak IN."
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:30
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:8
+msgid "Sort by "
+msgstr "Sorteren op "
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:20
+#, fuzzy
+#| msgid "Sort by "
+msgid "Sort by creepiness"
+msgstr "Sorteren op "
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:54
 msgid "Creepiness: Least – Most"
 msgstr "Griezeligheid: Minst – Meest"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:34
-msgid "Open drop down"
-msgstr "Vervolgkeuzelijst openen"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+#, fuzzy
+#| msgid "Creepiness: Least – Most"
+msgid "Creepiness least to most"
+msgstr "Griezeligheid: Minst – Meest"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:48
-msgid "Close drop down"
-msgstr "Vervolgkeuzelijst sluiten"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:59
+#, fuzzy
+#| msgid "Creepiness: Most – Least"
+msgid "Creepiness most to least"
+msgstr "Griezeligheid: Meest – Minst"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:55
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:68
 msgid "Creepiness: Most – Least"
 msgstr "Griezeligheid: Meest – Minst"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:61
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:73
+#, fuzzy
+#| msgid "Alphabetical (A-Z)"
+msgid "Alphabetical (ascending)"
+msgstr "Alfabetisch (A-Z)"
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:82
 msgid "Alphabetical"
 msgstr "Alfabetisch"
 
@@ -928,15 +948,11 @@ msgstr "Scroll om te zien hoe eng mensen deze producten vinden!"
 msgid "privacy not included"
 msgstr "privacy niet inbegrepen"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:115
-msgid "Sort by "
-msgstr "Sorteren op "
-
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:179
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:176
 msgid "Don’t see the product you’re looking for?"
 msgstr "Ziet u het product dat u zoekt niet?"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:181
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:178
 msgid "Try <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">search</a> or let us know what product you would like reviewed in the guide."
 msgstr "Probeer te <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">zoeken</a> of laat ons weten welk product u in de gids wilt laten beoordelen."
 
@@ -1545,6 +1561,12 @@ msgstr "Verbetering nodig"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Slecht"
+
+#~ msgid "Open drop down"
+#~ msgstr "Vervolgkeuzelijst openen"
+
+#~ msgid "Close drop down"
+#~ msgstr "Vervolgkeuzelijst sluiten"
 
 #~ msgid "Open category drop down"
 #~ msgstr "Vervolgkeuzemenu Categorie openen"

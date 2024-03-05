@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-29 10:09+0000\n"
+"POT-Creation-Date: 2024-03-05 08:26+0000\n"
 "PO-Revision-Date: 2024-01-05 17:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -483,24 +483,44 @@ msgstr "Saidia kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma.
 msgid "Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
 msgstr "Jiunge na orodha yetu ya barua pepe ya Mozilla News ili upate arifa za hatua na vidokezo vya mtandao moja kwa moja kwenye kisanduku pokezi chako."
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:30
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:8
+msgid "Sort by "
+msgstr "Panga kulingana na "
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:20
+#, fuzzy
+#| msgid "Sort by "
+msgid "Sort by creepiness"
+msgstr "Panga kulingana na "
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:27
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:54
 msgid "Creepiness: Least – Most"
 msgstr "Kiwango cha kusisimua: Kidogo sana – Zaidi"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:34
-msgid "Open drop down"
-msgstr "Fungua orodha kunjuzi"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
+#, fuzzy
+#| msgid "Creepiness: Least – Most"
+msgid "Creepiness least to most"
+msgstr "Kiwango cha kusisimua: Kidogo sana – Zaidi"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:48
-msgid "Close drop down"
-msgstr "Funga orodha kunjuzi"
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:59
+#, fuzzy
+#| msgid "Creepiness: Most – Least"
+msgid "Creepiness most to least"
+msgstr "Kiwango cha kusisimua: Zaidi – Kidogo sana"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:55
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:68
 msgid "Creepiness: Most – Least"
 msgstr "Kiwango cha kusisimua: Zaidi – Kidogo sana"
 
-#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:61
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:73
+#, fuzzy
+#| msgid "Alphabetical (A-Z)"
+msgid "Alphabetical (ascending)"
+msgstr "Kialfabeti (A-Z)"
+
+#: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:82
 msgid "Alphabetical"
 msgstr "Alfabeti"
 
@@ -928,15 +948,11 @@ msgstr "Biringiza ili uone jinsi watu wanafikiria kwamba bidhaa hizi zinaogofya!
 msgid "privacy not included"
 msgstr "faragha haijajumuishwa"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:115
-msgid "Sort by "
-msgstr "Panga kulingana na "
-
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:179
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:176
 msgid "Don’t see the product you’re looking for?"
 msgstr "Huoni bidhaa unayotafuta?"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:181
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:178
 msgid "Try <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">search</a> or let us know what product you would like reviewed in the guide."
 msgstr "Jaribu <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">kutafuta</a> au tuambie bidhaa ambayo ungependa ikaguliwe katika mwongozo."
 
@@ -1545,6 +1561,12 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#~ msgid "Open drop down"
+#~ msgstr "Fungua orodha kunjuzi"
+
+#~ msgid "Close drop down"
+#~ msgstr "Funga orodha kunjuzi"
 
 #~ msgid "Open category drop down"
 #~ msgstr "Fungua kategoria kunjuzi"
