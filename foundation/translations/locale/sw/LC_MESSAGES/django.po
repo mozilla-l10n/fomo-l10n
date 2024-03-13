@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-05 08:26+0000\n"
+"POT-Creation-Date: 2024-03-13 15:44+0000\n"
 "PO-Revision-Date: 2024-01-05 17:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -400,8 +400,8 @@ msgstr "Programu:"
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:21
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:22
 #: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
-msgid "*privacy not included with this product"
-msgstr "*faragha haijajumuishwa katika bidhaa hii"
+msgid "*Privacy Not Included with this product"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:44
 #, python-format
@@ -458,8 +458,9 @@ msgstr "Kuhusu"
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:8
 #: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:7
 #: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:8
-msgid "*privacy not included"
-msgstr "*faragha haijajumuishwa"
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
+msgid "*Privacy Not Included"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
 #: network-api/networkapi/templates/fragments/footer.html:33
@@ -911,9 +912,9 @@ msgid "SUMMARY"
 msgstr "MUHTASARI"
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:10
-msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*privacy not included | Shop smart and safe"
-msgstr "*faragha haijajumuishwa | Duka janja na salama"
+msgctxt "“*Privacy Not Included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*Privacy Not Included | Shop smart and safe"
+msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:19
 msgctxt "*Privacy Not Included can be localized. This is a reference to the “*batteries not included” mention on toys."
@@ -921,9 +922,9 @@ msgid "*Privacy Not Included: A Buyer’s Guide for Connected Products"
 msgstr "*Faragha Haijumuishwa: Mwongozo wa Mnunuzi wa Bidhaa Zilizounganishwa"
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:26
-msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*privacy not included | Shop smart and safe | Mozilla Foundation"
-msgstr "*faragha haijajumuishwa | Duka janja na salama | Mozilla Foundation"
+msgctxt "“*Privacy Not Included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*Privacy Not Included | Shop smart and safe | Mozilla Foundation"
+msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:27
 msgid "Privacy & Security Guide | Mozilla Foundation"
@@ -944,10 +945,6 @@ msgstr "Fanya maamuzi ya busara ili ulinde faragha yako. <br /> Tafuta bidhaa. S
 msgid "Scroll to see how creepy people find these products!"
 msgstr "Biringiza ili uone jinsi watu wanafikiria kwamba bidhaa hizi zinaogofya!"
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
-msgid "privacy not included"
-msgstr "faragha haijajumuishwa"
-
 #: network-api/networkapi/templates/pages/buyersguide/catalog.html:176
 msgid "Don’t see the product you’re looking for?"
 msgstr "Huoni bidhaa unayotafuta?"
@@ -959,12 +956,12 @@ msgstr "Jaribu <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">kutafuta<
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:12
 #, python-format
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "privacy not included - %(product.title)s"
-msgstr "faragha haijajumuishwa - %(product.title)s"
+msgid "*Privacy Not Included - %(product.title)s"
+msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:54
-msgid "<strong>Warning</strong>: *privacy not included with this product"
-msgstr "<strong>Onyo</strong>: *faragha haijajumuishwa katika bidhaa hii"
+msgid "<strong>Warning</strong>: *Privacy Not Included with this product"
+msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:76
 msgid "Wi-Fi"
@@ -1141,14 +1138,14 @@ msgid "Related reading"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:188
-msgctxt "*privacy not included can be localized."
-msgid "How to use *privacy not included"
-msgstr "Jinsi ya kutumia *faragha haijajumuishwa"
+msgctxt "*Privacy Not Included can be localized."
+msgid "How to use *Privacy Not Included"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:198
-msgctxt "*privacy not included can be localized."
-msgid "Why we made *privacy not included"
-msgstr "Kwa nini tuliunda *faragha haijajumuishwa"
+msgctxt "*Privacy Not Included can be localized."
+msgid "Why we made *Privacy Not Included"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
 msgctxt "Noun, media"
@@ -1160,8 +1157,8 @@ msgstr "Wanahabari"
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:239
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:253
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*privacy not included"
-msgstr "*faragha haijajumuishwa"
+msgid "*Privacy Not Included"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
 msgid "Our methodology"
@@ -1561,6 +1558,43 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#~ msgid "*privacy not included with this product"
+#~ msgstr "*faragha haijajumuishwa katika bidhaa hii"
+
+#~ msgid "*privacy not included"
+#~ msgstr "*faragha haijajumuishwa"
+
+#~ msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "*privacy not included | Shop smart and safe"
+#~ msgstr "*faragha haijajumuishwa | Duka janja na salama"
+
+#~ msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "*privacy not included | Shop smart and safe | Mozilla Foundation"
+#~ msgstr "*faragha haijajumuishwa | Duka janja na salama | Mozilla Foundation"
+
+#~ msgid "privacy not included"
+#~ msgstr "faragha haijajumuishwa"
+
+#, python-format
+#~ msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "privacy not included - %(product.title)s"
+#~ msgstr "faragha haijajumuishwa - %(product.title)s"
+
+#~ msgid "<strong>Warning</strong>: *privacy not included with this product"
+#~ msgstr "<strong>Onyo</strong>: *faragha haijajumuishwa katika bidhaa hii"
+
+#~ msgctxt "*privacy not included can be localized."
+#~ msgid "How to use *privacy not included"
+#~ msgstr "Jinsi ya kutumia *faragha haijajumuishwa"
+
+#~ msgctxt "*privacy not included can be localized."
+#~ msgid "Why we made *privacy not included"
+#~ msgstr "Kwa nini tuliunda *faragha haijajumuishwa"
+
+#~ msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "*privacy not included"
+#~ msgstr "*faragha haijajumuishwa"
 
 #~ msgid "Open drop down"
 #~ msgstr "Fungua orodha kunjuzi"

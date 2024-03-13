@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-05 08:26+0000\n"
+"POT-Creation-Date: 2024-03-13 15:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -400,7 +400,7 @@ msgstr ""
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:21
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:22
 #: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
-msgid "*privacy not included with this product"
+msgid "*Privacy Not Included with this product"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/item.html:44
@@ -458,7 +458,8 @@ msgstr ""
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:8
 #: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:7
 #: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:8
-msgid "*privacy not included"
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
+msgid "*Privacy Not Included"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
@@ -903,8 +904,8 @@ msgid "SUMMARY"
 msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:10
-msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*privacy not included | Shop smart and safe"
+msgctxt "“*Privacy Not Included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*Privacy Not Included | Shop smart and safe"
 msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:19
@@ -913,8 +914,8 @@ msgid "*Privacy Not Included: A Buyer’s Guide for Connected Products"
 msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:26
-msgctxt "“*privacy not included” can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*privacy not included | Shop smart and safe | Mozilla Foundation"
+msgctxt "“*Privacy Not Included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*Privacy Not Included | Shop smart and safe | Mozilla Foundation"
 msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/base.html:27
@@ -936,10 +937,6 @@ msgstr ""
 msgid "Scroll to see how creepy people find these products!"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:95
-msgid "privacy not included"
-msgstr ""
-
 #: network-api/networkapi/templates/pages/buyersguide/catalog.html:176
 msgid "Don’t see the product you’re looking for?"
 msgstr ""
@@ -951,11 +948,11 @@ msgstr ""
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:12
 #, python-format
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "privacy not included - %(product.title)s"
+msgid "*Privacy Not Included - %(product.title)s"
 msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:54
-msgid "<strong>Warning</strong>: *privacy not included with this product"
+msgid "<strong>Warning</strong>: *Privacy Not Included with this product"
 msgstr ""
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:76
@@ -1133,13 +1130,13 @@ msgid "Related reading"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:188
-msgctxt "*privacy not included can be localized."
-msgid "How to use *privacy not included"
+msgctxt "*Privacy Not Included can be localized."
+msgid "How to use *Privacy Not Included"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:198
-msgctxt "*privacy not included can be localized."
-msgid "Why we made *privacy not included"
+msgctxt "*Privacy Not Included can be localized."
+msgid "Why we made *Privacy Not Included"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
@@ -1152,7 +1149,7 @@ msgstr ""
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:239
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:253
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*privacy not included"
+msgid "*Privacy Not Included"
 msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
