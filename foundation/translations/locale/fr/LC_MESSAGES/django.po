@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-18 15:18+0000\n"
+"POT-Creation-Date: 2024-03-25 13:17+0000\n"
 "PO-Revision-Date: 2024-03-13 16:03+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -22,6 +22,7 @@ msgstr "Page introuvable"
 #: network-api/networkapi/templates/fragments/footer.html:38
 #: network-api/networkapi/templates/fragments/primary_nav.html:45
 #: network-api/networkapi/templates/pages/base.html:18
+#: network-api/networkapi/templates/pages/buyersguide/base.html:17
 #: network-api/networkapi/templates/pattern_library_base.html:12
 msgid "Mozilla Foundation"
 msgstr "Fondation Mozilla"
@@ -901,22 +902,22 @@ msgstr "%(title)s par @mozilla"
 msgid "SUMMARY"
 msgstr "SOMMAIRE"
 
-#: network-api/networkapi/templates/pages/buyersguide/base.html:10
-msgctxt "“*Privacy Not Included” can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*Privacy Not Included | Shop smart and safe"
-msgstr "*Confidentialité non incluse | Soyez malins, achetez des produits sûrs"
+#: network-api/networkapi/templates/pages/buyersguide/base.html:17
+msgctxt "*Privacy Not Included can be localized. This is a reference to the “*batteries not included” mention on toys."
+msgid "*Privacy Not Included"
+msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/base.html:19
+#: network-api/networkapi/templates/pages/buyersguide/base.html:27
 msgctxt "*Privacy Not Included can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included: A Buyer’s Guide for Connected Products"
 msgstr "*confidentialité non incluse : un guide d’achat pour les objets connectés"
 
-#: network-api/networkapi/templates/pages/buyersguide/base.html:26
+#: network-api/networkapi/templates/pages/buyersguide/base.html:34
 msgctxt "“*Privacy Not Included” can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included | Shop smart and safe | Mozilla Foundation"
 msgstr "*Confidentialité non incluse | Soyez malins, achetez des produits sûrs | Fondation Mozilla"
 
-#: network-api/networkapi/templates/pages/buyersguide/base.html:27
+#: network-api/networkapi/templates/pages/buyersguide/base.html:35
 msgid "Privacy & Security Guide | Mozilla Foundation"
 msgstr "Guide pour la confidentialité et la sécurité | Fondation Mozilla"
 
@@ -1129,13 +1130,13 @@ msgstr "À lire ensuite"
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:188
 msgctxt "*Privacy Not Included can be localized."
-msgid "How to use *Privacy Not Included"
-msgstr "Comment utiliser *Confidentialité non incluse"
+msgid "How to use *Privacy Not Included | Mozilla Foundation"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:198
 msgctxt "*Privacy Not Included can be localized."
-msgid "Why we made *Privacy Not Included"
-msgstr "Pourquoi avons-nous créé *Confidentialité non incluse"
+msgid "Why we made *Privacy Not Included | Mozilla Foundation"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
 msgctxt "Noun, media"
@@ -1147,8 +1148,8 @@ msgstr "Presse"
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:239
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:253
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*Privacy Not Included"
-msgstr "*Confidentialité non incluse"
+msgid "*Privacy Not Included | Mozilla Foundation"
+msgstr ""
 
 #: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
 msgid "Our methodology"
@@ -1548,6 +1549,22 @@ msgstr "À améliorer"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mauvais"
+
+#~ msgctxt "“*Privacy Not Included” can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "*Privacy Not Included | Shop smart and safe"
+#~ msgstr "*Confidentialité non incluse | Soyez malins, achetez des produits sûrs"
+
+#~ msgctxt "*Privacy Not Included can be localized."
+#~ msgid "How to use *Privacy Not Included"
+#~ msgstr "Comment utiliser *Confidentialité non incluse"
+
+#~ msgctxt "*Privacy Not Included can be localized."
+#~ msgid "Why we made *Privacy Not Included"
+#~ msgstr "Pourquoi avons-nous créé *Confidentialité non incluse"
+
+#~ msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
+#~ msgid "*Privacy Not Included"
+#~ msgstr "*Confidentialité non incluse"
 
 #~ msgid "*privacy not included with this product"
 #~ msgstr "*confidentialité non incluse avec ce produit"
