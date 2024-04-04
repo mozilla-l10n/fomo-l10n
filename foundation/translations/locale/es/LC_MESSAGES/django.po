@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-25 13:17+0000\n"
-"PO-Revision-Date: 2024-03-25 14:10+0000\n"
+"PO-Revision-Date: 2024-04-04 11:46+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -237,11 +237,11 @@ msgstr "Contacta con nosotros"
 
 #: network-api/networkapi/templates/donate/pages/help_page.html:28
 msgid "Thank you for contacting us."
-msgstr ""
+msgstr "Gracias por comunicarte con nosotros."
 
 #: network-api/networkapi/templates/donate/pages/help_page.html:29
 msgid "A case has been created for your issue and we will be in touch shortly."
-msgstr ""
+msgstr "Hemos creado un caso para tu problema y pronto nos pondremos en contacto contigo."
 
 #: network-api/networkapi/templates/donate/pages/landing_page.html:21
 msgid "featured image"
@@ -343,7 +343,7 @@ msgstr "Cargar más resultados"
 #: network-api/networkapi/templates/fragments/buyersguide/external_link_icon.html:2
 msgctxt "Alternative text for an external link icon (box with arrow)"
 msgid "Link opens in a new tab"
-msgstr ""
+msgstr "El enlace se abrirá en una nueva pestaña"
 
 #: network-api/networkapi/templates/fragments/buyersguide/featured_page.html:52
 msgctxt "Article author attribution"
@@ -477,36 +477,32 @@ msgid "Sort by "
 msgstr "Ordenar por "
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:20
-#, fuzzy
 #| msgid "Sort by "
 msgid "Sort by creepiness"
-msgstr "Ordenar por "
+msgstr "Ordenar por escalofriante"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:27 network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:54
 msgid "Creepiness: Least – Most"
 msgstr "Escalofriante: menos – más"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:45
-#, fuzzy
 #| msgid "Creepiness: Least – Most"
 msgid "Creepiness least to most"
-msgstr "Escalofriante: menos – más"
+msgstr "De menos a más escalofriante"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:59
-#, fuzzy
 #| msgid "Creepiness: Most – Least"
 msgid "Creepiness most to least"
-msgstr "Escalofriante: más – menos"
+msgstr "De más a menos escalofriante"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:68
 msgid "Creepiness: Most – Least"
 msgstr "Escalofriante: más – menos"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:73
-#, fuzzy
 #| msgid "Alphabetical (A-Z)"
 msgid "Alphabetical (ascending)"
-msgstr "Alfabético (A-Z)"
+msgstr "Alfabético (ascendente)"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_sort_dropdown.html:82
 msgid "Alphabetical"
