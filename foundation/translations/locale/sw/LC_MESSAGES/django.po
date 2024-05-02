@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-25 13:17+0000\n"
+"POT-Creation-Date: 2024-05-02 17:10+0000\n"
 "PO-Revision-Date: 2024-01-05 17:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -21,20 +21,6 @@ msgstr ""
 #: network-api/networkapi/templates/404.html:6
 msgid "Page Not Found"
 msgstr "Ukurasa Haupatikani"
-
-#: network-api/networkapi/templates/donate/fragments/footer.html:14
-#: network-api/networkapi/templates/fragments/footer.html:38
-#: network-api/networkapi/templates/fragments/primary_nav.html:45
-#: network-api/networkapi/templates/pages/base.html:18
-#: network-api/networkapi/templates/pages/buyersguide/base.html:17
-#: network-api/networkapi/templates/pattern_library_base.html:12
-msgid "Mozilla Foundation"
-msgstr "Shirika la Mozilla Foundation"
-
-#: network-api/networkapi/templates/donate/fragments/footer.html:24
-#, python-format
-msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a class=\"link\" href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a class=\"link\" href=\"%(cc_website_url)s\">Creative Commons license</a>."
-msgstr "Mozilla ni shirika lisilo la faida la kimataifa lililojitolea kuhakikisha kwamba unadhibiti mambo unayopitia mtandaoni na kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma. Tutembelee kwenye <a class=\"link\" href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Maudhui mengi yanapatikana chini ya leseni ya <a class=\"link\" href=\"%(cc_website_url)s\">Creative Commons</a>."
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:77
 msgid "I need"
@@ -344,44 +330,6 @@ msgctxt "Article author attribution"
 msgid "By"
 msgstr "Na"
 
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:7
-#: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:21
-#: network-api/networkapi/templates/fragments/footer.html:60
-#: network-api/networkapi/templates/fragments/primary_nav.html:66
-msgid "Donate"
-msgstr "Changa"
-
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:9
-#: network-api/networkapi/templates/fragments/footer.html:62
-msgid "Careers"
-msgstr "Kazi"
-
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:10
-#: network-api/networkapi/templates/fragments/footer.html:63
-msgid "Cookies"
-msgstr "Vidakuzi"
-
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:11
-#: network-api/networkapi/templates/fragments/footer.html:64
-msgid "Legal"
-msgstr "Ya kisheria"
-
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:12
-#: network-api/networkapi/templates/fragments/footer.html:65
-msgid "Participation Guidelines"
-msgstr "Miongozo ya Kushiriki"
-
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:13
-#: network-api/networkapi/templates/fragments/footer.html:66
-msgid "Press Center"
-msgstr "Kituo cha Habari"
-
-#: network-api/networkapi/templates/fragments/buyersguide/footer.html:14
-#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:15
-#: network-api/networkapi/templates/fragments/footer.html:67
-msgid "Privacy"
-msgstr "Faragha"
-
 #: network-api/networkapi/templates/fragments/buyersguide/in_the_press.html:4
 msgid "In the press"
 msgstr "Kwenye vyombo vya habari"
@@ -455,6 +403,12 @@ msgstr "Ukaguzi wa Bidhaa"
 msgid "About"
 msgstr "Kuhusu"
 
+#: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:21
+#: network-api/networkapi/templates/fragments/footer.html:48
+#: network-api/networkapi/templates/fragments/primary_nav.html:65
+msgid "Donate"
+msgstr "Changa"
+
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:7
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:8
 #: network-api/networkapi/templates/fragments/buyersguide/privacy_ding.html:7
@@ -464,8 +418,8 @@ msgid "*Privacy Not Included"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
-#: network-api/networkapi/templates/fragments/footer.html:33
-#: network-api/networkapi/templates/fragments/primary_nav.html:89
+#: network-api/networkapi/templates/fragments/footer.html:21
+#: network-api/networkapi/templates/fragments/primary_nav.html:88
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:71
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
@@ -475,8 +429,8 @@ msgid "Sign up"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
-#: network-api/networkapi/templates/fragments/footer.html:34
-#: network-api/networkapi/templates/fragments/primary_nav.html:90
+#: network-api/networkapi/templates/fragments/footer.html:22
+#: network-api/networkapi/templates/fragments/primary_nav.html:89
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:36
 msgid "Help shape the future of the web for the public good."
 msgstr "Saidia kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma."
@@ -538,8 +492,9 @@ msgid "Privacy Not Included"
 msgstr "Faragha Haijajumuishwa"
 
 #: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:39
+#: network-api/networkapi/templates/fragments/nav/menu.html:21
 #: network-api/networkapi/templates/fragments/primary_nav.html:21
-#: network-api/networkapi/templates/fragments/primary_nav.html:67
+#: network-api/networkapi/templates/fragments/primary_nav.html:66
 msgid "Newsletter"
 msgstr "Kijarida"
 
@@ -679,6 +634,11 @@ msgstr "Je, kampuni ina uwazi kuhusu jinsi AI inavyofanya kazi?"
 msgid "Does the user have control over the AI features?"
 msgstr "Je, mtumiaji anadhibiti vipengele vya AI?"
 
+#: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:15
+#: network-api/networkapi/templates/fragments/footer.html:55
+msgid "Privacy"
+msgstr "Faragha"
+
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:17
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:29
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:41
@@ -755,65 +715,93 @@ msgstr "Pakua PDF"
 msgid " Close Banner"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/footer.html:11
-msgid "We all love the Web. Join Mozilla in defending it."
-msgstr "Sisi sote tunapenda Mtandao. Jiunge na Mozilla katika kuitetea."
-
-#: network-api/networkapi/templates/fragments/footer.html:12
-msgid "Let’s protect the world’s largest resource for future generations."
-msgstr "Tulinde nyenzo kubwa zaidi ulimwenguni kwa vizazi vijavyo."
-
-#: network-api/networkapi/templates/fragments/footer.html:14
-msgid "Donate now"
-msgstr "Changa sasa"
-
-#: network-api/networkapi/templates/fragments/footer.html:35
-#: network-api/networkapi/templates/fragments/primary_nav.html:91
+#: network-api/networkapi/templates/fragments/footer.html:23
+#: network-api/networkapi/templates/fragments/primary_nav.html:90
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:37
 msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
 msgstr "Jiunge na orodha yetu ya barua pepe ya </b>Mozilla News<b> ili upate arifa za hatua na vidokezo vya mtandao moja kwa moja kwenye kisanduku pokezi chako."
 
-#: network-api/networkapi/templates/fragments/footer.html:38
+#: network-api/networkapi/templates/fragments/footer.html:26
 msgid "Return to Homepage"
 msgstr "Rudi kwenye Ukurasa wa Nyumbani"
 
-#: network-api/networkapi/templates/fragments/footer.html:46
+#: network-api/networkapi/templates/fragments/footer.html:26
+#: network-api/networkapi/templates/fragments/primary_nav.html:44
+#: network-api/networkapi/templates/pages/base.html:18
+#: network-api/networkapi/templates/pages/buyersguide/base.html:17
+#: network-api/networkapi/templates/pattern_library_base.html:12
+msgid "Mozilla Foundation"
+msgstr "Shirika la Mozilla Foundation"
+
+#: network-api/networkapi/templates/fragments/footer.html:34
 msgid "More about us"
 msgstr "Mambo mengi kutuhusu"
 
-#: network-api/networkapi/templates/fragments/footer.html:49
+#: network-api/networkapi/templates/fragments/footer.html:37
 #: network-api/networkapi/templates/fragments/share-buttons.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:48
 msgid "Twitter"
 msgstr "Twitter"
 
-#: network-api/networkapi/templates/fragments/footer.html:50
+#: network-api/networkapi/templates/fragments/footer.html:38
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
 msgid "Instagram"
 msgstr "Instagram"
 
-#: network-api/networkapi/templates/fragments/footer.html:51
+#: network-api/networkapi/templates/fragments/footer.html:39
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/fragments/footer.html:52
+#: network-api/networkapi/templates/fragments/footer.html:40
 msgid "Youtube"
 msgstr "YouTube"
 
-#: network-api/networkapi/templates/fragments/footer.html:74
+#: network-api/networkapi/templates/fragments/footer.html:50
+msgid "Careers"
+msgstr "Kazi"
+
+#: network-api/networkapi/templates/fragments/footer.html:51
+msgid "Cookies"
+msgstr "Vidakuzi"
+
+#: network-api/networkapi/templates/fragments/footer.html:52
+msgid "Legal"
+msgstr "Ya kisheria"
+
+#: network-api/networkapi/templates/fragments/footer.html:53
+msgid "Participation Guidelines"
+msgstr "Miongozo ya Kushiriki"
+
+#: network-api/networkapi/templates/fragments/footer.html:54
+msgid "Press Center"
+msgstr "Kituo cha Habari"
+
+#: network-api/networkapi/templates/fragments/footer.html:62
 msgid "This website supports Web Monetization."
 msgstr "Tovuti hii inaunga mkono Kupata Pesa Mtandaoni."
 
-#: network-api/networkapi/templates/fragments/footer.html:76
+#: network-api/networkapi/templates/fragments/footer.html:64
 #, python-format
 msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
 msgstr "<a href=\"%(url)s\">Soma zaidi</a> kuhusu utekelezaji wetu"
 
-#: network-api/networkapi/templates/fragments/footer.html:94
+#: network-api/networkapi/templates/fragments/footer.html:82
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "Mozilla ni shirika lisilo la faida la kimataifa lililojitolea kuhakikisha kwamba unadhibiti mambo unayopitia mtandaoni na kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma. Tutembelee kwenye <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Maudhui mengi yanapatikana chini ya leseni ya <a href=\"%(cc_website_url)s\">Creative Commons</a>."
+
+#: network-api/networkapi/templates/fragments/footer_donate_banner.html:7
+msgid "We all love the Web. Join Mozilla in defending it."
+msgstr "Sisi sote tunapenda Mtandao. Jiunge na Mozilla katika kuitetea."
+
+#: network-api/networkapi/templates/fragments/footer_donate_banner.html:8
+msgid "Let’s protect the world’s largest resource for future generations."
+msgstr "Tulinde nyenzo kubwa zaidi ulimwenguni kwa vizazi vijavyo."
+
+#: network-api/networkapi/templates/fragments/footer_donate_banner.html:10
+msgid "Donate now"
+msgstr "Changa sasa"
 
 #: network-api/networkapi/templates/fragments/footnotes.html:9
 msgid "Footnotes"
@@ -838,6 +826,18 @@ msgctxt "Search input placeholder text"
 msgid "Search our Research…"
 msgstr "Tafuta utafiti wetu…"
 
+#: network-api/networkapi/templates/fragments/nav/blog/blog-dropdown.html:5
+msgid "Blog"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/nav/blog/featured-posts.html:5
+msgid "Featured Posts"
+msgstr ""
+
+#: network-api/networkapi/templates/fragments/nav/blog/featured-topics.html:5
+msgid "Popular topics"
+msgstr ""
+
 #: network-api/networkapi/templates/fragments/pagination.html:17
 msgctxt "Pagination link"
 msgid "Prev. page"
@@ -853,17 +853,21 @@ msgctxt "Tooltip on menu items"
 msgid "main site navigation"
 msgstr "tovuti ya msingi ya kuabiri"
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:38
+#: network-api/networkapi/templates/fragments/primary_nav.html:37
 msgid "Open menu"
 msgstr "Fungua menyu"
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:45
+#: network-api/networkapi/templates/fragments/primary_nav.html:44
 msgid "Mozilla Foundation Homepage"
 msgstr "Ukurasa wa Nyumbani wa Mozilla Foundation"
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:94
+#: network-api/networkapi/templates/fragments/primary_nav.html:93
 msgid "No thanks"
 msgstr "Hapana asante"
+
+#: network-api/networkapi/templates/fragments/responsive_screen_wide_image.html:60
+msgid "Hero Image"
+msgstr ""
 
 #: network-api/networkapi/templates/fragments/share-buttons.html:10
 msgid "Share on Facebook"
@@ -933,7 +937,7 @@ msgstr "Mwongozo wa Faragha na Usalama | Mozilla Foundation"
 
 #: network-api/networkapi/templates/pages/buyersguide/campaign_page.html:61
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:69
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/campaign_page.html:70
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr "CHUKUA HATUA"
@@ -1559,6 +1563,10 @@ msgstr "Inahitaji kuimarishwa"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mbaya"
+
+#, python-format
+#~ msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a class=\"link\" href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a class=\"link\" href=\"%(cc_website_url)s\">Creative Commons license</a>."
+#~ msgstr "Mozilla ni shirika lisilo la faida la kimataifa lililojitolea kuhakikisha kwamba unadhibiti mambo unayopitia mtandaoni na kushawishi maendeleo ya wavuti kwa ajili ya maslahi bora ya umma. Tutembelee kwenye <a class=\"link\" href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Maudhui mengi yanapatikana chini ya leseni ya <a class=\"link\" href=\"%(cc_website_url)s\">Creative Commons</a>."
 
 #~ msgid "*privacy not included with this product"
 #~ msgstr "*faragha haijajumuishwa katika bidhaa hii"
