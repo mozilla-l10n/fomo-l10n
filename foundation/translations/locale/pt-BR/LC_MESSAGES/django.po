@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-24 08:38+0000\n"
+"POT-Creation-Date: 2024-06-04 16:30+0000\n"
 "PO-Revision-Date: 2024-05-03 00:27+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: \n"
@@ -28,7 +28,7 @@ msgstr "Eu preciso de"
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:77
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:125
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:70
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:73
 msgid "Please select..."
 msgstr "Selecione..."
 
@@ -111,7 +111,7 @@ msgid "Name"
 msgstr "Nome"
 
 #: network-api/networkapi/templates/donate/fragments/formassembly_body.html:119
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:66
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:69
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:51
 msgid "Email"
 msgstr "Email"
@@ -200,20 +200,20 @@ msgstr "As contribuições vão para a <a href=\"%(mozilla_url)s\">Fundação Mo
 msgid "Home"
 msgstr "Início"
 
-#: network-api/networkapi/templates/donate/pages/help_page.html:20
+#: network-api/networkapi/templates/donate/pages/help_page.html:18
 #, python-format
 msgid "If you need help with a <a href=\"%(link)s\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon as possible."
 msgstr "Se precisar de ajuda com uma <a href=\"%(link)s\">doação</a> para a Fundação Mozilla, selecione o motivo de sua consulta no menu suspenso e um representante de atendimento a doadores entrará em contato com você assim que possível."
 
-#: network-api/networkapi/templates/donate/pages/help_page.html:25
+#: network-api/networkapi/templates/donate/pages/help_page.html:23
 msgid "Contact Us"
 msgstr "Entre em contato conosco"
 
-#: network-api/networkapi/templates/donate/pages/help_page.html:28
+#: network-api/networkapi/templates/donate/pages/help_page.html:26
 msgid "Thank you for contacting us."
 msgstr "Obrigado por entrar em contato conosco."
 
-#: network-api/networkapi/templates/donate/pages/help_page.html:29
+#: network-api/networkapi/templates/donate/pages/help_page.html:27
 msgid "A case has been created for your issue and we will be in touch shortly."
 msgstr "Foi criado um ticket para seu problema, entraremos em contato em breve."
 
@@ -404,7 +404,7 @@ msgid "About"
 msgstr "Sobre"
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:21
-#: network-api/networkapi/templates/fragments/footer.html:48
+#: network-api/networkapi/templates/fragments/footer.html:49
 #: network-api/networkapi/templates/fragments/primary_nav.html:65
 msgid "Donate"
 msgstr "Faça uma doação"
@@ -627,7 +627,7 @@ msgid "Does the user have control over the AI features?"
 msgstr "O usuário tem controle sobre os recursos da inteligência artificial?"
 
 #: network-api/networkapi/templates/fragments/buyersguide/product_tab_header.html:15
-#: network-api/networkapi/templates/fragments/footer.html:55
+#: network-api/networkapi/templates/fragments/footer.html:56
 msgid "Privacy"
 msgstr "Privacidade"
 
@@ -713,11 +713,11 @@ msgstr "Fechar aviso"
 msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
 msgstr "Junte-se à nossa lista de emails <b>Mozilla News</b> para receber alertas de ações e dicas de internet direto na sua caixa de entrada."
 
-#: network-api/networkapi/templates/fragments/footer.html:26
+#: network-api/networkapi/templates/fragments/footer.html:27
 msgid "Return to Homepage"
 msgstr "Voltar à página inicial"
 
-#: network-api/networkapi/templates/fragments/footer.html:26
+#: network-api/networkapi/templates/fragments/footer.html:27
 #: network-api/networkapi/templates/fragments/primary_nav.html:44
 #: network-api/networkapi/templates/pages/base.html:18
 #: network-api/networkapi/templates/pages/buyersguide/base.html:17
@@ -725,60 +725,60 @@ msgstr "Voltar à página inicial"
 msgid "Mozilla Foundation"
 msgstr "Fundação Mozilla"
 
-#: network-api/networkapi/templates/fragments/footer.html:34
+#: network-api/networkapi/templates/fragments/footer.html:35
 msgid "More about us"
 msgstr "Saiba mais sobre nós"
 
-#: network-api/networkapi/templates/fragments/footer.html:37
+#: network-api/networkapi/templates/fragments/footer.html:38
 #: network-api/networkapi/templates/fragments/share-buttons.html:19
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:48
 msgid "Twitter"
 msgstr "Twitter"
 
-#: network-api/networkapi/templates/fragments/footer.html:38
+#: network-api/networkapi/templates/fragments/footer.html:39
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
 msgid "Instagram"
 msgstr "Instagram"
 
-#: network-api/networkapi/templates/fragments/footer.html:39
+#: network-api/networkapi/templates/fragments/footer.html:40
 msgid "GitHub"
 msgstr "GitHub"
 
-#: network-api/networkapi/templates/fragments/footer.html:40
+#: network-api/networkapi/templates/fragments/footer.html:41
 msgid "Youtube"
 msgstr "YouTube"
 
-#: network-api/networkapi/templates/fragments/footer.html:50
+#: network-api/networkapi/templates/fragments/footer.html:51
 msgid "Careers"
 msgstr "Empregos"
 
-#: network-api/networkapi/templates/fragments/footer.html:51
+#: network-api/networkapi/templates/fragments/footer.html:52
 msgid "Cookies"
 msgstr "Cookies"
 
-#: network-api/networkapi/templates/fragments/footer.html:52
+#: network-api/networkapi/templates/fragments/footer.html:53
 msgid "Legal"
 msgstr "Jurídico"
 
-#: network-api/networkapi/templates/fragments/footer.html:53
+#: network-api/networkapi/templates/fragments/footer.html:54
 msgid "Participation Guidelines"
 msgstr "Diretrizes de participação"
 
-#: network-api/networkapi/templates/fragments/footer.html:54
+#: network-api/networkapi/templates/fragments/footer.html:55
 msgid "Press Center"
 msgstr "Centro de imprensa"
 
-#: network-api/networkapi/templates/fragments/footer.html:62
+#: network-api/networkapi/templates/fragments/footer.html:63
 msgid "This website supports Web Monetization."
 msgstr "Este site oferece suporte para monetização na web."
 
-#: network-api/networkapi/templates/fragments/footer.html:64
+#: network-api/networkapi/templates/fragments/footer.html:65
 #, python-format
 msgid "<a href=\"%(url)s\">Read more</a> about our implementation"
 msgstr "<a href=\"%(url)s\">Leia mais</a> sobre nossa implementação"
 
-#: network-api/networkapi/templates/fragments/footer.html:82
+#: network-api/networkapi/templates/fragments/footer.html:83
 #, python-format
 msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
 msgstr "A Mozilla é uma organização global sem fins lucrativos, dedicada a colocar você no controle da sua experiência online e moldar o futuro da web para o bem público. Visite-nos em <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. A maioria do conteúdo está disponível sob uma <a href=\"%(cc_website_url)s\">licença Creative Commons</a>."
@@ -853,7 +853,7 @@ msgstr "Abrir menu"
 msgid "Mozilla Foundation Homepage"
 msgstr "Página inicial da Fundação Mozilla"
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:93
+#: network-api/networkapi/templates/fragments/primary_nav.html:94
 msgid "No thanks"
 msgstr "Não, obrigado"
 
@@ -978,7 +978,7 @@ msgstr "Dicas para se proteger"
 
 #: network-api/networkapi/templates/pages/buyersguide/product_page.html:187
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_page.html:57
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:317
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:320
 msgid "Comments"
 msgstr "Comentários"
 
@@ -1313,7 +1313,7 @@ msgstr "Mais do nosso blog"
 msgid "Blog authors"
 msgstr "Autores do blog"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:80
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/blog_index_page.html:82
 msgid "Latest Blog Posts"
 msgstr "Últimas publicações no blog"
 
@@ -1359,32 +1359,37 @@ msgstr "Saiba mais →"
 msgid "Our areas of focus"
 msgstr "Nossas áreas de foco"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:60
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:63
 msgid "First Name"
 msgstr "Nome"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:63
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:66
 msgid "Last Name"
 msgstr "Sobrenome"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:70
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:73
 msgid "Country"
 msgstr "País"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:312
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:315
 msgid "Postal Code"
 msgstr "Código postal"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:321
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:324
+#, python-format
+msgid "%(privacy_notice)s"
+msgstr ""
+
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:324
 #, python-format
 msgid "I’m okay with Mozilla handling my info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>."
 msgstr "Eu aceito que a Mozilla lide com minhas informações como explicado neste <a href=\"%(link)s\" target=\"_blank\">Aviso de privacidade</a>."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:324
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:327
 msgid "Yes, I want to receive email updates about Mozilla’s campaigns."
 msgstr "Sim, quero receber novidades por email sobre as campanhas da Mozilla."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:326
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/formassembly_body.html:329
 msgid "Add my name"
 msgstr "Adicionar meu nome"
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-01 08:20+0000\n"
+"POT-Creation-Date: 2024-06-04 16:30+0000\n"
 "PO-Revision-Date: 2024-01-22 15:53+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: \n"
@@ -32,13 +32,13 @@ msgstr "Bloquea las recomendaciones perjudiciales de YouTube. Descarga la extens
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/regrets-reporter-landing-page/extension_hero.html:44
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:14
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:138
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:139
 msgid "Add to Firefox"
 msgstr "Añadir a Firefox"
 
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/regrets-reporter-landing-page/extension_hero.html:49
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:15
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:139
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:140
 msgid "Add to Chrome"
 msgstr "Añadir a Chrome"
 
@@ -176,165 +176,165 @@ msgstr "Registrarse"
 msgid "To stay updated on this campaign and our other work, sign up for Mozilla’s newsletter."
 msgstr "Si quieres mantenerte informado(a) sobre esta campaña y el resto de nuestras acciones, suscríbete al boletín de Mozilla."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:96
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:97
 msgid "Let’s work together to make recommendation engines on the internet more trustworthy."
 msgstr "Juntos podemos hacer que los motores de recomendaciones de Internet sean más fiables."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:102
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:103
 msgid "Mozilla"
 msgstr "Mozilla"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:103
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:104
 msgid "28 Reasons Why YouTube Must Change"
 msgstr "28 razones por las que YouTube debe cambiar"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:106
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:107
 msgid "The New York Times"
 msgstr "The New York Times"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:107
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:108
 msgid "Can YouTube Quiet Its Conspiracy Theorists?"
 msgstr "¿Puede YouTube acallar a sus conspiracionistas?"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:110
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:111
 msgid "MIT Tech Review"
 msgstr "MIT Tech Review"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:111
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:112
 msgid "YouTube’s algorithm seems to be funneling people to alt-right videos"
 msgstr "El algoritmo de YouTube parece conducir a los usuarios a vídeos de extrema derecha"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:114
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:115
 msgid "Bloomberg"
 msgstr "Bloomberg"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:115
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:116
 msgid "YouTube Executives Ignored Warnings, Letting Toxic Videos Run Rampant"
 msgstr "Los directivos de YouTube ignoraron las advertencias y permitieron la proliferación de vídeos tóxicos"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:121
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:122
 msgid "For years, journalists, researchers, and even former YouTube employees have been telling YouTube that they need to stop their recommendation engine from sending users down racist, conspiratorial, and other regrettable rabbit holes."
 msgstr "Durante años, periodistas, investigadores e incluso exempleados de YouTube han pedido a la compañía que detenga la espiral tóxica de su motor de recomendaciones, que envía a los usuarios hacia lamentables «madrigueras» de contenidos racistas y conspirativos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:125
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:126
 #, python-format
 msgid "YouTube <a href=\"%(claims_link)s\" target=\"_blank\">claims</a> to be fixing this problem, but it’s all happening behind closed doors, without any way for the public to tell if it’s actually working. Last year, Mozilla gave YouTube <a href=\"%(ways_link)s\" target=\"_blank\">three</a> recommendations to help address this problem in a more open and transparent way. So far, YouTube has not made these changes."
 msgstr "Desde YouTube, <a href=\"%(claims_link)s\" target=\"_blank\">declaran</a> que están trabajando para solucionar el problema, pero todo ocurre a puertas cerradas, sin que el público pueda saber si lo que están haciendo funciona. El año pasado, Mozilla le proporcionó <a href=\"%(ways_link)s\" target=\"_blank\">tres</a> recomendaciones a YouTube, para contribuir a la solución del problema de una forma abierta y transparente. Pero, de momento, la compañía no ha aplicado los cambios sugeridos."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:131
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:132
 msgid "<strong>That’s where you come in. Mozilla’s RegretsReporter browser extension transforms everyday YouTube users into YouTube watchdogs.</strong> We can use our own data to answer questions about regrettable recommendations that can go a long way towards helping journalists who investigate these problems, other groups like Mozilla who push for more accountability, and engineers and designers who build this technology."
 msgstr "<strong>Es aquí donde entras tú. La extensión RegretsReporter de Mozilla para navegadores convierte a los usuarios habituales de YouTube en vigilantes de sus contenidos.</strong> Podemos utilizar nuestros propios datos para responder preguntas sobre recomendaciones lamentables, que pueden ayudar mucho a los periodistas que investigan estos problemas, a otros grupos como Mozilla que luchan por una mayor responsabilidad sobre los contenidos, y a los ingenieros y diseñadores que han construido esta tecnología."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:148
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:149
 msgid "About Mozilla"
 msgstr "Acerca de Mozilla"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:149
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:150
 msgid "Mozilla is fueling the movement for a healthy internet and trustworthy AI. We do that through projects like this, which holds companies accountable for harmful AI systems. We’ve been advocating for YouTube to address its recommendation problem for almost a year. Below, find a timeline of Mozilla’s work on this issue."
 msgstr "Mozilla está impulsando el movimiento a favor de una Internet más saludable y una IA confiable, a través de proyectos como este, que obligan a las compañías a responsabilizarse de los sistemas de IA perjudiciales. Desde hace casi un año, estamos solicitando a YouTube que resuelva este problema de su patrón de recomendaciones. A continuación, te mostramos un cronograma de las acciones de Mozilla al respecto."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:156
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:157
 msgid "A timeline of Mozilla’s work on this issue"
 msgstr "Cronograma de las acciones de Mozilla sobre este tema"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:163
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:164
 msgid "July 2019"
 msgstr "Julio de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:164
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:165
 msgid "Mozilla awards Guillaume Chaslot, a former YouTube engineer, a fellowship to support his work investigating AI systems, including the impacts of YouTube’s recommendation engine."
 msgstr "Mozilla otorga a Guillaume Chaslot, exingeniero de la plataforma YouTube, una beca para apoyar su investigación de los sistemas de IA, que incluye los efectos del motor de recomendaciones de YouTube."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:167
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:168
 msgid "August 7, 2019"
 msgstr "7 de agosto de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:169
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:170
 #, python-format
 msgid "Mozilla <a href=\"%(link)s\" target=\"_blank\">announced</a> our intentions to investigate YouTube’s recommendation problem, and to begin a dialogue with the company about making improvements."
 msgstr "Mozilla <a href=\"%(link)s\" target=\"_blank\">anuncia</a> su intención de investigar el problema de las recomendaciones de YouTube y comienza un diálogo con la compañía sobre posibles mejoras a realizar."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:175
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:176
 msgid "August 14, 2019"
 msgstr "14 de agosto de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:177
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:178
 #, python-format
 msgid "Mozilla <a href=\"%(link)s\" target=\"_blank\">published</a> a reading list for our community detailing the ways recommendation AI — including YouTube’s — can manipulate consumers."
 msgstr "Mozilla <a href=\"%(link)s\" target=\"_blank\">publica</a> una lista de lectura para nuestra comunidad, en la que se detalla de qué modo las recomendaciones de la IA (incluyendo la de YouTube) están diseñadas para manipular a los consumidores."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:183
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:184
 msgid "September 3, 2019"
 msgstr "3 de septiembre de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:185
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:186
 #, python-format
 msgid "Mozilla <a href=\"%(link)s\" target=\"_blank\">hosted</a> a Q&A with a teenager who was radicalized online, partially due to YouTube’s recommendation AI."
 msgstr "Mozilla <a href=\"%(link)s\" target=\"_blank\">organiza</a> un debate con un adolescente cuya ideología fue radicalizada a partir de su actividad online, en parte debido a las recomendaciones de la IA de YouTube."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:191
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:192
 msgid "September 10, 2019"
 msgstr "10 de septiembre de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:193
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:194
 #, python-format
 msgid "Mozilla <a href=\"%(link)s\" target=\"_blank\">launched</a> its #YouTubeRegrets campaign, urging users to share stories about harmful recommendations they encounter."
 msgstr "Mozilla <a href=\"%(link)s\" target=\"_blank\">lanza</a> su campaña #YouTubeRegrets, en la que insta a los usuarios a que compartan las recomendaciones perjudiciales con las que se encuentran."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:199
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:200
 msgid "October 14, 2019"
 msgstr "14 de octubre de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:201
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:202
 #, python-format
 msgid "After meeting with YouTube staff to discuss this issue, Mozilla <a href=\"%(link)s\" target=\"_blank\">published</a> three concrete actions the platform could take to help address its recommendation problem. These changes entail making YouTube’s recommendation data more transparent."
 msgstr "Después de una reunión con YouTube para debatir este tema, Mozilla <a href=\"%(link)s\" target=\"_blank\">publicó</a> tres acciones concretas que la plataforma podía llevar a cabo para abordar el problema de sus recomendaciones. Estos cambios implican dar más transparencia a los datos de recomendación de YouTube."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:207
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:208
 msgid "October 15, 2019"
 msgstr "15 de octubre de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:209
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:210
 #, python-format
 msgid "Mozilla <a href=\"%(link)s\" target=\"_blank\">published</a> findings from our #YouTubeRegrets research, highlighting how users were recommended anti-science content, anti-LGBT content, and other harmful videos."
 msgstr "Mozilla <a href=\"%(link)s\" target=\"_blank\">publica</a> los resultados de la investigación #YouTubeRegrets, en la que se destaca que los usuarios recibieron recomendaciones de vídeos perjudiciales con contenidos anticiencia y anti LGTB, entre otros."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:215
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:216
 msgid "October 26, 2019"
 msgstr "26 de octubre de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:217
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:218
 #, python-format
 msgid "At MozFest 2019, Mozilla <a href=\"%(link)s\" target=\"_blank\">hosted</a> “The Algorithmic Gaze,” a panel exploring the dangers of untrustworthy AI like YouTube’s recommendation engine."
 msgstr "En el festival MozFest 2019, Mozilla <a href=\"%(link)s\" target=\"_blank\">organizó</a> «The Algorithmic Gaze», un panel de debate en el que se exploraron los peligros de una IA no confiable, como el motor de recomendaciones de YouTube."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:223
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:224
 msgid "December 25, 2019"
 msgstr "25 de diciembre de 2019"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:225
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:226
 #, python-format
 msgid "Mozilla <a href=\"%(link)s\" target=\"_blank\">published</a> a running list of YouTube’s dismissals related to its recommendation problem."
 msgstr "Mozilla <a href=\"%(link)s\" target=\"_blank\">publica</a> una recopilación de las veces que YouTube ha desestimado investigar el problema de sus recomendaciones."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:231
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:232
 msgid "September 2020"
 msgstr "Septiembre de 2020"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:232
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:233
 msgid "Mozilla launches the RegretsReporter browser extension to research YouTube’s recommendation problem."
 msgstr "Mozilla lanza la extensión RegretsReporter para navegadores, con el fin de investigar el problema de las recomendaciones de YouTube."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:235
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:236
 msgid "July 2021"
 msgstr "Julio de 2021"
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:237
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:238
 #, python-format
 msgid "Using data contributed by 37,380 RegretsReporter users, Mozilla releases first <a href=\"%(link)s\" target=\"_blank\">findings</a> into YouTube's recommendations."
 msgstr "Usando datos compilados por 37.380 usuarios de RegretsReporter, Mozilla lanzó sus primeros <a href=\"%(link)s\" target=\"_blank\">descubrimientos</a> sobre las recomendaciones de YouTube."
 
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:244
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/pages/youtube_regrets_reporter_page.html:245
 msgid "next timeline segment"
 msgstr "siguiente segmento del cronograma"
 
