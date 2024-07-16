@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-04 16:30+0000\n"
+"POT-Creation-Date: 2024-07-16 12:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -196,7 +196,7 @@ msgid "Contributions go to the <a href=\"%(mozilla_url)s\">Mozilla Foundation</a
 msgstr ""
 
 #: network-api/networkapi/templates/donate/fragments/nav.html:3
-#: network-api/networkapi/templates/fragments/primary_nav.html:18
+#: network-api/networkapi/templates/fragments/primary_nav.html:16
 msgid "Home"
 msgstr ""
 
@@ -249,7 +249,7 @@ msgid "Methodology"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/about_nav.html:15
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:221
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:220
 msgid "Contact us"
 msgstr ""
 
@@ -405,7 +405,7 @@ msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_nav_links.html:21
 #: network-api/networkapi/templates/fragments/footer.html:49
-#: network-api/networkapi/templates/fragments/primary_nav.html:65
+#: network-api/networkapi/templates/fragments/primary_nav.html:58
 msgid "Donate"
 msgstr ""
 
@@ -419,7 +419,6 @@ msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:14
 #: network-api/networkapi/templates/fragments/footer.html:21
-#: network-api/networkapi/templates/fragments/primary_nav.html:88
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:71
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:35
@@ -430,7 +429,6 @@ msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/pni_newsletter_box.html:15
 #: network-api/networkapi/templates/fragments/footer.html:22
-#: network-api/networkapi/templates/fragments/primary_nav.html:89
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:36
 msgid "Help shape the future of the web for the public good."
 msgstr ""
@@ -481,13 +479,6 @@ msgstr ""
 #: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:21
 msgctxt "Buyer’s guide name. This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "Privacy Not Included"
-msgstr ""
-
-#: network-api/networkapi/templates/fragments/buyersguide/primary_nav.html:39
-#: network-api/networkapi/templates/fragments/nav/menu.html:25
-#: network-api/networkapi/templates/fragments/primary_nav.html:21
-#: network-api/networkapi/templates/fragments/primary_nav.html:66
-msgid "Newsletter"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/buyersguide/product_criterion.html:4
@@ -708,7 +699,6 @@ msgid " Close Banner"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:23
-#: network-api/networkapi/templates/fragments/primary_nav.html:90
 #: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/take_action.html:37
 msgid "Join our <b>Mozilla News</b> email list to get action alerts & internet tips right to your inbox."
 msgstr ""
@@ -718,7 +708,7 @@ msgid "Return to Homepage"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:27
-#: network-api/networkapi/templates/fragments/primary_nav.html:44
+#: network-api/networkapi/templates/fragments/primary_nav.html:41
 #: network-api/networkapi/templates/pages/base.html:18
 #: network-api/networkapi/templates/pages/buyersguide/base.html:17
 #: network-api/networkapi/templates/pattern_library_base.html:12
@@ -840,21 +830,17 @@ msgctxt "Pagination link"
 msgid "Next page"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:31
+#: network-api/networkapi/templates/fragments/primary_nav.html:28
 msgctxt "Tooltip on menu items"
 msgid "main site navigation"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:37
+#: network-api/networkapi/templates/fragments/primary_nav.html:34
 msgid "Open menu"
 msgstr ""
 
-#: network-api/networkapi/templates/fragments/primary_nav.html:44
+#: network-api/networkapi/templates/fragments/primary_nav.html:41
 msgid "Mozilla Foundation Homepage"
-msgstr ""
-
-#: network-api/networkapi/templates/fragments/primary_nav.html:94
-msgid "No thanks"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/responsive_screen_wide_image.html:60
@@ -942,11 +928,11 @@ msgstr ""
 msgid "Scroll to see how creepy people find these products!"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:176
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:165
 msgid "Don’t see the product you’re looking for?"
 msgstr ""
 
-#: network-api/networkapi/templates/pages/buyersguide/catalog.html:178
+#: network-api/networkapi/templates/pages/buyersguide/catalog.html:167
 msgid "Try <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">search</a> or let us know what product you would like reviewed in the guide."
 msgstr ""
 
@@ -1053,7 +1039,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: network-api/networkapi/templates/pages/libraries/library_page.html:87
-#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
+#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:20
 msgid "Close"
 msgstr ""
 
@@ -1130,38 +1116,38 @@ msgstr ""
 msgid "Go to home page"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:68
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:67
 msgid "Related reading"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:188
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:187
 msgctxt "*Privacy Not Included can be localized."
 msgid "How to use *Privacy Not Included | Mozilla Foundation"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:198
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:197
 msgctxt "*Privacy Not Included can be localized."
 msgid "Why we made *Privacy Not Included | Mozilla Foundation"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:207
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:206
 msgctxt "Noun, media"
 msgid "Press"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:211
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:225
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:239
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:253
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:210
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:224
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:238
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:252
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included | Mozilla Foundation"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:235
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:234
 msgid "Our methodology"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:249
+#: network-api/networkapi/wagtailpages/pagemodels/buyersguide/homepage.py:248
 msgid "Contest terms and conditions"
 msgstr ""
 
@@ -1284,12 +1270,12 @@ msgctxt "Filter form field label"
 msgid "Regions"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:18
+#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
 #: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:95
 msgid "Summary"
 msgstr ""
 
-#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:19
+#: network-api/networkapi/wagtailpages/templates/fragments/article_subnav.html:20
 #: network-api/networkapi/wagtailpages/templates/sticky_dropdown.html:21
 msgid "Table of Contents"
 msgstr ""
