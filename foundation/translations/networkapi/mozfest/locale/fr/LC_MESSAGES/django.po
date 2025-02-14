@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-11 07:20+0000\n"
+"POT-Creation-Date: 2025-02-14 13:01+0000\n"
 "PO-Revision-Date: 2024-05-24 08:40+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,7 +54,7 @@ msgstr "Accueil"
 msgid "Submit proposal"
 msgstr "Soumettre une proposition"
 
-#: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:28
+#: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:30
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
@@ -94,8 +94,10 @@ msgstr "Espace presse"
 msgid "Privacy"
 msgstr "Confidentialité"
 
-#~ msgid "Schedule"
-#~ msgstr "Programme"
+#: network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:17
+#: network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:40
+msgid "Schedule"
+msgstr "Programme"
 
 #~ msgctxt "Sticky button in mobile view on MozFest homepage"
 #~ msgid "SIGN UP"
