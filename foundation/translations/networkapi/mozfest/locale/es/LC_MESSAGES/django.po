@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 13:01+0000\n"
+"POT-Creation-Date: 2025-02-28 17:27+0000\n"
 "PO-Revision-Date: 2024-01-10 14:16+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,12 +19,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/mozfest/templates/fragments/blocks/newsletter_signup_with_background_block.html:15 network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:18
+#: network-api/networkapi/mozfest/templates/fragments/blocks/newsletter_signup_with_background_block.html:15
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:18
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr "Registrarse"
 
-#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15 network-api/networkapi/mozfest/templates/fragments/video.html:10
+#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15
+#: network-api/networkapi/mozfest/templates/fragments/video.html:10
 msgid "Watch Video"
 msgstr "Ver video"
 
@@ -42,7 +44,8 @@ msgstr "Reproducir video"
 msgid "Mozilla Festival - Page Not Found"
 msgstr "Mozilla Festival - Página no encontrada"
 
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:25 network-api/networkapi/mozfest/templates/mozfest/404.html:44
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:25
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:44
 #: network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:3
 msgid "Home"
 msgstr "Inicio"
@@ -90,10 +93,6 @@ msgstr "Centro de prensa"
 #: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:47
 msgid "Privacy"
 msgstr "Privacidad"
-
-#: network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:17 network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:40
-msgid "Schedule"
-msgstr ""
 
 #~ msgctxt "Sticky button in mobile view on MozFest homepage"
 #~ msgid "SIGN UP"

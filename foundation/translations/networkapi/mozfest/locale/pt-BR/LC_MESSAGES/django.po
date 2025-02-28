@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 13:01+0000\n"
+"POT-Creation-Date: 2025-02-28 17:26+0000\n"
 "PO-Revision-Date: 2025-02-14 13:11+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,12 +19,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
 
-#: network-api/networkapi/mozfest/templates/fragments/blocks/newsletter_signup_with_background_block.html:15 network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:18
+#: network-api/networkapi/mozfest/templates/fragments/blocks/newsletter_signup_with_background_block.html:15
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:18
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr "inscrever-se"
 
-#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15 network-api/networkapi/mozfest/templates/fragments/video.html:10
+#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15
+#: network-api/networkapi/mozfest/templates/fragments/video.html:10
 msgid "Watch Video"
 msgstr "Assistir vídeo"
 
@@ -42,7 +44,8 @@ msgstr "Reproduzir vídeo"
 msgid "Mozilla Festival - Page Not Found"
 msgstr "Mozilla Festival - Página não encontrada"
 
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:25 network-api/networkapi/mozfest/templates/mozfest/404.html:44
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:25
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:44
 #: network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:3
 msgid "Home"
 msgstr "Início"
@@ -91,9 +94,8 @@ msgstr "Centro de imprensa"
 msgid "Privacy"
 msgstr "Privacidade"
 
-#: network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:17 network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:40
-msgid "Schedule"
-msgstr "Cronograma"
+#~ msgid "Schedule"
+#~ msgstr "Cronograma"
 
 #~ msgctxt "Sticky button in mobile view on MozFest homepage"
 #~ msgid "SIGN UP"
