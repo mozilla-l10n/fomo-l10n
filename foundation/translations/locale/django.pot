@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-28 17:27+0000\n"
+"POT-Creation-Date: 2025-03-05 09:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -718,7 +718,10 @@ msgid "More about us"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:38
-msgid "Bluesky"
+#: network-api/networkapi/templates/fragments/share-buttons.html:19
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
+#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:48
+msgid "Twitter"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:39
@@ -727,7 +730,7 @@ msgid "Instagram"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:40
-msgid "Youtube"
+msgid "Bluesky"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/footer.html:41
@@ -856,12 +859,6 @@ msgstr ""
 
 #: network-api/networkapi/templates/fragments/share-buttons.html:17
 msgid "Share on Twitter"
-msgstr ""
-
-#: network-api/networkapi/templates/fragments/share-buttons.html:19
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
-#: network-api/networkapi/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:48
-msgid "Twitter"
 msgstr ""
 
 #: network-api/networkapi/templates/fragments/share-buttons.html:26
