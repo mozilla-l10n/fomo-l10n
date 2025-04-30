@@ -1,4 +1,4 @@
-# Translations for foundation.mozilla.org
+# Translations for mozillafoundation.org
 
 [![Build Status](https://github.com/mozilla-l10n/fomo-l10n/workflows/Continuous%20Integration/badge.svg)](https://github.com/mozilla-l10n/fomo-l10n/actions?query=workflow%3A%22Continuous+Integration%22)
 
