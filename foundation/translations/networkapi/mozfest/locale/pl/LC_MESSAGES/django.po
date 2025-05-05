@@ -6,6 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-05 15:56+0000\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,12 +15,14 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Pontoon\n"
 
-#: network-api/networkapi/mozfest/templates/fragments/blocks/newsletter_signup_with_background_block.html:15 network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:18
+#: network-api/networkapi/mozfest/templates/fragments/blocks/newsletter_signup_with_background_block.html:15
+#: network-api/networkapi/mozfest/templates/partials/mozfest_footer.html:18
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr "Zapisz się"
 
-#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15 network-api/networkapi/mozfest/templates/fragments/video.html:10
+#: network-api/networkapi/mozfest/templates/fragments/hero/featured_video.html:15
+#: network-api/networkapi/mozfest/templates/fragments/video.html:10
 msgid "Watch Video"
 msgstr "Obejrzyj film"
 
@@ -36,7 +40,8 @@ msgstr "Odtwórz film"
 msgid "Mozilla Festival - Page Not Found"
 msgstr "Festiwal Mozilli — nie odnaleziono strony"
 
-#: network-api/networkapi/mozfest/templates/mozfest/404.html:25 network-api/networkapi/mozfest/templates/mozfest/404.html:44
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:25
+#: network-api/networkapi/mozfest/templates/mozfest/404.html:44
 #: network-api/networkapi/mozfest/templates/partials/primary_mozfest_nav.html:3
 msgid "Home"
 msgstr "Strona główna"
@@ -45,7 +50,7 @@ msgstr "Strona główna"
 msgid "Submit proposal"
 msgstr "Prześlij propozycję"
 
-#: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:30
+#: network-api/networkapi/mozfest/templates/mozfest/mozfest-base.html:27
 msgid "Mozilla Festival"
 msgstr "Festiwal Mozilli"
 
