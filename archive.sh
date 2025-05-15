@@ -9,6 +9,6 @@ touch translations_github_commit_${GITHUB_SHA}
 mkdir -p to_upload
 
 echo "Archiving files"
-tar -C foundation/translations -cvf ./to_upload/translations.tar ./locale ./networkapi
+tar -C foundation/translations -cvf ./to_upload/translations.tar ./legacy_apps
 tar rvf ./to_upload/translations.tar ./translations_github_commit_${GITHUB_SHA}
 echo "Done!"
