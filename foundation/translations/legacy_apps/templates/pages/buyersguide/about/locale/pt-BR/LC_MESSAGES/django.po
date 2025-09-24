@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 13:47+0000\n"
+"POT-Creation-Date: 2025-09-24 12:03+0000\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,15 +21,10 @@ msgstr "Fale conosco"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/contact.html:13
 #, python-format
-msgid "For any questions about the guide or to offer constructive feedback, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
-msgstr "Para esclarecer dúvidas sobre o guia ou para enviar comentários construtivos, envie um e-mail para %(name)s em <a href=\"mailto:%(email)s\">%(email)s</a>."
+msgid "For any questions about the guide or to offer constructive feedback, please email <a href=\"mailto:%(email)s\">%(email)s</a> and someone on the team will be in touch."
+msgstr ""
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/contact.html:20
-#, python-format
-msgid "For members of the press with questions about this guide, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
-msgstr "Para profissionais da imprensa com dúvidas sobre este guia, envie um e-mail para %(name)s em <a href=\"mailto:%(email)s\">%(email)s</a>."
-
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/contact.html:27
 msgid "We don’t want to miss any products that might be important to you. Tell us what connected products you want reviewed in our holiday buyer’s guide and we’ll do our best to include them."
 msgstr "Não queremos deixar de fora nenhum produto que possa ser importante para você. Indique quais produtos conectados você deseja que sejam avaliados no nosso guia de compras de fim de ano e faremos o possível para incluí-los."
 
@@ -784,3 +779,11 @@ msgstr "A Mozilla batalha diariamente por uma internet mais saudável como uma e
 #, python-format
 msgid "For any questions about the guide or to offer constructive feedback, please email <a href=\"mailto:%(email)s\">%(email)s</a>"
 msgstr "Para esclarecer dúvidas sobre o guia ou para enviar comentários construtivos, envie um e-mail para <a href=\"mailto:%(email)s\">%(email)s</a>"
+
+#, python-format
+#~ msgid "For any questions about the guide or to offer constructive feedback, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
+#~ msgstr "Para esclarecer dúvidas sobre o guia ou para enviar comentários construtivos, envie um e-mail para %(name)s em <a href=\"mailto:%(email)s\">%(email)s</a>."
+
+#, python-format
+#~ msgid "For members of the press with questions about this guide, please email %(name)s at <a href=\"mailto:%(email)s\">%(email)s</a>."
+#~ msgstr "Para profissionais da imprensa com dúvidas sobre este guia, envie um e-mail para %(name)s em <a href=\"mailto:%(email)s\">%(email)s</a>."
