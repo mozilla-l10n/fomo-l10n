@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-03 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: foundation_cms/templates/404.html:6
+msgid "Page not found"
+msgstr ""
+
+#: foundation_cms/templates/404.html:7
+msgid "Sorry, this page could not be found."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/back_to_top.html:4
+msgid "Back to top"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:21
+msgid "Liscensing"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:22
+msgid "Annual Reports & Financials"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:23
+msgid "Press Center"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:26
+msgid "Careers"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:27
+msgid "Privacy"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:28
+msgid "Cookies"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:29
+msgid "Legal"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:30
+msgid "Participation guidelines"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:34
+#: foundation_cms/templates/patterns/components/primary_nav.html:54
+msgid "Donate"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/footer.html:41
+#, python-format
+msgid "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/listing_header.html:5
+#, python-format
+msgid "Showing <span id=\"result-count\">%(items_length)s</span> results for:"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:6
+msgid "Something went wrong and your signup wasn't completed. Please try again later."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:31
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
+msgid "Your country"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:53
+#, python-format
+msgid "I'm okay with Mozilla handling my info as explained in this <a href=\"%(privacy_link)s\" target=\"_blank\" class=\"newsletter-signup__link\">Privacy Notice</a>."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:60
+msgid "Please check this box if you want to proceed."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:85
+msgid "Thank you!"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:88
+msgid "If you haven’t previously confirmed your opt-in to a Mozilla-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and confirm your subscription</strong>."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:94
+#, python-format
+msgid "If you have already confirmed your opt-in to receive Mozilla-related emails, you can now <a href=\"%(newsletter_recovery_link)s\" target=\"_blank\" class=\"newsletter-signup__link\"> manage your subscriptions </a> and update your email preferences."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/nothing_personal/anchor_navigation.html:5
+msgid "IN THIS REVIEW"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/products_mentioned.html:6
+msgid "Products Mentioned"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/primary_nav.html:34
+msgid "Meet Mozilla"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/primary_nav.html:38
+msgid "What We Do"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/primary_nav.html:41
+msgid "Make"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/primary_nav.html:42
+msgid "Inspire"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/primary_nav.html:43
+msgid "Mobilize"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/primary_nav.html:47
+msgid "Join Us"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:6
+msgid "Visit the Wagtail website"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:15
+msgid "View the release notes"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:27
+msgid "Welcome to your new Wagtail site!"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:28
+msgid ""
+"\n"
+"            Please feel free to <a href=\"https://github.com/wagtail/wagtail/wiki/Slack\">join our community on Slack</a>, or get started with one of the links below.\n"
+"        "
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:37
+msgid "Wagtail Documentation"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:38
+msgid "Topics, references, & how-tos"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:44
+msgid "Tutorial"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:45
+msgid "Build your first Wagtail site"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:51
+msgid "Admin Interface"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/core/welcome_page.html:52
+msgid "Create your superuser first!"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:20
+msgid "Published"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:38
+msgid "Topics"
+msgstr ""
