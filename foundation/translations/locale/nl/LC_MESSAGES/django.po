@@ -15,51 +15,51 @@ msgstr ""
 
 #: foundation_cms/templates/404.html:6
 msgid "Page not found"
-msgstr ""
+msgstr "Pagina niet gevonden"
 
 #: foundation_cms/templates/404.html:7
 msgid "Sorry, this page could not be found."
-msgstr ""
+msgstr "Sorry, deze pagina kon niet worden gevonden."
 
 #: foundation_cms/templates/patterns/components/back_to_top.html:4
 msgid "Back to top"
-msgstr ""
+msgstr "Naar boven"
 
 #: foundation_cms/templates/patterns/components/footer.html:21
 msgid "Liscensing"
-msgstr ""
+msgstr "Licenties"
 
 #: foundation_cms/templates/patterns/components/footer.html:22
 msgid "Annual Reports & Financials"
-msgstr ""
+msgstr "Jaarverslagen en financiële gegevens"
 
 #: foundation_cms/templates/patterns/components/footer.html:23
 msgid "Press Center"
-msgstr ""
+msgstr "Perscentrum"
 
 #: foundation_cms/templates/patterns/components/footer.html:26
 msgid "Careers"
-msgstr ""
+msgstr "Banen"
 
 #: foundation_cms/templates/patterns/components/footer.html:27
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #: foundation_cms/templates/patterns/components/footer.html:28
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #: foundation_cms/templates/patterns/components/footer.html:29
 msgid "Legal"
-msgstr ""
+msgstr "Juridisch"
 
 #: foundation_cms/templates/patterns/components/footer.html:30
 msgid "Participation guidelines"
-msgstr ""
+msgstr "Richtlijnen voor deelname"
 
 #: foundation_cms/templates/patterns/components/footer.html:34 foundation_cms/templates/patterns/components/primary_nav.html:54
 msgid "Donate"
-msgstr ""
+msgstr "Doneren"
 
 #: foundation_cms/templates/patterns/components/footer.html:41
 #, python-format
@@ -67,42 +67,47 @@ msgid ""
 "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla "
 "Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
 msgstr ""
+"Mozilla Foundation is een wereldwijde non-profitorganisatie en moedermaatschappij van de <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-"
+"footer-ns__link--legal\">Mozilla Corporation</a>. De meeste inhoud is beschikbaar onder een <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative "
+"Commons-licentie</a>."
 
 #: foundation_cms/templates/patterns/components/listing_header.html:5
 #, python-format
 msgid "Showing <span id=\"result-count\">%(items_length)s</span> results for:"
-msgstr ""
+msgstr "<span id=\"result-count\">%(items_length)s</span> resultaten getoond voor:"
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:6
 msgid "Something went wrong and your signup wasn't completed. Please try again later."
-msgstr ""
+msgstr "Er is iets misgegaan, en uw registratie is niet voltooid. Probeer het later opnieuw."
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:31
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Voer een geldig e-mailadres in."
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
 msgid "Your country"
-msgstr ""
+msgstr "Uw land"
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:53
 #, python-format
 msgid "I'm okay with Mozilla handling my info as explained in this <a href=\"%(privacy_link)s\" target=\"_blank\" class=\"newsletter-signup__link\">Privacy Notice</a>."
-msgstr ""
+msgstr "Ik stem in met hoe Mozilla met mijn gegevens omgaat, zoals uitgelegd in deze <a href=\"%(privacy_link)s\" target=\"_blank\" class=\"newsletter-signup__link\">privacyverklaring</a>."
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:60
 msgid "Please check this box if you want to proceed."
-msgstr ""
+msgstr "Vink dit aan als u wilt doorgaan."
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:85
 msgid "Thank you!"
-msgstr ""
+msgstr "Bedankt!"
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:88
 msgid ""
 "If you haven’t previously confirmed your opt-in to a Mozilla-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and "
 "confirm your subscription</strong>."
 msgstr ""
+"Als u uw aanmelding voor een Mozilla-gerelateerd e-mailabonnement nog niet eerder hebt bevestigd, dient u dit mogelijk nu te doen. <strong>Controleer uw Postvak IN of uw spamfilter op een "
+"e-mailbericht van ons om te klikken en uw inschrijving te bevestigen</strong>."
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:94
 #, python-format
@@ -110,34 +115,36 @@ msgid ""
 "If you have already confirmed your opt-in to receive Mozilla-related emails, you can now <a href=\"%(newsletter_recovery_link)s\" target=\"_blank\" class=\"newsletter-signup__link\"> manage your "
 "subscriptions </a> and update your email preferences."
 msgstr ""
+"Als u uw aanmelding voor het ontvangen van Mozilla-gerelateerde e-mailberichten al hebt bevestigd, kunt u nu <a href=\"%(newsletter_recovery_link)s\" target=\"_blank\" class=\"newsletter-"
+"signup__link\">uw abonnementen beheren</a> en uw e-mailvoorkeuren bijwerken."
 
 #: foundation_cms/templates/patterns/components/nothing_personal/anchor_navigation.html:5
 msgid "IN THIS REVIEW"
-msgstr ""
+msgstr "IN DEZE BEOORDELING"
 
 #: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/products_mentioned.html:6
 msgid "Products Mentioned"
-msgstr ""
+msgstr "Genoemde producten"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:34
 msgid "Meet Mozilla"
-msgstr ""
+msgstr "Maak kennis met Mozilla"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:38
 msgid "What We Do"
-msgstr ""
+msgstr "Wat we doen"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:41
 msgid "Make"
-msgstr ""
+msgstr "Maken"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:42
 msgid "Inspire"
-msgstr ""
+msgstr "Inspireren"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:43
 msgid "Mobilize"
-msgstr ""
+msgstr "Mobiliseren"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:47
 msgid "Join Us"
