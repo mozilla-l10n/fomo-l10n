@@ -3,20 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-03 15:34+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Pontoon\n"
 
 #: foundation_cms/templates/404.html:6
 msgid "Page not found"
@@ -62,14 +57,15 @@ msgstr ""
 msgid "Participation guidelines"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:34
-#: foundation_cms/templates/patterns/components/primary_nav.html:54
+#: foundation_cms/templates/patterns/components/footer.html:34 foundation_cms/templates/patterns/components/primary_nav.html:54
 msgid "Donate"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/footer.html:41
 #, python-format
-msgid "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
+msgid ""
+"Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla "
+"Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/listing_header.html:5
@@ -103,12 +99,16 @@ msgid "Thank you!"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:88
-msgid "If you haven’t previously confirmed your opt-in to a Mozilla-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and confirm your subscription</strong>."
+msgid ""
+"If you haven’t previously confirmed your opt-in to a Mozilla-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and "
+"confirm your subscription</strong>."
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:94
 #, python-format
-msgid "If you have already confirmed your opt-in to receive Mozilla-related emails, you can now <a href=\"%(newsletter_recovery_link)s\" target=\"_blank\" class=\"newsletter-signup__link\"> manage your subscriptions </a> and update your email preferences."
+msgid ""
+"If you have already confirmed your opt-in to receive Mozilla-related emails, you can now <a href=\"%(newsletter_recovery_link)s\" target=\"_blank\" class=\"newsletter-signup__link\"> manage your "
+"subscriptions </a> and update your email preferences."
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/nothing_personal/anchor_navigation.html:5
@@ -141,12 +141,12 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:47
 msgid "Join Us"
-msgstr ""
+msgstr "Meedoen"
 
 #: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:20
 msgid "Published"
-msgstr ""
+msgstr "Gepubliceerd"
 
 #: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:38
 msgid "Topics"
-msgstr ""
+msgstr "Onderwerpen"
