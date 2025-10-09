@@ -5,6 +5,10 @@ reference = "foundation/translations/locale/django.pot"
 l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/django.po"
 
 [[paths]]
+reference = "foundation/translations/locale/djangojs.pot"
+l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/djangojs.po"
+
+[[paths]]
 reference = "foundation/translations/legacy_apps/locale/django.pot"
 l10n = "foundation/translations/legacy_apps/locale/{locale}/LC_MESSAGES/django.po"
 
