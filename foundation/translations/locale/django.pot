@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 15:07+0000\n"
+"POT-Creation-Date: 2025-10-10 07:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,7 +56,7 @@ msgstr ""
 msgid "Next arrow"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_bottom_line_block.html:5
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_bottom_line_block.html:7
 msgid "The Bottom Line"
 msgstr ""
 
@@ -65,44 +65,40 @@ msgstr ""
 msgid "Pause carousel autoplay"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:5
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:7
 msgid "The Good and The Bad"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:10
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:12
 msgid "The Good"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:15
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:17
 msgid "The Bad"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_reduce_your_risks_block.html:5
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_reduce_your_risks_block.html:7
 msgid "Reduce Your Risks"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:5
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:7
 msgid "What You Should Know"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:11
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:13
 msgid "Should I trust their default settings?"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:16
-msgid "Should I give them my data by default?"
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:17
+msgid "What personal data do they have?"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:21
-msgid "Can I use this product/service offline?"
+msgid "Track record"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:26
-msgid "Should I reconsider buying this product because of this company’s track record + data practices?"
-msgstr ""
-
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:31
-msgid "Does this product/service sell or giveaway user data?"
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:25
+msgid "Does this product sell or share user data?"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/quote_block.html:5
@@ -246,16 +242,24 @@ msgstr ""
 msgid "by %(author)s"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:12
+#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:13
 msgid "Updated"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:16
+#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:17
 msgid "Reviewed"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:20
-msgid "Research"
+#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:39
+msgid "Hours Tested"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:43
+msgid "Type of Testing"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:51
+msgid "More details +"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/products_mentioned.html:6
@@ -266,7 +270,7 @@ msgstr ""
 msgid "In This Review"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/related_content.html:44
+#: foundation_cms/templates/patterns/components/nothing_personal/related_content.html:28
 #, python-format
 msgid "By %(author)s"
 msgstr ""
