@@ -96,12 +96,12 @@ msgstr ""
 #: foundation_cms/templates/patterns/blocks/themes/default/quote_block.html:5
 #, python-format
 msgid "“%(quote)s”"
-msgstr ""
+msgstr "‘%(quote)s’"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/spotlight_card.html:8
 #, python-format
 msgid "Image of %(title)s"
-msgstr ""
+msgstr "Afbeelding van %(title)s"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/spotlight_card_set_block.html:7
 msgid "Spotlight Carousel"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:9
 msgid "Play video"
-msgstr ""
+msgstr "Video afspelen"
 
 #: foundation_cms/templates/patterns/components/footer.html:8 foundation_cms/templates/patterns/components/primary_nav.html:22
 msgid "Mozilla Foundation Logo"
