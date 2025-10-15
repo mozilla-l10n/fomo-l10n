@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-10 07:46+0000\n"
+"POT-Creation-Date: 2025-10-15 10:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,11 +26,12 @@ msgstr ""
 msgid "Sorry, this page could not be found."
 msgstr ""
 
-#: foundation_cms/templates/base/themes/nothing_personal/base.html:11
+#: foundation_cms/templates/base/themes/nothing_personal/base.html:14
+#: foundation_cms/templates/base/themes/nothing_personal/base.html:17
 msgid "Nothing Personal by Mozilla Foundation Logo"
 msgstr ""
 
-#: foundation_cms/templates/base/themes/nothing_personal/base.html:17
+#: foundation_cms/templates/base/themes/nothing_personal/base.html:24
 msgid "Nothing Personal Logomark"
 msgstr ""
 
@@ -237,7 +238,7 @@ msgstr ""
 msgid "IN THIS REVIEW"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/home_page/featured_items.html:82
+#: foundation_cms/templates/patterns/components/nothing_personal/home_page/featured_items.html:44
 #, python-format
 msgid "by %(author)s"
 msgstr ""
@@ -258,8 +259,8 @@ msgstr ""
 msgid "Type of Testing"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:51
-msgid "More details +"
+#: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/intro_section.html:52
+msgid "More detail +"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/products_mentioned.html:6
@@ -334,16 +335,16 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:19
 #, python-format
-msgid "Showing %(total_pages_count)s result for: <h1>%(topic.name)s</h1>"
-msgid_plural "Showing %(total_pages_count)s results for: <h1>%(topic.name)s</h1>"
+msgid "Showing %(total_pages_count)s result for:"
+msgid_plural "Showing %(total_pages_count)s results for:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:27
+#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:28
 msgid "More from Nothing Personal:"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:32
+#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:33
 msgid "From the rest of Mozilla Foundation:"
 msgstr ""
 
@@ -357,4 +358,8 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:60
 msgid "More Stories"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/nothing_personal/product_review_page.html:45
+msgid "More Reviews"
 msgstr ""
