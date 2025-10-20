@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-15 10:39+0000\n"
+"POT-Creation-Date: 2025-10-20 09:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,7 +168,7 @@ msgid "Participation guidelines"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/footer.html:34
-#: foundation_cms/templates/patterns/components/primary_nav.html:54
+#: foundation_cms/templates/patterns/components/primary_nav.html:59
 msgid "Donate"
 msgstr ""
 
@@ -193,6 +193,7 @@ msgid "Email"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:31
+#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
 msgid "Please enter a valid email address."
 msgstr ""
 
@@ -217,21 +218,25 @@ msgstr ""
 msgid "Please check this box if you want to proceed."
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:85
-msgid "Thank you!"
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:71
+#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
+msgid "Loading..."
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:88
-msgid "If you haven’t previously confirmed your opt-in to a Mozilla-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and confirm your subscription</strong>."
+msgid "Thank you!"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:94
-#, python-format
-msgid "If you have already confirmed your opt-in to receive Mozilla-related emails, you can now <a href=\"%(newsletter_recovery_link)s\" target=\"_blank\" class=\"newsletter-signup__link\"> manage your subscriptions </a> and update your email preferences."
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:91
+msgid "If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and confirm your subscription</strong>."
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:106
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:100
 msgid "Newsletter signup success image"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:6
+msgid "Something went wrong and your unsubscribe wasn't completed. Please try again later."
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/nothing_personal/anchor_navigation.html:5
@@ -271,7 +276,7 @@ msgstr ""
 msgid "In This Review"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/related_content.html:28
+#: foundation_cms/templates/patterns/components/nothing_personal/related_content.html:30
 #, python-format
 msgid "By %(author)s"
 msgstr ""
@@ -308,7 +313,7 @@ msgstr ""
 msgid "Mobilize"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/primary_nav.html:47
+#: foundation_cms/templates/patterns/components/primary_nav.html:48
 msgid "Join Us"
 msgstr ""
 
