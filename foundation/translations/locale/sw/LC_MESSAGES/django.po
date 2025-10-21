@@ -6,6 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-21 07:56+0000\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +23,8 @@ msgstr ""
 msgid "Sorry, this page could not be found."
 msgstr ""
 
-#: foundation_cms/templates/base/themes/nothing_personal/base.html:14 foundation_cms/templates/base/themes/nothing_personal/base.html:17
+#: foundation_cms/templates/base/themes/nothing_personal/base.html:14
+#: foundation_cms/templates/base/themes/nothing_personal/base.html:17
 msgid "Nothing Personal by Mozilla Foundation Logo"
 msgstr ""
 
@@ -33,7 +36,8 @@ msgstr ""
 msgid "Pagination controls"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:5 foundation_cms/templates/patterns/components/carousel_controls.html:4
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:5
+#: foundation_cms/templates/patterns/components/carousel_controls.html:4
 msgid "Previous"
 msgstr ""
 
@@ -41,7 +45,8 @@ msgstr ""
 msgid "Previous arrow"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14 foundation_cms/templates/patterns/components/carousel_controls.html:9
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14
+#: foundation_cms/templates/patterns/components/carousel_controls.html:9
 msgid "Next"
 msgstr ""
 
@@ -53,7 +58,8 @@ msgstr ""
 msgid "The Bottom Line"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:27 foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:28
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:27
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:28
 msgid "Pause carousel autoplay"
 msgstr ""
 
@@ -107,7 +113,8 @@ msgstr ""
 msgid "Spotlight Carousel"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/back_to_top.html:3 foundation_cms/templates/patterns/components/back_to_top.html:4
+#: foundation_cms/templates/patterns/components/back_to_top.html:3
+#: foundation_cms/templates/patterns/components/back_to_top.html:4
 msgid "Back to top"
 msgstr ""
 
@@ -120,7 +127,8 @@ msgstr ""
 msgid "Play video"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:8 foundation_cms/templates/patterns/components/primary_nav.html:22
+#: foundation_cms/templates/patterns/components/footer.html:8
+#: foundation_cms/templates/patterns/components/primary_nav.html:22
 msgid "Mozilla Foundation Logo"
 msgstr ""
 
@@ -156,15 +164,19 @@ msgstr ""
 msgid "Participation guidelines"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:34 foundation_cms/templates/patterns/components/primary_nav.html:59
+#: foundation_cms/templates/patterns/components/footer.html:34
+#: foundation_cms/templates/patterns/components/primary_nav.html:59
 msgid "Donate"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:41
+#: foundation_cms/templates/patterns/components/footer.html:42
 #, python-format
-msgid ""
-"Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla "
-"Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
+msgid "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/language_switcher.html:13
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:43
+msgid "Language"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/listing_header.html:5
@@ -176,12 +188,14 @@ msgstr ""
 msgid "Something went wrong and your signup wasn't completed. Please try again later."
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:26 foundation_cms/templates/patterns/components/newsletter_signup_form.html:27
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:26
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:27
 #: foundation_cms/templates/patterns/components/share_container.html:16
 msgid "Email"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:31 foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:31
+#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
 msgid "Please enter a valid email address."
 msgstr ""
 
@@ -193,10 +207,6 @@ msgstr ""
 msgid "Your country"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:43
-msgid "Language"
-msgstr ""
-
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:53
 #, python-format
 msgid "I'm okay with Mozilla handling my info as explained in this <a href=\"%(privacy_link)s\" target=\"_blank\" class=\"newsletter-signup__link\">Privacy Notice</a>."
@@ -206,7 +216,8 @@ msgstr ""
 msgid "Please check this box if you want to proceed."
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:71 foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:71
+#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
 msgid "Loading..."
 msgstr ""
 
@@ -215,9 +226,7 @@ msgid "Thank you!"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:91
-msgid ""
-"If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to "
-"click and confirm your subscription</strong>."
+msgid "If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and confirm your subscription</strong>."
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:100
@@ -318,7 +327,8 @@ msgstr ""
 msgid "Share by Email"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/share_container.html:21 foundation_cms/templates/patterns/components/share_container.html:22
+#: foundation_cms/templates/patterns/components/share_container.html:21
+#: foundation_cms/templates/patterns/components/share_container.html:22
 msgid "Copy Link"
 msgstr ""
 
