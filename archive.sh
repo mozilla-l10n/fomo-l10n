@@ -8,10 +8,8 @@ touch translations_github_commit_${GITHUB_SHA}
 # Selecting only a file doesn't seem to work, using a dir instead
 mkdir -p to_upload
 
-BASE_DIR="to_upload"
-
 # Traverse directories from deepest to top to avoid rename conflicts
-find "$BASE_DIR" -depth -type d | while read -r dir; do
+find "foundation/translations" -depth -type d | while read -r dir; do
     # Compute new directory name
     newdir="${dir//-/_}"
 
