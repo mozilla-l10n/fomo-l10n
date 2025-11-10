@@ -8,12 +8,10 @@ touch translations_github_commit_${GITHUB_SHA}
 # Selecting only a file doesn't seem to work, using a dir instead
 mkdir -p to_upload
 
-# Traverse directories from deepest to top to avoid rename conflicts
-find "foundation/translations" -depth -type d | while read -r dir; do
-    # Compute new directory name
+find "foundation/translations" -type d | while read -r dir; do
     newdir="${dir//-/_}"
 
-    # If the name changes, perform the rename
+    # Only rename if the name actually changes
     if [[ "$newdir" != "$dir" ]]; then
         echo "Renaming: '$dir' -> '$newdir'"
         mv "$dir" "$newdir"
