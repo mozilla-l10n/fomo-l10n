@@ -6,8 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-27 10:29+0000\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,8 +34,7 @@ msgstr "* Geeft een verplicht veld aan"
 msgid "No, I will share instead"
 msgstr "Nee, ik deel in plaats daarvan"
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:94
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:146
+#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:94 foundation_cms/campaigns/templates/campaigns/campaign_page.html:146
 msgid "Sorry, not right now"
 msgstr "Sorry, niet nu"
 
@@ -53,16 +50,13 @@ msgstr "Bluesky"
 msgid "Check out this petition:"
 msgstr "Bekijk deze petitie:"
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:128
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:33
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:26
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:27
+#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:128 foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:33
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:26 foundation_cms/templates/patterns/components/newsletter_signup_form.html:27
 #: foundation_cms/templates/patterns/components/share_container.html:16
 msgid "Email"
 msgstr "E-mailadres"
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:134
-#: foundation_cms/templates/patterns/components/share_container.html:21
+#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:134 foundation_cms/templates/patterns/components/share_container.html:21
 #: foundation_cms/templates/patterns/components/share_container.html:22
 msgid "Copy Link"
 msgstr "Koppeling kopiëren"
@@ -79,8 +73,7 @@ msgstr "Voornaam"
 msgid "Last Name"
 msgstr "Achternaam"
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:37
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:36
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:37 foundation_cms/templates/patterns/components/newsletter_signup_form.html:36
 msgid "Country"
 msgstr "Land"
 
@@ -117,8 +110,7 @@ msgstr "Pagina niet gevonden"
 msgid "Sorry, this page could not be found."
 msgstr "Sorry, deze pagina kon niet worden gevonden."
 
-#: foundation_cms/templates/base/themes/nothing_personal/base.html:14
-#: foundation_cms/templates/base/themes/nothing_personal/base.html:17
+#: foundation_cms/templates/base/themes/nothing_personal/base.html:14 foundation_cms/templates/base/themes/nothing_personal/base.html:17
 msgid "Nothing Personal by Mozilla Foundation Logo"
 msgstr "Nothing Personal door Mozilla Foundation-logo"
 
@@ -130,8 +122,7 @@ msgstr "Nothing Personal-logo"
 msgid "Pagination controls"
 msgstr "Paginering"
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:5
-#: foundation_cms/templates/patterns/components/carousel_controls.html:4
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:5 foundation_cms/templates/patterns/components/carousel_controls.html:4
 msgid "Previous"
 msgstr "Vorige"
 
@@ -139,8 +130,7 @@ msgstr "Vorige"
 msgid "Previous arrow"
 msgstr "Vorige-pijl"
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14
-#: foundation_cms/templates/patterns/components/carousel_controls.html:9
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14 foundation_cms/templates/patterns/components/carousel_controls.html:9
 msgid "Next"
 msgstr "Volgende"
 
@@ -152,8 +142,7 @@ msgstr "Volgende-pijl"
 msgid "The Bottom Line"
 msgstr "Onder de streep"
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:27
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:28
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:27 foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:28
 msgid "Pause carousel autoplay"
 msgstr "Automatisch afspelen van carrousel pauzeren"
 
@@ -207,8 +196,7 @@ msgstr "Afbeelding van %(title)s"
 msgid "Spotlight Carousel"
 msgstr "Spotlight-carrousel"
 
-#: foundation_cms/templates/patterns/components/back_to_top.html:3
-#: foundation_cms/templates/patterns/components/back_to_top.html:4
+#: foundation_cms/templates/patterns/components/back_to_top.html:3 foundation_cms/templates/patterns/components/back_to_top.html:4
 msgid "Back to top"
 msgstr "Naar boven"
 
@@ -221,8 +209,7 @@ msgstr "Video %(label)s afspelen"
 msgid "Play video"
 msgstr "Video afspelen"
 
-#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6
-#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
+#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6 foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
 msgid "Close"
 msgstr "Sluiten"
 
@@ -230,8 +217,7 @@ msgstr "Sluiten"
 msgid "Skip Down"
 msgstr "Omlaag overslaan"
 
-#: foundation_cms/templates/patterns/components/footer.html:8
-#: foundation_cms/templates/patterns/components/primary_nav.html:22
+#: foundation_cms/templates/patterns/components/footer.html:8 foundation_cms/templates/patterns/components/primary_nav.html:22
 msgid "Mozilla Foundation Logo"
 msgstr "Mozilla Foundation-logo"
 
@@ -271,18 +257,21 @@ msgstr "Juridisch"
 msgid "Participation guidelines"
 msgstr "Richtlijnen voor deelname"
 
-#: foundation_cms/templates/patterns/components/footer.html:35
-#: foundation_cms/templates/patterns/components/primary_nav.html:59
+#: foundation_cms/templates/patterns/components/footer.html:35 foundation_cms/templates/patterns/components/primary_nav.html:59
 msgid "Donate"
 msgstr "Doneren"
 
 #: foundation_cms/templates/patterns/components/footer.html:43
 #, python-format
-msgid "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
-msgstr "Mozilla Foundation is een wereldwijde non-profitorganisatie en moedermaatschappij van de <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. De meeste inhoud is beschikbaar onder een <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons-licentie</a>."
+msgid ""
+"Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla "
+"Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
+msgstr ""
+"Mozilla Foundation is een wereldwijde non-profitorganisatie en moedermaatschappij van de <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-"
+"footer-ns__link--legal\">Mozilla Corporation</a>. De meeste inhoud is beschikbaar onder een <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative "
+"Commons-licentie</a>."
 
-#: foundation_cms/templates/patterns/components/language_switcher.html:13
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:43
+#: foundation_cms/templates/patterns/components/language_switcher.html:13 foundation_cms/templates/patterns/components/newsletter_signup_form.html:43
 msgid "Language"
 msgstr "Taal"
 
@@ -295,8 +284,7 @@ msgstr "<span id=\"result-count\">%(items_length)s</span> resultaten getoond voo
 msgid "Something went wrong and your signup wasn't completed. Please try again later."
 msgstr "Er is iets misgegaan, en uw registratie is niet voltooid. Probeer het later opnieuw."
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:31
-#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:31 foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
 msgid "Please enter a valid email address."
 msgstr "Voer een geldig e-mailadres in."
 
@@ -313,8 +301,7 @@ msgstr "Ik stem in met hoe Mozilla met mijn gegevens omgaat, zoals uitgelegd in 
 msgid "Please check this box if you want to proceed."
 msgstr "Vink dit aan als u wilt doorgaan."
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:71
-#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:71 foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
 msgid "Loading..."
 msgstr "Laden…"
 
@@ -323,8 +310,12 @@ msgid "Thank you!"
 msgstr "Bedankt!"
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:91
-msgid "If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and confirm your subscription</strong>."
-msgstr "Als u uw aanmelding voor een Mozilla Foundation-gerelateerd e-mailabonnement nog niet eerder hebt bevestigd, dient u dit mogelijk nu te doen. <strong>Controleer uw Postvak IN of uw spamfilter op een e-mailbericht van ons om te klikken en uw inschrijving te bevestigen</strong>."
+msgid ""
+"If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to "
+"click and confirm your subscription</strong>."
+msgstr ""
+"Als u uw aanmelding voor een Mozilla Foundation-gerelateerd e-mailabonnement nog niet eerder hebt bevestigd, dient u dit mogelijk nu te doen. <strong>Controleer uw Postvak IN of uw spamfilter op een"
+" e-mailbericht van ons om te klikken en uw inschrijving te bevestigen</strong>."
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:100
 msgid "Newsletter signup success image"
@@ -458,11 +449,3 @@ msgstr "Meer verhalen"
 #: foundation_cms/templates/patterns/pages/nothing_personal/product_review_page.html:45
 msgid "More Reviews"
 msgstr "Meer beoordelingen"
-
-#, python-format
-#~ msgid "%(privacy_notice)s"
-#~ msgstr "%(privacy_notice)s"
-
-#, python-format
-#~ msgid "I’m okay with Mozilla handling my info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>."
-#~ msgstr "Ik ga akkoord met het gebruik van mijn gegevens door Mozilla, zoals uitgelegd in deze <a href=\"%(link)s\" target=\"_blank\">privacyverklaring</a>."
