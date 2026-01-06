@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-27 10:29+0000\n"
+"POT-Creation-Date: 2026-01-06 14:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,45 +18,50 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:14
-msgid "IMPORTANT"
+#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:45
+msgid "Keep Contributing"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:16
-#, python-format
-msgid "For your signature to be counted, you have to confirm it. Click on the email we just sent to %(email)s to confirm your signature."
-msgstr ""
-
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:18
-msgid "For your signature to be counted, you have to confirm it. Click on the email we just sent to confirm your signature."
-msgstr ""
-
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:50
-msgid "* Indicates a required field"
-msgstr ""
-
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:82
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/share.html:11
 msgid "No, I will share instead"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:94
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:146
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/skip.html:11
 msgid "Sorry, not right now"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:113
-msgid "Facebook"
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/confirmation_notice_banner.html:8
+msgid "IMPORTANT"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:121
-msgid "Bluesky"
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/confirmation_notice_banner.html:10
+#, python-format
+msgid "Please click on the email we just sent to %(email)s to confirm your newsletter subscription."
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:125
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/confirmation_notice_banner.html:12
+msgid "Please click on the email we just sent to confirm your newsletter subscription."
+msgstr ""
+
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/01_start.html:14
+msgid "* Indicates a required field"
+msgstr ""
+
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:23
+#: foundation_cms/templates/patterns/components/share_container.html:21
+#: foundation_cms/templates/patterns/components/share_container.html:22
+msgid "Copy Link"
+msgstr ""
+
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:32
+msgid "Twitter"
+msgstr ""
+
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:36
 msgid "Check out this petition:"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:128
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:40
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:33
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:26
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:27
@@ -64,14 +69,12 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:134
-#: foundation_cms/templates/patterns/components/share_container.html:21
-#: foundation_cms/templates/patterns/components/share_container.html:22
-msgid "Copy Link"
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:49
+msgid "Facebook"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/campaign_page.html:171
-msgid "Keep Contributing"
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/step_indicator/step_indicator_item.html:8
+msgid "Completed"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:27
@@ -215,6 +218,13 @@ msgstr ""
 msgid "Back to top"
 msgstr ""
 
+#: foundation_cms/templates/patterns/components/buttons/btn_close.html:6
+#: foundation_cms/templates/patterns/components/buttons/btn_close.html:9
+#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6
+#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
+msgid "Close"
+msgstr ""
+
 #: foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:4
 #, python-format
 msgid "Play %(label)s video"
@@ -222,11 +232,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:9
 msgid "Play video"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6
-#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
-msgid "Close"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/donate_banner/skip_button.html:3
@@ -341,7 +346,7 @@ msgstr ""
 msgid "IN THIS REVIEW"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/home_page/featured_items.html:44
+#: foundation_cms/templates/patterns/components/nothing_personal/home_page/featured_items.html:42
 #, python-format
 msgid "by %(author)s"
 msgstr ""
