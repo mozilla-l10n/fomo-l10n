@@ -6,8 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-21 17:02+0000\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,8 +21,7 @@ msgstr "Seite nicht gefunden"
 msgid "I need"
 msgstr "Ich benötige"
 
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:77
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:125
+#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:77 foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:125
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:37
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:73
 msgid "Please select..."
@@ -75,28 +72,34 @@ msgid "Help with something else"
 msgstr "Helfen Sie bei etwas anderem"
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:91
-msgid "We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single European Payment Area (SEPA) transfer."
-msgstr "Wir danken Ihnen für Ihre großzügige Unterstützung und freuen uns, Ihnen jetzt eine einfachere Möglichkeit bieten zu können, per Online-Überweisung zu spenden. Wir können Spenden per Lastschrift in Euro per Überweisung über die Single European Payment Area (SEPA) entgegennehmen."
+msgid ""
+"We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single "
+"European Payment Area (SEPA) transfer."
+msgstr ""
+"Wir danken Ihnen für Ihre großzügige Unterstützung und freuen uns, Ihnen jetzt eine einfachere Möglichkeit bieten zu können, per Online-Überweisung zu spenden. Wir können Spenden per Lastschrift in "
+"Euro per Überweisung über die Single European Payment Area (SEPA) entgegennehmen."
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:97
 msgid "Make your donation online now"
 msgstr "Spenden Sie jetzt online"
 
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:97
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:105
+#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:97 foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:105
 msgid "Still have questions? Contact us by submitting a case."
 msgstr "Haben Sie immer noch Fragen? Kontaktieren Sie uns, indem Sie das Formular ausfüllen."
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:99
-msgid "Access your donation account settings using the '<b>Manage My Donation</b>' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge date. You can also cancel your recurring donation plan."
-msgstr "Greifen Sie über die Schaltfläche „<b>Meine Spende verwalten</b>“ in Ihrer letzten Spendenbestätigungs-E-Mail auf Ihre Spendenkontoeinstellungen zu. Dort können Sie Betrag, Häufigkeit, Zahlungsmethode und Datum der Abbuchung ändern. Sie können Ihren Plan für regelmäßige Spenden auch stornieren."
+msgid ""
+"Access your donation account settings using the '<b>Manage My Donation</b>' button on your recent donation confirmation email. There you can change the amount, frequency, payment method and charge "
+"date. You can also cancel your recurring donation plan."
+msgstr ""
+"Greifen Sie über die Schaltfläche „<b>Meine Spende verwalten</b>“ in Ihrer letzten Spendenbestätigungs-E-Mail auf Ihre Spendenkontoeinstellungen zu. Dort können Sie Betrag, Häufigkeit, "
+"Zahlungsmethode und Datum der Abbuchung ändern. Sie können Ihren Plan für regelmäßige Spenden auch stornieren."
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:107
 msgid "Any other details that might help"
 msgstr "Weitere Details, die helfen könnten"
 
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:110
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:111
+#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:110 foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:111
 msgid "Add a screenshot to help us with your request (optional)"
 msgstr "Fügen Sie einen Screenshot hinzu, um uns bei Ihrer Anfrage zu helfen (optional)"
 
@@ -108,20 +111,19 @@ msgstr "Nur JPG-, PNG- und BMP-Dateien"
 msgid "Name"
 msgstr "Name"
 
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:119
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:33
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:69
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:51
+#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:119 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:33
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:69 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:51
 msgid "Email"
 msgstr "E-Mail-Adresse"
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:121
 #, python-format
 msgid "Mozilla will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(link)s\" target=\"_blank\">privacy policy</a> for further information."
-msgstr "Mozilla verwendet Ihre übermittelten Daten nur, um mit Ihnen über Ihre Anfrage zu kommunizieren. Weitere Informationen finden Sie in unserer <a href=\"%(link)s\" target=\"_blank\">Datenschutzerklärung</a>."
+msgstr ""
+"Mozilla verwendet Ihre übermittelten Daten nur, um mit Ihnen über Ihre Anfrage zu kommunizieren. Weitere Informationen finden Sie in unserer <a href=\"%(link)s\" "
+"target=\"_blank\">Datenschutzerklärung</a>."
 
-#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:125
-#: foundation_cms/legacy_apps/templates/fragments/language_switcher.html:9
+#: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:125 foundation_cms/legacy_apps/templates/fragments/language_switcher.html:9
 msgid "Language"
 msgstr "Sprache"
 
@@ -171,8 +173,12 @@ msgstr "Absenden"
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/fundraise_up_disclaimer.html:4
 #, python-format
-msgid "Mozilla is committed to your privacy; please read our <a href=\"%(privacy_url)s\">privacy policy here</a>. Your payment details will be processed by <a href=\"%(stripe_url)s\">Stripe</a>, or <a href=\"%(paypal_url)s\">PayPal</a>, and a record of your donation will be stored by Mozilla."
-msgstr "Ihre Privatsphäre ist Mozilla sehr wichtig, bitte lesen Sie <a href=\"%(privacy_url)s\">hier unsere Datenschutzerklärung</a>. Ihre Zahlungsdaten werden von <a href=\"%(stripe_url)s\">Stripe</a> oder <a href=\"%(paypal_url)s\">PayPal</a> verarbeitet und Mozilla protokolliert Ihre Spende."
+msgid ""
+"Mozilla is committed to your privacy; please read our <a href=\"%(privacy_url)s\">privacy policy here</a>. Your payment details will be processed by <a href=\"%(stripe_url)s\">Stripe</a>, or <a "
+"href=\"%(paypal_url)s\">PayPal</a>, and a record of your donation will be stored by Mozilla."
+msgstr ""
+"Ihre Privatsphäre ist Mozilla sehr wichtig, bitte lesen Sie <a href=\"%(privacy_url)s\">hier unsere Datenschutzerklärung</a>. Ihre Zahlungsdaten werden von <a href=\"%(stripe_url)s\">Stripe</a> oder"
+" <a href=\"%(paypal_url)s\">PayPal</a> verarbeitet und Mozilla protokolliert Ihre Spende."
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/fundraise_up_disclaimer.html:9
 #, python-format
@@ -191,18 +197,25 @@ msgstr "<b>Möchten Sie uns bezüglich Ihrer Spende erreichen?</b> <a href=\"%(h
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/fundraise_up_disclaimer.html:24
 #, python-format
-msgid "Contributions go to the <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted by law."
-msgstr "Spenden gehen an die <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, eine Organisation nach 501(c)(3) mit Sitz in San Francisco, Kalifornien, die sie nach eigenem Ermessen für wohltätige Zwecke verwendet. Sie sind in den USA in größtmöglichen gesetzmäßigem Umfang steuerlich absetzbar."
+msgid ""
+"Contributions go to the <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. "
+"They are tax-deductible in the U.S. to the fullest extent permitted by law."
+msgstr ""
+"Spenden gehen an die <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, eine Organisation nach 501(c)(3) mit Sitz in San Francisco, Kalifornien, die sie nach eigenem Ermessen für wohltätige Zwecke "
+"verwendet. Sie sind in den USA in größtmöglichen gesetzmäßigem Umfang steuerlich absetzbar."
 
-#: foundation_cms/legacy_apps/templates/donate/fragments/nav.html:3
-#: foundation_cms/legacy_apps/templates/fragments/primary_nav.html:16
+#: foundation_cms/legacy_apps/templates/donate/fragments/nav.html:3 foundation_cms/legacy_apps/templates/fragments/primary_nav.html:16
 msgid "Home"
 msgstr "Startseite"
 
 #: foundation_cms/legacy_apps/templates/donate/pages/help_page.html:18
 #, python-format
-msgid "If you need help with a <a href=\"%(link)s\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you as soon as possible."
-msgstr "Wenn Sie Hilfe bei einer <a href=\"%(link)s\">Spende</a> an die Mozilla Foundation benötigen, wählen Sie bitte den Grund für Ihre Anfrage aus der Auswahlliste aus. Ein Vertreter der Spenderbetreuung wird sich bei Ihnen so bald wie möglich melden."
+msgid ""
+"If you need help with a <a href=\"%(link)s\">donation</a> to the Mozilla Foundation, please select the reason for your inquiry from the drop down and a donor care representative will get back to you"
+" as soon as possible."
+msgstr ""
+"Wenn Sie Hilfe bei einer <a href=\"%(link)s\">Spende</a> an die Mozilla Foundation benötigen, wählen Sie bitte den Grund für Ihre Anfrage aus der Auswahlliste aus. Ein Vertreter der Spenderbetreuung"
+" wird sich bei Ihnen so bald wie möglich melden."
 
 #: foundation_cms/legacy_apps/templates/donate/pages/help_page.html:23
 msgid "Contact Us"
@@ -247,8 +260,7 @@ msgstr "Warum wir „* Datenschutz nicht inbegriffen“ entwickelt haben"
 msgid "Methodology"
 msgstr "Unsere Methodik"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/about_nav.html:15
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:228
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/about_nav.html:15 foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:228
 msgid "Contact us"
 msgstr "Kontakt"
 
@@ -256,13 +268,11 @@ msgstr "Kontakt"
 msgid "Press"
 msgstr "Presse"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/adult_content_badge.html:7
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/adult_content_badge.html:8
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/adult_content_badge.html:7 foundation_cms/legacy_apps/templates/fragments/buyersguide/adult_content_badge.html:8
 msgid "this product has adult content"
 msgstr "Dieses Produkt hat Inhalte für Erwachsene"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/article_listing_compact.html:34
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/article_listing_wide.html:13
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/article_listing_compact.html:34 foundation_cms/legacy_apps/templates/fragments/buyersguide/article_listing_wide.html:13
 msgid "All articles"
 msgstr "Alle Artikel"
 
@@ -296,8 +306,7 @@ msgstr "Vollständige Antwort lesen"
 msgid "People voted:"
 msgstr "Abstimmungsergebnis:"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/category_dropdown.html:20
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/category_dropdown.html:23
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/category_dropdown.html:20 foundation_cms/legacy_apps/templates/fragments/buyersguide/category_dropdown.html:23
 msgid "More Categories"
 msgstr "Weitere Kategorien"
 
@@ -305,8 +314,7 @@ msgstr "Weitere Kategorien"
 msgid "Dive Deeper"
 msgstr "Tauchen Sie tiefer ein"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/dive_deeper.html:22
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/dive_deeper.html:23
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/dive_deeper.html:22 foundation_cms/legacy_apps/templates/fragments/buyersguide/dive_deeper.html:23
 msgid "Show more"
 msgstr "Mehr anzeigen"
 
@@ -314,8 +322,7 @@ msgstr "Mehr anzeigen"
 msgid "Show less"
 msgstr "Weniger anzeigen"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/editorial_content_index_items.html:31
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/index_page.html:69
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/editorial_content_index_items.html:31 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/index_page.html:69
 msgid "Load more results"
 msgstr "Weitere Ergebnisse laden"
 
@@ -345,8 +352,7 @@ msgstr "Gerät:"
 msgid "App:"
 msgstr "App:"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/item.html:21
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/item.html:22
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/item.html:21 foundation_cms/legacy_apps/templates/fragments/buyersguide/item.html:22
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/catalog.html:94
 msgid "*Privacy Not Included with this product"
 msgstr "*Datenschutz nicht inbegriffen bei diesem Produkt"
@@ -374,10 +380,8 @@ msgctxt "Tooltip on menu items"
 msgid "site navigation"
 msgstr "Seitennavigation"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_category_nav.html:9
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_mobile_nav.html:16
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_mobile_nav.html:24
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_mobile_nav.html:26
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_category_nav.html:9 foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_mobile_nav.html:16
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_mobile_nav.html:24 foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_mobile_nav.html:26
 msgid "All Categories"
 msgstr "Alle Kategorien"
 
@@ -393,8 +397,7 @@ msgstr "Alle Produkte durchsuchen"
 msgid "Search All Products"
 msgstr "Alle Produkte durchsuchen"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_nav_links.html:5
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/catalog.html:53
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_nav_links.html:5 foundation_cms/legacy_apps/templates/pages/buyersguide/catalog.html:53
 msgid "Product Reviews"
 msgstr "Produktbewertungen"
 
@@ -402,32 +405,26 @@ msgstr "Produktbewertungen"
 msgid "About"
 msgstr "Über"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_nav_links.html:20
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:50
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_nav_links.html:20 foundation_cms/legacy_apps/templates/fragments/footer.html:50
 #: foundation_cms/legacy_apps/templates/fragments/primary_nav.html:58
 msgid "Donate"
 msgstr "Spenden"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:7
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:8
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/privacy_ding.html:7
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/privacy_ding.html:8
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:7 foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:8
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/privacy_ding.html:7 foundation_cms/legacy_apps/templates/fragments/buyersguide/privacy_ding.html:8
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/catalog.html:94
 msgid "*Privacy Not Included"
 msgstr "*Datenschutz nicht inbegriffen"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:14
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:21
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:14 foundation_cms/legacy_apps/templates/fragments/footer.html:21
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:70
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/blocks/blog_newsletter_signup_block.html:12
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/take_action.html:36
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/signup.html:9
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/take_action.html:36 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/signup.html:9
 msgctxt "Submit button for newsletter signup form"
 msgid "Sign up"
 msgstr "Registrieren"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:15
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:22
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:15 foundation_cms/legacy_apps/templates/fragments/footer.html:22
 msgid "Help shape the future of the web for the public good."
 msgstr "Gestalten Sie mit uns die Zukunft des Webs zum Wohle der Allgemeinheit."
 
@@ -443,8 +440,7 @@ msgstr "Sortieren nach"
 msgid "Sort by creepiness"
 msgstr "Nach Gruseligkeit sortieren"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_sort_dropdown.html:27
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_sort_dropdown.html:54
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_sort_dropdown.html:27 foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_sort_dropdown.html:54
 msgid "Creepiness: Least – Most"
 msgstr "Gruseligkeit: Am wenigsten – am meisten"
 
@@ -468,8 +464,7 @@ msgstr "Alphabetisch (A-Z)"
 msgid "Alphabetical"
 msgstr "Alphabetisch"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/popular_articles.html:3
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/editorial_content_index_page.html:45
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/popular_articles.html:3 foundation_cms/legacy_apps/templates/pages/buyersguide/editorial_content_index_page.html:45
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/editorial_content_index_page.html:70
 msgid "Popular"
 msgstr "Beliebt"
@@ -483,8 +478,7 @@ msgstr "Datenschutz nicht inbegriffen"
 msgid "This section requires attention."
 msgstr "Dieser Abschnitt erfordert Aufmerksamkeit."
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_criterion_primary_info.html:8
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab.html:15
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_criterion_primary_info.html:8 foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab.html:15
 msgctxt "icon description for screen readers"
 msgid "information"
 msgstr "Information"
@@ -615,13 +609,11 @@ msgstr "Gibt das Unternehmen transparent an, wie die KI funktioniert?"
 msgid "Does the user have control over the AI features?"
 msgstr "Hat der Benutzer die Kontrolle über die KI-Funktionen?"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab_header.html:15
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:57
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab_header.html:15 foundation_cms/legacy_apps/templates/fragments/footer.html:57
 msgid "Privacy"
 msgstr "Datenschutz"
 
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab_header.html:17
-#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab_header.html:29
+#: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab_header.html:17 foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab_header.html:29
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/product_tab_header.html:41
 msgctxt "icon description for screen readers"
 msgid "warning"
@@ -674,25 +666,20 @@ msgctxt "String followed by the next page title the user will reach by scrolling
 msgid "Keep Scrolling For"
 msgstr "Scrollen Sie weiter zu"
 
-#: foundation_cms/legacy_apps/templates/fragments/custom_hero_guts.html:54
-#: foundation_cms/legacy_apps/templates/fragments/publication_hero.html:57
+#: foundation_cms/legacy_apps/templates/fragments/custom_hero_guts.html:54 foundation_cms/legacy_apps/templates/fragments/publication_hero.html:57
 msgid "Written by"
 msgstr "Geschrieben von"
 
-#: foundation_cms/legacy_apps/templates/fragments/custom_hero_guts.html:59
-#: foundation_cms/legacy_apps/templates/fragments/profile_names_list.html:5
-#: foundation_cms/legacy_apps/templates/fragments/publication_hero.html:62
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/blocks/article_teaser_block.html:34
+#: foundation_cms/legacy_apps/templates/fragments/custom_hero_guts.html:59 foundation_cms/legacy_apps/templates/fragments/profile_names_list.html:5
+#: foundation_cms/legacy_apps/templates/fragments/publication_hero.html:62 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/blocks/article_teaser_block.html:34
 msgid "and"
 msgstr "und"
 
-#: foundation_cms/legacy_apps/templates/fragments/custom_hero_guts.html:85
-#: foundation_cms/legacy_apps/templates/fragments/publication_hero.html:76
+#: foundation_cms/legacy_apps/templates/fragments/custom_hero_guts.html:85 foundation_cms/legacy_apps/templates/fragments/publication_hero.html:76
 msgid "Download PDF"
 msgstr "PDF herunterladen"
 
-#: foundation_cms/legacy_apps/templates/fragments/donate_banner.html:18
-#: foundation_cms/legacy_apps/templates/fragments/donate_banner.html:19
+#: foundation_cms/legacy_apps/templates/fragments/donate_banner.html:18 foundation_cms/legacy_apps/templates/fragments/donate_banner.html:19
 msgid " Close Banner"
 msgstr "Banner schließen"
 
@@ -704,11 +691,8 @@ msgstr "Tragen Sie sich in unsere E-Mail-Liste <b>Mozilla News</b> ein, um Benac
 msgid "Return to Homepage"
 msgstr "Zurück zur Startseite"
 
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:27
-#: foundation_cms/legacy_apps/templates/fragments/primary_nav.html:41
-#: foundation_cms/legacy_apps/templates/pages/base.html:18
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/base.html:17
-#: foundation_cms/legacy_apps/templates/pattern_library_base.html:12
+#: foundation_cms/legacy_apps/templates/fragments/footer.html:27 foundation_cms/legacy_apps/templates/fragments/primary_nav.html:41 foundation_cms/legacy_apps/templates/pages/base.html:18
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/base.html:17 foundation_cms/legacy_apps/templates/pattern_library_base.html:12
 msgid "Mozilla Foundation"
 msgstr "Mozilla Foundation"
 
@@ -716,15 +700,12 @@ msgstr "Mozilla Foundation"
 msgid "More about us"
 msgstr "Mehr über uns"
 
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:38
-#: foundation_cms/legacy_apps/templates/fragments/share-buttons.html:19
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:48
+#: foundation_cms/legacy_apps/templates/fragments/footer.html:38 foundation_cms/legacy_apps/templates/fragments/share-buttons.html:19
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:6 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:48
 msgid "Twitter"
 msgstr "Twitter"
 
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:39
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
+#: foundation_cms/legacy_apps/templates/fragments/footer.html:39 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:9
 msgid "Instagram"
 msgstr "Instagram"
 
@@ -732,8 +713,7 @@ msgstr "Instagram"
 msgid "Bluesky"
 msgstr "Bluesky"
 
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:41
-#: foundation_cms/legacy_apps/templates/fragments/footer.html:42
+#: foundation_cms/legacy_apps/templates/fragments/footer.html:41 foundation_cms/legacy_apps/templates/fragments/footer.html:42
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:18
 msgid "Linkedin"
 msgstr "LinkedIn"
@@ -769,8 +749,12 @@ msgstr "<a href=\"%(url)s\">Lesen Sie mehr</a> über unsere Implementierung"
 
 #: foundation_cms/legacy_apps/templates/fragments/footer.html:84
 #, python-format
-msgid "Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
-msgstr "Mozilla ist eine weltweite, gemeinnützige Organisation, die sich dafür einsetzt, dass Sie Ihr Online-Erlebnis bestimmen und die Zukunft des Internets im Sinne aller gestaltet wird. Besuchen Sie uns auf <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a> Die meisten Inhalte stehen unter einer <a href=\"%(cc_website_url)s\">Creative-Commons-Lizenz</a>."
+msgid ""
+"Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a "
+"href=\"%(foundation_website_url)s\">%(foundation_website)s</a>. Most content available under a <a href=\"%(cc_website_url)s\">Creative Commons license</a>."
+msgstr ""
+"Mozilla ist eine weltweite, gemeinnützige Organisation, die sich dafür einsetzt, dass Sie Ihr Online-Erlebnis bestimmen und die Zukunft des Internets im Sinne aller gestaltet wird. Besuchen Sie uns "
+"auf <a href=\"%(foundation_website_url)s\">%(foundation_website)s</a> Die meisten Inhalte stehen unter einer <a href=\"%(cc_website_url)s\">Creative-Commons-Lizenz</a>."
 
 #: foundation_cms/legacy_apps/templates/fragments/footer_donate_banner.html:7
 msgid "We all love the Web. Join Mozilla in defending it."
@@ -850,8 +834,7 @@ msgstr "Hauptbild"
 msgid "Share on Facebook"
 msgstr "Auf Facebook teilen"
 
-#: foundation_cms/legacy_apps/templates/fragments/share-buttons.html:12
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:15
+#: foundation_cms/legacy_apps/templates/fragments/share-buttons.html:12 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/mozilla-social-buttons.html:15
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:47
 msgid "Facebook"
 msgstr "Facebook"
@@ -877,13 +860,11 @@ msgstr "URL der Seite in Zwischenablage kopieren"
 msgid "Copy to clipboard"
 msgstr "In Zwischenablage kopieren"
 
-#: foundation_cms/legacy_apps/templates/fragments/share-buttons.html:35
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:52
+#: foundation_cms/legacy_apps/templates/fragments/share-buttons.html:35 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:52
 msgid "Copy"
 msgstr "Kopie"
 
-#: foundation_cms/legacy_apps/templates/pages/article_page.html:29
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/article_page.html:29
+#: foundation_cms/legacy_apps/templates/pages/article_page.html:29 foundation_cms/legacy_apps/templates/pages/buyersguide/article_page.html:29
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/blog_page.html:27
 #, python-format
 msgid "%(title)s by @mozilla"
@@ -912,8 +893,7 @@ msgstr "*Datenschutz nicht inbegriffen | Intelligent und sicher einkaufen | Mozi
 msgid "Privacy & Security Guide | Mozilla Foundation"
 msgstr "Datenschutz- und Sicherheitsleitfaden | Mozilla Foundation"
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/campaign_page.html:66
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/campaign_page.html:66 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/campaign_page.html:75
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
@@ -961,8 +941,7 @@ msgstr "Was könnte passieren, wenn etwas schiefgeht?"
 msgid "Tips to protect yourself"
 msgstr "Tipps zu Ihrem Schutz"
 
-#: foundation_cms/legacy_apps/templates/pages/libraries/authors_index_page.html:22
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/blog_author_index_page.html:41
+#: foundation_cms/legacy_apps/templates/pages/libraries/authors_index_page.html:22 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/blog_author_index_page.html:41
 msgid "No authors found."
 msgstr "Keine Autoren gefunden."
 
@@ -1027,8 +1006,7 @@ msgid_plural "<strong>%(detail_pages_count)s</strong> results"
 msgstr[0] "<strong>%(detail_pages_count)s</strong> Ergebnis"
 msgstr[1] "<strong>%(detail_pages_count)s</strong> Ergebnisse"
 
-#: foundation_cms/legacy_apps/templates/pages/libraries/library_page.html:87
-#: foundation_cms/legacy_apps/wagtailpages/templates/fragments/article_subnav.html:20
+#: foundation_cms/legacy_apps/templates/pages/libraries/library_page.html:87 foundation_cms/legacy_apps/wagtailpages/templates/fragments/article_subnav.html:20
 msgid "Close"
 msgstr "Schließen"
 
@@ -1054,8 +1032,7 @@ msgstr "Neueste Artikel"
 msgid "Contributors"
 msgstr "Mitwirkende"
 
-#: foundation_cms/legacy_apps/templates/pages/libraries/rcc/landing_page.html:9
-#: foundation_cms/legacy_apps/templates/pages/libraries/rcc/landing_page.html:25
+#: foundation_cms/legacy_apps/templates/pages/libraries/rcc/landing_page.html:9 foundation_cms/legacy_apps/templates/pages/libraries/rcc/landing_page.html:25
 msgctxt "Button"
 msgid "Show all"
 msgstr "Alle anzeigen"
@@ -1124,10 +1101,8 @@ msgctxt "Noun, media"
 msgid "Press"
 msgstr "Presse"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:218
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:232
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:246
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:260
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:218 foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:232
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:246 foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:260
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included | Mozilla Foundation"
 msgstr "*Datenschutz nicht inbegriffen | Mozilla Foundation"
@@ -1140,57 +1115,40 @@ msgstr "Unsere Methodik"
 msgid "Contest terms and conditions"
 msgstr "Wettbewerbsbedingungen"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:125
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:123
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:148
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:193
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:238
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:251
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:125 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:123
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:148 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:193
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:238 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:251
 #: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:389
 msgid "Not creepy"
 msgstr "Nicht unheimlich"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:126
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:124
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:149
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:194
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:265
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:390
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:126 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:124
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:149 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:194
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:265 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:390
 msgid "A little creepy"
 msgstr "Ein bisschen unheimlich"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:127
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:125
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:150
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:159
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:195
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:204
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:280
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:391
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:127 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:125
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:150 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:159
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:195 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:204
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:280 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:391
 msgid "Somewhat creepy"
 msgstr "Ziemlich unheimlich"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:128
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:126
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:151
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:196
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:294
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:392
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:128 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:126
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:151 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:196
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:294 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:392
 msgid "Very creepy"
 msgstr "Sehr unheimlich"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:129
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:127
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:152
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:197
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:307
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:319
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:129 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:127
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:152 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:197
+#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:307 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:319
 #: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:393
 msgid "Super creepy"
 msgstr "Extrem unheimlich"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:241
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:226
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:241 foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:226
 msgid "No votes"
 msgstr "Keine Stimmen"
 
@@ -1218,8 +1176,7 @@ msgstr "Alphabetisch (A-Z)"
 msgid "Alphabetical (Z-A)"
 msgstr "Alphabetisch (Z-A)"
 
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/libraries/rcc/forms.py:40
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/libraries/research_hub/forms.py:51
+#: foundation_cms/legacy_apps/wagtailpages/pagemodels/libraries/rcc/forms.py:40 foundation_cms/legacy_apps/wagtailpages/pagemodels/libraries/research_hub/forms.py:51
 msgctxt "Filter form field label"
 msgid "Topics"
 msgstr "Themen"
@@ -1259,13 +1216,11 @@ msgctxt "Filter form field label"
 msgid "Regions"
 msgstr "Regionen"
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/fragments/article_subnav.html:19
-#: foundation_cms/legacy_apps/wagtailpages/templates/sticky_dropdown.html:95
+#: foundation_cms/legacy_apps/wagtailpages/templates/fragments/article_subnav.html:19 foundation_cms/legacy_apps/wagtailpages/templates/sticky_dropdown.html:95
 msgid "Summary"
 msgstr "Zusammenfassung"
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/fragments/article_subnav.html:20
-#: foundation_cms/legacy_apps/wagtailpages/templates/sticky_dropdown.html:21
+#: foundation_cms/legacy_apps/wagtailpages/templates/fragments/article_subnav.html:20 foundation_cms/legacy_apps/wagtailpages/templates/sticky_dropdown.html:21
 msgid "Table of Contents"
 msgstr "Inhaltsverzeichnis"
 
@@ -1384,7 +1339,9 @@ msgstr "Abonnieren Sie unseren Newsletter"
 
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/newsletter-signup-box.html:10
 msgid "Help shape the future of the web for the public good. Join our Mozilla News email list to get action alerts & internet tips right to your inbox."
-msgstr "Helfen Sie mit, die Zukunft des Internets zum Wohle der Allgemeinheit zu gestalten. Abonnieren Sie unseren Mozilla-E-Mail-Newsletter um Benachrichtigungen über Aktionen und Internettipps direkt in Ihren Posteingang zu erhalten."
+msgstr ""
+"Helfen Sie mit, die Zukunft des Internets zum Wohle der Allgemeinheit zu gestalten. Abonnieren Sie unseren Mozilla-E-Mail-Newsletter um Benachrichtigungen über Aktionen und Internettipps direkt in "
+"Ihren Posteingang zu erhalten."
 
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/related_posts.html:8
 msgid "Related content"
@@ -1427,8 +1384,7 @@ msgstr "für"
 msgid "clear filters"
 msgstr "Filter löschen"
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37
-#: foundation_cms/legacy_apps/wagtailpages/utils.py:107
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/static/initiatives_page.html:37 foundation_cms/legacy_apps/wagtailpages/utils.py:107
 msgid "Overview"
 msgstr "Übersicht"
 
@@ -1456,8 +1412,7 @@ msgstr "MozFest"
 msgid "Your phone number"
 msgstr "Ihre Telefonnummer"
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:14
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:15
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:14 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:15
 msgid "Please enter a ten digit US phone number"
 msgstr "Bitte geben Sie eine zehnstellige US-Telefonnummer ein"
 
@@ -1465,8 +1420,7 @@ msgstr "Bitte geben Sie eine zehnstellige US-Telefonnummer ein"
 msgid "Your zipcode"
 msgstr "Ihre Postleitzahl"
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:18
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:19
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:18 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:19
 msgid "Please enter a five digit US zip code"
 msgstr "Bitte geben Sie eine fünfstellige US-Postleitzahl ein"
 
@@ -1494,18 +1448,15 @@ msgstr "Leider haben Sie haben die Höchstzahl an Anrufen pro Stunde erreicht. B
 msgid " * indicates a required field "
 msgstr "* Pflichtfeld"
 
-#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:11
-#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:27
+#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:11 foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:27
 msgid "No"
 msgstr "Nein"
 
-#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:13
-#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:25
+#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:13 foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:25
 msgid "Yes"
 msgstr "Ja"
 
-#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:14
-#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:29
+#: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:14 foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:29
 msgid "Unknown"
 msgstr "Unbekannt"
 
@@ -1536,6 +1487,3 @@ msgstr "Verbesserungsbedürftig"
 msgctxt "This is a rating for a company's history concerning privacy"
 msgid "Bad"
 msgstr "Mangelhaft"
-
-#~ msgid "Got a comment? Let us hear it."
-#~ msgstr "Möchten Sie einen Kommentar loswerden? Schreiben Sie uns."
