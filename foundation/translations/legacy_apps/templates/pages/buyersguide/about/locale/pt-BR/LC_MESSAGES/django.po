@@ -6,8 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 10:06+0000\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +24,9 @@ msgstr "Para esclarecer dúvidas sobre o guia ou enviar comentários construtivo
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/contact.html:20
 msgid "We don’t want to miss any products that might be important to you. Tell us what connected products you want reviewed in our holiday buyer’s guide and we’ll do our best to include them."
-msgstr "Não queremos deixar de fora nenhum produto que possa ser importante para você. Indique quais produtos conectados você deseja que sejam avaliados no nosso guia de compras de fim de ano e faremos o possível para incluí-los."
+msgstr ""
+"Não queremos deixar de fora nenhum produto que possa ser importante para você. Indique quais produtos conectados você deseja que sejam avaliados no nosso guia de compras de fim de ano e faremos o "
+"possível para incluí-los."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:11
 msgid "How to Use This Guide"
@@ -41,8 +41,12 @@ msgid "Tip:"
 msgstr "Dica:"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:22
-msgid "If you don’t find the product you are looking for, search to see if we reviewed any other products made by that company. Often, criteria will match from one product to another from the same company. We simply don’t have time to review all the connected products out there."
-msgstr "Se você não encontrar o produto que deseja, verifique se avaliamos algum outro produto da mesma empresa. Muitas vezes, os critérios de um produto correspondem aos de outro da mesma empresa. É que nós simplesmente não temos tempo para avaliar todos os produtos conectados existentes."
+msgid ""
+"If you don’t find the product you are looking for, search to see if we reviewed any other products made by that company. Often, criteria will match from one product to another from the same company."
+" We simply don’t have time to review all the connected products out there."
+msgstr ""
+"Se você não encontrar o produto que deseja, verifique se avaliamos algum outro produto da mesma empresa. Muitas vezes, os critérios de um produto correspondem aos de outro da mesma empresa. É que "
+"nós simplesmente não temos tempo para avaliar todos os produtos conectados existentes."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:32
 msgid "*Privacy Not Included Warning Label"
@@ -50,51 +54,91 @@ msgstr "Selo de alerta de *Privacidade não incluída"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:34
 #, python-format
-msgid "Our <em>*Privacy Not Included</em> buyer’s guide comes with <em>*Privacy Not Included</em> warning labels on products we think consumers should think twice about before buying. It’s no small thing to assign such a label to a product, so we set ourselves some <a href=\"%(url)s\">strict standards</a>. If we can’t confirm a product meets our Minimum Security Standards, it automatically earned the <em>*Privacy Not Included</em> label, as we feel those standards are the minimum a product should meet to be on the market. We also look at how a company uses the data the product collects on you, how you can control the data the company collects, and what the company’s known track record is over the past two years for protecting their users’ data. How a company performs on these criteria determines if we assign them the warning label. You will see little <span class='mini-warning-ding-icon'>mini-warnings</span> in our review section of the guide to help you understand what our concerns are."
-msgstr "Nosso Guia do comprador <em>*Privacidade não incluída</em> traz selos de advertência <em>*Privacidade não incluída</em> nos produtos que os consumidores devem pensar duas vezes antes de comprar, segundo a nossa avaliação. Atribuir tal selo a um produto não é algo simples, por isso, definimos <a href=\"%(url)s\">padrões rigorosos</a>. Se não pudermos confirmar que um produto atende aos nossos Padrões mínimos de segurança, ele automaticamente recebe o selo <em>*Privacidade não incluída</em>, pois consideramos que esses padrões são o mínimo que um produto deve atender para estar no mercado. Também analisamos como uma empresa utiliza os dados que o produto coleta sobre você, como você pode controlar esses dados coletados e qual é o histórico de proteção de dados da empresa conhecido nos últimos dois anos. A forma como uma empresa se comporta segundo esses critérios determina se atribuímos a ela o selo de advertência. Você verá pequenas <span class='mini-warning-ding-icon'>notificações</span> em nossa seção de avaliação do guia que vão ajudar você a entender quais são nossas preocupações."
+msgid ""
+"Our <em>*Privacy Not Included</em> buyer’s guide comes with <em>*Privacy Not Included</em> warning labels on products we think consumers should think twice about before buying. It’s no small thing "
+"to assign such a label to a product, so we set ourselves some <a href=\"%(url)s\">strict standards</a>. If we can’t confirm a product meets our Minimum Security Standards, it automatically earned "
+"the <em>*Privacy Not Included</em> label, as we feel those standards are the minimum a product should meet to be on the market. We also look at how a company uses the data the product collects on "
+"you, how you can control the data the company collects, and what the company’s known track record is over the past two years for protecting their users’ data. How a company performs on these "
+"criteria determines if we assign them the warning label. You will see little <span class='mini-warning-ding-icon'>mini-warnings</span> in our review section of the guide to help you understand what "
+"our concerns are."
+msgstr ""
+"Nosso Guia do comprador <em>*Privacidade não incluída</em> traz selos de advertência <em>*Privacidade não incluída</em> nos produtos que os consumidores devem pensar duas vezes antes de comprar, "
+"segundo a nossa avaliação. Atribuir tal selo a um produto não é algo simples, por isso, definimos <a href=\"%(url)s\">padrões rigorosos</a>. Se não pudermos confirmar que um produto atende aos "
+"nossos Padrões mínimos de segurança, ele automaticamente recebe o selo <em>*Privacidade não incluída</em>, pois consideramos que esses padrões são o mínimo que um produto deve atender para estar no "
+"mercado. Também analisamos como uma empresa utiliza os dados que o produto coleta sobre você, como você pode controlar esses dados coletados e qual é o histórico de proteção de dados da empresa "
+"conhecido nos últimos dois anos. A forma como uma empresa se comporta segundo esses critérios determina se atribuímos a ela o selo de advertência. Você verá pequenas <span class='mini-warning-ding-"
+"icon'>notificações</span> em nossa seção de avaliação do guia que vão ajudar você a entender quais são nossas preocupações."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:52
 msgid "What could happen if something goes wrong"
 msgstr "O que pode acontecer se algo der errado"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:54
-msgid "It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. We try to identify what risks and concerns users should have about the product. We often lay out a potential worst-case scenario--in some cases for fun and in some cases based on things that have already happened."
-msgstr "É provável que nada de ruim aconteça com a maioria dos produtos deste guia. Entretanto, também é bom pensar sobre o que <em>poderia</em> acontecer se algo desse errado. Tentamos identificar os riscos e preocupações que os usuários devem ter sobre o produto. Muitas vezes, traçamos o pior cenário possível – em alguns casos por diversão e, em outros, com base em coisas que já aconteceram."
+msgid ""
+"It’s likely nothing bad will happen with most of the products in this guide. However, it’s also good to think through what <em>could</em> happen if something goes wrong. We try to identify what "
+"risks and concerns users should have about the product. We often lay out a potential worst-case scenario--in some cases for fun and in some cases based on things that have already happened."
+msgstr ""
+"É provável que nada de ruim aconteça com a maioria dos produtos deste guia. Entretanto, também é bom pensar sobre o que <em>poderia</em> acontecer se algo desse errado. Tentamos identificar os "
+"riscos e preocupações que os usuários devem ter sobre o produto. Muitas vezes, traçamos o pior cenário possível – em alguns casos por diversão e, em outros, com base em coisas que já aconteceram."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:63
 msgid "Tips to Protect Yourself"
 msgstr "Dicas para se proteger"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:65
-msgid "While we don’t think all the responsibility should be on consumers to protect themselves when they buy a connected product, the reality is, the more you can do as a consumer, the better. We lay out a few tips of things you can do to be a little safer, whether it be to set up two-factor authentication, lock down your privacy settings, or remember to opt-out of data sharing. And we try to link to places to help you understand how to do this too."
-msgstr "Embora a gente ache que o consumidor não deve assumir toda a responsabilidade pela sua proteção ao comprar um produto conectado, a realidade é que, quanto mais você puder fazer como consumidor, melhor. Apresentamos algumas dicas para você ficar um pouco mais seguro, seja configurando uma autenticação de dois fatores, bloqueando suas configurações de privacidade ou lembrando-se de optar por não compartilhar dados. E também procuramos colocar um link para lugares que ajudem você a entender como fazer isso."
+msgid ""
+"While we don’t think all the responsibility should be on consumers to protect themselves when they buy a connected product, the reality is, the more you can do as a consumer, the better. We lay out "
+"a few tips of things you can do to be a little safer, whether it be to set up two-factor authentication, lock down your privacy settings, or remember to opt-out of data sharing. And we try to link "
+"to places to help you understand how to do this too."
+msgstr ""
+"Embora a gente ache que o consumidor não deve assumir toda a responsabilidade pela sua proteção ao comprar um produto conectado, a realidade é que, quanto mais você puder fazer como consumidor, "
+"melhor. Apresentamos algumas dicas para você ficar um pouco mais seguro, seja configurando uma autenticação de dois fatores, bloqueando suas configurações de privacidade ou lembrando-se de optar por"
+" não compartilhar dados. E também procuramos colocar um link para lugares que ajudem você a entender como fazer isso."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:74
 msgid "Time Spent on Research"
 msgstr "Tempo investido em pesquisa"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:76
-msgid "We approach our research for <em>*Privacy Not Included</em> from the viewpoint of you, the consumer. We don’t purchase the products and test them in a lab. Consumers can’t do that. Instead, we look at all the publicly available information we can find to try and understand the privacy and security concerns you should be aware of. We want to help you understand how long this takes us, in part so you know we’ve taken the time to get things right. But also to help you understand how ridiculous it is that consumers are expected to spend so much time researching connected products before they buy them just to hopefully protect their privacy. It shouldn’t be like this. Companies should do better by building privacy by design into their products."
-msgstr "A nossa pesquisa para <em>*Privacidade não incluída</em> foi feita sob o ponto de vista do consumidor. Nós não compramos os produtos e os testamos em um laboratório, afinal os consumidores não conseguem fazer isso. Em vez disso, analisamos todas as informações disponíveis publicamente para compreender as preocupações com privacidade e segurança das quais você deve estar ciente. Queremos ajudar você a entender quanto tempo isso leva, em parte para que você saiba que dedicamos o tempo necessário para fazer as coisas direito. Mas também para ajudar você a entender como é ridículo esperar que os consumidores passem tanto tempo pesquisando produtos conectados antes de comprá-los apenas com o objetivo de, com sorte, proteger sua privacidade. Não deveria ser assim. As empresas deveriam agir melhor, incorporando a privacidade nos seus produtos desde o projeto."
+msgid ""
+"We approach our research for <em>*Privacy Not Included</em> from the viewpoint of you, the consumer. We don’t purchase the products and test them in a lab. Consumers can’t do that. Instead, we look "
+"at all the publicly available information we can find to try and understand the privacy and security concerns you should be aware of. We want to help you understand how long this takes us, in part "
+"so you know we’ve taken the time to get things right. But also to help you understand how ridiculous it is that consumers are expected to spend so much time researching connected products before "
+"they buy them just to hopefully protect their privacy. It shouldn’t be like this. Companies should do better by building privacy by design into their products."
+msgstr ""
+"A nossa pesquisa para <em>*Privacidade não incluída</em> foi feita sob o ponto de vista do consumidor. Nós não compramos os produtos e os testamos em um laboratório, afinal os consumidores não "
+"conseguem fazer isso. Em vez disso, analisamos todas as informações disponíveis publicamente para compreender as preocupações com privacidade e segurança das quais você deve estar ciente. Queremos "
+"ajudar você a entender quanto tempo isso leva, em parte para que você saiba que dedicamos o tempo necessário para fazer as coisas direito. Mas também para ajudar você a entender como é ridículo "
+"esperar que os consumidores passem tanto tempo pesquisando produtos conectados antes de comprá-los apenas com o objetivo de, com sorte, proteger sua privacidade. Não deveria ser assim. As empresas "
+"deveriam agir melhor, incorporando a privacidade nos seus produtos desde o projeto."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:88
 msgid "Mozilla Says"
 msgstr "Mozilla diz"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:90
-msgid "If a product receives our <em>*Privacy Not Included</em> warning label, we give it a Thumbs Down. If we designate a product as Best Of, it receives a Thumbs Up. If a product receives neither, we give it a Thumbs Sideways."
-msgstr "Se um produto recebe nosso selo de advertência <em>*Privacidade não incluída</em>, ele recebe um polegar para baixo. Se qualificamos um produto como Melhor de, ele recebe um polegar para cima. Se um produto não for qualificado em nenhuma das duas categorias, ele recebe um polegar para o lado."
+msgid ""
+"If a product receives our <em>*Privacy Not Included</em> warning label, we give it a Thumbs Down. If we designate a product as Best Of, it receives a Thumbs Up. If a product receives neither, we "
+"give it a Thumbs Sideways."
+msgstr ""
+"Se um produto recebe nosso selo de advertência <em>*Privacidade não incluída</em>, ele recebe um polegar para baixo. Se qualificamos um produto como Melhor de, ele recebe um polegar para cima. Se um"
+" produto não for qualificado em nenhuma das duas categorias, ele recebe um polegar para o lado."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:97
 msgid "Creep-O-Meter"
 msgstr "Assustadômetro"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:99
-msgid "Our Creep-O-Meter is a reader-generated rating - and an opportunity for you to share your opinion. Read the review of the product, then rate how creepy or not creepy you think the product is. Click vote to see how your opinion stacks up with others. It helps other consumers understand the risks of a product and shows companies how creepy customers find their products. Look at the top of the page to see the “people voted” rating of each product in the guide."
-msgstr "Nosso medidor Assustadômetro é uma classificação gerada pelos leitores. É também uma oportunidade para que você compartilhe sua opinião. Leia a avaliação do produto, depois classifique o quão assustador ou não você acha que o produto é. Clique em votar para ver como sua opinião se compara com outras. Esse medidor ajuda outros consumidores a entenderem os riscos de um produto e mostra às empresas o quanto os clientes acham seus produtos assustadores. Veja no topo da página a classificação de “pessoas que votaram” de cada produto no guia."
+msgid ""
+"Our Creep-O-Meter is a reader-generated rating - and an opportunity for you to share your opinion. Read the review of the product, then rate how creepy or not creepy you think the product is. Click "
+"vote to see how your opinion stacks up with others. It helps other consumers understand the risks of a product and shows companies how creepy customers find their products. Look at the top of the "
+"page to see the “people voted” rating of each product in the guide."
+msgstr ""
+"Nosso medidor Assustadômetro é uma classificação gerada pelos leitores. É também uma oportunidade para que você compartilhe sua opinião. Leia a avaliação do produto, depois classifique o quão "
+"assustador ou não você acha que o produto é. Clique em votar para ver como sua opinião se compara com outras. Esse medidor ajuda outros consumidores a entenderem os riscos de um produto e mostra às "
+"empresas o quanto os clientes acham seus produtos assustadores. Veja no topo da página a classificação de “pessoas que votaram” de cada produto no guia."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:112
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:173
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:112 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:173
 msgid "Privacy"
 msgstr "Privacidade"
 
@@ -103,104 +147,164 @@ msgid "Can it snoop on me?"
 msgstr "Ele pode me espionar?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:117
-msgid "Just because a device has a camera, microphone, or tracks location doesn’t mean it <em>will</em> snoop on you. It simply means it <em>could</em> and you should be aware of that. Also, many connected devices are controlled by apps on your phone. The apps often ask to use the phone’s camera, microphone or location tracking. Keep an eye on that, as some of the permissions the apps ask for might surprise you."
-msgstr "Só porque um dispositivo tem uma câmera ou um microfone ou monitora localização não significa que ele <em>vai</em> espionar você. Simplesmente significa que ele <em>poderia</em> e que você deve estar ciente disso. Além disso, muitos dispositivos conectados são controlados por aplicativos no seu celular. Os aplicativos frequentemente pedem para usar a câmera, o microfone ou monitorar a localização do celular. Fique atento a isso, pois algumas das permissões que os aplicativos pedem podem ser surpreendentes."
+msgid ""
+"Just because a device has a camera, microphone, or tracks location doesn’t mean it <em>will</em> snoop on you. It simply means it <em>could</em> and you should be aware of that. Also, many connected"
+" devices are controlled by apps on your phone. The apps often ask to use the phone’s camera, microphone or location tracking. Keep an eye on that, as some of the permissions the apps ask for might "
+"surprise you."
+msgstr ""
+"Só porque um dispositivo tem uma câmera ou um microfone ou monitora localização não significa que ele <em>vai</em> espionar você. Simplesmente significa que ele <em>poderia</em> e que você deve "
+"estar ciente disso. Além disso, muitos dispositivos conectados são controlados por aplicativos no seu celular. Os aplicativos frequentemente pedem para usar a câmera, o microfone ou monitorar a "
+"localização do celular. Fique atento a isso, pois algumas das permissões que os aplicativos pedem podem ser surpreendentes."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:127
 msgid "What is required to sign up?"
 msgstr "O que é necessário para se inscrever?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:129
-msgid "To use a product do you need to give up your email address, your phone number, or sign in through a third party such as a social media account like Facebook? This is good to know ahead of time so you’re aware of what you’ll need to use the product."
-msgstr "Para usar um produto, você precisa fornecer seu e-mail, seu número de telefone ou fazer login por meio de um terceiro, como uma conta de rede social como o Facebook? É bom saber disso antes para que você esteja ciente do que precisa para usar o produto."
+msgid ""
+"To use a product do you need to give up your email address, your phone number, or sign in through a third party such as a social media account like Facebook? This is good to know ahead of time so "
+"you’re aware of what you’ll need to use the product."
+msgstr ""
+"Para usar um produto, você precisa fornecer seu e-mail, seu número de telefone ou fazer login por meio de um terceiro, como uma conta de rede social como o Facebook? É bom saber disso antes para que"
+" você esteja ciente do que precisa para usar o produto."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:139
 msgid "What data does this product collect?"
 msgstr "Quais dados este produto coleta?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:141
-msgid "Connected devices collect information on their users. We look at what personal, body-related, and social data a product is likely to collect on you when you use it. Knowing what sorts of personal information you’ll need to give up to use a product is useful to help understand just how much a company could be learning about you. The more information you give up, the better they may know you. Personal data includes things like name, email address, phone number, gender, age, and date of birth. Body-related data includes things like voice recordings, fingerprint, facial recognition, height, weight, heart rate, sleep data, menstrual cycles, and blood oxygen levels. Social data includes things like your contacts and friends or connections you have through a platform, like gamer friends through a gaming console or connections you have through a fitness app."
-msgstr "Os dispositivos conectados coletam informações sobre seus usuários. Analisamos quais dados pessoais, corporais e sociais um produto provavelmente coletará sobre você ao utilizá-lo. Saber que tipos de informações pessoais você precisará fornecer para usar um produto é útil para ajudar a entender o quanto uma empresa pode aprender sobre você. Quanto mais informações você fornecer, mais conhecimento terão sobre você. Os dados pessoais incluem nome, e-mail, número de telefone, gênero, idade e data de nascimento. Dados corporais incluem registros de voz, impressões digitais, reconhecimento facial, altura, peso, frequência cardíaca, dados de sono, ciclos menstruais e níveis de oxigênio no sangue. Os dados sociais incluem seus contatos e amigos ou conexões que você tem em uma plataforma, como amigos jogadores em um console de jogos ou conexões que você tem em um aplicativo de condicionamento físico."
+msgid ""
+"Connected devices collect information on their users. We look at what personal, body-related, and social data a product is likely to collect on you when you use it. Knowing what sorts of personal "
+"information you’ll need to give up to use a product is useful to help understand just how much a company could be learning about you. The more information you give up, the better they may know you. "
+"Personal data includes things like name, email address, phone number, gender, age, and date of birth. Body-related data includes things like voice recordings, fingerprint, facial recognition, "
+"height, weight, heart rate, sleep data, menstrual cycles, and blood oxygen levels. Social data includes things like your contacts and friends or connections you have through a platform, like gamer "
+"friends through a gaming console or connections you have through a fitness app."
+msgstr ""
+"Os dispositivos conectados coletam informações sobre seus usuários. Analisamos quais dados pessoais, corporais e sociais um produto provavelmente coletará sobre você ao utilizá-lo. Saber que tipos "
+"de informações pessoais você precisará fornecer para usar um produto é útil para ajudar a entender o quanto uma empresa pode aprender sobre você. Quanto mais informações você fornecer, mais "
+"conhecimento terão sobre você. Os dados pessoais incluem nome, e-mail, número de telefone, gênero, idade e data de nascimento. Dados corporais incluem registros de voz, impressões digitais, "
+"reconhecimento facial, altura, peso, frequência cardíaca, dados de sono, ciclos menstruais e níveis de oxigênio no sangue. Os dados sociais incluem seus contatos e amigos ou conexões que você tem em"
+" uma plataforma, como amigos jogadores em um console de jogos ou conexões que você tem em um aplicativo de condicionamento físico."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:155
 msgid "How does it use this data?"
 msgstr "Como este produto utiliza esses dados?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:157
-msgid "Nearly every company collects some kind of information on its users. That’s how the internet works. It’s how they use and care for this information that matters. You should know whether a company shares or sells your personal information to others and for what reasons. This criteria is one of the criteria we use to determine if a product receives our <em>*Privacy Not Included</em> warning label. Companies that share or sell your data to third parties received a mini-warning label."
-msgstr "Praticamente toda empresa coleta algum tipo de informação sobre seus usuários. É assim que a internet funciona. É a maneira como eles usam e cuidam dessas informações que interessa. Você deve saber se uma empresa compartilha ou vende suas informações pessoais a outros e por quais razões. Este é um dos critérios que usamos para determinar se um produto recebe nosso selo de aviso <em>*Privacidade não incluída</em>. As empresas que compartilham ou vendem seus dados a terceiros receberam um minisselo de advertência."
+msgid ""
+"Nearly every company collects some kind of information on its users. That’s how the internet works. It’s how they use and care for this information that matters. You should know whether a company "
+"shares or sells your personal information to others and for what reasons. This criteria is one of the criteria we use to determine if a product receives our <em>*Privacy Not Included</em> warning "
+"label. Companies that share or sell your data to third parties received a mini-warning label."
+msgstr ""
+"Praticamente toda empresa coleta algum tipo de informação sobre seus usuários. É assim que a internet funciona. É a maneira como eles usam e cuidam dessas informações que interessa. Você deve saber "
+"se uma empresa compartilha ou vende suas informações pessoais a outros e por quais razões. Este é um dos critérios que usamos para determinar se um produto recebe nosso selo de aviso "
+"<em>*Privacidade não incluída</em>. As empresas que compartilham ou vendem seus dados a terceiros receberam um minisselo de advertência."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:168
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:275
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:168 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:275
 msgid "How can you control your data?"
 msgstr "Como você pode controlar seus dados?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:170
 msgid "Many companies collect a lot of data on their consumers. Who controls that data? Being able to contact a company and ask them to delete any data they have on you is a very good thing."
-msgstr "Inúmeras empresas coletam muitos dados sobre seus consumidores. Quem controla esses dados? Poder entrar em contato com uma empresa e pedir-lhes que apaguem quaisquer dados que tenham sobre você é muito bom."
+msgstr ""
+"Inúmeras empresas coletam muitos dados sobre seus consumidores. Quem controla esses dados? Poder entrar em contato com uma empresa e pedir-lhes que apaguem quaisquer dados que tenham sobre você é "
+"muito bom."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:179
 msgid "What is the company’s known track record of protecting users’ data? + mini ding"
 msgstr "Qual é o histórico conhecido da empresa em termos de proteção dos dados dos usuários? + minicampainha"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:182
-msgid "It’s one thing for a company to say they care about their users’ privacy. It’s another thing to show that. We look at the track records of all the companies in the guide dating back three years to see if they had known data leaks, security vulnerabilities, or other privacy missteps. This criteria is one of the criteria we use to determine if a product receives our <em>*Privacy Not Included</em> warning label. Companies that have multiple or serious privacy or security breaches receive a mini-warning label."
-msgstr "Uma coisa é dizer que uma empresa se preocupa com a privacidade de seus usuários. Outra coisa é demonstrar isso. Analisamos os registros de todas as empresas do guia que remontam a três anos para verificar se elas tinham conhecimento de vazamentos de dados, vulnerabilidades de segurança ou outras falhas de privacidade. Este é um dos critérios que usamos para determinar se um produto recebe nosso selo de advertência <em>*Privacidade não incluída</em>. As empresas que têm várias ou sérias violações de privacidade ou segurança recebem um minisselo de advertência."
+msgid ""
+"It’s one thing for a company to say they care about their users’ privacy. It’s another thing to show that. We look at the track records of all the companies in the guide dating back three years to "
+"see if they had known data leaks, security vulnerabilities, or other privacy missteps. This criteria is one of the criteria we use to determine if a product receives our <em>*Privacy Not "
+"Included</em> warning label. Companies that have multiple or serious privacy or security breaches receive a mini-warning label."
+msgstr ""
+"Uma coisa é dizer que uma empresa se preocupa com a privacidade de seus usuários. Outra coisa é demonstrar isso. Analisamos os registros de todas as empresas do guia que remontam a três anos para "
+"verificar se elas tinham conhecimento de vazamentos de dados, vulnerabilidades de segurança ou outras falhas de privacidade. Este é um dos critérios que usamos para determinar se um produto recebe "
+"nosso selo de advertência <em>*Privacidade não incluída</em>. As empresas que têm várias ou sérias violações de privacidade ou segurança recebem um minisselo de advertência."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:193
 msgid "Can this product be used offline?"
 msgstr "Este produto pode ser usado off-line?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:195
-msgid "Does every product really need to be connected to the internet to work? What happens if the internet goes out or you just want to use that smart scale as a scale? Some <em>*Privacy Not Included</em> users reached out to us over the past couple of years and asked us to include this in our guide. We aim to please!"
-msgstr "Será que todos os produtos realmente precisam estar conectados à internet para funcionar? O que acontece se a internet cair ou se você quiser apenas usar essa balança inteligente como uma balança? Alguns usuários de <em>*Privacidade não incluída</em> nos últimos dois anos nos pediram para incluir esta informação no nosso guia. A sua satisfação é muito importante para nós!"
+msgid ""
+"Does every product really need to be connected to the internet to work? What happens if the internet goes out or you just want to use that smart scale as a scale? Some <em>*Privacy Not Included</em>"
+" users reached out to us over the past couple of years and asked us to include this in our guide. We aim to please!"
+msgstr ""
+"Será que todos os produtos realmente precisam estar conectados à internet para funcionar? O que acontece se a internet cair ou se você quiser apenas usar essa balança inteligente como uma balança? "
+"Alguns usuários de <em>*Privacidade não incluída</em> nos últimos dois anos nos pediram para incluir esta informação no nosso guia. A sua satisfação é muito importante para nós!"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:204
 msgid "User friendly privacy info?"
 msgstr "Informações sobre privacidade de fácil consulta?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:206
-msgid "Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. Privacy policies are often written more for lawyers than consumers. That’s why it’s nice to see more and more companies creating consumer-friendly privacy pages to outline how they handle your personal information and the data they collected on their users. We hope to see this trend continue."
-msgstr "As informações sobre privacidade devem ser claras, fáceis de entender e fornecer informações básicas aos consumidores sobre o que acontece com seus dados. As políticas de privacidade são frequentemente escritas mais para advogados do que para consumidores. É por isso que é bom ver cada vez mais empresas criando páginas de privacidade voltadas para o consumidor para mostrar como elas lidam com suas informações pessoais e os dados coletados sobre seus usuários. Esperamos ver essa tendência continuar."
+msgid ""
+"Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. Privacy policies are often written more for lawyers than consumers. "
+"That’s why it’s nice to see more and more companies creating consumer-friendly privacy pages to outline how they handle your personal information and the data they collected on their users. We hope "
+"to see this trend continue."
+msgstr ""
+"As informações sobre privacidade devem ser claras, fáceis de entender e fornecer informações básicas aos consumidores sobre o que acontece com seus dados. As políticas de privacidade são "
+"frequentemente escritas mais para advogados do que para consumidores. É por isso que é bom ver cada vez mais empresas criando páginas de privacidade voltadas para o consumidor para mostrar como elas"
+" lidam com suas informações pessoais e os dados coletados sobre seus usuários. Esperamos ver essa tendência continuar."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:218
 msgid "Security"
 msgstr "Segurança"
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:222
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:102
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:222 foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:102
 msgid "Our Minimum Security Standards"
 msgstr "Nossos padrões mínimos de segurança"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:224
-msgid "We developed a set of minimum security standards we think all connected products should meet at the <em>very least</em>. Think of it as a “you must be this tall to ride” set of standards. These include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy."
-msgstr "Desenvolvemos um conjunto de padrões mínimos de segurança que julgamos que todos os produtos conectados devem <em>realmente atender</em>. Pense nele como um conjunto de padrões “altura mínima para entrar no brinquedo”. Eles incluem cinco itens básicos: o produto deve usar criptografia; a empresa deve fornecer atualizações automáticas de segurança; se o produto usa senha, deve exigir uma senha forte; a empresa deve ter uma forma de gerenciar as vulnerabilidades de segurança encontradas em seus produtos; e a empresa deve ter uma política de privacidade acessível."
+msgid ""
+"We developed a set of minimum security standards we think all connected products should meet at the <em>very least</em>. Think of it as a “you must be this tall to ride” set of standards. These "
+"include five basic things: The product must use encryption, the company must provide automatic security updates, if a product uses a password, it must require a strong password, the company must "
+"have a way to manage security vulnerabilities found in their products, and the company must have an accessible privacy policy."
+msgstr ""
+"Desenvolvemos um conjunto de padrões mínimos de segurança que julgamos que todos os produtos conectados devem <em>realmente atender</em>. Pense nele como um conjunto de padrões “altura mínima para "
+"entrar no brinquedo”. Eles incluem cinco itens básicos: o produto deve usar criptografia; a empresa deve fornecer atualizações automáticas de segurança; se o produto usa senha, deve exigir uma senha"
+" forte; a empresa deve ter uma forma de gerenciar as vulnerabilidades de segurança encontradas em seus produtos; e a empresa deve ter uma política de privacidade acessível."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:235
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:395
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:235 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:395
 msgid "Encryption"
 msgstr "Criptografia"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:237
-msgid "Encryption is your friend. It protects your private and personal information by scrambling it up into a code so that the only people or machines who can read it are the ones on the other end who have the key to unscramble that code. Products that don’t use encryption send personal information over the internet unscrambled so anyone can see it."
-msgstr "A criptografia é sua amiga. Ela protege suas informações privadas e pessoais, codificando-as para que as únicas pessoas ou máquinas que possam lê-las sejam as que, do outro lado, têm a chave para decifrar esse código. Os produtos que não usam criptografia enviam informações pessoais pela internet sem qualquer proteção e qualquer pessoa pode vê-las."
+msgid ""
+"Encryption is your friend. It protects your private and personal information by scrambling it up into a code so that the only people or machines who can read it are the ones on the other end who "
+"have the key to unscramble that code. Products that don’t use encryption send personal information over the internet unscrambled so anyone can see it."
+msgstr ""
+"A criptografia é sua amiga. Ela protege suas informações privadas e pessoais, codificando-as para que as únicas pessoas ou máquinas que possam lê-las sejam as que, do outro lado, têm a chave para "
+"decifrar esse código. Os produtos que não usam criptografia enviam informações pessoais pela internet sem qualquer proteção e qualquer pessoa pode vê-las."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:246
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:410
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:246 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:410
 msgid "Security updates"
 msgstr "Atualizações de segurança"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:248
-msgid "Sometimes security vulnerabilities are found in products after they are sold to the public. For that reason, companies should have a way to quickly push a security update out to the product automatically so it fixes the security vulnerability without the consumer ever needing to worry about it."
-msgstr "Às vezes, são encontradas vulnerabilidades de segurança em produtos depois de serem vendidos ao público. Por essa razão, as empresas devem ter uma maneira de lançar uma atualização de segurança para o produto de forma rápida e automática para que ela corrija a vulnerabilidade sem que o consumidor precise se preocupar com ela."
+msgid ""
+"Sometimes security vulnerabilities are found in products after they are sold to the public. For that reason, companies should have a way to quickly push a security update out to the product "
+"automatically so it fixes the security vulnerability without the consumer ever needing to worry about it."
+msgstr ""
+"Às vezes, são encontradas vulnerabilidades de segurança em produtos depois de serem vendidos ao público. Por essa razão, as empresas devem ter uma maneira de lançar uma atualização de segurança para"
+" o produto de forma rápida e automática para que ela corrija a vulnerabilidade sem que o consumidor precise se preocupar com ela."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:257
 msgid "Strong Password"
 msgstr "Senha forte"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:259
-msgid "Remembering passwords might be annoying, but having a good password is still one of the best lines of defense we have when it comes to protecting our privacy and security. It’s great when a password is required. But default passwords that are the same for all consumers and never change can be just as bad. You should be required to change the default password to a strong password. Products with a default password that does not require changing can leave users’ personal information exposed."
-msgstr "Lembrar senhas pode ser um incômodo, mas ter uma boa senha ainda é uma das melhores linhas de defesa que temos quando se trata de proteger nossa privacidade e segurança. É ótimo quando uma senha é necessária. Mas senhas padrão iguais para todos os consumidores e que nunca mudam podem ser ruins também. Você deveria receber uma solicitação para mudar a senha padrão para uma senha forte. Produtos com uma senha padrão que não exige alteração podem deixar as informações pessoais dos usuários expostas."
+msgid ""
+"Remembering passwords might be annoying, but having a good password is still one of the best lines of defense we have when it comes to protecting our privacy and security. It’s great when a password"
+" is required. But default passwords that are the same for all consumers and never change can be just as bad. You should be required to change the default password to a strong password. Products with"
+" a default password that does not require changing can leave users’ personal information exposed."
+msgstr ""
+"Lembrar senhas pode ser um incômodo, mas ter uma boa senha ainda é uma das melhores linhas de defesa que temos quando se trata de proteger nossa privacidade e segurança. É ótimo quando uma senha é "
+"necessária. Mas senhas padrão iguais para todos os consumidores e que nunca mudam podem ser ruins também. Você deveria receber uma solicitação para mudar a senha padrão para uma senha forte. "
+"Produtos com uma senha padrão que não exige alteração podem deixar as informações pessoais dos usuários expostas."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:271
 msgid "Manages vulnerabilities"
@@ -208,59 +312,94 @@ msgstr "Gerenciamento de vulnerabilidades"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:273
 #, python-format
-msgid "Security vulnerabilities in products happen. It’s how companies manage them when they arise that matters. We looked at whether or not companies have a system in place to manage vulnerabilities in the product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program.</a>"
-msgstr "As vulnerabilidades de segurança em produtos acontecem. O que importa é como as empresas as tratam quando elas aparecem. Analisamos se as empresas têm ou não um sistema para gerenciar as vulnerabilidades no produto quando elas são encontradas. Para isso, elas devem ter uma forma de contato para comunicar as vulnerabilidades ou um algo semelhante a um <a href=\"%(url)s\">programa de recompensa por bugs</a>."
+msgid ""
+"Security vulnerabilities in products happen. It’s how companies manage them when they arise that matters. We looked at whether or not companies have a system in place to manage vulnerabilities in "
+"the product when they are found. This includes having a point of contact for reporting vulnerabilities or an equivalent <a href=\"%(url)s\">bug bounty program.</a>"
+msgstr ""
+"As vulnerabilidades de segurança em produtos acontecem. O que importa é como as empresas as tratam quando elas aparecem. Analisamos se as empresas têm ou não um sistema para gerenciar as "
+"vulnerabilidades no produto quando elas são encontradas. Para isso, elas devem ter uma forma de contato para comunicar as vulnerabilidades ou um algo semelhante a um <a href=\"%(url)s\">programa de "
+"recompensa por bugs</a>."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:282
 msgid "Privacy policies"
 msgstr "Políticas de privacidade"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:284
-msgid "Privacy policies detail a lot of important information about how companies collect, use, and share your personal information. Because of that, this information should be easily found and easily understood. Consumers shouldn’t have to buy a product before they can find or read a privacy policy too."
-msgstr "As políticas de privacidade descrevem em detalhes muitas informações importantes sobre como as empresas coletam, usam e compartilham suas informações pessoais. Por isso, essas informações devem ser fáceis de encontrar e de compreender. Os consumidores não deveriam comprar um produto sem antes poderem encontrar ou ler a política de privacidade também."
+msgid ""
+"Privacy policies detail a lot of important information about how companies collect, use, and share your personal information. Because of that, this information should be easily found and easily "
+"understood. Consumers shouldn’t have to buy a product before they can find or read a privacy policy too."
+msgstr ""
+"As políticas de privacidade descrevem em detalhes muitas informações importantes sobre como as empresas coletam, usam e compartilham suas informações pessoais. Por isso, essas informações devem ser "
+"fáceis de encontrar e de compreender. Os consumidores não deveriam comprar um produto sem antes poderem encontrar ou ler a política de privacidade também."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:293
 msgid "A.I."
 msgstr "IA"
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:297
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:484
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:297 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:484
 msgid "Does the product use AI?"
 msgstr "O produto utiliza IA?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:299
 #, python-format
-msgid "More and more products use artificial intelligence these days. It’s not just smart speakers and facial recognition in security cameras either. It’s AI in dog toys and fitness trackers and connected workout equipment. For our reviews, we defined AI as: <em>Automated technology that makes decisions for you and/or changes continually based on your user data.</em> What does all this mean for consumers? We’re just starting to understand. However, most consumers don’t know when AI is being used or how it may affect their experience. We believe companies should provide this information to consumers as AI-enabled products become more prevalent and its decisions about you - and for you - more consequential. For more on Mozilla’s position on creating trustworthy AI, you can read our whitepaper <a href=\"%(url)s\">Creating Trustworthy AI</a>."
-msgstr "Hoje em dia, cada vez mais produtos utilizam inteligência artificial. Não se trata apenas de alto-falantes inteligentes e reconhecimento facial em câmeras de segurança. Ela está presente em brinquedos para cães, monitores de condicionamento físico e equipamentos de treino conectados. Para nossas avaliações, definimos IA como a <em>tecnologia automatizada que toma decisões por você e/ou muda continuamente com base nos seus dados de usuário</em>. E o que isso significa para os consumidores? Nós estamos apenas começando a entender. Entretanto, a maioria dos consumidores não sabe quando a IA está sendo usada ou como ela pode afetar sua experiência. Acreditamos que as empresas devem fornecer essas informações aos consumidores à medida que os produtos com IA se popularizam e suas decisões sobre você – e por você – se tornam mais significativas. Para saber mais sobre a posição da Mozilla em relação à criação de uma IA confiável, leia o artigo <a href=\"%(url)s\">Criando uma IA confiável</a>."
+msgid ""
+"More and more products use artificial intelligence these days. It’s not just smart speakers and facial recognition in security cameras either. It’s AI in dog toys and fitness trackers and connected "
+"workout equipment. For our reviews, we defined AI as: <em>Automated technology that makes decisions for you and/or changes continually based on your user data.</em> What does all this mean for "
+"consumers? We’re just starting to understand. However, most consumers don’t know when AI is being used or how it may affect their experience. We believe companies should provide this information to "
+"consumers as AI-enabled products become more prevalent and its decisions about you - and for you - more consequential. For more on Mozilla’s position on creating trustworthy AI, you can read our "
+"whitepaper <a href=\"%(url)s\">Creating Trustworthy AI</a>."
+msgstr ""
+"Hoje em dia, cada vez mais produtos utilizam inteligência artificial. Não se trata apenas de alto-falantes inteligentes e reconhecimento facial em câmeras de segurança. Ela está presente em "
+"brinquedos para cães, monitores de condicionamento físico e equipamentos de treino conectados. Para nossas avaliações, definimos IA como a <em>tecnologia automatizada que toma decisões por você e/ou"
+" muda continuamente com base nos seus dados de usuário</em>. E o que isso significa para os consumidores? Nós estamos apenas começando a entender. Entretanto, a maioria dos consumidores não sabe "
+"quando a IA está sendo usada ou como ela pode afetar sua experiência. Acreditamos que as empresas devem fornecer essas informações aos consumidores à medida que os produtos com IA se popularizam e "
+"suas decisões sobre você – e por você – se tornam mais significativas. Para saber mais sobre a posição da Mozilla em relação à criação de uma IA confiável, leia o artigo <a href=\"%(url)s\">Criando "
+"uma IA confiável</a>."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:311
 msgid "Is this AI untrustworthy?"
 msgstr "Esta IA não é confiável?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:313
-msgid "Too often, AI in our world comes with bias or unethical behavior. Unfortunately, it’s nearly impossible to tell if a company’s AI algorithms are trustworthy and ethical or not, and there’s not a commonly agreed upon framework for ‘trustworthy AI’ features and policies. However, we do know that companies are often not transparent about how their AI algorithms work, and that leaves us concerned overall. If we are able to find credible reporting that shows an AI is untrustworthy, we will note it here and issue a warning label with a clear description about how we came to this conclusion."
-msgstr "Muitas vezes, a IA aparece no nosso mundo com um comportamento preconceituoso ou antiético. Infelizmente, é quase impossível dizer se os algoritmos de IA de uma empresa são confiáveis e éticos ou não, e não há uma estrutura comumente acordada para as características e políticas de “IA confiável”. Entretanto, sabemos que as empresas muitas vezes não são transparentes sobre como seus algoritmos de IA funcionam, o que, de modo geral, nos deixa preocupados. Se encontrarmos relatórios confiáveis que mostrem que uma IA não é confiável, nós registraremos essa informação aqui e colocaremos um selo de advertência com uma descrição clara sobre como chegamos a essa conclusão."
+msgid ""
+"Too often, AI in our world comes with bias or unethical behavior. Unfortunately, it’s nearly impossible to tell if a company’s AI algorithms are trustworthy and ethical or not, and there’s not a "
+"commonly agreed upon framework for ‘trustworthy AI’ features and policies. However, we do know that companies are often not transparent about how their AI algorithms work, and that leaves us "
+"concerned overall. If we are able to find credible reporting that shows an AI is untrustworthy, we will note it here and issue a warning label with a clear description about how we came to this "
+"conclusion."
+msgstr ""
+"Muitas vezes, a IA aparece no nosso mundo com um comportamento preconceituoso ou antiético. Infelizmente, é quase impossível dizer se os algoritmos de IA de uma empresa são confiáveis e éticos ou "
+"não, e não há uma estrutura comumente acordada para as características e políticas de “IA confiável”. Entretanto, sabemos que as empresas muitas vezes não são transparentes sobre como seus "
+"algoritmos de IA funcionam, o que, de modo geral, nos deixa preocupados. Se encontrarmos relatórios confiáveis que mostrem que uma IA não é confiável, nós registraremos essa informação aqui e "
+"colocaremos um selo de advertência com uma descrição clara sobre como chegamos a essa conclusão."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:325
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:512
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:325 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:512
 msgid "What kind of decisions does the AI make about you or for you?"
 msgstr "Que tipo de decisões a IA toma sobre você ou por você?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:327
-msgid "We think consumers should know if a product uses their personal data to make decisions for or about them. To answer this question, we look to see what the company says the product’s AI is doing? We can’t always tell though, and that is not good."
-msgstr "Acreditamos que os consumidores devem saber se um produto utiliza seus dados pessoais para tomar decisões por eles ou sobre eles. Para responder a essa pergunta, procuramos ver o que a empresa diz que a IA do produto está fazendo. No entanto, nem sempre conseguimos identificar, e isso não é bom."
+msgid ""
+"We think consumers should know if a product uses their personal data to make decisions for or about them. To answer this question, we look to see what the company says the product’s AI is doing? We "
+"can’t always tell though, and that is not good."
+msgstr ""
+"Acreditamos que os consumidores devem saber se um produto utiliza seus dados pessoais para tomar decisões por eles ou sobre eles. Para responder a essa pergunta, procuramos ver o que a empresa diz "
+"que a IA do produto está fazendo. No entanto, nem sempre conseguimos identificar, e isso não é bom."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:336
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:526
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:336 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:526
 msgid "Is the company transparent about how the AI works?"
 msgstr "A empresa é transparente sobre como funciona a IA?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:338
-msgid "One of the biggest issues surrounding artificial intelligence in our consumer products is having access to essential information about how AI-enabled features work. For example, what data does it collect and how does it use that information to make decisions for or about you? Knowing how it works lets users evaluate if there may be a chance of bias or ethical implications they should consider before using a product driven by AI. We think companies should have publicly available information explaining this. We’ll let you know if they do."
-msgstr "Uma das maiores questões relacionadas à inteligência artificial nos produtos de consumo é ter acesso a informações essenciais sobre como funcionam os recursos baseados em IA. Por exemplo, que dados são coletados e como são usadas essas informações para tomar decisões por ou sobre você? Saber como funciona permite aos usuários avaliarem se pode haver uma chance de implicações preconceituosas ou éticas que devam ser consideradas antes de usarem um produto com IA. Acreditamos que as empresas devem disponibilizar publicamente informações que expliquem isso. Pode deixar: avisaremos você se elas as disponibilizarem."
+msgid ""
+"One of the biggest issues surrounding artificial intelligence in our consumer products is having access to essential information about how AI-enabled features work. For example, what data does it "
+"collect and how does it use that information to make decisions for or about you? Knowing how it works lets users evaluate if there may be a chance of bias or ethical implications they should "
+"consider before using a product driven by AI. We think companies should have publicly available information explaining this. We’ll let you know if they do."
+msgstr ""
+"Uma das maiores questões relacionadas à inteligência artificial nos produtos de consumo é ter acesso a informações essenciais sobre como funcionam os recursos baseados em IA. Por exemplo, que dados "
+"são coletados e como são usadas essas informações para tomar decisões por ou sobre você? Saber como funciona permite aos usuários avaliarem se pode haver uma chance de implicações preconceituosas ou"
+" éticas que devam ser consideradas antes de usarem um produto com IA. Acreditamos que as empresas devem disponibilizar publicamente informações que expliquem isso. Pode deixar: avisaremos você se "
+"elas as disponibilizarem."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:349
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:543
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:349 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:543
 msgid "Does the user have control over the AI features?"
 msgstr "O usuário tem controle sobre os recursos de IA?"
 
@@ -281,11 +420,14 @@ msgid "Comments"
 msgstr "Comentários"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:370
-msgid "We love to hear your thoughts and feedback on the products in this guide. And other users might like to join you in a conversation about any experiences or concerns you’ve had with a product. Please join the conversation in the comment section at the bottom of each product page."
-msgstr "Adoramos ouvir sua opinião e seu comentário sobre os produtos deste guia. E outros usuários podem querer conversar com você sobre qualquer experiência ou preocupação que você tenha tido com um produto. Participe da conversa na seção de comentários na parte inferior de cada página de produto."
+msgid ""
+"We love to hear your thoughts and feedback on the products in this guide. And other users might like to join you in a conversation about any experiences or concerns you’ve had with a product. Please"
+" join the conversation in the comment section at the bottom of each product page."
+msgstr ""
+"Adoramos ouvir sua opinião e seu comentário sobre os produtos deste guia. E outros usuários podem querer conversar com você sobre qualquer experiência ou preocupação que você tenha tido com um "
+"produto. Participe da conversa na seção de comentários na parte inferior de cada página de produto."
 
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:379
-#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:50
+#: foundation_cms/legacy_apps/templates/pages/buyersguide/about/how_to_use.html:379 foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:50
 msgid "Methodology"
 msgstr "Metodologia"
 
@@ -299,16 +441,36 @@ msgid "About our Methodology"
 msgstr "Sobre a nossa metodologia"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:14
-msgid "The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart — and safe — for products and apps that connect to the Internet. It is often difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. Is your personal data being shared or sold in ways you may not have expected? What is the company’s known track record for protecting the user data they collect? How does the company regularly test for and fix security vulnerabilities?"
-msgstr "O objetivo do guia de compras <em>*Privacidade não incluída</em> da Mozilla é ajudar os consumidores a comprarem de forma inteligente – e segura – produtos e aplicativos que se conectam à internet. Muitas vezes, os consumidores têm dificuldades de obter informações claras e concretas das empresas sobre a segurança e a privacidade de seus produtos conectados. Seus dados pessoais estão sendo compartilhados ou vendidos de maneiras que você talvez não esperasse? Qual é o histórico conhecido da empresa em termos de proteção dos dados dos usuários que eles coletam? Como a empresa testa e corrige regularmente as vulnerabilidades de segurança?"
+msgid ""
+"The goal of Mozilla’s <em>*Privacy Not Included</em> buyer’s guide is to help consumers shop smart — and safe — for products and apps that connect to the Internet. It is often difficult for "
+"consumers to get clear, concrete information from companies about the security and privacy of their connected products. Is your personal data being shared or sold in ways you may not have expected? "
+"What is the company’s known track record for protecting the user data they collect? How does the company regularly test for and fix security vulnerabilities?"
+msgstr ""
+"O objetivo do guia de compras <em>*Privacidade não incluída</em> da Mozilla é ajudar os consumidores a comprarem de forma inteligente – e segura – produtos e aplicativos que se conectam à internet. "
+"Muitas vezes, os consumidores têm dificuldades de obter informações claras e concretas das empresas sobre a segurança e a privacidade de seus produtos conectados. Seus dados pessoais estão sendo "
+"compartilhados ou vendidos de maneiras que você talvez não esperasse? Qual é o histórico conhecido da empresa em termos de proteção dos dados dos usuários que eles coletam? Como a empresa testa e "
+"corrige regularmente as vulnerabilidades de segurança?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:24
 msgid "With this guide, we hope to help consumers navigate this landscape by understanding what questions they should ask and what answers they should expect before buying a connected tech product."
-msgstr "Com este guia, esperamos ajudar os consumidores a se orientarem neste cenário, entendendo quais perguntas devem fazer e quais respostas devem esperar antes de comprar um produto tecnológico conectado."
+msgstr ""
+"Com este guia, esperamos ajudar os consumidores a se orientarem neste cenário, entendendo quais perguntas devem fazer e quais respostas devem esperar antes de comprar um produto tecnológico "
+"conectado."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:31
-msgid "The way we approach our research here at <em>*Privacy Not Included</em> is from the viewpoint of a consumer, but with a bit more time and expertise. We don’t purchase the products and test them in a lab. Consumers can’t do that. Instead, we look at all the information we can find that is publicly available to consumers before they purchase a product to try and understand the privacy and security concerns consumers should be aware of. We look at things like privacy policies, company websites, news reports, research whitepapers, app store listings, consumer reviews, and anything else we can find and trust to inform our research. Too often, the information companies make publicly available is vague or incomplete. We often have no way to verify if a company is doing what it says even after they reply to our requests. We seek a future in which hours of research like this aren’t required to buy safe, responsible products."
-msgstr "A nossa pesquisa para <em>*Privacidade não incluída</em> foi feita sob o ponto de vista de um consumidor, mas com um pouco mais de tempo e experiência. Nós não compramos os produtos e os testamos em um laboratório, afinal os consumidores não conseguem fazer isso. Em vez disso, analisamos todas as informações disponíveis publicamente para os consumidores antes que eles comprem um produto para compreender as preocupações com privacidade e segurança das quais os consumidores devem estar cientes. Verificamos políticas de privacidade, sites de empresas, noticiários, artigos de pesquisa, listas de lojas de aplicativos, avaliações de consumidores e qualquer outra informação que encontramos e confiamos para fundamentar a nossa pesquisa. Frequentemente, as informações que as empresas disponibilizam publicamente são vagas ou incompletas. Muitas vezes, não temos como verificar se uma empresa está fazendo o que diz, mesmo depois de responderem às nossas solicitações. Buscamos um futuro em que horas de pesquisa como esta não sejam necessárias para comprar produtos seguros e responsáveis."
+msgid ""
+"The way we approach our research here at <em>*Privacy Not Included</em> is from the viewpoint of a consumer, but with a bit more time and expertise. We don’t purchase the products and test them in a"
+" lab. Consumers can’t do that. Instead, we look at all the information we can find that is publicly available to consumers before they purchase a product to try and understand the privacy and "
+"security concerns consumers should be aware of. We look at things like privacy policies, company websites, news reports, research whitepapers, app store listings, consumer reviews, and anything else"
+" we can find and trust to inform our research. Too often, the information companies make publicly available is vague or incomplete. We often have no way to verify if a company is doing what it says "
+"even after they reply to our requests. We seek a future in which hours of research like this aren’t required to buy safe, responsible products."
+msgstr ""
+"A nossa pesquisa para <em>*Privacidade não incluída</em> foi feita sob o ponto de vista de um consumidor, mas com um pouco mais de tempo e experiência. Nós não compramos os produtos e os testamos em"
+" um laboratório, afinal os consumidores não conseguem fazer isso. Em vez disso, analisamos todas as informações disponíveis publicamente para os consumidores antes que eles comprem um produto para "
+"compreender as preocupações com privacidade e segurança das quais os consumidores devem estar cientes. Verificamos políticas de privacidade, sites de empresas, noticiários, artigos de pesquisa, "
+"listas de lojas de aplicativos, avaliações de consumidores e qualquer outra informação que encontramos e confiamos para fundamentar a nossa pesquisa. Frequentemente, as informações que as empresas "
+"disponibilizam publicamente são vagas ou incompletas. Muitas vezes, não temos como verificar se uma empresa está fazendo o que diz, mesmo depois de responderem às nossas solicitações. Buscamos um "
+"futuro em que horas de pesquisa como esta não sejam necessárias para comprar produtos seguros e responsáveis."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:44
 msgid "Here is the methodology we used to develop this guide."
@@ -320,8 +482,14 @@ msgstr "Seleção de produtos"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:59
 #, python-format
-msgid "When we select products for *Privacy Not Included, our goal is to choose connected products and apps that are likely to be popular with consumers in North America and Europe. We make our decisions based on our own research of top selling products that are highly rated across a variety of consumer product websites such as <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(cnet)s\">CNET</a>, and more."
-msgstr "Quando selecionamos produtos para <em>*Privacidade não incluída</em>, nosso objetivo é escolher produtos e aplicativos conectados que provavelmente serão populares entre os consumidores da América do Norte e Europa. Baseamos as nossas decisões na nossa própria pesquisa dos produtos mais vendidos com alta avaliação em diversos sites de produtos de consumo, como <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a> e <a href=\"%(cnet)s\">CNET</a>, entre outros."
+msgid ""
+"When we select products for *Privacy Not Included, our goal is to choose connected products and apps that are likely to be popular with consumers in North America and Europe. We make our decisions "
+"based on our own research of top selling products that are highly rated across a variety of consumer product websites such as <a href=\"%(consumer_reports)s\">Consumer Reports</a>, <a "
+"href=\"%(wirecutter)s\">Wirecutter</a>, <a href=\"%(cnet)s\">CNET</a>, and more."
+msgstr ""
+"Quando selecionamos produtos para <em>*Privacidade não incluída</em>, nosso objetivo é escolher produtos e aplicativos conectados que provavelmente serão populares entre os consumidores da América "
+"do Norte e Europa. Baseamos as nossas decisões na nossa própria pesquisa dos produtos mais vendidos com alta avaliação em diversos sites de produtos de consumo, como <a "
+"href=\"%(consumer_reports)s\">Consumer Reports</a>, <a href=\"%(wirecutter)s\">Wirecutter</a> e <a href=\"%(cnet)s\">CNET</a>, entre outros."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:71
 msgid "<em>*Privacy Not Included</em> Warning Labels"
@@ -329,49 +497,108 @@ msgstr "Selo de alerta de <em>*Privacidade não incluída</em>"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:76
 #, python-format
-msgid "We assign our <em>*Privacy Not Included</em> warning label to products we have determined to have the most problems when it comes to protecting a users privacy and security. A product will earn the <em>*Privacy Not Included</em> warning label if it receives two or more warnings from us on the following criteria: <a href=\"%(company_data_use)s\">How the company uses the data</a> it collects on users. We ding companies for selling users data or collecting more data than is necessary for general business purposes, for example, buying data from data brokers. <a href=\"%(user_data_control)s\">How users can control their data.</a> We ding a company if they don’t have a clear and manageable way for users to delete their data from the company or explain how long they retain users’ data. <a href=\"%(track_record)s\">What is the company’s known track record of protecting users’ data?</a> We ding a company if they have a bad track record of not protecting users’ data based on known and reported security breaches, leaks, or vulnerabilities. Finally, we ding a company if we can not confirm if the product <a href=\"%(min_sec)s\">meets our Minimum Security Standards.</a> In rare exceptions we might ding a company if they only receive one warning from us if we determine that warning is particularly concerning for consumers."
-msgstr "Atribuímos nosso selo de alerta <em>*Privacidade não incluída</em> aos produtos que determinamos ter mais problemas quando se trata de proteger a privacidade e a segurança de um usuário. Um produto ganhará o selo de alerta <em>*Privacidade não incluída</em> se receber dois ou mais alertas nos seguintes critérios: <a href=\"%(company_data_use)s\">Como a empresa utiliza os dados</a> que coleta sobre os usuários. Nós gongamos empresas por vender dados de usuários ou por coletar mais dados do que os necessários para fins comerciais gerais, por exemplo, comprando dados de corretores de dados. <a href=\"%(user_data_control)s\">Como os usuários podem controlar seus dados</a>. Nós gongamos empresas que não têm uma forma clara e acessível para os usuários excluírem seus dados da empresa ou que não explicam por quanto tempo retêm os dados dos usuários. <a href=\"%(track_record)s\">Qual é o histórico conhecido da empresa em termos de proteção dos dados dos usuários?</a> Nós gongamos empresas se elas tiverem um histórico ruim de não proteger os dados dos usuários com base em violações de segurança, vazamentos ou vulnerabilidades conhecidas e relatadas. Por último, nós gongamos empresas se não pudermos confirmar que o produto <a href=\"%(min_sec)s\">atenda aos nossos Padrões mínimos de segurança</a>. Em raras situações, podemos gongar uma empresa se ela receber apenas um alerta, desde que este se refira a algo particularmente preocupante para os consumidores."
+msgid ""
+"We assign our <em>*Privacy Not Included</em> warning label to products we have determined to have the most problems when it comes to protecting a users privacy and security. A product will earn the "
+"<em>*Privacy Not Included</em> warning label if it receives two or more warnings from us on the following criteria: <a href=\"%(company_data_use)s\">How the company uses the data</a> it collects on "
+"users. We ding companies for selling users data or collecting more data than is necessary for general business purposes, for example, buying data from data brokers. <a "
+"href=\"%(user_data_control)s\">How users can control their data.</a> We ding a company if they don’t have a clear and manageable way for users to delete their data from the company or explain how "
+"long they retain users’ data. <a href=\"%(track_record)s\">What is the company’s known track record of protecting users’ data?</a> We ding a company if they have a bad track record of not protecting"
+" users’ data based on known and reported security breaches, leaks, or vulnerabilities. Finally, we ding a company if we can not confirm if the product <a href=\"%(min_sec)s\">meets our Minimum "
+"Security Standards.</a> In rare exceptions we might ding a company if they only receive one warning from us if we determine that warning is particularly concerning for consumers."
+msgstr ""
+"Atribuímos nosso selo de alerta <em>*Privacidade não incluída</em> aos produtos que determinamos ter mais problemas quando se trata de proteger a privacidade e a segurança de um usuário. Um produto "
+"ganhará o selo de alerta <em>*Privacidade não incluída</em> se receber dois ou mais alertas nos seguintes critérios: <a href=\"%(company_data_use)s\">Como a empresa utiliza os dados</a> que coleta "
+"sobre os usuários. Nós gongamos empresas por vender dados de usuários ou por coletar mais dados do que os necessários para fins comerciais gerais, por exemplo, comprando dados de corretores de "
+"dados. <a href=\"%(user_data_control)s\">Como os usuários podem controlar seus dados</a>. Nós gongamos empresas que não têm uma forma clara e acessível para os usuários excluírem seus dados da "
+"empresa ou que não explicam por quanto tempo retêm os dados dos usuários. <a href=\"%(track_record)s\">Qual é o histórico conhecido da empresa em termos de proteção dos dados dos usuários?</a> Nós "
+"gongamos empresas se elas tiverem um histórico ruim de não proteger os dados dos usuários com base em violações de segurança, vazamentos ou vulnerabilidades conhecidas e relatadas. Por último, nós "
+"gongamos empresas se não pudermos confirmar que o produto <a href=\"%(min_sec)s\">atenda aos nossos Padrões mínimos de segurança</a>. Em raras situações, podemos gongar uma empresa se ela receber "
+"apenas um alerta, desde que este se refira a algo particularmente preocupante para os consumidores."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:91
-msgid "While we currently can assign a product a warning for the use of untrustworthy artificial intelligence, we don’t use that rating to factor into our decision to assign the <em>*Privacy Not Included</em> warning label as the information from companies is currently very limited and we cannot easily compare one product another with a high degree of confidence."
-msgstr "Embora atualmente possamos atribuir um alerta para o uso de inteligência artificial não confiável a um produto, não utilizamos essa classificação como fator determinante em nossa decisão de atribuir o selo de alerta <em>*Privacidade não incluída</em>, pois atualmente as informações das empresas são muito limitadas e não podemos comparar um produto com outro com alto grau de confiança."
+msgid ""
+"While we currently can assign a product a warning for the use of untrustworthy artificial intelligence, we don’t use that rating to factor into our decision to assign the <em>*Privacy Not "
+"Included</em> warning label as the information from companies is currently very limited and we cannot easily compare one product another with a high degree of confidence."
+msgstr ""
+"Embora atualmente possamos atribuir um alerta para o uso de inteligência artificial não confiável a um produto, não utilizamos essa classificação como fator determinante em nossa decisão de atribuir"
+" o selo de alerta <em>*Privacidade não incluída</em>, pois atualmente as informações das empresas são muito limitadas e não podemos comparar um produto com outro com alto grau de confiança."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:105
 msgid "What could happen if something goes wrong?"
 msgstr "O que pode acontecer se algo der errado?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:109
-msgid "We include this section to help people understand what could potentially go right or wrong related to the privacy and security with each product. We aim to identify risks and concerns that are relevant to consumers specifically. While it is likely nothing bad will happen with most of the products in this guide, it is also good to think through what could happen if something goes wrong based on real life situations."
-msgstr "Incluímos esta seção para ajudar as pessoas a compreender o que pode potencialmente dar certo ou errado em relação à privacidade e segurança com cada produto. Nosso objetivo é identificar os riscos e preocupações especificamente relevantes para os consumidores. Embora seja provável que nada de ruim aconteça com a maioria dos produtos deste guia, também é bom pensar sobre o que poderia acontecer se algo desse errado com base em situações da vida real."
+msgid ""
+"We include this section to help people understand what could potentially go right or wrong related to the privacy and security with each product. We aim to identify risks and concerns that are "
+"relevant to consumers specifically. While it is likely nothing bad will happen with most of the products in this guide, it is also good to think through what could happen if something goes wrong "
+"based on real life situations."
+msgstr ""
+"Incluímos esta seção para ajudar as pessoas a compreender o que pode potencialmente dar certo ou errado em relação à privacidade e segurança com cada produto. Nosso objetivo é identificar os riscos "
+"e preocupações especificamente relevantes para os consumidores. Embora seja provável que nada de ruim aconteça com a maioria dos produtos deste guia, também é bom pensar sobre o que poderia "
+"acontecer se algo desse errado com base em situações da vida real."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:121
 msgid "Tips to protect yourself"
 msgstr "Dicas para se proteger"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:125
-msgid "We review suggestions from both the product manufacturer and draw upon published privacy and security guidance from a range of experts, both within Mozilla and outside sources, to provide a few simple tips for each product users can take to protect themselves. These tips are recommendations for protection, not guarantees."
-msgstr "Avaliamos sugestões do fabricante do produto e também orientações publicadas sobre privacidade e segurança de vários especialistas, tanto dentro como fora da Mozilla, para fornecer aos usuários de cada produto algumas dicas simples para se protegerem. Essas dicas são recomendações de proteção, não garantias."
+msgid ""
+"We review suggestions from both the product manufacturer and draw upon published privacy and security guidance from a range of experts, both within Mozilla and outside sources, to provide a few "
+"simple tips for each product users can take to protect themselves. These tips are recommendations for protection, not guarantees."
+msgstr ""
+"Avaliamos sugestões do fabricante do produto e também orientações publicadas sobre privacidade e segurança de vários especialistas, tanto dentro como fora da Mozilla, para fornecer aos usuários de "
+"cada produto algumas dicas simples para se protegerem. Essas dicas são recomendações de proteção, não garantias."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:137
 msgid "Permissions"
 msgstr "Permissões"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:141
-msgid "We look to see if it is possible the device could snoop on you if it were hacked, leaked, or not working correctly. Please note, just because a device could snoop on a user doesn’t mean it will. Simply that it is a possibility users should consider before purchasing."
-msgstr "Procuramos ver se é possível o dispositivo conseguir bisbilhotar você caso ele seja invadido, divulgado ou não esteja funcionando corretamente. Observe que só porque um dispositivo pode bisbilhotar um usuário, não significa que ele o fará. É simplesmente uma possibilidade que os usuários devem considerar antes de comprar."
+msgid ""
+"We look to see if it is possible the device could snoop on you if it were hacked, leaked, or not working correctly. Please note, just because a device could snoop on a user doesn’t mean it will. "
+"Simply that it is a possibility users should consider before purchasing."
+msgstr ""
+"Procuramos ver se é possível o dispositivo conseguir bisbilhotar você caso ele seja invadido, divulgado ou não esteja funcionando corretamente. Observe que só porque um dispositivo pode bisbilhotar "
+"um usuário, não significa que ele o fará. É simplesmente uma possibilidade que os usuários devem considerar antes de comprar."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:150
 #, python-format
-msgid "To determine this, we check product websites and the <a href=\"%(google_play_url)s\">Google Play Store</a> or the <a href=\"%(google_play_url)s\">Apple App Store</a> to check on the permissions requested by each app to determine whether the device and its app uses a camera, microphone, or tracks your location. (Note: an app may access “approximate” or “network” based location. “Tracks Location” was marked as “Yes” if an app requests any location information, including approximate location.)"
-msgstr "Para determinar isso, verificamos os sites de produtos e a <a href=\"%(google_play_url)s\">Google Play Store</a> ou a <a href=\"%(google_play_url)s\">Apple App Store</a> para verificar as permissões solicitadas por cada aplicativo para determinar se o dispositivo e seu aplicativo utiliza uma câmera, microfone ou rastreia sua localização. (Nota: um aplicativo pode acessar uma localização “aproximada” ou baseada em “rede”. “Monitora localização” foi marcado como “sim” se um aplicativo solicitar qualquer informação de localização, incluindo localização aproximada)."
+msgid ""
+"To determine this, we check product websites and the <a href=\"%(google_play_url)s\">Google Play Store</a> or the <a href=\"%(google_play_url)s\">Apple App Store</a> to check on the permissions "
+"requested by each app to determine whether the device and its app uses a camera, microphone, or tracks your location. (Note: an app may access “approximate” or “network” based location. “Tracks "
+"Location” was marked as “Yes” if an app requests any location information, including approximate location.)"
+msgstr ""
+"Para determinar isso, verificamos os sites de produtos e a <a href=\"%(google_play_url)s\">Google Play Store</a> ou a <a href=\"%(google_play_url)s\">Apple App Store</a> para verificar as permissões"
+" solicitadas por cada aplicativo para determinar se o dispositivo e seu aplicativo utiliza uma câmera, microfone ou rastreia sua localização. (Nota: um aplicativo pode acessar uma localização "
+"“aproximada” ou baseada em “rede”. “Monitora localização” foi marcado como “sim” se um aplicativo solicitar qualquer informação de localização, incluindo localização aproximada)."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:160
-msgid "The apps that control connected devices will typically need to request permissions from your phone for the app to work. This is mostly OK. However, we want consumers to understand when to look for things that don’t feel right, like a children’s fitness tracker app requesting permission to use the phone’s microphone or a home exercise workout machine requesting permission to track location."
-msgstr "Os aplicativos que controlam dispositivos conectados normalmente precisarão solicitar permissões do seu celular para funcionar. Na maioria das vezes, não há problema. No entanto, queremos que os consumidores entendam quando devem procurar coisas estranhas, como um aplicativo de rastreamento de condicionamento físico infantil solicitando permissão para usar o microfone do telefone ou um equipamento de exercícios em casa solicitando permissão para rastrear a localização."
+msgid ""
+"The apps that control connected devices will typically need to request permissions from your phone for the app to work. This is mostly OK. However, we want consumers to understand when to look for "
+"things that don’t feel right, like a children’s fitness tracker app requesting permission to use the phone’s microphone or a home exercise workout machine requesting permission to track location."
+msgstr ""
+"Os aplicativos que controlam dispositivos conectados normalmente precisarão solicitar permissões do seu celular para funcionar. Na maioria das vezes, não há problema. No entanto, queremos que os "
+"consumidores entendam quando devem procurar coisas estranhas, como um aplicativo de rastreamento de condicionamento físico infantil solicitando permissão para usar o microfone do telefone ou um "
+"equipamento de exercícios em casa solicitando permissão para rastrear a localização."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:177
-msgid "We evaluate the publicly available privacy documentation provided by each company for each product. This includes privacy policies, privacy pages, and FAQs. We attempt to determine (1) what kind of information is generally collected by a product, including personal, body-related, and social, (2) how the data is used by the company, (3) how you can control your data, including how you can access and delete your data, (4) the known track record of a company for protecting user data, (5) if the product can be used offline, (6) and whether the privacy policy is user-friendly. If a company does not provide a product-specific privacy notice, we rely on their general privacy policy for this information. This often means we cannot verify which information mentioned in a company’s privacy documentation may or may not be true about a specific product. In our requests for information from companies before publication, we ask for product-specific privacy policies and if a company shares it, we analyze the product-specific policy. We believe consumers should be able to access privacy policies and documentation before they purchase a product. Learning what data a company collects and how it uses that data is important to know before downloading an app or buying a product."
-msgstr "Avaliamos a documentação de privacidade disponível ao público fornecida por cada empresa para cada produto. Isso inclui políticas de privacidade, páginas de privacidade e Perguntas Frequentes. Tentamos determinar: (1) que tipo de informação é geralmente coletada por um produto, incluindo pessoal, corporal e social; (2) como os dados são usados pela empresa; (3) como você pode controlar seus dados, incluindo como você pode acessar e excluir seus dados; (4) o histórico conhecido de uma empresa em relação à proteção de dados do usuário; (5) se o produto pode ser usado off-line; e (6) se a política de privacidade é fácil de entender. Se uma empresa não fornecer um aviso de privacidade específico para o produto, nós nos baseamos em sua política geral de privacidade para essa informação. Muitas vezes isso significa que não podemos verificar quais informações mencionadas na documentação de privacidade de uma empresa podem ou não ser verdadeiras para um produto específico. Em nossos pedidos de informações às empresas antes da publicação, solicitamos as políticas de privacidade específicas do produto e, se a empresa as compartilha, nós as analisamos. Acreditamos que os consumidores devem poder acessar as políticas de privacidade e a documentação antes de comprar um produto. É importante saber quais dados uma empresa coleta e como utiliza esses dados antes de baixar um aplicativo ou comprar um produto."
+msgid ""
+"We evaluate the publicly available privacy documentation provided by each company for each product. This includes privacy policies, privacy pages, and FAQs. We attempt to determine (1) what kind of "
+"information is generally collected by a product, including personal, body-related, and social, (2) how the data is used by the company, (3) how you can control your data, including how you can "
+"access and delete your data, (4) the known track record of a company for protecting user data, (5) if the product can be used offline, (6) and whether the privacy policy is user-friendly. If a "
+"company does not provide a product-specific privacy notice, we rely on their general privacy policy for this information. This often means we cannot verify which information mentioned in a company’s"
+" privacy documentation may or may not be true about a specific product. In our requests for information from companies before publication, we ask for product-specific privacy policies and if a "
+"company shares it, we analyze the product-specific policy. We believe consumers should be able to access privacy policies and documentation before they purchase a product. Learning what data a "
+"company collects and how it uses that data is important to know before downloading an app or buying a product."
+msgstr ""
+"Avaliamos a documentação de privacidade disponível ao público fornecida por cada empresa para cada produto. Isso inclui políticas de privacidade, páginas de privacidade e Perguntas Frequentes. "
+"Tentamos determinar: (1) que tipo de informação é geralmente coletada por um produto, incluindo pessoal, corporal e social; (2) como os dados são usados pela empresa; (3) como você pode controlar "
+"seus dados, incluindo como você pode acessar e excluir seus dados; (4) o histórico conhecido de uma empresa em relação à proteção de dados do usuário; (5) se o produto pode ser usado off-line; e (6)"
+" se a política de privacidade é fácil de entender. Se uma empresa não fornecer um aviso de privacidade específico para o produto, nós nos baseamos em sua política geral de privacidade para essa "
+"informação. Muitas vezes isso significa que não podemos verificar quais informações mencionadas na documentação de privacidade de uma empresa podem ou não ser verdadeiras para um produto específico."
+" Em nossos pedidos de informações às empresas antes da publicação, solicitamos as políticas de privacidade específicas do produto e, se a empresa as compartilha, nós as analisamos. Acreditamos que "
+"os consumidores devem poder acessar as políticas de privacidade e a documentação antes de comprar um produto. É importante saber quais dados uma empresa coleta e como utiliza esses dados antes de "
+"baixar um aplicativo ou comprar um produto."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:195
 msgid "What kind of data does the company collect?"
@@ -382,116 +609,214 @@ msgid "Personal"
 msgstr "Pessoal"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:203
-msgid "We list the personal data collected by each product, as specified in the privacy policy. This kind of information includes, but is not limited to, name, email address, phone number, and address."
-msgstr "Listamos os dados pessoais coletados por cada produto, conforme especificado na política de privacidade. Esse tipo de informação inclui, mas não está limitado a, nome, e-mail, número de telefone e endereço domiciliar."
+msgid ""
+"We list the personal data collected by each product, as specified in the privacy policy. This kind of information includes, but is not limited to, name, email address, phone number, and address."
+msgstr ""
+"Listamos os dados pessoais coletados por cada produto, conforme especificado na política de privacidade. Esse tipo de informação inclui, mas não está limitado a, nome, e-mail, número de telefone e "
+"endereço domiciliar."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:212
 msgid "Body-Related"
 msgstr "Corporais"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:216
-msgid "Body-related (including biometric data) is data that describes our bodies and distinctive personal characteristics such as fingerprints, voices, and heart rates. Many devices collect sensitive data about stress, sleep patterns, and menstrual cycles, for instance. Some products use face and voice to identify users."
-msgstr "Dados corporais (incluindo dados biométricos) descrevem nossos corpos e características pessoais distintas, como impressões digitais, vozes e batimentos cardíacos. Muitos dispositivos coletam dados confidenciais sobre estresse, padrões de sono e ciclos menstruais, por exemplo. Alguns produtos utilizam rosto e voz para identificar os usuários."
+msgid ""
+"Body-related (including biometric data) is data that describes our bodies and distinctive personal characteristics such as fingerprints, voices, and heart rates. Many devices collect sensitive data "
+"about stress, sleep patterns, and menstrual cycles, for instance. Some products use face and voice to identify users."
+msgstr ""
+"Dados corporais (incluindo dados biométricos) descrevem nossos corpos e características pessoais distintas, como impressões digitais, vozes e batimentos cardíacos. Muitos dispositivos coletam dados "
+"confidenciais sobre estresse, padrões de sono e ciclos menstruais, por exemplo. Alguns produtos utilizam rosto e voz para identificar os usuários."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:226
 msgid "Social"
 msgstr "Social"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:230
-msgid "Social data includes information about your friends and contacts. We detailed which products collect this social information. This does not include the sharing of links or other information on social media through the product itself (e.g. sharing your route for a run on Facebook)."
-msgstr "Os dados sociais incluem informações sobre seus amigos e contatos. Detalhamos quais produtos coletam essas informações sociais. Isso não inclui o compartilhamento de links ou outras informações sobre redes sociais por meio do próprio produto (por exemplo, compartilhando sua rota de corrida no Facebook)."
+msgid ""
+"Social data includes information about your friends and contacts. We detailed which products collect this social information. This does not include the sharing of links or other information on "
+"social media through the product itself (e.g. sharing your route for a run on Facebook)."
+msgstr ""
+"Os dados sociais incluem informações sobre seus amigos e contatos. Detalhamos quais produtos coletam essas informações sociais. Isso não inclui o compartilhamento de links ou outras informações "
+"sobre redes sociais por meio do próprio produto (por exemplo, compartilhando sua rota de corrida no Facebook)."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:241
 msgid "How does the company use this data?"
 msgstr "Como a empresa utiliza esses dados?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:245
-msgid "How do companies collect, use, and share or sell user data with third parties? Do companies combine user data with data from other sources? Is data used for advertisement? For this question, we analyzed the company’s privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than expected. For instance, if a company can share or sell personal customer data with third parties, or if third parties can use data for commercial purposes, then we noted this. Often, privacy policies are written to allow a company the widest set of options for data sharing and sales, even if they don’t currently engage in those activities. To determine current practices, we look for FAQs or other information on company websites to provide additional information. Additionally, if a company provides us with posted information about these practices, we include that information and relevant links."
-msgstr "Como as empresas coletam, usam e compartilham ou vendem dados de usuários a terceiros? Elas combinam os dados dos usuários com dados de outras fontes? Os dados são usados para publicidade? Para esta pergunta, analisamos a documentação de privacidade da empresa para determinar como e quando os dados pessoais dos clientes são compartilhados com terceiros por razões diferentes das esperadas. Por exemplo, se uma empresa pode compartilhar ou vender dados pessoais de clientes a terceiros, ou se terceiros podem usar dados para fins comerciais, registramos esse fato. Muitas vezes, as políticas de privacidade são escritas para permitir a uma empresa o mais amplo conjunto de opções para compartilhamento de dados e vendas, mesmo que ela não se envolva em tais atividades no momento. Para determinar as práticas atuais, procuramos por FAQs ou outras informações nos sites da empresa para fornecer informações adicionais. Além disso, se uma empresa nos fornecer informações publicadas sobre essas práticas, incluímos essas informações e os links relevantes."
+msgid ""
+"How do companies collect, use, and share or sell user data with third parties? Do companies combine user data with data from other sources? Is data used for advertisement? For this question, we "
+"analyzed the company’s privacy documentation to determine how and when personal customer data is shared with third parties for reasons other than expected. For instance, if a company can share or "
+"sell personal customer data with third parties, or if third parties can use data for commercial purposes, then we noted this. Often, privacy policies are written to allow a company the widest set of"
+" options for data sharing and sales, even if they don’t currently engage in those activities. To determine current practices, we look for FAQs or other information on company websites to provide "
+"additional information. Additionally, if a company provides us with posted information about these practices, we include that information and relevant links."
+msgstr ""
+"Como as empresas coletam, usam e compartilham ou vendem dados de usuários a terceiros? Elas combinam os dados dos usuários com dados de outras fontes? Os dados são usados para publicidade? Para esta"
+" pergunta, analisamos a documentação de privacidade da empresa para determinar como e quando os dados pessoais dos clientes são compartilhados com terceiros por razões diferentes das esperadas. Por "
+"exemplo, se uma empresa pode compartilhar ou vender dados pessoais de clientes a terceiros, ou se terceiros podem usar dados para fins comerciais, registramos esse fato. Muitas vezes, as políticas "
+"de privacidade são escritas para permitir a uma empresa o mais amplo conjunto de opções para compartilhamento de dados e vendas, mesmo que ela não se envolva em tais atividades no momento. Para "
+"determinar as práticas atuais, procuramos por FAQs ou outras informações nos sites da empresa para fornecer informações adicionais. Além disso, se uma empresa nos fornecer informações publicadas "
+"sobre essas práticas, incluímos essas informações e os links relevantes."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:259
-msgid "When determining if a product receives a warning on this criteria we look at three major factors. (1) How much data does the company collect on a user? What can and does the company learn about you with this data? Does it collect a large amount of personal data or only what seems necessary for their product to work? (2) Does the company share, combine, or sell this data with a large number of third parties for purposes beyond the normal function of the product? (3) Does the company provide clear and explicit notice before sharing user data with third parties? (4) What types of data are shared for advertising and marketing purposes? We attempt to explain to users what sorts of data collection they should be concerned about in our reviews."
-msgstr "Ao determinar se um produto recebe um alerta neste critério, consideramos três fatores principais: (1) Qual é a quantidade de dados que a empresa coleta sobre um usuário? O que a empresa aprende sobre você com esses dados? Ela coleta uma grande quantidade de dados pessoais ou apenas o que parece necessário para que seu produto funcione? (2) A empresa compartilha, combina ou vende esses dados a um grande número de terceiros para fins que vão além da função normal do produto? (3) A empresa fornece aviso claro e explícito antes de compartilhar os dados do usuário com terceiros? (4) Que tipos de dados são compartilhados para fins de publicidade e marketing? Em nossas avaliações, procuramos explicar aos usuários com quais tipos de coleta de dados eles devem se preocupar."
+msgid ""
+"When determining if a product receives a warning on this criteria we look at three major factors. (1) How much data does the company collect on a user? What can and does the company learn about you "
+"with this data? Does it collect a large amount of personal data or only what seems necessary for their product to work? (2) Does the company share, combine, or sell this data with a large number of "
+"third parties for purposes beyond the normal function of the product? (3) Does the company provide clear and explicit notice before sharing user data with third parties? (4) What types of data are "
+"shared for advertising and marketing purposes? We attempt to explain to users what sorts of data collection they should be concerned about in our reviews."
+msgstr ""
+"Ao determinar se um produto recebe um alerta neste critério, consideramos três fatores principais: (1) Qual é a quantidade de dados que a empresa coleta sobre um usuário? O que a empresa aprende "
+"sobre você com esses dados? Ela coleta uma grande quantidade de dados pessoais ou apenas o que parece necessário para que seu produto funcione? (2) A empresa compartilha, combina ou vende esses "
+"dados a um grande número de terceiros para fins que vão além da função normal do produto? (3) A empresa fornece aviso claro e explícito antes de compartilhar os dados do usuário com terceiros? (4) "
+"Que tipos de dados são compartilhados para fins de publicidade e marketing? Em nossas avaliações, procuramos explicar aos usuários com quais tipos de coleta de dados eles devem se preocupar."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:279
-msgid "Does the company provide a way for users to request access to and deletion of their data? We look for language around this in the privacy policy and/or whether the company has an online portal or contact that allows users to delete their data quickly and easily. We also look for clear retention periods and deletion methods, keeping in mind that retention periods vary greatly and may have different use cases for different types of products. Where anonymization is offered as an alternative to data deletion (which is allowable under GDPR) we note that some forms of anonymization do not completely eliminate the potential for identification."
-msgstr "A empresa oferece aos usuários uma maneira de solicitar acesso e exclusão de seus dados? Pesquisamos a linguagem relacionada a isso na política de privacidade e/ou se a empresa tem um portal on-line ou contato que permita aos usuários excluírem seus dados de forma rápida e fácil. Também pesquisamos períodos de retenção e métodos de exclusão claros, tendo em mente que os períodos de retenção variam muito e podem ter diferentes casos de uso para diferentes tipos de produtos. Quando a anonimização é oferecida como uma alternativa à exclusão de dados (que é permitida pela GDPR), observamos que algumas formas de anonimização não eliminam completamente o potencial de identificação."
+msgid ""
+"Does the company provide a way for users to request access to and deletion of their data? We look for language around this in the privacy policy and/or whether the company has an online portal or "
+"contact that allows users to delete their data quickly and easily. We also look for clear retention periods and deletion methods, keeping in mind that retention periods vary greatly and may have "
+"different use cases for different types of products. Where anonymization is offered as an alternative to data deletion (which is allowable under GDPR) we note that some forms of anonymization do not"
+" completely eliminate the potential for identification."
+msgstr ""
+"A empresa oferece aos usuários uma maneira de solicitar acesso e exclusão de seus dados? Pesquisamos a linguagem relacionada a isso na política de privacidade e/ou se a empresa tem um portal on-line"
+" ou contato que permita aos usuários excluírem seus dados de forma rápida e fácil. Também pesquisamos períodos de retenção e métodos de exclusão claros, tendo em mente que os períodos de retenção "
+"variam muito e podem ter diferentes casos de uso para diferentes tipos de produtos. Quando a anonimização é oferecida como uma alternativa à exclusão de dados (que é permitida pela GDPR), observamos"
+" que algumas formas de anonimização não eliminam completamente o potencial de identificação."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:291
-msgid "When determining if a product receives a warning on this criteria we look at three major factors. (1) Does the company have a means for a user to request access to the data the company has collected? (2) Does the company have a clear means for users to request the deletion of their data in a reasonable timeframe? (3) Does the company provide retention details for user data? Does the company promise to delete data after it is not needed to fulfill the purposes for which it was collected?"
-msgstr "Ao determinar se um produto recebe um alerta neste critério, consideramos três fatores principais: (1) A empresa tem um meio para um usuário solicitar acesso aos dados que a empresa coletou? (2) A empresa tem um meio claro para os usuários solicitarem a exclusão de seus dados em um prazo razoável? (3) A empresa fornece detalhes sobre a retenção dos dados do usuário? A empresa promete apagar os dados depois de não serem necessários para cumprir as finalidades para as quais foram coletados?"
+msgid ""
+"When determining if a product receives a warning on this criteria we look at three major factors. (1) Does the company have a means for a user to request access to the data the company has "
+"collected? (2) Does the company have a clear means for users to request the deletion of their data in a reasonable timeframe? (3) Does the company provide retention details for user data? Does the "
+"company promise to delete data after it is not needed to fulfill the purposes for which it was collected?"
+msgstr ""
+"Ao determinar se um produto recebe um alerta neste critério, consideramos três fatores principais: (1) A empresa tem um meio para um usuário solicitar acesso aos dados que a empresa coletou? (2) A "
+"empresa tem um meio claro para os usuários solicitarem a exclusão de seus dados em um prazo razoável? (3) A empresa fornece detalhes sobre a retenção dos dados do usuário? A empresa promete apagar "
+"os dados depois de não serem necessários para cumprir as finalidades para as quais foram coletados?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:307
 msgid "What is the company’s known track record of protecting users’ data?"
 msgstr "Qual é o histórico conhecido da empresa em termos de proteção dos dados dos usuários?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:311
-msgid "We evaluated each company’s history of storing and protecting customer data within at least the previous three year period. We conduct research to find any known public hacks, data breaches, data leaks, or other incidents."
-msgstr "Avaliamos o histórico de armazenamento e proteção dos dados dos clientes de cada empresa pelo período mínimo dos últimos três anos. Conduzimos pesquisas para encontrar quaisquer hacks públicos conhecidos, violações de dados, vazamentos de dados ou outros incidentes."
+msgid ""
+"We evaluated each company’s history of storing and protecting customer data within at least the previous three year period. We conduct research to find any known public hacks, data breaches, data "
+"leaks, or other incidents."
+msgstr ""
+"Avaliamos o histórico de armazenamento e proteção dos dados dos clientes de cada empresa pelo período mínimo dos últimos três anos. Conduzimos pesquisas para encontrar quaisquer hacks públicos "
+"conhecidos, violações de dados, vazamentos de dados ou outros incidentes."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:319
-msgid "When determining if a product receives a warning on this criteria we look at four major factors. (1) Has the company had any major security vulnerabilities or data leaks in the past three years? (2) If the company has had known security vulnerabilities, have they acted quickly and openly to fix these security vulnerabilities and leaks? (3) Does the company have a track record of being honest and ethical when it comes to protecting user data? (4) What was the volume and sensitivity of leaked data?"
-msgstr "Ao determinar se um produto recebe um alerta neste critério, consideramos quatro fatores principais: (1) A empresa teve alguma grande vulnerabilidade de segurança ou vazamento de dados nos últimos três anos? (2) Se a empresa teve vulnerabilidades de segurança conhecidas, ela agiu rápida e abertamente para corrigir essas vulnerabilidades e vazamentos de segurança? (3) A empresa tem um histórico de ser honesta e ética quando se trata de proteger os dados dos usuários? (4) Qual foi o volume e a sensibilidade dos dados vazados?"
+msgid ""
+"When determining if a product receives a warning on this criteria we look at four major factors. (1) Has the company had any major security vulnerabilities or data leaks in the past three years? (2)"
+" If the company has had known security vulnerabilities, have they acted quickly and openly to fix these security vulnerabilities and leaks? (3) Does the company have a track record of being honest "
+"and ethical when it comes to protecting user data? (4) What was the volume and sensitivity of leaked data?"
+msgstr ""
+"Ao determinar se um produto recebe um alerta neste critério, consideramos quatro fatores principais: (1) A empresa teve alguma grande vulnerabilidade de segurança ou vazamento de dados nos últimos "
+"três anos? (2) Se a empresa teve vulnerabilidades de segurança conhecidas, ela agiu rápida e abertamente para corrigir essas vulnerabilidades e vazamentos de segurança? (3) A empresa tem um "
+"histórico de ser honesta e ética quando se trata de proteger os dados dos usuários? (4) Qual foi o volume e a sensibilidade dos dados vazados?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:333
 msgid "Can the product be used offline? "
 msgstr "O produto pode ser usado off-line? "
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:337
-msgid "We checked to see if the product could be used offline or if being online was a requirement to use the product effectively (if applicable). We include this to let consumers know, for example, if an app that might collect data on them is required."
-msgstr "Verificamos se o produto poderia ser usado off-line ou se o uso on-line era um requisito para usar o produto de forma eficaz (se aplicável). Incluímos isso para que os consumidores saibam, por exemplo, se é necessário um aplicativo que possa coletar dados sobre eles."
+msgid ""
+"We checked to see if the product could be used offline or if being online was a requirement to use the product effectively (if applicable). We include this to let consumers know, for example, if an "
+"app that might collect data on them is required."
+msgstr ""
+"Verificamos se o produto poderia ser usado off-line ou se o uso on-line era um requisito para usar o produto de forma eficaz (se aplicável). Incluímos isso para que os consumidores saibam, por "
+"exemplo, se é necessário um aplicativo que possa coletar dados sobre eles."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:349
 msgid "User-friendly privacy information"
 msgstr "Informações sobre privacidade de fácil consulta"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:353
-msgid "We evaluate how easy it is to find clear, specific, easy to understand information about a device’s privacy policies. How clearly is that information stated? Privacy information should be clear, readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy or in another privacy page. Vaguely worded, dense, overly long and complex privacy policies are not considered user-friendly in our research"
-msgstr "Avaliamos até que ponto é fácil encontrar informações claras, específicas e compreensíveis sobre as políticas de privacidade de um dispositivo. Quão clara é essa informação declarada? As informações de privacidade devem ser claras, inteligíveis e comunicar informações básicas aos consumidores sobre o que acontece com seus dados. Procuramos saber se a empresa fornece informações de privacidade fáceis de ler, seja na política de privacidade ou em outra página de privacidade. Políticas de privacidade vagamente formuladas, densas, excessivamente longas e complexas não são consideradas de fácil utilização em nossa pesquisa."
+msgid ""
+"We evaluate how easy it is to find clear, specific, easy to understand information about a device’s privacy policies. How clearly is that information stated? Privacy information should be clear, "
+"readable, and communicate basic information to consumers about what happens to their data. We looked for whether the company provides easy-to-read privacy information, either in the privacy policy "
+"or in another privacy page. Vaguely worded, dense, overly long and complex privacy policies are not considered user-friendly in our research"
+msgstr ""
+"Avaliamos até que ponto é fácil encontrar informações claras, específicas e compreensíveis sobre as políticas de privacidade de um dispositivo. Quão clara é essa informação declarada? As informações"
+" de privacidade devem ser claras, inteligíveis e comunicar informações básicas aos consumidores sobre o que acontece com seus dados. Procuramos saber se a empresa fornece informações de privacidade "
+"fáceis de ler, seja na política de privacidade ou em outra página de privacidade. Políticas de privacidade vagamente formuladas, densas, excessivamente longas e complexas não são consideradas de "
+"fácil utilização em nossa pesquisa."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:374
 msgid "Minimum Security Standards"
 msgstr "Padrões mínimos de segurança"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:378
-msgid "Mozilla established a set of Minimum Security Standards we determine should be met by any manufacturer developing connected products. We email each company at least three times (the first email at least 30 days prior to the publication) to ask for more information about their product and how it meets our standards. For the companies who do not respond, we conduct additional research to find the answers wherever possible. If we cannot determine an answer based on the company response and our own research for any of the five criteria below, we indicate the company does not meet our Minimum Security Standards. When a company responds, even after publication, with additional information, we add this information to product listings."
-msgstr "A Mozilla estabeleceu um conjunto de Padrões mínimos de segurança que determinamos que devam ser cumpridos por qualquer fabricante que desenvolva produtos conectados. Enviamos e-mails a cada empresa pelo menos três vezes (o primeiro e-mail pelo menos 30 dias antes da publicação) para solicitar mais informações sobre seu produto e como ele atende aos nossos padrões. No caso das empresas que não responderam, realizamos pesquisas adicionais para encontrar as respostas na medida do possível. Se não pudermos determinar uma resposta baseada no que a empresa informou e em nossa própria pesquisa para qualquer um dos cinco critérios abaixo, indicamos que a empresa não atende aos nossos Padrões mínimos de segurança. Quando uma empresa responde com informações adicionais, mesmo após a publicação, adicionamos essas informações à listagem de produtos."
+msgid ""
+"Mozilla established a set of Minimum Security Standards we determine should be met by any manufacturer developing connected products. We email each company at least three times (the first email at "
+"least 30 days prior to the publication) to ask for more information about their product and how it meets our standards. For the companies who do not respond, we conduct additional research to find "
+"the answers wherever possible. If we cannot determine an answer based on the company response and our own research for any of the five criteria below, we indicate the company does not meet our "
+"Minimum Security Standards. When a company responds, even after publication, with additional information, we add this information to product listings."
+msgstr ""
+"A Mozilla estabeleceu um conjunto de Padrões mínimos de segurança que determinamos que devam ser cumpridos por qualquer fabricante que desenvolva produtos conectados. Enviamos e-mails a cada empresa"
+" pelo menos três vezes (o primeiro e-mail pelo menos 30 dias antes da publicação) para solicitar mais informações sobre seu produto e como ele atende aos nossos padrões. No caso das empresas que não"
+" responderam, realizamos pesquisas adicionais para encontrar as respostas na medida do possível. Se não pudermos determinar uma resposta baseada no que a empresa informou e em nossa própria pesquisa"
+" para qualquer um dos cinco critérios abaixo, indicamos que a empresa não atende aos nossos Padrões mínimos de segurança. Quando uma empresa responde com informações adicionais, mesmo após a "
+"publicação, adicionamos essas informações à listagem de produtos."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:390
 msgid "We evaluated each product on our list against five criteria:"
 msgstr "Avaliamos cada produto de nossa lista com base em cinco critérios:"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:399
-msgid "A product should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that communications aren’t eavesdropped on or modified in transit. User data should be encrypted when it is stored. While end-to-end encryption is preferable, it is not a requirement to meet our Minimum Security Standards."
-msgstr "Um produto deve usar criptografia em trânsito e em repouso (quando aplicável). O produto deve usar criptografia para todas as suas funções e capacidades de comunicação em rede, assegurando que as comunicações não sejam interceptadas ou modificadas em trânsito. Os dados do usuário devem ser criptografados quando forem armazenados. Embora a criptografia de ponta a ponta seja preferível, ela não é um requisito para atender os nossos Padrões mínimos de segurança."
+msgid ""
+"A product should use encryption in transit and at rest (where applicable). The product must use encryption for all of its network communications functions and capabilities, ensuring that "
+"communications aren’t eavesdropped on or modified in transit. User data should be encrypted when it is stored. While end-to-end encryption is preferable, it is not a requirement to meet our Minimum "
+"Security Standards."
+msgstr ""
+"Um produto deve usar criptografia em trânsito e em repouso (quando aplicável). O produto deve usar criptografia para todas as suas funções e capacidades de comunicação em rede, assegurando que as "
+"comunicações não sejam interceptadas ou modificadas em trânsito. Os dados do usuário devem ser criptografados quando forem armazenados. Embora a criptografia de ponta a ponta seja preferível, ela "
+"não é um requisito para atender os nossos Padrões mínimos de segurança."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:414
-msgid "The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
-msgstr "O produto deve permitir atualizações automáticas de segurança por um período razoável após a venda, e ser ativado por padrão. Isso garante que quando uma vulnerabilidade for conhecida, o fornecedor possa disponibilizar atualizações de segurança para os consumidores, que são verificadas (usando alguma forma de criptografia) e depois instaladas de forma fácil."
+msgid ""
+"The product must support automatic security updates for a reasonable period after sale, and be enabled by default. This ensures that when a vulnerability is known, the vendor can make security "
+"updates available for consumers, which are verified (using some form of cryptography) and then installed seamlessly."
+msgstr ""
+"O produto deve permitir atualizações automáticas de segurança por um período razoável após a venda, e ser ativado por padrão. Isso garante que quando uma vulnerabilidade for conhecida, o fornecedor "
+"possa disponibilizar atualizações de segurança para os consumidores, que são verificadas (usando alguma forma de criptografia) e depois instaladas de forma fácil."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:424
 msgid "Strong passwords"
 msgstr "Senhas fortes"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:428
-msgid "If the product uses passwords or other means of security for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised device. In cases where a device is protected with something other than a password, for example a secure Bluetooth connection, we put NA in this field."
-msgstr "Se o produto utiliza senhas ou outros meios de segurança para autenticação remota, ele deve exigir que sejam utilizadas senhas fortes, inclusive com requisitos de força de senha. Quaisquer senhas padrão não únicas também devem ser redefinidas como parte da configuração inicial do dispositivo. Isso ajuda a proteger o dispositivo contra vulnerabilidade a ataques com senhas adivinháveis, o que pode resultar em um dispositivo comprometido. Nos casos em que um dispositivo é protegido com algo diferente de uma senha, por exemplo, uma conexão Bluetooth segura, nós colocamos ND nesse campo."
+msgid ""
+"If the product uses passwords or other means of security for remote authentication, it must require that strong passwords are used, including having password strength requirements. Any non-unique "
+"default passwords must also be reset as part of the device’s initial setup. This helps protect the device from vulnerability to guessable password attacks, which could result in a compromised "
+"device. In cases where a device is protected with something other than a password, for example a secure Bluetooth connection, we put NA in this field."
+msgstr ""
+"Se o produto utiliza senhas ou outros meios de segurança para autenticação remota, ele deve exigir que sejam utilizadas senhas fortes, inclusive com requisitos de força de senha. Quaisquer senhas "
+"padrão não únicas também devem ser redefinidas como parte da configuração inicial do dispositivo. Isso ajuda a proteger o dispositivo contra vulnerabilidade a ataques com senhas adivinháveis, o que "
+"pode resultar em um dispositivo comprometido. Nos casos em que um dispositivo é protegido com algo diferente de uma senha, por exemplo, uma conexão Bluetooth segura, nós colocamos ND nesse campo."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:440
 msgid "Vulnerability management"
 msgstr "Gestão de vulnerabilidades"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:444
-msgid "The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that vendors are actively managing vulnerabilities throughout the product’s lifecycle."
-msgstr "O fornecedor deve ter um sistema para gerenciar as vulnerabilidades do produto. Isso também deve incluir um ponto de contato para reportar vulnerabilidades ou um programa de recompensa de bugs. Isso garante que os fornecedores gerenciem ativamente as vulnerabilidades durante todo o ciclo de vida do produto."
+msgid ""
+"The vendor must have a system in place to manage vulnerabilities in the product. This must also include a point of contact for reporting vulnerabilities or a bug bounty program. This ensures that "
+"vendors are actively managing vulnerabilities throughout the product’s lifecycle."
+msgstr ""
+"O fornecedor deve ter um sistema para gerenciar as vulnerabilidades do produto. Isso também deve incluir um ponto de contato para reportar vulnerabilidades ou um programa de recompensa de bugs. Isso"
+" garante que os fornecedores gerenciem ativamente as vulnerabilidades durante todo o ciclo de vida do produto."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:454
 msgid "Privacy Policy"
 msgstr "Política de privacidade"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:458
-msgid "The product must have a publicly available privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating. The product must also have work contact information consumers can reach in a privacy policy for privacy related questions or concerns."
-msgstr "O produto deve ter uma política de privacidade disponível publicamente e/ou outra página de privacidade que se aplique ao dispositivo, aplicativo ou serviço que estamos avaliando. O produto também deve ter informações de contato comercial na política de privacidade para que os consumidores possam utilizar para dúvidas ou preocupações relacionadas à privacidade."
+msgid ""
+"The product must have a publicly available privacy policy and/or another privacy page that applies to the device, app, or service we are evaluating. The product must also have work contact "
+"information consumers can reach in a privacy policy for privacy related questions or concerns."
+msgstr ""
+"O produto deve ter uma política de privacidade disponível publicamente e/ou outra página de privacidade que se aplique ao dispositivo, aplicativo ou serviço que estamos avaliando. O produto também "
+"deve ter informações de contato comercial na política de privacidade para que os consumidores possam utilizar para dúvidas ou preocupações relacionadas à privacidade."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:469
 msgid "Artificial Intelligence"
@@ -499,8 +824,16 @@ msgstr "Inteligência artificial"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:473
 #, python-format
-msgid "We evaluate whether or not a product uses artificial intelligence. <b>We defined AI as: automated technology that makes decisions for you and/or changes continually based on your user data.</b> This would cover Alexa changing to better understand what you say, to your fitness wearable making recommendations on exercises to do so that you meet a specific wellness goal, or your security camera deciding not to alert you because it can distinguish a raccoon from a human. For more on Mozilla’s position on creating trustworthy AI, you can read our whitepaper <a href=\"%(ai_link)s\">Creating Trustworthy AI</a>."
-msgstr "Avaliamos se um produto utiliza ou não inteligência artificial. <b>Definimos IA como a tecnologia automatizada que toma decisões por você e/ou muda continuamente com base em seus dados de usuário</b>. Isso incluiria as adaptações da Alexa para entender melhor o que você diz, o seu equipamento de condicionamento físico vestível fazendo recomendações sobre exercícios para que você atinja um objetivo específico de bem-estar ou sua câmera de segurança decidindo não alertá-lo porque ela pode distinguir um guaxinim de um humano. Para saber mais sobre a posição da Mozilla na criação de uma IA de confiança, você pode ler nosso artigo <a href=\"%(ai_link)s\">Criando uma IA de confiança</a>."
+msgid ""
+"We evaluate whether or not a product uses artificial intelligence. <b>We defined AI as: automated technology that makes decisions for you and/or changes continually based on your user data.</b> This"
+" would cover Alexa changing to better understand what you say, to your fitness wearable making recommendations on exercises to do so that you meet a specific wellness goal, or your security camera "
+"deciding not to alert you because it can distinguish a raccoon from a human. For more on Mozilla’s position on creating trustworthy AI, you can read our whitepaper <a href=\"%(ai_link)s\">Creating "
+"Trustworthy AI</a>."
+msgstr ""
+"Avaliamos se um produto utiliza ou não inteligência artificial. <b>Definimos IA como a tecnologia automatizada que toma decisões por você e/ou muda continuamente com base em seus dados de "
+"usuário</b>. Isso incluiria as adaptações da Alexa para entender melhor o que você diz, o seu equipamento de condicionamento físico vestível fazendo recomendações sobre exercícios para que você "
+"atinja um objetivo específico de bem-estar ou sua câmera de segurança decidindo não alertá-lo porque ela pode distinguir um guaxinim de um humano. Para saber mais sobre a posição da Mozilla na "
+"criação de uma IA de confiança, você pode ler nosso artigo <a href=\"%(ai_link)s\">Criando uma IA de confiança</a>."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:488
 msgid "Based on responses from companies and our own research, we note whether or not a product uses AI, or if we could not determine whether or not the product uses AI."
@@ -511,16 +844,27 @@ msgid "Is the AI untrustworthy?"
 msgstr "Inteligência artificial não é confiável?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:501
-msgid "When determining if a product receives a warning on this criteria we look at two major factors. (1) If we are able to determine if AI decisions demonstrate biases based on reporting from experts and trusted sources. (2) If we are able to determine if the AI behaves in some other way we consider unethical and/or untrustworthy based on reporting from experts and trusted sources."
-msgstr "Ao determinar se um produto recebe um alerta neste critério, consideramos dois fatores principais: (1) Se conseguimos determinar que as decisões de IA demonstram parcialidade com base em relatórios de especialistas e fontes confiáveis. (2) Se conseguimos determinar que a IA se comporta de alguma outra forma que consideramos antiética e/ou não confiável, com base em relatórios de especialistas e fontes confiáveis."
+msgid ""
+"When determining if a product receives a warning on this criteria we look at two major factors. (1) If we are able to determine if AI decisions demonstrate biases based on reporting from experts and"
+" trusted sources. (2) If we are able to determine if the AI behaves in some other way we consider unethical and/or untrustworthy based on reporting from experts and trusted sources."
+msgstr ""
+"Ao determinar se um produto recebe um alerta neste critério, consideramos dois fatores principais: (1) Se conseguimos determinar que as decisões de IA demonstram parcialidade com base em relatórios "
+"de especialistas e fontes confiáveis. (2) Se conseguimos determinar que a IA se comporta de alguma outra forma que consideramos antiética e/ou não confiável, com base em relatórios de especialistas "
+"e fontes confiáveis."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:516
 msgid "What does the company say the product’s AI is doing? To answer this question, we analyzed the product description and, if available, AI documentation and white papers."
 msgstr "O que a empresa diz que a IA do produto faz? Para responder a essa pergunta, analisamos a descrição do produto e, se disponível, a documentação e os relatórios da IA."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:530
-msgid "Is there publicly available information about how the algorithm behind the AI makes decisions? One of the biggest issues surrounding artificial intelligence in our consumer products is access to essential information about how AI-enabled decisions are made. Such as, how does the algorithm avoid bias and ensure fairness. We asked, does the company publicly inform and explain how their AI works? If we are able to find technical documentation, academic papers, open source code, or other documentation about the AI, we mark this as yes."
-msgstr "Há informações disponíveis publicamente sobre como o algoritmo por trás da IA toma decisões? Uma das maiores questões em torno da inteligência artificial em nossos produtos de consumo é o acesso a informações essenciais sobre como as decisões com base na IA são tomadas. Como, por exemplo, o algoritmo evita preconceitos e garante a imparcialidade. Questionamos se a empresa informa e explica publicamente como sua IA funciona. Se conseguimos encontrar documentação técnica, trabalhos acadêmicos, código de fonte aberta ou outra documentação sobre a IA, marcamos isso como sim."
+msgid ""
+"Is there publicly available information about how the algorithm behind the AI makes decisions? One of the biggest issues surrounding artificial intelligence in our consumer products is access to "
+"essential information about how AI-enabled decisions are made. Such as, how does the algorithm avoid bias and ensure fairness. We asked, does the company publicly inform and explain how their AI "
+"works? If we are able to find technical documentation, academic papers, open source code, or other documentation about the AI, we mark this as yes."
+msgstr ""
+"Há informações disponíveis publicamente sobre como o algoritmo por trás da IA toma decisões? Uma das maiores questões em torno da inteligência artificial em nossos produtos de consumo é o acesso a "
+"informações essenciais sobre como as decisões com base na IA são tomadas. Como, por exemplo, o algoritmo evita preconceitos e garante a imparcialidade. Questionamos se a empresa informa e explica "
+"publicamente como sua IA funciona. Se conseguimos encontrar documentação técnica, trabalhos acadêmicos, código de fonte aberta ou outra documentação sobre a IA, marcamos isso como sim."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/methodology.html:546
 msgid "Yes/No/Limited/NA/Can’t Determine"
@@ -536,8 +880,12 @@ msgstr "Imprensa"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:13
 #, python-format
-msgid "<em>*Privacy Not Included</em> helps consumers shop for trustworthy connected products while shining a light on products with poor privacy and security practices. We also uplift companies who get it right. If you’re looking for inspiration for your company’s own privacy policy, <a href=\"%(best_of_url)s\">start here</a>."
-msgstr "<em>*Privacidade não incluída</em> ajuda os consumidores a comprar produtos conectados de confiança, chamando atenção para produtos com práticas ruins de privacidade e segurança. Também valorizamos as empresas que agem corretamente. Se você está à procura de inspiração para a política de privacidade da sua empresa, <a href=\"%(best_of_url)s\">comece por aqui</a>."
+msgid ""
+"<em>*Privacy Not Included</em> helps consumers shop for trustworthy connected products while shining a light on products with poor privacy and security practices. We also uplift companies who get it"
+" right. If you’re looking for inspiration for your company’s own privacy policy, <a href=\"%(best_of_url)s\">start here</a>."
+msgstr ""
+"<em>*Privacidade não incluída</em> ajuda os consumidores a comprar produtos conectados de confiança, chamando atenção para produtos com práticas ruins de privacidade e segurança. Também valorizamos "
+"as empresas que agem corretamente. Se você está à procura de inspiração para a política de privacidade da sua empresa, <a href=\"%(best_of_url)s\">comece por aqui</a>."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:21
 msgid "Are you a journalist researching connected products or a member of the press covering privacy?"
@@ -545,22 +893,39 @@ msgstr "Você é um jornalista que pesquisa produtos conectados ou um membro da 
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:26
 #, python-format
-msgid "<em>*Privacy Not Included</em> can help inform your research. Let the <a href=\"%(pni_url)s\">product guide</a> assist you in incorporating privacy—and not just price and performance—into your consumer technology coverage."
-msgstr "<em>*Privacidade não incluída</em> pode ajudar a informar suas pesquisas. Deixe o <a href=\"%(pni_url)s\">guia do produto</a> ajudar você a incorporar privacidade (não apenas preço e desempenho) na sua cobertura de tecnologia ao consumidor."
+msgid ""
+"<em>*Privacy Not Included</em> can help inform your research. Let the <a href=\"%(pni_url)s\">product guide</a> assist you in incorporating privacy—and not just price and performance—into your "
+"consumer technology coverage."
+msgstr ""
+"<em>*Privacidade não incluída</em> pode ajudar a informar suas pesquisas. Deixe o <a href=\"%(pni_url)s\">guia do produto</a> ajudar você a incorporar privacidade (não apenas preço e desempenho) na "
+"sua cobertura de tecnologia ao consumidor."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:32
 #, python-format
-msgid "Have questions for the <em>*Privacy Not Included</em> team? Email <b>%(email)s</b> at <a href=\"mailto:%(email)s\">%(email)s</a>. Our researchers can answer questions about specific products, or speak to broader trends in the realm of privacy, security, and trustworthy AI. We can also provide high-resolution graphics and gifs from our guide."
-msgstr "Tem perguntas para a equipe do <em>*Privacidade não incluída</em>? Envie email para <b>%(email)s</b> em <a href=\"mailto:%(email)s\">%(email)s</a>. Nossos pesquisadores podem responder dúvidas sobre produtos específicos, ou falar sobre tendências mais amplas na área de privacidade, segurança e inteligência artificial confiável. Também podemos fornecer gráficos e imagens em alta resolução do nosso guia."
+msgid ""
+"Have questions for the <em>*Privacy Not Included</em> team? Email <b>%(email)s</b> at <a href=\"mailto:%(email)s\">%(email)s</a>. Our researchers can answer questions about specific products, or "
+"speak to broader trends in the realm of privacy, security, and trustworthy AI. We can also provide high-resolution graphics and gifs from our guide."
+msgstr ""
+"Tem perguntas para a equipe do <em>*Privacidade não incluída</em>? Envie email para <b>%(email)s</b> em <a href=\"mailto:%(email)s\">%(email)s</a>. Nossos pesquisadores podem responder dúvidas sobre"
+" produtos específicos, ou falar sobre tendências mais amplas na área de privacidade, segurança e inteligência artificial confiável. Também podemos fornecer gráficos e imagens em alta resolução do "
+"nosso guia."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:43
 #, python-format
-msgid "<b>The people have spoken!</b> Mozilla’s <em>*Privacy Not Included</em> <a href=\"%(url)s\">won two Webby</a> awards in 2023: the “Responsible Information” award in the Inaugural Responsible Technology category and the “People’s Voice” award. This win marks their second “People’s Voice” win since 2020."
-msgstr "<b>O público se manifestou!</b> O <em>*Privacidade não incluída</em> da Mozilla <a href=\"%(url)s\">ganhou dois prêmios Webby</a> em 2023: o prêmio “Informações responsáveis” na nova categoria “Tecnologia responsável” e o prêmio “Voz do povo”. Esta vitória marca a vitória do “Voz do povo” pela segunda vez desde 2020."
+msgid ""
+"<b>The people have spoken!</b> Mozilla’s <em>*Privacy Not Included</em> <a href=\"%(url)s\">won two Webby</a> awards in 2023: the “Responsible Information” award in the Inaugural Responsible "
+"Technology category and the “People’s Voice” award. This win marks their second “People’s Voice” win since 2020."
+msgstr ""
+"<b>O público se manifestou!</b> O <em>*Privacidade não incluída</em> da Mozilla <a href=\"%(url)s\">ganhou dois prêmios Webby</a> em 2023: o prêmio “Informações responsáveis” na nova categoria "
+"“Tecnologia responsável” e o prêmio “Voz do povo”. Esta vitória marca a vitória do “Voz do povo” pela segunda vez desde 2020."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:50
-msgid "Since launching 2017, <em>*Privacy Not Included</em> has reached millions and garnered hundreds of stories around the world. The guide’s groundbreaking product reviews scrutinize the privacy features and flaws of <b>connected gifts, sex toys, dating apps, reproductive health apps, mental health apps,</b> and <b>cars</b>."
-msgstr "Desde seu lançamento, em 2017, <em>*Privacidade não incluída</em> alcançou milhões e reuniu centenas de histórias no mundo todo. As inovadoras análises de produtos do guia examinam detalhadamente recursos de privacidade e falhas de <b>dispositivos conectados, brinquedos sexuais, aplicativos de namoro, aplicativos de saúde reprodutiva, aplicativos de saúde mental</b> e <b>carros</b>."
+msgid ""
+"Since launching 2017, <em>*Privacy Not Included</em> has reached millions and garnered hundreds of stories around the world. The guide’s groundbreaking product reviews scrutinize the privacy "
+"features and flaws of <b>connected gifts, sex toys, dating apps, reproductive health apps, mental health apps,</b> and <b>cars</b>."
+msgstr ""
+"Desde seu lançamento, em 2017, <em>*Privacidade não incluída</em> alcançou milhões e reuniu centenas de histórias no mundo todo. As inovadoras análises de produtos do guia examinam detalhadamente "
+"recursos de privacidade e falhas de <b>dispositivos conectados, brinquedos sexuais, aplicativos de namoro, aplicativos de saúde reprodutiva, aplicativos de saúde mental</b> e <b>carros</b>."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:60
 #, python-format
@@ -568,21 +933,35 @@ msgid "<strong>BBC Top Gear:</strong> <a href=\"%(url)s\">Modern cars branded a 
 msgstr "<strong>BBC Top Gear:</strong> <a href=\"%(url)s\">Carros modernos são considerados um ‘pesadelo de privacidade’ pela Mozilla</a>"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:64
-msgid "Published September 2023. “First up, Mozilla says every car brand collects “too much personal data”... Secondly, the survey concluded that 84 per cent of motor manufacturers share your data and a worrying 76 per cent sell drivers’ personal data.”"
-msgstr "Publicado em setembro de 2023. “Primeiro, a Mozilla diz que toda marca de automóveis coleta “dados pessoais demais”... Depois, a pesquisa conclui que 84% dos fabricantes de automóveis compartilha seus dados e um número preocupante de 76% vende dados pessoais de motoristas.”"
+msgid ""
+"Published September 2023. “First up, Mozilla says every car brand collects “too much personal data”... Secondly, the survey concluded that 84 per cent of motor manufacturers share your data and a "
+"worrying 76 per cent sell drivers’ personal data.”"
+msgstr ""
+"Publicado em setembro de 2023. “Primeiro, a Mozilla diz que toda marca de automóveis coleta “dados pessoais demais”... Depois, a pesquisa conclui que 84% dos fabricantes de automóveis compartilha "
+"seus dados e um número preocupante de 76% vende dados pessoais de motoristas.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:72
-msgid "For generations, the car in America has come to symbolize freedom… And for many, freedom and privacy go hand in hand. It's hard to have one without the other. But according to a new report, your car could be worse than your phone when it comes to privacy."
-msgstr "Por gerações, o carro nos Estados Unidos passou a simbolizar liberdade… E para muitos, liberdade e privacidade andam de mãos dadas. É difícil ter um sem o outro. Mas de acordo com um novo relatório, seu carro pode ser pior que seu celular no que diz respeito à privacidade."
+msgid ""
+"For generations, the car in America has come to symbolize freedom… And for many, freedom and privacy go hand in hand. It's hard to have one without the other. But according to a new report, your car"
+" could be worse than your phone when it comes to privacy."
+msgstr ""
+"Por gerações, o carro nos Estados Unidos passou a simbolizar liberdade… E para muitos, liberdade e privacidade andam de mãos dadas. É difícil ter um sem o outro. Mas de acordo com um novo relatório,"
+" seu carro pode ser pior que seu celular no que diz respeito à privacidade."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:90
 #, python-format
 msgid "<strong>The Washington Post:</strong> <a href=\"%(url)s\">Carmakers fail privacy test, give owners little or no control on personal data they collect</a>"
-msgstr "<strong>The Wingsman Post:</strong> <a href=\"%(url)s\">Fabricantes de automóveis falham em testes de privacidade, dão aos proprietários pouco ou nenhum controle sobre dados pessoais que eles coletam</a>"
+msgstr ""
+"<strong>The Wingsman Post:</strong> <a href=\"%(url)s\">Fabricantes de automóveis falham em testes de privacidade, dão aos proprietários pouco ou nenhum controle sobre dados pessoais que eles "
+"coletam</a>"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:94
-msgid "Published September 2023. “Cars are getting an “F” in data privacy. Most major manufacturers admit they may be selling your personal information, a new study finds, with half also saying they would share it with the government or law enforcement without a court order.”"
-msgstr "Publicado em setembro de 2023. “Carros estão recebendo nota “F” em privacidade de dados. A maioria dos grandes fabricantes reconhece que pode estar vendendo suas informações pessoais, segundo um novo estudo, com metade dizendo também que compartilharia com o governo ou agentes da lei sem ordem judicial."
+msgid ""
+"Published September 2023. “Cars are getting an “F” in data privacy. Most major manufacturers admit they may be selling your personal information, a new study finds, with half also saying they would "
+"share it with the government or law enforcement without a court order.”"
+msgstr ""
+"Publicado em setembro de 2023. “Carros estão recebendo nota “F” em privacidade de dados. A maioria dos grandes fabricantes reconhece que pode estar vendendo suas informações pessoais, segundo um "
+"novo estudo, com metade dizendo também que compartilharia com o governo ou agentes da lei sem ordem judicial."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:101
 #, python-format
@@ -590,8 +969,12 @@ msgid "<strong>Gizmodo:</strong> <a href=\"%(url)s\">If You've Got a New Car, It
 msgstr "<strong>Gizmodo:</strong> <a href=\"%(url)s\">Para quem tem um carro novo, é um pesadelo de privacidade de dados </a>"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:105
-msgid "Published September 2023. “Mozilla found brands including BMW, Ford, Toyota, Tesla, and Subaru collect data about drivers including race, facial expressions, weight, health information, and where you drive.”"
-msgstr "Publicado em setembro de 2023. “A Mozilla descobriu que marcas como BMW, Ford, Toyota, Tesla e Subaru coletam dados sobre motoristas, inclusive raça, expressões faciais, peso, informações de saúde e onde você dirige.”"
+msgid ""
+"Published September 2023. “Mozilla found brands including BMW, Ford, Toyota, Tesla, and Subaru collect data about drivers including race, facial expressions, weight, health information, and where "
+"you drive.”"
+msgstr ""
+"Publicado em setembro de 2023. “A Mozilla descobriu que marcas como BMW, Ford, Toyota, Tesla e Subaru coletam dados sobre motoristas, inclusive raça, expressões faciais, peso, informações de saúde e"
+" onde você dirige.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:111
 #, python-format
@@ -599,8 +982,12 @@ msgid "<strong>Los Angeles Times:</strong> <a href=\"%(url)s\">Mental health app
 msgstr "<strong>Los Angeles Times:</strong> <a href=\"%(url)s\">Aplicativos de saúde mental podem colocar sua privacidade em risco. Veja o que você deve observar </a>"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:115
-msgid "Published May 2023. “Jen Caltrider, director of Mozilla’s Privacy Not Included work, said it’s important to read an app’s privacy policy before downloading it because some of them start collecting data from users moments after they’re activated.”"
-msgstr "Publicado em maio de 2023. “Jen Caltrider, diretora do trabalho de Privacidade não incluída da Mozilla, disse que é importante ler a política de privacidade de um aplicativo antes de instalar, porque alguns começam a coletar dados dos usuários logo após ser ativados.”"
+msgid ""
+"Published May 2023. “Jen Caltrider, director of Mozilla’s Privacy Not Included work, said it’s important to read an app’s privacy policy before downloading it because some of them start collecting "
+"data from users moments after they’re activated.”"
+msgstr ""
+"Publicado em maio de 2023. “Jen Caltrider, diretora do trabalho de Privacidade não incluída da Mozilla, disse que é importante ler a política de privacidade de um aplicativo antes de instalar, "
+"porque alguns começam a coletar dados dos usuários logo após ser ativados.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:122
 #, python-format
@@ -609,7 +996,8 @@ msgstr "<strong>The Verge:</strong> <a href=\"%(url)s\">Cláusulas de confidenci
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:126
 msgid "Published May 2022. “Mozilla researchers said this week that mental health apps have some of the worst privacy protections of any app category.”"
-msgstr "Publicado em maio de 2022. “Pesquisadores da Mozilla disseram esta semana que aplicativos de saúde mental têm algumas das piores proteções de privacidade de qualquer categoria de aplicativos.”"
+msgstr ""
+"Publicado em maio de 2022. “Pesquisadores da Mozilla disseram esta semana que aplicativos de saúde mental têm algumas das piores proteções de privacidade de qualquer categoria de aplicativos.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:132
 #, python-format
@@ -618,7 +1006,9 @@ msgstr "<strong>VICE:</strong> <a href=\"%(url)s\">Aplicativos de monitoração 
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:136
 msgid "Published August 2022. “In total, of the 25 apps and products Mozilla reviewed, 18 were slapped with its ‘Privacy Not Included’ label, indicating that people should be cautious of using them.”"
-msgstr "Publicado em agosto de 2022. “No total, dos 25 aplicativos e produtos analisados pela Mozilla, 18 foram advertidos com o selo 'Privacidade não incluída', indicando que as pessoas devem ser cautelosas ao usar.”"
+msgstr ""
+"Publicado em agosto de 2022. “No total, dos 25 aplicativos e produtos analisados pela Mozilla, 18 foram advertidos com o selo 'Privacidade não incluída', indicando que as pessoas devem ser "
+"cautelosas ao usar.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:142
 #, python-format
@@ -626,8 +1016,11 @@ msgid "<strong>The Guardian:</strong> <a href=\"%(url)s\">How private is your pe
 msgstr "<strong>TheGuardian:</strong> <a href=\"%(url)s\">Quão privativo é seu aplicativo de acompanhamento de ciclo menstrual? Não muito, revela estudo</a>"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:146
-msgid "Published August 2022. “Experts at internet research non-profit Mozilla studied more than 20 pregnancy and period tracking apps for privacy and security features and said the results were grim.”"
-msgstr "Publicado em agosto de 2022. “Especialistas da Mozilla, organização sem fins lucrativos, estudaram recursos de privacidade e segurança de mais de 20 aplicativos de acompanhamento de gravidez e ciclo menstrual e disseram que os resultados foram sombrios.”"
+msgid ""
+"Published August 2022. “Experts at internet research non-profit Mozilla studied more than 20 pregnancy and period tracking apps for privacy and security features and said the results were grim.”"
+msgstr ""
+"Publicado em agosto de 2022. “Especialistas da Mozilla, organização sem fins lucrativos, estudaram recursos de privacidade e segurança de mais de 20 aplicativos de acompanhamento de gravidez e ciclo"
+" menstrual e disseram que os resultados foram sombrios.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:152
 #, python-format
@@ -636,7 +1029,9 @@ msgstr "<strong>Daily Dot:</strong> <a href=\"%(url)s\">A Mozilla adverte que es
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:156
 msgid "Published February 2021. “Mozilla’s new Privacy Not Included report looks at 50 sex toys and dating apps and ranks them based on how they respect users’ privacy. And the answers aren’t sexy.”"
-msgstr "Publicado em fevereiro de 2021. “O novo relatório de Privacidade não incluída da Mozilla analisa 50 brinquedos sexuais e aplicativos de namoro e os classifica com base em como respeitam a privacidade dos usuários. As respostas não são sexy.”"
+msgstr ""
+"Publicado em fevereiro de 2021. “O novo relatório de Privacidade não incluída da Mozilla analisa 50 brinquedos sexuais e aplicativos de namoro e os classifica com base em como respeitam a "
+"privacidade dos usuários. As respostas não são sexy.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:162
 #, python-format
@@ -654,7 +1049,9 @@ msgstr "<strong>NPR:</strong> <a href=\"%(url)s\">Guia do Comprador “Privacida
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:176
 msgid "Published December 2019. Ashley Boyd, Mozilla’s VP of Advocacy and Engagement, spoke with host Steve Inskeep about the surveillance features that are often built into consumer technology."
-msgstr "Publicado em dezembro de 2019. Ashley Boyd, VP de Defesa e Engajamento da Mozilla, falou com o apresentador Steve Inskeep sobre os recursos de vigilância que muitas vezes são incorporados à tecnologia de consumo."
+msgstr ""
+"Publicado em dezembro de 2019. Ashley Boyd, VP de Defesa e Engajamento da Mozilla, falou com o apresentador Steve Inskeep sobre os recursos de vigilância que muitas vezes são incorporados à "
+"tecnologia de consumo."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:183
 msgid "Here’s a warning that should be on some of the items on your holiday shopping list—*Privacy Not Included. That’s the point of a shopping guide put out by the Mozilla Foundation."
@@ -667,7 +1064,8 @@ msgstr "<strong>USA Today:</strong> <a href=\"%(url)s\">Antes de comprar, pense 
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:204
 msgid "Published November 2019. Mozilla researcher Becca Ricks spoke with technology columnist Jefferson Graham about the privacy and security flaws of connected doorbells."
-msgstr "Publicado em novembro de 2019. A pesquisadora da Mozilla Becca Ricks conversou com o colunista de tecnologia Jefferson Graham sobre as falhas de privacidade e segurança das campainhas conectadas."
+msgstr ""
+"Publicado em novembro de 2019. A pesquisadora da Mozilla Becca Ricks conversou com o colunista de tecnologia Jefferson Graham sobre as falhas de privacidade e segurança das campainhas conectadas."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:210
 #, python-format
@@ -676,7 +1074,9 @@ msgstr "<strong>WIRED:</strong> <a href=\"%(url)s\">Mozilla faz uma lista de pre
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:214
 msgid "Published November 2018. “In its second annual Privacy Not Included guide, the nonprofit highlights internet-connected items that value your privacy—and the ones that may not.”"
-msgstr "Publicado em novembro de 2018. “Em seu segundo guia anual de Privacidade não incluída, a entidade sem fins lucrativos destaca itens conectados à internet que valorizam sua privacidade e os que não valorizam.”"
+msgstr ""
+"Publicado em novembro de 2018. “Em seu segundo guia anual de Privacidade não incluída, a entidade sem fins lucrativos destaca itens conectados à internet que valorizam sua privacidade e os que não "
+"valorizam.”"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:220
 #, python-format
@@ -684,8 +1084,12 @@ msgid "<strong>New York Times:</strong> <a href=\"%(url)s\">Don’t Give Kids Ho
 msgstr "<strong>New York Times:</strong> <a href=\"%(url)s\">Não dê presentes de Natal às crianças que podem espioná-las</a>"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/press.html:224
-msgid "Published December 2017. Writes Ashley Boyd in this print and digital op-ed: “During the holiday season, my husband and I tend to offer suggestions to those who are generous enough to insist on buying presents for our kids. This year we’re adding a new rule to our list: No toys that can spy.”"
-msgstr "Publicado em dezembro de 2017. Escreve Ashley Boyd neste editorial impresso e digital: “Durante as festas de fim de ano, meu marido e eu oferecemos sugestões às pessoas que são generosas o suficiente para insistir na compra de presentes para nossos filhos. Este ano, estamos acrescentando uma nova regra à nossa lista: nada de brinquedos que possam espionar”."
+msgid ""
+"Published December 2017. Writes Ashley Boyd in this print and digital op-ed: “During the holiday season, my husband and I tend to offer suggestions to those who are generous enough to insist on "
+"buying presents for our kids. This year we’re adding a new rule to our list: No toys that can spy.”"
+msgstr ""
+"Publicado em dezembro de 2017. Escreve Ashley Boyd neste editorial impresso e digital: “Durante as festas de fim de ano, meu marido e eu oferecemos sugestões às pessoas que são generosas o "
+"suficiente para insistir na compra de presentes para nossos filhos. Este ano, estamos acrescentando uma nova regra à nossa lista: nada de brinquedos que possam espionar”."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:9
 msgid "Why We Made This Guide"
@@ -694,23 +1098,46 @@ msgstr "Por que fizemos este guia"
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:14
 #, python-format
 msgid "Welcome to  <a %(link_args)s>Mozilla’s</a> <em>*Privacy Not Included</em> buyer’s guide. Our goal is to help you shop smart—and safe—for products that connect to the internet."
-msgstr "Bem-vindo ao guia de compras da <a %(link_args)s>Mozilla</a> <em>*Privacidade não incluída</em>. Nosso objetivo é ajudar você a comprar produtos que se conectam à internet de forma inteligente e segura."
+msgstr ""
+"Bem-vindo ao guia de compras da <a %(link_args)s>Mozilla</a> <em>*Privacidade não incluída</em>. Nosso objetivo é ajudar você a comprar produtos que se conectam à internet de forma inteligente e "
+"segura."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:21
-msgid "In 2017, when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart home products. Turns out, they were. And it wasn’t just people who were interested. We discovered some companies were too. We’re happy to see both consumers and companies increasingly value connected products that are safe, secure, and private."
-msgstr "Em 2017, quando começamos <em>*Privacidade não incluída</em>, não sabíamos se as pessoas estariam interessadas em um guia sobre a privacidade e segurança de brinquedos, gadgets e produtos domésticos inteligentes conectados. Ao que parece, elas estavam. E não eram apenas as pessoas que estavam interessadas. Descobrimos que algumas empresas também estavam. Estamos felizes em ver tanto consumidores quanto empresas valorizando cada vez mais os produtos conectados que são seguros, protegidos e privados."
+msgid ""
+"In 2017, when we first started <em>*Privacy Not Included</em>, we didn’t know if people would be interested in a guide about the privacy and security of connected toys, gadgets, and smart home "
+"products. Turns out, they were. And it wasn’t just people who were interested. We discovered some companies were too. We’re happy to see both consumers and companies increasingly value connected "
+"products that are safe, secure, and private."
+msgstr ""
+"Em 2017, quando começamos <em>*Privacidade não incluída</em>, não sabíamos se as pessoas estariam interessadas em um guia sobre a privacidade e segurança de brinquedos, gadgets e produtos domésticos"
+" inteligentes conectados. Ao que parece, elas estavam. E não eram apenas as pessoas que estavam interessadas. Descobrimos que algumas empresas também estavam. Estamos felizes em ver tanto "
+"consumidores quanto empresas valorizando cada vez mais os produtos conectados que são seguros, protegidos e privados."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:31
-msgid "Unfortunately, It is often difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. Is your personal data shared or sold in ways you may not have expected? What is the company’s known track record for protecting the personal information they collect on you? How does the company regularly test for and fix security vulnerabilities?"
-msgstr "Infelizmente, muitas vezes, os consumidores têm dificuldades de obter informações claras e concretas das empresas sobre a segurança e a privacidade de seus produtos conectados. Seus dados pessoais estão sendo compartilhados ou vendidos de maneiras que você talvez não esperasse? Qual é o histórico conhecido da empresa em termos de proteção das informações pessoais que eles coletam sobre você? Como a empresa testa e corrige regularmente as vulnerabilidades de segurança?"
+msgid ""
+"Unfortunately, It is often difficult for consumers to get clear, concrete information from companies about the security and privacy of their connected products. Is your personal data shared or sold "
+"in ways you may not have expected? What is the company’s known track record for protecting the personal information they collect on you? How does the company regularly test for and fix security "
+"vulnerabilities?"
+msgstr ""
+"Infelizmente, muitas vezes, os consumidores têm dificuldades de obter informações claras e concretas das empresas sobre a segurança e a privacidade de seus produtos conectados. Seus dados pessoais "
+"estão sendo compartilhados ou vendidos de maneiras que você talvez não esperasse? Qual é o histórico conhecido da empresa em termos de proteção das informações pessoais que eles coletam sobre você? "
+"Como a empresa testa e corrige regularmente as vulnerabilidades de segurança?"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:39
 msgid "With this guide, we hope to help you navigate this landscape by understanding what questions you should ask and what answers you should expect before buying a connected tech product."
 msgstr "Com este guia, esperamos ajudar você a se orientar neste cenário, entendendo quais perguntas deve fazer e quais respostas deve esperar antes de comprar um produto tecnológico conectado."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:45
-msgid "The way we approach our research here at <em>*Privacy Not Included</em> is from the viewpoint of you, the consumer. We just have a bit more time and expertise to read privacy policies and delve into company’s security practices. We don’t purchase the products and test them in a lab. Consumers can’t do that. Instead, we look at all the information we can find that is publicly available to consumers before they purchase a product to try and understand the privacy and security concerns you should be aware of. We seek a future in which hours of research like this aren’t required to buy safe, responsible products. Unfortunately, it seems we have a long way to go. In the meantime, we’ll read those boring privacy policies so you don’t have to."
-msgstr "A nossa pesquisa para <em>*Privacidade não incluída</em> foi feita sob o ponto de vista do consumidor. Temos apenas um pouco mais de tempo e experiência para ler as políticas de privacidade e mergulhar nas práticas de segurança da empresa. Nós não compramos os produtos e os testamos em um laboratório, afinal os consumidores não conseguem fazer isso. Em vez disso, analisamos todas as informações disponíveis publicamente aos consumidores antes da compra do produto para compreender as preocupações com privacidade e segurança das quais você deve estar ciente. Buscamos um futuro em que horas de pesquisa como esta não sejam necessárias para comprar produtos seguros e responsáveis. Infelizmente, parece que ainda temos um longo caminho a percorrer. Enquanto isso, nós lemos essas políticas chatas de privacidade para que você não precise fazê-lo."
+msgid ""
+"The way we approach our research here at <em>*Privacy Not Included</em> is from the viewpoint of you, the consumer. We just have a bit more time and expertise to read privacy policies and delve into"
+" company’s security practices. We don’t purchase the products and test them in a lab. Consumers can’t do that. Instead, we look at all the information we can find that is publicly available to "
+"consumers before they purchase a product to try and understand the privacy and security concerns you should be aware of. We seek a future in which hours of research like this aren’t required to buy "
+"safe, responsible products. Unfortunately, it seems we have a long way to go. In the meantime, we’ll read those boring privacy policies so you don’t have to."
+msgstr ""
+"A nossa pesquisa para <em>*Privacidade não incluída</em> foi feita sob o ponto de vista do consumidor. Temos apenas um pouco mais de tempo e experiência para ler as políticas de privacidade e "
+"mergulhar nas práticas de segurança da empresa. Nós não compramos os produtos e os testamos em um laboratório, afinal os consumidores não conseguem fazer isso. Em vez disso, analisamos todas as "
+"informações disponíveis publicamente aos consumidores antes da compra do produto para compreender as preocupações com privacidade e segurança das quais você deve estar ciente. Buscamos um futuro em "
+"que horas de pesquisa como esta não sejam necessárias para comprar produtos seguros e responsáveis. Infelizmente, parece que ainda temos um longo caminho a percorrer. Enquanto isso, nós lemos essas "
+"políticas chatas de privacidade para que você não precise fazê-lo."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:56
 msgid "What can you expect in our guide to help you shop safely for those connected products? Quite a few things."
@@ -721,29 +1148,51 @@ msgid "Our *Privacy Not Included warning label"
 msgstr "Nosso selo de alerta de *Privacidade não incluída"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:67
-msgid "We’re very excited our <em>*Privacy Not Included</em> buyer’s guide comes with <em>*Privacy Not Included</em> warning labels on products we think consumers should think twice about before buying. It’s no small thing to assign such a label to a product, so we set ourselves some strict standards. Where we have concerns, we aim to be as specific as possible about what could happen so you can buy products that meet your standards."
-msgstr "Estamos muito satisfeitos porque o nosso guia do comprador <em>*Privacidade não incluída</em> inclui selos de alerta de <em>*Privacidade não incluída</em> nos produtos que julgamos que os consumidores devem pensar duas vezes antes de comprar. Não é pouca coisa atribuir tal selo a um produto, por isso, estabelecemos padrões rigorosos. Quando temos preocupações, procuramos ser o mais específicos possível sobre o que pode acontecer para que você possa comprar produtos que atendam a seus padrões."
+msgid ""
+"We’re very excited our <em>*Privacy Not Included</em> buyer’s guide comes with <em>*Privacy Not Included</em> warning labels on products we think consumers should think twice about before buying. "
+"It’s no small thing to assign such a label to a product, so we set ourselves some strict standards. Where we have concerns, we aim to be as specific as possible about what could happen so you can "
+"buy products that meet your standards."
+msgstr ""
+"Estamos muito satisfeitos porque o nosso guia do comprador <em>*Privacidade não incluída</em> inclui selos de alerta de <em>*Privacidade não incluída</em> nos produtos que julgamos que os "
+"consumidores devem pensar duas vezes antes de comprar. Não é pouca coisa atribuir tal selo a um produto, por isso, estabelecemos padrões rigorosos. Quando temos preocupações, procuramos ser o mais "
+"específicos possível sobre o que pode acontecer para que você possa comprar produtos que atendam a seus padrões."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:78
 msgid "Our Best Of category"
 msgstr "Nossa categoria Melhor de"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:80
-msgid "It’s one thing to call out products that are bad. We also want to help consumers know what products are good. Check out our Best Of category to see which products and companies we think are doing privacy and security right."
-msgstr "Uma coisa é chamar a atenção para os produtos que são ruins. Também queremos ajudar os consumidores a saberem quais produtos são bons. Confira nossa categoria Melhor de para conhecer quais produtos e empresas achamos que estão fazendo jus à privacidade e à segurança."
+msgid ""
+"It’s one thing to call out products that are bad. We also want to help consumers know what products are good. Check out our Best Of category to see which products and companies we think are doing "
+"privacy and security right."
+msgstr ""
+"Uma coisa é chamar a atenção para os produtos que são ruins. Também queremos ajudar os consumidores a saberem quais produtos são bons. Confira nossa categoria Melhor de para conhecer quais produtos "
+"e empresas achamos que estão fazendo jus à privacidade e à segurança."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:89
 msgid "There is a Creep-O-Meter"
 msgstr "Tem o Assustadômetro"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:91
-msgid "We want you to be able to share your opinion too. It’s important for companies and other consumers to see which products people think are safe, and which products people feel are a bit creepy. So we created our Creep-O-Meter—a user rating on each product—to let you share your opinion. Companies are paying attention, so let them know if you think their product is creepy or not!"
-msgstr "Queremos que você também possa compartilhar sua opinião. É importante para as empresas e demais consumidores ver quais produtos que as pessoas consideram seguros e quais consideram um pouco assustadores. Por isso, criamos nosso Assustadômetro — uma classificação feita por usuários em cada produto – para você compartilhar sua opinião. As empresas estão prestando atenção, então, informe se você acha que o produto delas é assustador ou não!"
+msgid ""
+"We want you to be able to share your opinion too. It’s important for companies and other consumers to see which products people think are safe, and which products people feel are a bit creepy. So we"
+" created our Creep-O-Meter—a user rating on each product—to let you share your opinion. Companies are paying attention, so let them know if you think their product is creepy or not!"
+msgstr ""
+"Queremos que você também possa compartilhar sua opinião. É importante para as empresas e demais consumidores ver quais produtos que as pessoas consideram seguros e quais consideram um pouco "
+"assustadores. Por isso, criamos nosso Assustadômetro — uma classificação feita por usuários em cada produto – para você compartilhar sua opinião. As empresas estão prestando atenção, então, informe "
+"se você acha que o produto delas é assustador ou não!"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:104
 #, python-format
-msgid "We realize people want to <i>just know</i> which products are safe and which aren’t. We used our technical expertise here at Mozilla to create a set of Minimum Security Standards we think all products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and having an accessible privacy policy. Read more about our Minimum Security Standards on our <a href=%(url)s>Methodology page</a>."
-msgstr "Sabemos que as pessoas querem <i>apenas saber</i> quais produtos são seguros e quais não são. Usamos nossa experiência técnica aqui na Mozilla para criar um conjunto de Padrões mínimos de segurança que acreditamos que todos os produtos devem atender para serem vendidos nas lojas. Esses padrões incluem o uso de criptografia, atualizações automáticas de segurança, exigência de senhas fortes, existência de um sistema para gerenciar vulnerabilidades e uma política de privacidade acessível. Leia mais sobre nossos Padrões mínimos de segurança na nossa <a href=%(url)s>página de Metodologia</a>."
+msgid ""
+"We realize people want to <i>just know</i> which products are safe and which aren’t. We used our technical expertise here at Mozilla to create a set of Minimum Security Standards we think all "
+"products should meet in order to be sold in stores. Those standards include using encryption, automatic security updates, requiring strong passwords, having a system to manage vulnerabilities, and "
+"having an accessible privacy policy. Read more about our Minimum Security Standards on our <a href=%(url)s>Methodology page</a>."
+msgstr ""
+"Sabemos que as pessoas querem <i>apenas saber</i> quais produtos são seguros e quais não são. Usamos nossa experiência técnica aqui na Mozilla para criar um conjunto de Padrões mínimos de segurança "
+"que acreditamos que todos os produtos devem atender para serem vendidos nas lojas. Esses padrões incluem o uso de criptografia, atualizações automáticas de segurança, exigência de senhas fortes, "
+"existência de um sistema para gerenciar vulnerabilidades e uma política de privacidade acessível. Leia mais sobre nossos Padrões mínimos de segurança na nossa <a href=%(url)s>página de "
+"Metodologia</a>."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:115
 msgid "Tons of Research"
@@ -751,16 +1200,37 @@ msgstr "Montanhas de pesquisa"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:117
 #, python-format
-msgid "You’ll notice a lot of research went into this guide. We even include the hours we spent researching a product on every page. Fortunately, we have great researchers and expertise here at Mozilla to dig into this so you don’t have to. We don’t buy and test products. Instead we look at what we can find that is publicly available. Our researchers comb through privacy policies, reach out to companies with questions about encryption and bug bounty programs, sift through product and app specifications, and read the research and news articles written about the products in the past three years. We do our best to then make your access to all this information accessible and easy to understand. We’ve even put together a <a href=%(url)s>How to Use This Guide page</a> to help you understand all the information we share here on <em>*Privacy Not Included</em>."
-msgstr "Você vai notar que este guia envolveu inúmeras pesquisas. Nós até mesmo incluímos as horas que passamos pesquisando um produto em cada página. Felizmente, temos grandes pesquisadores e especialistas aqui na Mozilla para investigar isso, para que você não precise fazê-lo. Não compramos e testamos produtos. Em vez disso, analisamos o que conseguimos encontrar publicamente disponível. Os nossos pesquisadores examinam políticas de privacidade, consultam empresas com perguntas sobre criptografia e programas de recompensa de bugs, examinam as especificações de produtos e aplicativos e verificam as pesquisas e reportagens escritas sobre os produtos nos últimos três anos. Fazemos nosso melhor para disponibilizar todas essas informações para você de forma acessível e fácil de entender. Inclusive, criamos a <a href=%(url)s>página Como usar este guia</a> para ajudar você a entender todas as informações que compartilhamos aqui no <em>*Privacidade não incluída</em>."
+msgid ""
+"You’ll notice a lot of research went into this guide. We even include the hours we spent researching a product on every page. Fortunately, we have great researchers and expertise here at Mozilla to "
+"dig into this so you don’t have to. We don’t buy and test products. Instead we look at what we can find that is publicly available. Our researchers comb through privacy policies, reach out to "
+"companies with questions about encryption and bug bounty programs, sift through product and app specifications, and read the research and news articles written about the products in the past three "
+"years. We do our best to then make your access to all this information accessible and easy to understand. We’ve even put together a <a href=%(url)s>How to Use This Guide page</a> to help you "
+"understand all the information we share here on <em>*Privacy Not Included</em>."
+msgstr ""
+"Você vai notar que este guia envolveu inúmeras pesquisas. Nós até mesmo incluímos as horas que passamos pesquisando um produto em cada página. Felizmente, temos grandes pesquisadores e especialistas"
+" aqui na Mozilla para investigar isso, para que você não precise fazê-lo. Não compramos e testamos produtos. Em vez disso, analisamos o que conseguimos encontrar publicamente disponível. Os nossos "
+"pesquisadores examinam políticas de privacidade, consultam empresas com perguntas sobre criptografia e programas de recompensa de bugs, examinam as especificações de produtos e aplicativos e "
+"verificam as pesquisas e reportagens escritas sobre os produtos nos últimos três anos. Fazemos nosso melhor para disponibilizar todas essas informações para você de forma acessível e fácil de "
+"entender. Inclusive, criamos a <a href=%(url)s>página Como usar este guia</a> para ajudar você a entender todas as informações que compartilhamos aqui no <em>*Privacidade não incluída</em>."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:129
-msgid "We hope you use this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. Then share it with your friends and family to help them shop safe too. We as consumers need to demand that privacy and security as a value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
-msgstr "Esperamos que você use este guia para analisar, pesquisar e comprar produtos de empresas que mostram que valorizam a privacidade e a segurança. Compartilhe-o com seus amigos e familiares para ajudá-los a comprar com segurança também. Nós, como consumidores, precisamos exigir essa privacidade e segurança como um valor das pessoas que fabricam os nossos produtos. É assim que vamos começar a tornar a internet, e as nossas vidas, um pouco mais seguras neste mundo digital. Esse é o nosso objetivo todos os dias aqui na Mozilla."
+msgid ""
+"We hope you use this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. Then share it with your friends and family to help them shop "
+"safe too. We as consumers need to demand that privacy and security as a value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this "
+"digital world. That is our goal every day here at Mozilla."
+msgstr ""
+"Esperamos que você use este guia para analisar, pesquisar e comprar produtos de empresas que mostram que valorizam a privacidade e a segurança. Compartilhe-o com seus amigos e familiares para ajudá-"
+"los a comprar com segurança também. Nós, como consumidores, precisamos exigir essa privacidade e segurança como um valor das pessoas que fabricam os nossos produtos. É assim que vamos começar a "
+"tornar a internet, e as nossas vidas, um pouco mais seguras neste mundo digital. Esse é o nosso objetivo todos os dias aqui na Mozilla."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:141
-msgid "We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. We as consumers need to demand that value from the people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
-msgstr "Esperamos que você use e curta este guia para analisar, pesquisar e comprar produtos de empresas que mostram que valorizam a privacidade e a segurança. Nós, como consumidores, precisamos exigir esse valor das pessoas que fabricam os nossos produtos. É assim que vamos começar a tornar a internet, e as nossas vidas, um pouco mais seguras neste mundo digital. Esse é o nosso objetivo todos os dias aqui na Mozilla."
+msgid ""
+"We hope you use and enjoy this guide to help you think about, shop for, and buy products from companies that show they value privacy and security. We as consumers need to demand that value from the "
+"people who build our products. It’s how we’ll start to make the internet, and our lives, a bit safer in this digital world. That is our goal every day here at Mozilla."
+msgstr ""
+"Esperamos que você use e curta este guia para analisar, pesquisar e comprar produtos de empresas que mostram que valorizam a privacidade e a segurança. Nós, como consumidores, precisamos exigir esse"
+" valor das pessoas que fabricam os nossos produtos. É assim que vamos começar a tornar a internet, e as nossas vidas, um pouco mais seguras neste mundo digital. Esse é o nosso objetivo todos os dias"
+" aqui na Mozilla."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:150
 msgid "Thank you!"
@@ -772,8 +1242,13 @@ msgstr "Equipe *Privacidade não incluída"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:156
 #, python-format
-msgid "Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a %(mofo_url)s>Mozilla Foundation</a> which relies on <a %(donate_url)s>donations</a> from people like you to do our work. You can also visit <a %(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
-msgstr "A Mozilla batalha diariamente por uma internet mais saudável como uma empresa tecnológica sem fins lucrativos que considera as pessoas acima do lucro. Este guia foi criado pela <a %(mofo_url)s>Fundação Mozilla</a> que conta com <a %(donate_url)s>doações</a> de pessoas como você para realizar esse trabalho. Você também pode acessar <a %(mozilla_url)s>Mozilla.org</a> para saber mais sobre os nossos produtos feitos com propósito como Firefox e Common Voice."
+msgid ""
+"Mozilla fights daily for a healthier internet as a non-profit tech company that puts people before profit. This guide was created by the <a %(mofo_url)s>Mozilla Foundation</a> which relies on <a "
+"%(donate_url)s>donations</a> from people like you to do our work. You can also visit <a %(mozilla_url)s>Mozilla.org</a> to learn more about our purpose driven products like Firefox and Common Voice."
+msgstr ""
+"A Mozilla batalha diariamente por uma internet mais saudável como uma empresa tecnológica sem fins lucrativos que considera as pessoas acima do lucro. Este guia foi criado pela <a "
+"%(mofo_url)s>Fundação Mozilla</a> que conta com <a %(donate_url)s>doações</a> de pessoas como você para realizar esse trabalho. Você também pode acessar <a %(mozilla_url)s>Mozilla.org</a> para saber"
+" mais sobre os nossos produtos feitos com propósito como Firefox e Common Voice."
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/about/why_we_made.html:168
 #, python-format
