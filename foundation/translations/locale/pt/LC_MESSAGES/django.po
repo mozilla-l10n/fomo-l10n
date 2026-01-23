@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-21 17:02+0000\n"
+"POT-Creation-Date: 2026-01-23 10:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,15 +23,15 @@ msgid "Keep Contributing"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/share.html:11
-msgid "No, I will share instead"
+msgid "I will share instead"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/skip.html:11
-msgid "Sorry, not right now"
+msgid "Maybe later"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/confirmation_notice_banner.html:8
-msgid "IMPORTANT"
+msgid "Important"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/confirmation_notice_banner.html:10
@@ -103,14 +103,10 @@ msgid "Comments"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:288
-msgid "Yes, I want to receive email updates about Mozilla’s campaigns."
+msgid "Yes, send me updates on privacy and good tech."
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:290
-msgid "Add my name"
-msgstr ""
-
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:294
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:297
 #, python-format
 msgid "By signing you accept Mozilla handling your info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>*"
 msgstr ""
