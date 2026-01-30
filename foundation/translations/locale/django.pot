@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-27 15:52+0000\n"
+"POT-Creation-Date: 2026-01-30 13:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -281,9 +281,13 @@ msgstr ""
 msgid "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/language_switcher.html:13
+#: foundation_cms/templates/patterns/components/language_switcher.html:9
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:45
 msgid "Language"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/listing_page/section_divider.html:6
+msgid "decorative divider"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:8
@@ -419,23 +423,23 @@ msgstr ""
 msgid "Share by Email"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/topic_listing/section_divider.html:6
-msgid "decorative divider"
+#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:19
+msgid "More from Nothing Personal:"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:19
+#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:24
+msgid "From the rest of Mozilla Foundation:"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/listing_page_base.html:7
 #, python-format
 msgid "Showing %(total_pages_count)s result for:"
 msgid_plural "Showing %(total_pages_count)s results for:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:28
-msgid "More from Nothing Personal:"
-msgstr ""
-
-#: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:33
-msgid "From the rest of Mozilla Foundation:"
+#: foundation_cms/templates/patterns/pages/nothing_personal/article_collection_page.html:11
+msgid "Articles"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:20
