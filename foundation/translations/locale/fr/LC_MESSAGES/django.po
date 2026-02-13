@@ -402,12 +402,12 @@ msgstr "Nous rejoindre"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:60
 msgid "Toggle search input"
-msgstr ""
+msgstr "Activer/Désactiver la recherche"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:62 foundation_cms/templates/search/_search_form.html:3 foundation_cms/templates/search/_search_form.html:4
 #: foundation_cms/templates/search/search_page.html:6
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 #: foundation_cms/templates/patterns/components/share_container.html:6
 msgid "Share this!"
@@ -459,25 +459,25 @@ msgstr "Autres tests"
 #: foundation_cms/templates/search/_pagination.html:6
 msgctxt "Pagination button"
 msgid "Previous page"
-msgstr ""
+msgstr "Page précédente"
 
 #: foundation_cms/templates/search/_pagination.html:7
 msgctxt "Pagination button"
 msgid "Next page"
-msgstr ""
+msgstr "Page suivante"
 
 #: foundation_cms/templates/search/_pagination.html:8
 msgid "Pagination"
-msgstr ""
+msgstr "Pagination"
 
 #: foundation_cms/templates/search/_search_results.html:20 foundation_cms/templates/search/_search_results.html:22
 msgctxt "Byline prefix"
 msgid "By"
-msgstr ""
+msgstr "Par"
 
 #: foundation_cms/templates/search/_search_summary.html:6
 msgid "of"
-msgstr ""
+msgstr "sur"
 
 #: foundation_cms/templates/search/_search_summary.html:8
 #, python-format
@@ -489,12 +489,12 @@ msgid_plural ""
 "\n"
 "            %(total_results)s results\n"
 "          "
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(total_results)s résultat"
+msgstr[1] "%(total_results)s résultats"
 
 #: foundation_cms/templates/search/_search_summary.html:14 foundation_cms/templates/search/_search_summary.html:24
 msgid "for:"
-msgstr ""
+msgstr "pour :"
 
 #: foundation_cms/templates/search/_search_summary.html:18
 #, python-format
@@ -506,14 +506,14 @@ msgid_plural ""
 "\n"
 "          %(total_results)s results\n"
 "        "
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(total_results)s résultat"
+msgstr[1] "%(total_results)s résultats"
 
 #: foundation_cms/templates/search/_search_summary.html:32
 #, python-format
 msgid "Page %(page_number)s of %(total_pages)s"
-msgstr ""
+msgstr "Page %(page_number)s sur %(total_pages)s"
 
 #: foundation_cms/templates/search/search_page.html:32
 msgid "Recent content heading"
-msgstr ""
+msgstr "En-tête du contenu récent"
