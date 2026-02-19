@@ -19,7 +19,7 @@ msgstr "Sigue contribuyendo"
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/share.html:11
 msgid "I will share instead"
-msgstr ""
+msgstr "Lo compartiré en su lugar"
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/skip.html:11
 msgid "Maybe later"
@@ -91,7 +91,7 @@ msgstr "Comentarios"
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:288
 msgid "Yes, send me updates on privacy and good tech."
-msgstr ""
+msgstr "Sí, envíame actualizaciones sobre privacidad y buena tecnología."
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:297
 #, python-format
@@ -386,11 +386,11 @@ msgstr "Qué hacemos"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:41
 msgid "Imagine"
-msgstr "Imaginar"
+msgstr "Imagina"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:42
 msgid "Co-create"
-msgstr "Co-crear"
+msgstr "Cocrear"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:43
 msgid "Mobilize"
@@ -402,12 +402,12 @@ msgstr "Únete"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:60
 msgid "Toggle search input"
-msgstr ""
+msgstr "Alternar entrada de búsqueda"
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:62 foundation_cms/templates/search/_search_form.html:3 foundation_cms/templates/search/_search_form.html:4
 #: foundation_cms/templates/search/search_page.html:6
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: foundation_cms/templates/patterns/components/share_container.html:6
 msgid "Share this!"
@@ -459,16 +459,16 @@ msgstr "Más reseñas"
 #: foundation_cms/templates/search/_pagination.html:6
 msgctxt "Pagination button"
 msgid "Previous page"
-msgstr ""
+msgstr "Página anterior"
 
 #: foundation_cms/templates/search/_pagination.html:7
 msgctxt "Pagination button"
 msgid "Next page"
-msgstr ""
+msgstr "Página siguiente"
 
 #: foundation_cms/templates/search/_pagination.html:8
 msgid "Pagination"
-msgstr ""
+msgstr "Paginación"
 
 #: foundation_cms/templates/search/_search_results.html:10
 msgid "Illustration placeholder"
@@ -477,11 +477,11 @@ msgstr ""
 #: foundation_cms/templates/search/_search_results.html:44 foundation_cms/templates/search/_search_results.html:54
 msgctxt "Byline prefix"
 msgid "By"
-msgstr ""
+msgstr "Por"
 
 #: foundation_cms/templates/search/_search_summary.html:6
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #: foundation_cms/templates/search/_search_summary.html:8
 #, python-format
@@ -494,11 +494,17 @@ msgid_plural ""
 "            %(total_results)s results\n"
 "          "
 msgstr[0] ""
+"\n"
+"            %(total_results)s resultado\n"
+" "
 msgstr[1] ""
+"\n"
+"            %(total_results)s resultados\n"
+" "
 
 #: foundation_cms/templates/search/_search_summary.html:14 foundation_cms/templates/search/_search_summary.html:24
 msgid "for:"
-msgstr ""
+msgstr "para:"
 
 #: foundation_cms/templates/search/_search_summary.html:18
 #, python-format
@@ -511,13 +517,19 @@ msgid_plural ""
 "          %(total_results)s results\n"
 "        "
 msgstr[0] ""
+"\n"
+"          %(total_results)s resultado\n"
+"        "
 msgstr[1] ""
+"\n"
+"          %(total_results)s resultados\n"
+" "
 
 #: foundation_cms/templates/search/_search_summary.html:32
 #, python-format
 msgid "Page %(page_number)s of %(total_pages)s"
-msgstr ""
+msgstr "Página %(page_number)s de %(total_pages)s"
 
 #: foundation_cms/templates/search/search_page.html:32
 msgid "Latest Stories"
-msgstr ""
+msgstr "Últimas historias"
