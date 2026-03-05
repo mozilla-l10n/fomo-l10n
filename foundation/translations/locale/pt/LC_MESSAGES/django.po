@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-18 07:48+0000\n"
+"POT-Creation-Date: 2026-03-05 15:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -214,6 +214,7 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/buttons/btn_close.html:9
 #: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6
 #: foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:56
 #: foundation_cms/templates/patterns/components/primary_nav.html:63
 msgid "Close"
 msgstr ""
@@ -232,52 +233,56 @@ msgid "Skip Down"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/footer.html:8
+#: foundation_cms/templates/patterns/components/footer/footer_content.html:11
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:28
 #: foundation_cms/templates/patterns/components/primary_nav.html:22
 msgid "Mozilla Foundation Logo"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:21
+#: foundation_cms/templates/patterns/components/footer.html:26
 msgid "Licensing"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:22
+#: foundation_cms/templates/patterns/components/footer.html:27
 msgid "Annual Reports & Financials"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:23
+#: foundation_cms/templates/patterns/components/footer.html:28
 msgid "Press Center"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:24
+#: foundation_cms/templates/patterns/components/footer.html:29
 msgid "Grantmaking"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:27
+#: foundation_cms/templates/patterns/components/footer.html:32
 msgid "Careers"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:28
+#: foundation_cms/templates/patterns/components/footer.html:33
 msgid "Privacy"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:29
+#: foundation_cms/templates/patterns/components/footer.html:34
 msgid "Cookies"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:30
+#: foundation_cms/templates/patterns/components/footer.html:35
 msgid "Legal"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:31
+#: foundation_cms/templates/patterns/components/footer.html:36
 msgid "Participation guidelines"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:35
+#: foundation_cms/templates/patterns/components/footer.html:40
+#: foundation_cms/templates/patterns/components/footer/footer_content.html:47
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:63
 #: foundation_cms/templates/patterns/components/primary_nav.html:69
 msgid "Donate"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/footer.html:43
+#: foundation_cms/templates/patterns/components/footer.html:48
 #, python-format
 msgid "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
 msgstr ""
@@ -287,8 +292,32 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/listing_page/section_divider.html:6
-msgid "decorative divider"
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:14
+#: foundation_cms/templates/patterns/components/primary_nav.html:8
+msgid "Toggle navigation"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:25
+#: foundation_cms/templates/patterns/components/primary_nav.html:20
+msgid "Mozilla Foundation homepage"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:32
+#: foundation_cms/templates/patterns/components/primary_nav.html:23
+msgid "Mozilla Foundation Symbol"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:48
+#: foundation_cms/templates/patterns/components/primary_nav.html:60
+msgid "Toggle search input"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:52
+#: foundation_cms/templates/patterns/components/primary_nav.html:62
+#: foundation_cms/templates/search/_search_form.html:3
+#: foundation_cms/templates/search/_search_form.html:4
+#: foundation_cms/templates/search/search_page.html:6
+msgid "Search"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:8
@@ -376,18 +405,6 @@ msgstr ""
 msgid "By %(author)s"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/primary_nav.html:8
-msgid "Toggle navigation"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:20
-msgid "Mozilla Foundation homepage"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:23
-msgid "Mozilla Foundation Symbol"
-msgstr ""
-
 #: foundation_cms/templates/patterns/components/primary_nav.html:34
 msgid "Meet Mozilla"
 msgstr ""
@@ -410,17 +427,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/primary_nav.html:48
 msgid "Join Us"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:60
-msgid "Toggle search input"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:62
-#: foundation_cms/templates/search/_search_form.html:3
-#: foundation_cms/templates/search/_search_form.html:4
-#: foundation_cms/templates/search/search_page.html:6
-msgid "Search"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/share_container.html:6
