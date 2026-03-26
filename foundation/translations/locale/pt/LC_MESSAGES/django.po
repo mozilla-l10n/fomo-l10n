@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-05 15:55+0000\n"
+"POT-Creation-Date: 2026-03-26 07:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,7 +58,7 @@ msgid "Check out this petition:"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:34
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:33
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:35
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:28
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:29
 #: foundation_cms/templates/patterns/components/share_container.html:16
@@ -73,36 +73,37 @@ msgstr ""
 msgid "Completed"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:27
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:29
 msgid "First Name"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:30
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:32
 msgid "Last Name"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:37
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
 msgid "Country"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:37
-msgid "Please select..."
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:40
+msgid "Your country"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:279
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:283
 msgid "Postal Code"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:284
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:288
 msgid "Comments"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:288
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:292
 msgid "Yes, send me updates on privacy and good tech."
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:297
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:301
 #, python-format
 msgid "By signing you accept Mozilla handling your info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>*"
 msgstr ""
@@ -208,6 +209,10 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/back_to_top.html:3
 #: foundation_cms/templates/patterns/components/back_to_top.html:4
 msgid "Back to top"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/breadcrumb_nav.html:3
+msgid "Breadcrumb Navigation"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/buttons/btn_close.html:6
@@ -327,10 +332,6 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:33
 #: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
 msgid "Please enter a valid email address."
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:40
-msgid "Your country"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:55
