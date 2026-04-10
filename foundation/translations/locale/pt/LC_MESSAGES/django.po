@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-26 07:44+0000\n"
+"POT-Creation-Date: 2026-04-10 10:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,6 +83,7 @@ msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:49
 msgid "Country"
 msgstr ""
 
@@ -131,6 +132,7 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:5
 #: foundation_cms/templates/patterns/components/carousel_controls.html:4
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:120
 msgid "Previous"
 msgstr ""
 
@@ -140,6 +142,7 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14
 #: foundation_cms/templates/patterns/components/carousel_controls.html:9
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:134
 msgid "Next"
 msgstr ""
 
@@ -401,11 +404,6 @@ msgstr ""
 msgid "In This Review"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/nothing_personal/related_content.html:30
-#, python-format
-msgid "By %(author)s"
-msgstr ""
-
 #: foundation_cms/templates/patterns/components/primary_nav.html:34
 msgid "Meet Mozilla"
 msgstr ""
@@ -430,6 +428,11 @@ msgstr ""
 msgid "Join Us"
 msgstr ""
 
+#: foundation_cms/templates/patterns/components/related_content.html:30
+#, python-format
+msgid "By %(author)s"
+msgstr ""
+
 #: foundation_cms/templates/patterns/components/share_container.html:6
 msgid "Share this!"
 msgstr ""
@@ -448,6 +451,37 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/pages/core/topic_listing_page.html:24
 msgid "From the rest of Mozilla Foundation:"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:22
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:37
+msgid "Topic"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:24
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:39
+msgid "All Topics"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:34
+msgid "Program Label"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:36
+msgid "All Programs"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:46
+msgid "Year"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:48
+msgid "All Years"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/gallery_hub/project_page.html:60
+#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:60
+msgid "More Stories"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/listing_page_base.html:7
@@ -469,12 +503,56 @@ msgstr ""
 msgid "Topics"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:60
-msgid "More Stories"
-msgstr ""
-
 #: foundation_cms/templates/patterns/pages/nothing_personal/product_review_page.html:45
 msgid "More Reviews"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:9
+msgid "Go to landing page"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:18
+msgid "Explore Issue Areas"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:51
+msgid "All Countries"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:61
+msgid "Role"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:63
+msgid "All Roles"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:72
+msgid "Apply filters"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:89
+msgid "0 results"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:117
+msgid "Expert listing pagination"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:10
+msgid "Explore all experts"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:20
+msgid "Featured Experts"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:29
+msgid "Other"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:45
+msgid "Projects"
 msgstr ""
 
 #: foundation_cms/templates/search/_pagination.html:6
