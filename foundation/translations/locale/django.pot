@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-10 10:20+0000\n"
+"POT-Creation-Date: 2026-04-23 06:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,7 +83,6 @@ msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:49
 msgid "Country"
 msgstr ""
 
@@ -132,7 +131,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:5
 #: foundation_cms/templates/patterns/components/carousel_controls.html:4
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:120
 msgid "Previous"
 msgstr ""
 
@@ -142,7 +140,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14
 #: foundation_cms/templates/patterns/components/carousel_controls.html:9
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:134
 msgid "Next"
 msgstr ""
 
@@ -207,6 +204,20 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/spotlight_card_set_block.html:7
 msgid "Spotlight Carousel"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/_pagination.html:6
+msgctxt "Pagination button"
+msgid "Previous page"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/_pagination.html:7
+msgctxt "Pagination button"
+msgid "Next page"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/_pagination.html:8
+msgid "Pagination"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/back_to_top.html:3
@@ -454,12 +465,10 @@ msgid "From the rest of Mozilla Foundation:"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:22
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:37
 msgid "Topic"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:24
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:39
 msgid "All Topics"
 msgstr ""
 
@@ -507,36 +516,21 @@ msgstr ""
 msgid "More Reviews"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:9
-msgid "Go to landing page"
-msgstr ""
-
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:18
-msgid "Explore Issue Areas"
-msgstr ""
-
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:51
-msgid "All Countries"
-msgstr ""
-
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:61
-msgid "Role"
-msgstr ""
-
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:63
-msgid "All Roles"
-msgstr ""
-
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:72
-msgid "Apply filters"
-msgstr ""
-
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:89
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:94
 msgid "0 results"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:117
-msgid "Expert listing pagination"
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:127
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:128
+msgid "Show all topics"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:129
+msgid "Show fewer topics"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/profiles/expert_directory_page.html:141
+msgid "Explore Topic Areas"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:10
@@ -553,20 +547,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:45
 msgid "Projects"
-msgstr ""
-
-#: foundation_cms/templates/search/_pagination.html:6
-msgctxt "Pagination button"
-msgid "Previous page"
-msgstr ""
-
-#: foundation_cms/templates/search/_pagination.html:7
-msgctxt "Pagination button"
-msgid "Next page"
-msgstr ""
-
-#: foundation_cms/templates/search/_pagination.html:8
-msgid "Pagination"
 msgstr ""
 
 #: foundation_cms/templates/search/_search_results.html:10
