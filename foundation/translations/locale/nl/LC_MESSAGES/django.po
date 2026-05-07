@@ -117,52 +117,52 @@ msgstr "Nothing Personal-logo"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/donor_help_contact_us_form_block.html:7
 msgid "Success!"
-msgstr ""
+msgstr "Gelukt!"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/donor_help_contact_us_form_block.html:8
 msgid "Your form has been submitted."
-msgstr ""
+msgstr "Uw formulier is ingediend."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/donor_help_contact_us_form_block.html:9
 msgid "Ask another question"
-msgstr ""
+msgstr "Een andere vraag stellen"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:79
 msgid "I need"
-msgstr ""
+msgstr "Ik:"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:79
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:120
 msgid "Please select..."
-msgstr ""
+msgstr "Selecteer…"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:80
 msgid "Help with making a donation"
-msgstr ""
+msgstr "Heb hulp nodig bij het doen van een donatie"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:81
 msgid "To manage or update my recurring donation"
-msgstr ""
+msgstr "Mijn periodieke donatie beheren of bijwerken"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:82
 msgid "Help donating by bank transfer (SEPA/IBAN)"
-msgstr ""
+msgstr "Heb hulp nodig bij het doneren via overschrijving (SEPA/IBAN)"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:83
 msgid "Help with an unauthorized or fraudulent donation"
-msgstr ""
+msgstr "Heb hulp nodig met betrekking tot een ongeautoriseerde of frauduleuze donatie"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:84
 msgid "A copy of my donation receipt or annual receipt"
-msgstr ""
+msgstr "Wil een afschrift van mijn donatiebewijs of jaarlijks ontvangstbewijs ontvangen"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:85
 msgid "My donation refunded"
-msgstr ""
+msgstr "Wil restitutie van mijn donatie"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:86
 msgid "Help with something else"
-msgstr ""
+msgstr "Heb hulp nodig met iets anders"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:88
 #, python-format
@@ -171,12 +171,15 @@ msgid ""
 "href=\"%(ways_link)s\" target=\"_blank\"><b>Ways to Give</b></a> page.<br><br><i>Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used "
 "in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted by law.<br><br></i>"
 msgstr ""
+"Als u ons werk wilt steunen, kunt u <a href=\"%(donate_link)s\" target=\"_blank\"><b>hier</b></a>.<br><br>een online donatie doen. Op zoek naar andere manieren om te doneren? Bezoek onze pagina <a "
+"href=\"%(ways_link)s\" target=\"_blank\"><b>Manieren om te geven</b></a>.<br><br><i>Bijdragen gaan naar de Mozilla Foundation, een 501(c)(3)-organisatie gevestigd in San Francisco, Californië, voor "
+"gebruik naar eigen goeddunken voor haar goede doelen. Voor zover wettelijk toegestaan, zijn ze fiscaal aftrekbaar in de VS.<br><br></i>"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:88
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:89
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:97
 msgid "Still have questions? Contact us by submitting a case."
-msgstr ""
+msgstr "Nog steeds vragen? Neem contact met ons op door een aanvraag in te dienen."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:89
 #, python-format
@@ -184,16 +187,20 @@ msgid ""
 "Visit your <a href=\"%(portal_link)s\" target=\"_blank\"><b>Donor Portal</b></a> anytime to access your receipts and manage your recurring donation, including updating the amount, frequency, payment"
 " method, or billing date, or cancelling your plan.<i><br><br></i>"
 msgstr ""
+"Ga op elk gewenst moment naar uw <a href=\"%(portal_link)s\" target=\"_blank\"><b>donateursportaal</b></a> om toegang te krijgen tot uw ontvangstbewijzen en uw periodieke donatie te beheren, "
+"inclusief het bijwerken van het bedrag, de frequentie, de betalingsmethode of de factureringsdatum, of het annuleren van uw abonnement.<i><br><br></i>"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:91
 msgid ""
 "We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single "
 "European Payment Area (SEPA) transfer."
 msgstr ""
+"We waarderen uw genereuze steun echt en bieden u nu een eenvoudigere manier om te doneren via een online bankoverschrijving. We kunnen donaties via automatische incasso in euro's via een Single "
+"European Payment Area (SEPA)-overschrijving accepteren."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:97
 msgid "Make your donation online now"
-msgstr ""
+msgstr "Nu online doneren"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:98
 #, python-format
@@ -203,12 +210,20 @@ msgid ""
 " by law. The Mozilla Foundation Tax ID is 20-0097189.<br><br>Donations made from outside the United States may not be tax-deductible in your local jurisdiction and we recommend consulting your tax "
 "advisor to determine whether your donation is eligible for tax deduction.</i><br><br>Please submit a case to request a consolidated receipt."
 msgstr ""
+"Ga op elk gewenst moment naar uw<a href=\"%(portal_link)s\" target=\"_blank\"><b>donateursportaal</b></a> voor toegang tot uw betalingsbewijzen en voor het beheer van uw periodieke "
+"donatie.<br><br><i>Bijdragen gaan naar de Mozilla Foundation, een 501(c)(3)-organisatie gevestigd in San Francisco, Californië, voor gebruik naar eigen goeddunken voor haar goede doelen. Voor zover "
+"wettelijk toegestaan, zijn ze fiscaal aftrekbaar in de VS. Het belastingnummer van de Mozilla Foundation is 20-0097189.<br><br>Donaties van buiten de Verenigde Staten zijn mogelijk niet fiscaal "
+"aftrekbaar in uw lokale rechtsgebied. We raden u aan uw belastingadviseur te raadplegen om na te gaan of uw donatie in aanmerking komt voor belastingaftrek.</i><br><br>Dien een aanvraag in om een "
+"geconsolideerd ontvangstbewijs aan te vragen."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:99
 msgid ""
 "Contact us by submitting a case if you are requesting a refund. If you believe this donation was made without your authorization, please contact us immediately.<br><br>Donations made via ACH or SEPA"
 " direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud.<br><br>Still have questions? Contact us by submitting a case."
 msgstr ""
+"Neem contact met ons op door een aanvraag in te dienen als u restitutie aanvraagt. Als u denkt dat deze donatie is gedaan zonder uw toestemming, neem dan onmiddellijk contact met ons "
+"op.<br><br>Donaties die via automatische incasso via ACH of SEPA zijn gedaan, komen niet in aanmerking voor restitutie. Vanwege de aard van deze transacties geeft ons beleid prioriteit aan het "
+"minimaliseren van restitutiefraude.<br><br>Nog vragen? Neem dan contact met ons op door een aanvraag in te dienen."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:100
 #, python-format
@@ -217,28 +232,31 @@ msgid ""
 " and isn’t able to provide technical support or troubleshooting. To get the assistance you need, please visit the <a href=\"%(firefox_link)s\" target=\"_blank\">Firefox support</a> "
 "page.<br><br>Still have questions? Contact us by submitting a case."
 msgstr ""
+"Bekijk eerst onze <b>veelgestelde vragen over donaties</b>, aangezien uw vraag daar mogelijk wordt beantwoord.<br><br>Ons Donor Care-team richt zich op donatiegerelateerde vragen en kan geen "
+"technische ondersteuning of probleemoplossing bieden als u Firefox-ondersteuning nodig hebt. Ga voor de hulp die u nodig hebt naar de pagina <a href=\"%(firefox_link)s\" target=\"_blank\">Firefox-"
+"ondersteuning</a>.<br><br>Nog steeds vragen? Neem dan contact met ons op door een aanvraag in te dienen."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:102
 msgid "Any other details that might help"
-msgstr ""
+msgstr "Alle andere details die kunnen helpen"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:105
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:106
 msgid "Add a screenshot to help us with your request (optional)"
-msgstr ""
+msgstr "Voeg een schermafdruk toe om ons te helpen met uw verzoek (optioneel)"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:106
 msgid "JPG, PNG and BMP files only"
-msgstr ""
+msgstr "Alleen JPG-, PNG- en BMP-bestanden"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:111
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:116
 #, python-format
 msgid "Mozilla will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(link)s\">privacy policy</a> for further information."
-msgstr ""
+msgstr "Mozilla zal uw ingediende gegevens alleen gebruiken voor communicatie over uw aanvraag. Raadpleeg ons <a href=\"%(link)s\">privacybeleid</a> voor meer informatie."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:120 foundation_cms/templates/patterns/components/language_switcher.html:9
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:45
@@ -247,39 +265,39 @@ msgstr "Taal"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:121
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Vereenvoudigd Chinees"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:122
 msgid "Czech"
-msgstr ""
+msgstr "Tsjechisch"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:123
 msgid "Danish"
-msgstr ""
+msgstr "Deens"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:124
 msgid "Dutch"
-msgstr ""
+msgstr "Nederlands"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:125
 msgid "English"
-msgstr ""
+msgstr "Engels"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:126
 msgid "French"
-msgstr ""
+msgstr "Frans"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:127
 msgid "German"
-msgstr ""
+msgstr "Duits"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:128
 msgid "Italian"
-msgstr ""
+msgstr "Italiaans"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:129
 msgid "Japanese"
-msgstr ""
+msgstr "Japans"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:130 foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:29
 msgid "Other"
@@ -287,31 +305,31 @@ msgstr "Overig"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:131
 msgid "Polish"
-msgstr ""
+msgstr "Pools"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:132
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugees"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:133
 msgid "Russian"
-msgstr ""
+msgstr "Russisch"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:134
 msgid "Spanish"
-msgstr ""
+msgstr "Spaans"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:144
 msgid "reCAPTCHA helps prevent automated form spam."
-msgstr ""
+msgstr "reCAPTCHA helpt geautomatiseerde formulierspam te voorkomen."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:146
 msgid "The submit button will be disabled until you complete the CAPTCHA."
-msgstr ""
+msgstr "De verzendknop is uitgeschakeld totdat u de CAPTCHA voltooit."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:149
 msgid "Submit"
-msgstr ""
+msgstr "Indienen"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:3
 msgid "Pagination controls"
@@ -689,23 +707,23 @@ msgstr "Meer beoordelingen"
 
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:6
 msgid "Filter experts"
-msgstr ""
+msgstr "Experts filteren"
 
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:12
 msgid "Filter by"
-msgstr ""
+msgstr "Filteren op"
 
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:27
 msgid "Clear"
-msgstr ""
+msgstr "Wissen"
 
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:32
 msgid "Filter by topic"
-msgstr ""
+msgstr "Filteren op onderwerp"
 
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:37
 msgid "Filter by country"
-msgstr ""
+msgstr "Filteren op land"
 
 #: foundation_cms/templates/patterns/pages/profiles/_expert_listing.html:13
 msgid "0 results"
