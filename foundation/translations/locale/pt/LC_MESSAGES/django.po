@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07 15:49+0000\n"
+"POT-Creation-Date: 2026-05-14 13:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,27 +47,10 @@ msgstr ""
 msgid "* Indicates a required field"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:25
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:15
 #: foundation_cms/templates/patterns/components/share_container.html:21
 #: foundation_cms/templates/patterns/components/share_container.html:22
 msgid "Copy Link"
-msgstr ""
-
-#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:30
-msgid "Check out this petition:"
-msgstr ""
-
-#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:34
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:35
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:114
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:28
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:29
-#: foundation_cms/templates/patterns/components/share_container.html:16
-msgid "Email"
-msgstr ""
-
-#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:45
-msgid "Facebook"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/step_indicator/step_indicator_item.html:8
@@ -80,6 +63,14 @@ msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:32
 msgid "Last Name"
+msgstr ""
+
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:35
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:114
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:28
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:29
+#: foundation_cms/templates/patterns/components/share_container.html:16
+msgid "Email"
 msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
@@ -137,6 +128,11 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/donor_help_contact_us_form_block.html:9
 msgid "Ask another question"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/carousel_indicators.html:5
+#, python-format
+msgid "Slide %(num)s of %(total)s"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:79
@@ -315,22 +311,14 @@ msgstr ""
 msgid "Pagination controls"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:5
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:10
 #: foundation_cms/templates/patterns/components/carousel_controls.html:4
 msgid "Previous"
-msgstr ""
-
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:7
-msgid "Previous arrow"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14
 #: foundation_cms/templates/patterns/components/carousel_controls.html:9
 msgid "Next"
-msgstr ""
-
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:16
-msgid "Next arrow"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_bottom_line_block.html:7
@@ -376,6 +364,31 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:25
 msgid "Does this product sell or share user data?"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:54
+msgid "Project media controls"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:55
+msgid "Previous media"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:56
+msgid "Next media"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:65
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:74
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:75
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:84
+msgid "Pause video"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:66
+#: foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:9
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:76
+msgid "Play video"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/quote_block.html:5
@@ -427,10 +440,6 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:4
 #, python-format
 msgid "Play %(label)s video"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:9
-msgid "Play video"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/donate_banner/skip_button.html:3
@@ -620,6 +629,32 @@ msgstr ""
 msgid "Join Us"
 msgstr ""
 
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:94
+msgid "Project media gallery"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:102
+msgid "View primary project media"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:121
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:153
+msgid "Video"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:134
+#, python-format
+msgid "View project media %(media_number)s"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:170
+msgid "By"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:184
+msgid "See the project"
+msgstr ""
+
 #: foundation_cms/templates/patterns/components/related_content.html:30
 #, python-format
 msgid "By %(author)s"
@@ -669,9 +704,8 @@ msgstr ""
 msgid "All Years"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/gallery_hub/project_page.html:60
-#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:60
-msgid "More Stories"
+#: foundation_cms/templates/patterns/pages/gallery_hub/project_page.html:32
+msgid "More Projects"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/listing_page_base.html:7
@@ -692,6 +726,10 @@ msgstr ""
 #: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:38
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:16
 msgid "Topics"
+msgstr ""
+
+#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:60
+msgid "More Stories"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/nothing_personal/product_review_page.html:45
