@@ -6,8 +6,6 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-14 13:39+0000\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,8 +42,7 @@ msgstr "Clique no e-mail que acabamos de enviar para confirmar sua assinatura da
 msgid "* Indicates a required field"
 msgstr "* Indica um campo obrigatório"
 
-#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:15
-#: foundation_cms/templates/patterns/components/share_container.html:21
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/03_sharing.html:15 foundation_cms/templates/patterns/components/share_container.html:21
 #: foundation_cms/templates/patterns/components/share_container.html:22
 msgid "Copy Link"
 msgstr "Copiar link"
@@ -63,21 +60,17 @@ msgid "Last Name"
 msgstr "Sobrenome"
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:35
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:114
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:28
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:29
-#: foundation_cms/templates/patterns/components/share_container.html:16
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:114 foundation_cms/templates/patterns/components/newsletter_signup_form.html:28
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:29 foundation_cms/templates/patterns/components/share_container.html:16
 msgid "Email"
 msgstr "E-mail"
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39 foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:21
 msgid "Country"
 msgstr "País"
 
-#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:40
+#: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39 foundation_cms/templates/patterns/components/newsletter_signup_form.html:40
 msgid "Your country"
 msgstr "Seu país"
 
@@ -106,8 +99,7 @@ msgstr "Página não encontrada"
 msgid "Sorry, this page could not be found."
 msgstr "Infelizmente, esta página não foi encontrada."
 
-#: foundation_cms/templates/base/themes/nothing_personal/base.html:14
-#: foundation_cms/templates/base/themes/nothing_personal/base.html:17
+#: foundation_cms/templates/base/themes/nothing_personal/base.html:14 foundation_cms/templates/base/themes/nothing_personal/base.html:17
 msgid "Nothing Personal by Mozilla Foundation Logo"
 msgstr "Logotipo Nothing Personal pela Fundação Mozilla"
 
@@ -171,8 +163,14 @@ msgstr "Ajuda com outro assunto"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:88
 #, python-format
-msgid "If you’d like to support our work, you can make an online donation using the link <a href=\"%(donate_link)s\" target=\"_blank\"><b>here</b></a>.<br><br>Looking for other ways to give? Visit our <a href=\"%(ways_link)s\" target=\"_blank\"><b>Ways to Give</b></a> page.<br><br><i>Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted by law.<br><br></i>"
-msgstr "Se quiser apoiar o nosso trabalho, você pode fazer uma doação online usando o link <a href=\"%(donate_link)s\" target=\"_blank\"><b>aqui</b></a>.<br><br>Procurando outras maneiras de doar? Visite nossa página <a href=\"%(ways_link)s\" target=\"_blank\"><b>Maneiras de Doar</b></a>.<br><br><i>As doações são encaminhadas para a Fundação Mozilla, uma organização 501(c)(3) com sede em São Francisco, Califórnia, para serem usadas, a seu critério, para fins beneficentes. Elas são dedutíveis nos EUA até o limite máximo permitido por lei. <br><br></i>"
+msgid ""
+"If you’d like to support our work, you can make an online donation using the link <a href=\"%(donate_link)s\" target=\"_blank\"><b>here</b></a>.<br><br>Looking for other ways to give? Visit our <a "
+"href=\"%(ways_link)s\" target=\"_blank\"><b>Ways to Give</b></a> page.<br><br><i>Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used "
+"in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted by law.<br><br></i>"
+msgstr ""
+"Se quiser apoiar o nosso trabalho, você pode fazer uma doação online usando o link <a href=\"%(donate_link)s\" target=\"_blank\"><b>aqui</b></a>.<br><br>Procurando outras maneiras de doar? Visite "
+"nossa página <a href=\"%(ways_link)s\" target=\"_blank\"><b>Maneiras de Doar</b></a>.<br><br><i>As doações são encaminhadas para a Fundação Mozilla, uma organização 501(c)(3) com sede em São "
+"Francisco, Califórnia, para serem usadas, a seu critério, para fins beneficentes. Elas são dedutíveis nos EUA até o limite máximo permitido por lei. <br><br></i>"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:88
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:89
@@ -182,12 +180,20 @@ msgstr "Ainda tem dúvidas? Entre em contato conosco e envie sua solicitação."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:89
 #, python-format
-msgid "Visit your <a href=\"%(portal_link)s\" target=\"_blank\"><b>Donor Portal</b></a> anytime to access your receipts and manage your recurring donation, including updating the amount, frequency, payment method, or billing date, or cancelling your plan.<i><br><br></i>"
-msgstr "Visite seu <a href=\"%(portal_link)s\" target=\"_blank\"><b> Portal do Doador </b></a> a qualquer momento para acessar seus recibos e gerenciar sua doação recorrente, seja para atualizar o valor, a frequência, a forma de pagamento, a data de cobrança,ou para cancelar o seu plano.<i><br><br></i>"
+msgid ""
+"Visit your <a href=\"%(portal_link)s\" target=\"_blank\"><b>Donor Portal</b></a> anytime to access your receipts and manage your recurring donation, including updating the amount, frequency, payment"
+" method, or billing date, or cancelling your plan.<i><br><br></i>"
+msgstr ""
+"Visite seu <a href=\"%(portal_link)s\" target=\"_blank\"><b> Portal do Doador </b></a> a qualquer momento para acessar seus recibos e gerenciar sua doação recorrente, seja para atualizar o valor, a "
+"frequência, a forma de pagamento, a data de cobrança,ou para cancelar o seu plano.<i><br><br></i>"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:91
-msgid "We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single European Payment Area (SEPA) transfer."
-msgstr "Agradecemos o seu generoso apoio e temos prazer em oferecer um método fácil de doar, por meio de transferência bancária online. Aceitamos contribuições via débito direto em euros, utilizando a transferência SEPA (Espaço Único de Pagamentos Europeus)."
+msgid ""
+"We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single "
+"European Payment Area (SEPA) transfer."
+msgstr ""
+"Agradecemos o seu generoso apoio e temos prazer em oferecer um método fácil de doar, por meio de transferência bancária online. Aceitamos contribuições via débito direto em euros, utilizando a "
+"transferência SEPA (Espaço Único de Pagamentos Europeus)."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:97
 msgid "Make your donation online now"
@@ -195,17 +201,36 @@ msgstr "Faça sua doação online agora"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:98
 #, python-format
-msgid "Visit your <a href=\"%(portal_link)s\" target=\"_blank\"><b>Donor Portal</b></a> anytime to access your receipts and manage your recurring donation.<br><br><i>Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted by law. The Mozilla Foundation Tax ID is 20-0097189.<br><br>Donations made from outside the United States may not be tax-deductible in your local jurisdiction and we recommend consulting your tax advisor to determine whether your donation is eligible for tax deduction.</i><br><br>Please submit a case to request a consolidated receipt."
-msgstr "Visite seu <a href=\"%(portal_link)s\" target=\"_blank\"><b> Portal do Doador </b></a> a qualquer momento para acessar seus recibos e gerenciar sua doação recorrente.<br><br><i>As contribuições são encaminhadas para a Fundação Mozilla, uma organização 501(c)(3) com sede em São Francisco, Califórnia, para serem usadas, a seu critério, para fins beneficentes. Elas são dedutíveis nos EUA até o limite máximo permitido por lei. O número de identificação fiscal da Fundação Mozilla é 20-0097189.<br><br>As doações feitas fora dos Estados Unidos podem não ser dedutíveis de impostos na sua região. Recomendamos a consulta a um especialista tributário para saber se sua doação é elegível à dedução fiscal.</i><br> <br>Envie sua solicitação para obter um recibo consolidado."
+msgid ""
+"Visit your <a href=\"%(portal_link)s\" target=\"_blank\"><b>Donor Portal</b></a> anytime to access your receipts and manage your recurring donation.<br><br><i>Contributions go to the Mozilla "
+"Foundation, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. They are tax-deductible in the U.S. to the fullest extent permitted"
+" by law. The Mozilla Foundation Tax ID is 20-0097189.<br><br>Donations made from outside the United States may not be tax-deductible in your local jurisdiction and we recommend consulting your tax "
+"advisor to determine whether your donation is eligible for tax deduction.</i><br><br>Please submit a case to request a consolidated receipt."
+msgstr ""
+"Visite seu <a href=\"%(portal_link)s\" target=\"_blank\"><b> Portal do Doador </b></a> a qualquer momento para acessar seus recibos e gerenciar sua doação recorrente.<br><br><i>As contribuições são "
+"encaminhadas para a Fundação Mozilla, uma organização 501(c)(3) com sede em São Francisco, Califórnia, para serem usadas, a seu critério, para fins beneficentes. Elas são dedutíveis nos EUA até o "
+"limite máximo permitido por lei. O número de identificação fiscal da Fundação Mozilla é 20-0097189.<br><br>As doações feitas fora dos Estados Unidos podem não ser dedutíveis de impostos na sua "
+"região. Recomendamos a consulta a um especialista tributário para saber se sua doação é elegível à dedução fiscal.</i><br> <br>Envie sua solicitação para obter um recibo consolidado."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:99
-msgid "Contact us by submitting a case if you are requesting a refund. If you believe this donation was made without your authorization, please contact us immediately.<br><br>Donations made via ACH or SEPA direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud.<br><br>Still have questions? Contact us by submitting a case."
-msgstr "Entre em contato conosco para enviar sua solicitação de reembolso. Se acredita que esta doação foi realizada sem a sua autorização, entre em contato conosco imediatamente.<br><br>As doações feitas via ACH ou débito direto SEPA não são elegíveis para reembolsos. Devido à natureza dessas transações, nossa política prioriza a redução de fraudes com reembolsos.<br><br>Ainda tem dúvidas? Entre em contato conosco e envie sua solicitação."
+msgid ""
+"Contact us by submitting a case if you are requesting a refund. If you believe this donation was made without your authorization, please contact us immediately.<br><br>Donations made via ACH or SEPA"
+" direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud.<br><br>Still have questions? Contact us by submitting a case."
+msgstr ""
+"Entre em contato conosco para enviar sua solicitação de reembolso. Se acredita que esta doação foi realizada sem a sua autorização, entre em contato conosco imediatamente.<br><br>As doações feitas "
+"via ACH ou débito direto SEPA não são elegíveis para reembolsos. Devido à natureza dessas transações, nossa política prioriza a redução de fraudes com reembolsos.<br><br>Ainda tem dúvidas? Entre em "
+"contato conosco e envie sua solicitação."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:100
 #, python-format
-msgid "Please be sure to check our <b>Donation FAQ</b> first as your question may be answered there.<br><br>If you are looking for Firefox support, our Donor Care Team focuses on donation-related questions and isn’t able to provide technical support or troubleshooting. To get the assistance you need, please visit the <a href=\"%(firefox_link)s\" target=\"_blank\">Firefox support</a> page.<br><br>Still have questions? Contact us by submitting a case."
-msgstr "Certifique-se de consultar primeiro nossas <b> Perguntas frequentes sobre doações </b>, pois sua dúvida pode estar respondida lá.<br><br> Para suporte para o Firefox, Equipe de Atendimento a Doadores se concentra em questões relacionadas a doações e não pode fornecer suporte técnico ou ajuda para solucionar problemas. Para obter a assistência necessária, visite a página <a href=\"%(firefox_link)s\" target=\"_blank\"> Suporte ao Firefox </a>.<br><br>Ainda tem dúvidas? Entre em contato conosco e envie sua solicitação."
+msgid ""
+"Please be sure to check our <b>Donation FAQ</b> first as your question may be answered there.<br><br>If you are looking for Firefox support, our Donor Care Team focuses on donation-related questions"
+" and isn’t able to provide technical support or troubleshooting. To get the assistance you need, please visit the <a href=\"%(firefox_link)s\" target=\"_blank\">Firefox support</a> "
+"page.<br><br>Still have questions? Contact us by submitting a case."
+msgstr ""
+"Certifique-se de consultar primeiro nossas <b> Perguntas frequentes sobre doações </b>, pois sua dúvida pode estar respondida lá.<br><br> Para suporte para o Firefox, Equipe de Atendimento a "
+"Doadores se concentra em questões relacionadas a doações e não pode fornecer suporte técnico ou ajuda para solucionar problemas. Para obter a assistência necessária, visite a página <a "
+"href=\"%(firefox_link)s\" target=\"_blank\"> Suporte ao Firefox </a>.<br><br>Ainda tem dúvidas? Entre em contato conosco e envie sua solicitação."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:102
 msgid "Any other details that might help"
@@ -229,8 +254,7 @@ msgstr "Nome"
 msgid "Mozilla will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(link)s\">privacy policy</a> for further information."
 msgstr "A Mozilla só usará as informações enviadas por você para fins de comunicação sobre sua solicitação. Consulte nossa <a href=\"%(link)s\"> política de privacidade </a> para mais informações."
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:120
-#: foundation_cms/templates/patterns/components/language_switcher.html:9
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:120 foundation_cms/templates/patterns/components/language_switcher.html:9
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:45
 msgid "Language"
 msgstr "Idioma"
@@ -271,8 +295,7 @@ msgstr "Italiano"
 msgid "Japanese"
 msgstr "Japonês"
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:130
-#: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:29
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:130 foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:29
 msgid "Other"
 msgstr "Outro"
 
@@ -308,13 +331,11 @@ msgstr "Enviar"
 msgid "Pagination controls"
 msgstr "Controles de paginação"
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:10
-#: foundation_cms/templates/patterns/components/carousel_controls.html:4
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:10 foundation_cms/templates/patterns/components/carousel_controls.html:4
 msgid "Previous"
 msgstr "Anterior"
 
-#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14
-#: foundation_cms/templates/patterns/components/carousel_controls.html:9
+#: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14 foundation_cms/templates/patterns/components/carousel_controls.html:9
 msgid "Next"
 msgstr "Próximo"
 
@@ -322,8 +343,7 @@ msgstr "Próximo"
 msgid "The Bottom Line"
 msgstr "Conclusão"
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:27
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:28
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:27 foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:28
 msgid "Pause carousel autoplay"
 msgstr "Pausar reprodução automática do carrossel"
 
@@ -375,15 +395,12 @@ msgstr ""
 msgid "Next media"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:65
-#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:74
-#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:75
-#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:84
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:65 foundation_cms/templates/patterns/blocks/themes/default/project_block.html:74
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:75 foundation_cms/templates/patterns/components/project_page/hero_carousel.html:84
 msgid "Pause video"
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:66
-#: foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:9
+#: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:66 foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:9
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:76
 msgid "Play video"
 msgstr "Reproduzir vídeo"
@@ -416,8 +433,7 @@ msgstr "Próxima página"
 msgid "Pagination"
 msgstr "Paginação"
 
-#: foundation_cms/templates/patterns/components/back_to_top.html:3
-#: foundation_cms/templates/patterns/components/back_to_top.html:4
+#: foundation_cms/templates/patterns/components/back_to_top.html:3 foundation_cms/templates/patterns/components/back_to_top.html:4
 msgid "Back to top"
 msgstr "Voltar ao topo"
 
@@ -425,12 +441,9 @@ msgstr "Voltar ao topo"
 msgid "Breadcrumb Navigation"
 msgstr "Trilha de navegação"
 
-#: foundation_cms/templates/patterns/components/buttons/btn_close.html:7
-#: foundation_cms/templates/patterns/components/buttons/btn_close.html:11
-#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6
-#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:56
-#: foundation_cms/templates/patterns/components/primary_nav.html:63
+#: foundation_cms/templates/patterns/components/buttons/btn_close.html:7 foundation_cms/templates/patterns/components/buttons/btn_close.html:11
+#: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6 foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:56 foundation_cms/templates/patterns/components/primary_nav.html:63
 msgid "Close"
 msgstr "Fechar"
 
@@ -443,10 +456,8 @@ msgstr "Reproduzir %(label)s vídeo"
 msgid "Skip Down"
 msgstr "Ocultar"
 
-#: foundation_cms/templates/patterns/components/footer.html:8
-#: foundation_cms/templates/patterns/components/footer/footer_content.html:11
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:28
-#: foundation_cms/templates/patterns/components/primary_nav.html:22
+#: foundation_cms/templates/patterns/components/footer.html:8 foundation_cms/templates/patterns/components/footer/footer_content.html:11
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:28 foundation_cms/templates/patterns/components/primary_nav.html:22
 msgid "Mozilla Foundation Logo"
 msgstr "Logotipo Fundação Mozilla"
 
@@ -486,43 +497,39 @@ msgstr "Informações legais"
 msgid "Participation guidelines"
 msgstr "Diretrizes de participação"
 
-#: foundation_cms/templates/patterns/components/footer.html:40
-#: foundation_cms/templates/patterns/components/footer/footer_content.html:47
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:63
-#: foundation_cms/templates/patterns/components/primary_nav.html:69
+#: foundation_cms/templates/patterns/components/footer.html:40 foundation_cms/templates/patterns/components/footer/footer_content.html:47
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:63 foundation_cms/templates/patterns/components/primary_nav.html:69
 msgid "Donate"
 msgstr "Doar"
 
 #: foundation_cms/templates/patterns/components/footer.html:48
 #, python-format
-msgid "Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
-msgstr "A Fundação Mozilla é uma organização global sem fins lucrativos e mantém a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla Corporation</a>. A maior parte do conteúdo está disponível sob uma <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">licença Creative Commons</a>."
+msgid ""
+"Mozilla Foundation is a global non-profit and parent of the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Mozilla "
+"Corporation</a>. Most content available under a <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">Creative Commons license</a>."
+msgstr ""
+"A Fundação Mozilla é uma organização global sem fins lucrativos e mantém a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"%(moco_url)s\" class=\"site-footer-ns__link site-footer-ns__link--"
+"legal\">Mozilla Corporation</a>. A maior parte do conteúdo está disponível sob uma <a href=\"%(meet_mozilla_url)s\" class=\"site-footer-ns__link site-footer-ns__link--legal\">licença Creative "
+"Commons</a>."
 
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:14
-#: foundation_cms/templates/patterns/components/primary_nav.html:8
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:14 foundation_cms/templates/patterns/components/primary_nav.html:8
 msgid "Toggle navigation"
 msgstr "Alternar navegação"
 
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:25
-#: foundation_cms/templates/patterns/components/primary_nav.html:20
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:25 foundation_cms/templates/patterns/components/primary_nav.html:20
 msgid "Mozilla Foundation homepage"
 msgstr "Página inicial da Fundação Mozilla"
 
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:32
-#: foundation_cms/templates/patterns/components/primary_nav.html:23
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:32 foundation_cms/templates/patterns/components/primary_nav.html:23
 msgid "Mozilla Foundation Symbol"
 msgstr "Símbolo Fundação Mozilla"
 
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:48
-#: foundation_cms/templates/patterns/components/primary_nav.html:60
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:48 foundation_cms/templates/patterns/components/primary_nav.html:60
 msgid "Toggle search input"
 msgstr "Alternar entrada de pesquisa"
 
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:52
-#: foundation_cms/templates/patterns/components/primary_nav.html:62
-#: foundation_cms/templates/search/_search_form.html:3
-#: foundation_cms/templates/search/_search_form.html:4
-#: foundation_cms/templates/search/search_page.html:6
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:52 foundation_cms/templates/patterns/components/primary_nav.html:62 foundation_cms/templates/search/_search_form.html:3
+#: foundation_cms/templates/search/_search_form.html:4 foundation_cms/templates/search/search_page.html:6
 msgid "Search"
 msgstr "Buscar"
 
@@ -530,8 +537,7 @@ msgstr "Buscar"
 msgid "Something went wrong and your signup wasn't completed. Please try again later."
 msgstr "Algo deu errado e sua inscrição não foi concluída. Tente novamente mais tarde."
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:33
-#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:33 foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
 msgid "Please enter a valid email address."
 msgstr "Insira um endereço de e-mail válido."
 
@@ -544,8 +550,7 @@ msgstr "Aceito que a Mozilla trate minhas informações conforme explicado neste
 msgid "Please check this box if you want to proceed."
 msgstr "Marque esta caixa para continuar."
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:73
-#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:73 foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
 msgid "Loading..."
 msgstr "Carregando..."
 
@@ -554,8 +559,12 @@ msgid "Thank you!"
 msgstr "Muito obrigado!"
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:93
-msgid "If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to click and confirm your subscription</strong>."
-msgstr "Se você ainda não confirmou sua inscrição em uma lista de e-mails relacionada à Fundação Mozilla, talvez precise fazê-lo agora. <strong>Verifique sua caixa de entrada ou a pasta de spam para encontrar um e-mail nosso e clique no link para confirmar sua inscrição</strong>."
+msgid ""
+"If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. <strong>Please check your inbox or spam filter for an email from us to "
+"click and confirm your subscription</strong>."
+msgstr ""
+"Se você ainda não confirmou sua inscrição em uma lista de e-mails relacionada à Fundação Mozilla, talvez precise fazê-lo agora. <strong>Verifique sua caixa de entrada ou a pasta de spam para "
+"encontrar um e-mail nosso e clique no link para confirmar sua inscrição</strong>."
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:102
 msgid "Newsletter signup success image"
@@ -634,8 +643,7 @@ msgstr ""
 msgid "View primary project media"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:121
-#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:153
+#: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:121 foundation_cms/templates/patterns/components/project_page/hero_carousel.html:153
 msgid "Video"
 msgstr ""
 
@@ -720,8 +728,7 @@ msgstr "Artigos"
 msgid "Published"
 msgstr "Publicado"
 
-#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:38
-#: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:16
+#: foundation_cms/templates/patterns/pages/nothing_personal/article_page.html:38 foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:16
 msgid "Topics"
 msgstr "Tópicos"
 
@@ -757,8 +764,7 @@ msgstr "Filtrar por país"
 msgid "0 results"
 msgstr "0 resultados"
 
-#: foundation_cms/templates/patterns/pages/profiles/_expert_listing.html:46
-#: foundation_cms/templates/patterns/pages/profiles/_expert_listing.html:47
+#: foundation_cms/templates/patterns/pages/profiles/_expert_listing.html:46 foundation_cms/templates/patterns/pages/profiles/_expert_listing.html:47
 msgid "Show all topics"
 msgstr "Mostrar todos os tópicos"
 
@@ -786,8 +792,7 @@ msgstr "Projetos"
 msgid "Illustration placeholder"
 msgstr "Espaço reservado para ilustração"
 
-#: foundation_cms/templates/search/_search_results.html:44
-#: foundation_cms/templates/search/_search_results.html:54
+#: foundation_cms/templates/search/_search_results.html:44 foundation_cms/templates/search/_search_results.html:54
 msgctxt "Byline prefix"
 msgid "By"
 msgstr "Por"
@@ -815,8 +820,7 @@ msgstr[1] ""
 "            %(total_results)s resultados\n"
 " "
 
-#: foundation_cms/templates/search/_search_summary.html:14
-#: foundation_cms/templates/search/_search_summary.html:24
+#: foundation_cms/templates/search/_search_summary.html:14 foundation_cms/templates/search/_search_summary.html:24
 msgid "for:"
 msgstr "para:"
 
@@ -847,15 +851,3 @@ msgstr "Página %(page_number)s de %(total_pages)s"
 #: foundation_cms/templates/search/search_page.html:32
 msgid "Latest Stories"
 msgstr "Últimas Histórias"
-
-#~ msgid "Check out this petition:"
-#~ msgstr "Confira esta petição:"
-
-#~ msgid "Facebook"
-#~ msgstr "Facebook"
-
-#~ msgid "Previous arrow"
-#~ msgstr "Seta anterior"
-
-#~ msgid "Next arrow"
-#~ msgstr "Seta próxima"
