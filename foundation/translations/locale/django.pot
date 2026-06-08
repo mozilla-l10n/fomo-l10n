@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-02 07:32+0000\n"
+"POT-Creation-Date: 2026-06-08 08:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -404,6 +404,7 @@ msgid "Play video"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/quote_block.html:5
+#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:64
 #, python-format
 msgid "“%(quote)s”"
 msgstr ""
@@ -444,6 +445,7 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/buttons/btn_close.html:11
 #: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6
 #: foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
+#: foundation_cms/templates/patterns/components/donate_banner/lightbox_banner.html:19
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:56
 #: foundation_cms/templates/patterns/components/primary_nav.html:63
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:183
@@ -656,6 +658,18 @@ msgstr ""
 msgid "Join Us"
 msgstr ""
 
+#: foundation_cms/templates/patterns/components/profiles/expert_hub_cta.html:6
+msgid "Want to collab?"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/profiles/expert_hub_cta.html:7
+msgid "Reach out to us and we can work together!"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/profiles/expert_hub_cta.html:9
+msgid "Contact Us"
+msgstr ""
+
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:94
 msgid "Project media gallery"
 msgstr ""
@@ -736,7 +750,7 @@ msgid "Filter"
 msgstr ""
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:148
-#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:45
+#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:96
 msgid "Projects"
 msgstr ""
 
@@ -769,6 +783,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: foundation_cms/templates/patterns/pages/nothing_personal/article_collection_page.html:11
+#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:117
 msgid "Articles"
 msgstr ""
 
@@ -838,16 +853,16 @@ msgstr ""
 msgid "Go to profile"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:71
-msgid "Want to collab?"
+#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:41
+msgid "Topic Areas"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:72
-msgid "Reach out to us and we can work together!"
+#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:129
+msgid "Show more results"
 msgstr ""
 
-#: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:74
-msgid "Contact Us"
+#: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:145
+msgid "External Links"
 msgstr ""
 
 #: foundation_cms/templates/search/_search_results.html:10
