@@ -1,4 +1,4 @@
-locales = ["de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw"]
+locales = ["ca", "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw"]
 
 [[paths]]
 reference = "foundation/translations/locale/django.pot"
@@ -9,12 +9,18 @@ reference = "foundation/translations/locale/djangojs.pot"
 l10n = "foundation/translations/locale/{locale}/LC_MESSAGES/djangojs.po"
 
 [[paths]]
-reference = "foundation/translations/legacy_apps/locale/django.pot"
-l10n = "foundation/translations/legacy_apps/locale/{locale}/LC_MESSAGES/django.po"
+    reference = "foundation/translations/legacy_apps/locale/django.pot"
+    l10n = "foundation/translations/legacy_apps/locale/{locale}/LC_MESSAGES/django.po"
+    locales = [
+        "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw"
+    ]
 
 [[paths]]
-reference = "foundation/translations/legacy_apps/locale/djangojs.pot"
-l10n = "foundation/translations/legacy_apps/locale/{locale}/LC_MESSAGES/djangojs.po"
+    reference = "foundation/translations/legacy_apps/locale/djangojs.pot"
+    l10n = "foundation/translations/legacy_apps/locale/{locale}/LC_MESSAGES/djangojs.po"
+    locales = [
+        "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR", "sw"
+    ]
 
 [[paths]]
     reference = "foundation/translations/legacy_apps/wagtailpages/templates/wagtailpages/pages/locale/django.pot"
