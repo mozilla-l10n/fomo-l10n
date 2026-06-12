@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-08 08:53+0000\n"
+"POT-Creation-Date: 2026-06-12 14:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-
-#: foundation_cms/legacy_apps/templates/404.html:6
-msgid "Page Not Found"
-msgstr ""
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:77
 msgid "I need"
@@ -1095,7 +1091,7 @@ msgid "Uh oh!"
 msgstr ""
 
 #: foundation_cms/legacy_apps/templates/partials/404.html:9
-msgid "Sorry, the page does not exist"
+msgid "We’re sorry, this page does not exist."
 msgstr ""
 
 #: foundation_cms/legacy_apps/templates/partials/404.html:10
@@ -1104,7 +1100,7 @@ msgid "<a href=\"mailto:%(email)s\">Contact us</a> or ..."
 msgstr ""
 
 #: foundation_cms/legacy_apps/templates/partials/404.html:11
-msgid "Go to home page"
+msgid "Back to our homepage"
 msgstr ""
 
 #: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:75

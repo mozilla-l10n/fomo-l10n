@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-08 08:53+0000\n"
+"POT-Creation-Date: 2026-06-12 14:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,12 +112,20 @@ msgstr ""
 msgid "Year"
 msgstr ""
 
-#: foundation_cms/templates/404.html:3 foundation_cms/templates/404.html:6
+#: foundation_cms/templates/404.html:4
 msgid "Page not found"
 msgstr ""
 
-#: foundation_cms/templates/404.html:7
-msgid "Sorry, this page could not be found."
+#: foundation_cms/templates/404.html:18
+msgid "Error 404"
+msgstr ""
+
+#: foundation_cms/templates/404.html:19
+msgid "Uh oh! We’re sorry, this page does not exist."
+msgstr ""
+
+#: foundation_cms/templates/404.html:20
+msgid "Back to our homepage"
 msgstr ""
 
 #: foundation_cms/templates/base/themes/nothing_personal/base.html:14
