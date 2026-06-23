@@ -32,11 +32,11 @@ msgstr "Ważne"
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/confirmation_notice_banner.html:10
 #, python-format
 msgid "Please click on the email we just sent to %(email)s to confirm your newsletter subscription."
-msgstr "Kliknij w wiadomości e-mail, którą właśnie wysłaliśmy na adres %(email)s, aby potwierdzić subskrypcję newslettera."
+msgstr "Kliknij wiadomość e-mail, którą właśnie wysłaliśmy na adres %(email)s, aby potwierdzić subskrypcję newslettera."
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/confirmation_notice_banner.html:12
 msgid "Please click on the email we just sent to confirm your newsletter subscription."
-msgstr "Kliknij w wiadomości e-mail, którą właśnie wysłaliśmy, aby potwierdzić subskrypcję newslettera."
+msgstr "Kliknij wiadomość e-mail, którą właśnie wysłaliśmy, aby potwierdzić subskrypcję newslettera."
 
 #: foundation_cms/campaigns/templates/campaigns/components/campaign_page/form_state/01_start.html:14
 msgid "* Indicates a required field"
@@ -62,7 +62,7 @@ msgstr "Nazwisko"
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:114 foundation_cms/templates/patterns/components/newsletter_signup_form.html:28
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:29
 msgid "Email"
-msgstr "Adres e-mail"
+msgstr "E-mail"
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39 foundation_cms/gallery_hub/models/gallery_page.py:136
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38 foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:21
@@ -96,7 +96,7 @@ msgstr "Temat"
 
 #: foundation_cms/gallery_hub/models/gallery_page.py:124
 msgid "Program"
-msgstr ""
+msgstr "Program"
 
 #: foundation_cms/gallery_hub/models/gallery_page.py:130
 msgid "Year"
@@ -108,19 +108,19 @@ msgstr "Nie odnaleziono strony"
 
 #: foundation_cms/templates/404.html:18
 msgid "Error 404"
-msgstr ""
+msgstr "Błąd 404"
 
 #: foundation_cms/templates/404.html:19
 msgid "Uh oh! We’re sorry, this page does not exist."
-msgstr ""
+msgstr "Ups! Przepraszamy, ta strona nie istnieje."
 
 #: foundation_cms/templates/404.html:20
 msgid "Back to our homepage"
-msgstr ""
+msgstr "Wróć na naszą stronę główną"
 
 #: foundation_cms/templates/base/themes/nothing_personal/base.html:14 foundation_cms/templates/base/themes/nothing_personal/base.html:17
 msgid "Nothing Personal by Mozilla Foundation Logo"
-msgstr "Logo Fundacji Mozilla Nothing Personal"
+msgstr "Logo Nothing Personal Fundacji Mozilla"
 
 #: foundation_cms/templates/base/themes/nothing_personal/base.html:24
 msgid "Nothing Personal Logomark"
@@ -141,11 +141,11 @@ msgstr "Zadaj kolejne pytanie"
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/carousel_indicators.html:5
 #, python-format
 msgid "Slide %(num)s of %(total)s"
-msgstr ""
+msgstr "Slajd %(num)s z %(total)s"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:79
 msgid "I need"
-msgstr "Potrzebuję"
+msgstr "Chcę"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:79
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:120
@@ -196,7 +196,7 @@ msgstr ""
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:89
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:97
 msgid "Still have questions? Contact us by submitting a case."
-msgstr "Nadal masz pytania? Skontaktuj się z nami, przesyłając zgłoszenie."
+msgstr "Nadal masz pytania? Skontaktuj się z nami, przesyłając zapytanie."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:89
 #, python-format
@@ -212,12 +212,12 @@ msgid ""
 "We truly appreciate your generous support and are happy to now offer an easier way for you to give through online bank transfer. We can accept donations via direct debit in Euros through Single "
 "European Payment Area (SEPA) transfer."
 msgstr ""
-"Naprawdę doceniamy Twoje hojne wsparcie i z przyjemnością oferujemy Ci teraz łatwiejszy sposób przekazywania darowizn przelewem bankowym online. Możemy przyjmować darowizny poprzez polecenie zapłaty"
-" w euro za pomocą przelewu w ramach Jednolitego Europejskiego Obszaru Płatniczego (SEPA)."
+"Jesteśmy bardzo wdzięczni za hojne wsparcie! Z radością informujemy, że teraz można jeszcze łatwiej wpłacać datki za pomocą przelewu bankowego online. Akceptujemy płatności w euro za pośrednictwem "
+"przelewu SEPA."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:97
 msgid "Make your donation online now"
-msgstr "Przekaż darowiznę online już teraz"
+msgstr "Wpłać datek online teraz"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:98
 #, python-format
@@ -230,7 +230,7 @@ msgstr ""
 "W każdej chwili możesz odwiedzić <a href=\"%(portal_link)s\" target=\"_blank\"><b>Portal Darczyńców</b></a>, aby uzyskać dostęp do swoich pokwitowań i zarządzać swoją cykliczną "
 "darowizną.<br><br><i>Datki trafiają do Fundacji Mozilla, organizacji 501(c)(3) z siedzibą w San Francisco w Kalifornii, która według własnego uznania wykorzystuje je do swoich celów charytatywnych. "
 "W Stanach Zjednoczonych podlegają one odliczeniu od podatku w najszerszym zakresie dozwolonym przez prawo. Numer identyfikacji podatkowej Fundacji Mozilla to 20-0097189.<br><br>Darowizny dokonane "
-"poza Stanami Zjednoczonymi mogą nie podlegać odliczeniu od podatku w Twojej lokalnej jurysdykcji. Zalecamy skonsultowanie się z doradcą podatkowym, aby ustalić, czy Twoja darowizna kwalifikuje się "
+"spoza Stanów Zjednoczonych mogą nie podlegać odliczeniu od podatku w Twojej lokalnej jurysdykcji. Zalecamy skonsultowanie się z doradcą podatkowym, aby ustalić, czy Twoja darowizna kwalifikuje się "
 "do odliczenia podatku.</i><br><br>Prześlij zgłoszenie, aby poprosić o skonsolidowane pokwitowanie."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:99
@@ -239,8 +239,8 @@ msgid ""
 " direct debit are ineligible for refunds. Due to the nature of these transactions our policy prioritizes minimizing refund fraud.<br><br>Still have questions? Contact us by submitting a case."
 msgstr ""
 "Skontaktuj się z nami, przesyłając zgłoszenie, jeśli prosisz o zwrot pieniędzy. Jeśli uważasz, że darowizna została przekazana bez Twojej zgody, natychmiast skontaktuj się z nami.<br><br>Darowizny "
-"przekazane za pośrednictwem Ach lub polecenia zapłaty SEPA nie podlegają zwrotowi. Ze względu na charakter tych transakcji nasze zasady stawiają na pierwszym miejscu minimalizację oszustw związanych"
-" ze zwrotami.<br><br>Nadal masz pytania? Skontaktuj się z nami, przesyłając zgłoszenie."
+"przekazane poprzez ACH lub polecenie zapłaty SEPA nie podlegają zwrotowi. Ze względu na charakter tych transakcji nasze zasady stawiają na pierwszym miejscu minimalizację oszustw związanych ze "
+"zwrotami.<br><br>Nadal masz pytania? Skontaktuj się z nami, przesyłając zgłoszenie."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:100
 #, python-format
@@ -249,18 +249,18 @@ msgid ""
 " and isn’t able to provide technical support or troubleshooting. To get the assistance you need, please visit the <a href=\"%(firefox_link)s\" target=\"_blank\">Firefox support</a> "
 "page.<br><br>Still have questions? Contact us by submitting a case."
 msgstr ""
-"Zapoznaj się najpierw z </b>częstymi pytaniami dotyczącymi darowizn<b>, ponieważ możesz tam znaleźć odpowiedzi na swoje pytania.<br><br>Jeśli szukasz pomocy dla przeglądarki Firefox: nasz zespół ds."
+"Zapoznaj się najpierw z <b>częstymi pytaniami dotyczącymi darowizn</b>, ponieważ możesz tam znaleźć odpowiedzi na swoje pytania.<br><br>Jeśli szukasz pomocy dla przeglądarki Firefox: nasz zespół ds."
 " opieki nad darczyńcami koncentruje się na pytaniach dotyczących darowizn i nie jest w stanie zapewnić pomocy technicznej ani rozwiązać problemów. Aby uzyskać potrzebną pomoc, odwiedź <a "
 "href=\"%(firefox_link)s\" target=\"_blank\">stronę pomocy technicznej Firefoksa</a>.<br><br>Nadal masz pytania? Skontaktuj się z nami, przesyłając zgłoszenie."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:102
 msgid "Any other details that might help"
-msgstr "Wszelkie inne szczegóły, które mogą pomóc"
+msgstr "Wszelkie inne informacje, które mogą być pomocne"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:105
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:106
 msgid "Add a screenshot to help us with your request (optional)"
-msgstr "Dodaj zrzut ekranu, aby pomóc nam z Twoją prośbą (opcjonalnie)"
+msgstr "Dodaj zrzut ekranu, aby pomóc nam odpowiedzieć (opcjonalnie)"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:106
 msgid "JPG, PNG and BMP files only"
@@ -268,14 +268,12 @@ msgstr "Tylko pliki JPG, PNG i BMP"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:111
 msgid "Name"
-msgstr "Imię i nazwisko"
+msgstr "Imię"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:116
 #, python-format
 msgid "Mozilla will only use your submitted information for purposes of communicating with you about your request. See our <a href=\"%(link)s\">privacy policy</a> for further information."
-msgstr ""
-"Mozilla będzie wykorzystywać przesłane przez Ciebie informacje wyłącznie w celu komunikowania się z Tobą w sprawie Twojej prośby. Więcej informacji można znaleźć w naszej <a "
-"href=\"%(link)s\">polityce prywatności</a>."
+msgstr "Mozilla będzie używać przesłanych informacji wyłącznie w celu komunikowania się z Tobą na ten temat. Nasze <a href=\"%(link)s\">zasady ochrony prywatności</a> zawierają więcej informacji."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:120 foundation_cms/templates/patterns/components/language_switcher.html:9
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:45
@@ -296,7 +294,7 @@ msgstr "Duński"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:124
 msgid "Dutch"
-msgstr "niderlandzki"
+msgstr "Holenderski"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:125
 msgid "English"
@@ -340,7 +338,7 @@ msgstr "Hiszpański"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:144
 msgid "reCAPTCHA helps prevent automated form spam."
-msgstr "reCAPTCHA pomaga zapobiegać automatycznemu spamowi."
+msgstr "reCAPTCHA pomaga zapobiegać automatycznemu spamowaniu komentarzy."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:146
 msgid "The submit button will be disabled until you complete the CAPTCHA."
@@ -408,20 +406,20 @@ msgstr "Czy ten produkt wiąże się ze sprzedażą lub udostępnieniem danych u
 
 #: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:54
 msgid "Project media controls"
-msgstr ""
+msgstr "Sterowanie mediami projektu"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:55 foundation_cms/templates/patterns/components/gallery_hub/project_card.html:85
 msgid "Previous media"
-msgstr ""
+msgstr "Poprzednie media"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:56 foundation_cms/templates/patterns/components/gallery_hub/project_card.html:90
 msgid "Next media"
-msgstr ""
+msgstr "Następne media"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:65 foundation_cms/templates/patterns/blocks/themes/default/project_block.html:74
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:75 foundation_cms/templates/patterns/components/project_page/hero_carousel.html:84
 msgid "Pause video"
-msgstr ""
+msgstr "Wstrzymaj film"
 
 #: foundation_cms/templates/patterns/blocks/themes/default/project_block.html:66 foundation_cms/templates/patterns/components/buttons/video_play_button_vimeo_style.html:9
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:76
@@ -479,7 +477,7 @@ msgstr "Odtwórz film %(label)s"
 
 #: foundation_cms/templates/patterns/components/donate_banner/skip_button.html:3
 msgid "Skip Down"
-msgstr "Pomiń"
+msgstr "Przeskocz w dół"
 
 #: foundation_cms/templates/patterns/components/footer.html:8 foundation_cms/templates/patterns/components/footer/footer_content.html:11
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:28 foundation_cms/templates/patterns/components/primary_nav.html:22
@@ -539,15 +537,15 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/gallery_hub/project_card.html:13
 msgid "Media slideshow"
-msgstr ""
+msgstr "Pokaz slajdów multimedialnych"
 
 #: foundation_cms/templates/patterns/components/gallery_hub/project_card.html:117 foundation_cms/templates/patterns/components/project_page/hero_carousel.html:170
 msgid "By"
-msgstr ""
+msgstr "Od"
 
 #: foundation_cms/templates/patterns/components/gallery_hub/project_card.html:126
 msgid "See project"
-msgstr ""
+msgstr "Zobacz projekt"
 
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:14 foundation_cms/templates/patterns/components/primary_nav.html:8
 msgid "Toggle navigation"
@@ -674,36 +672,36 @@ msgstr "Dołącz do nas"
 
 #: foundation_cms/templates/patterns/components/profiles/expert_hub_cta.html:6
 msgid "Want to collab?"
-msgstr ""
+msgstr "Chcesz nawiązać współpracę?"
 
 #: foundation_cms/templates/patterns/components/profiles/expert_hub_cta.html:7
 msgid "Reach out to us and we can work together!"
-msgstr ""
+msgstr "Skontaktuj się z nami, a będziemy mogli współpracować!"
 
 #: foundation_cms/templates/patterns/components/profiles/expert_hub_cta.html:9
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontakt z nami"
 
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:94
 msgid "Project media gallery"
-msgstr ""
+msgstr "Galeria mediów projektu"
 
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:102
 msgid "View primary project media"
-msgstr ""
+msgstr "Wyświetl główne media projektu"
 
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:121 foundation_cms/templates/patterns/components/project_page/hero_carousel.html:153
 msgid "Video"
-msgstr ""
+msgstr "Wideo"
 
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:134
 #, python-format
 msgid "View project media %(media_number)s"
-msgstr ""
+msgstr "Wyświetl media projektu %(media_number)s"
 
 #: foundation_cms/templates/patterns/components/project_page/hero_carousel.html:184
 msgid "See the project"
-msgstr ""
+msgstr "Zobacz projekt"
 
 #: foundation_cms/templates/patterns/components/related_content.html:30
 #, python-format
@@ -720,45 +718,45 @@ msgstr "Od reszty Fundacji Mozilla:"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:30
 msgid "Scroll down to explore"
-msgstr ""
+msgstr "Przewiń w dół, aby poznawać"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:33
 msgid "Scroll up to explore"
-msgstr ""
+msgstr "Przewiń w górę, aby poznawać"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:77
 msgid "No gallery projects have been selected yet."
-msgstr ""
+msgstr "Nie wybrano jeszcze żadnych projektów galerii."
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:92
 msgid "Gallery controls"
-msgstr ""
+msgstr "Sterowanie galerią"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:99
 msgid "Previous project"
-msgstr ""
+msgstr "Poprzedni projekt"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:102
 msgid "Previous Project"
-msgstr ""
+msgstr "Poprzedni projekt"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:107
 msgid "Next project"
-msgstr ""
+msgstr "Następny projekt"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:110
 msgid "Next Project"
-msgstr ""
+msgstr "Następny projekt"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:116 foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:119
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:139
 msgid "Project List"
-msgstr ""
+msgstr "Lista projektów"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:124 foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:127
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:206
 msgid "Filter"
-msgstr ""
+msgstr "Filtr"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:148 foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:96
 msgid "Projects"
@@ -766,24 +764,24 @@ msgstr "Projekty"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:179
 msgid "No projects match the current filters."
-msgstr ""
+msgstr "Żadne projekty nie pasują do bieżących filtrów."
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:204
 msgid "Reset"
-msgstr ""
+msgstr "Przywróć"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:265
 msgid "Display results"
-msgstr ""
+msgstr "Wyświetl wyniki"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:266
 #, python-format
 msgid "Display results (%(count)s)"
-msgstr ""
+msgstr "Wyświetl wyniki (%(count)s)"
 
 #: foundation_cms/templates/patterns/pages/gallery_hub/project_page.html:32
 msgid "More Projects"
-msgstr ""
+msgstr "Więcej projektów"
 
 #: foundation_cms/templates/patterns/pages/listing_page_base.html:7
 #, python-format
@@ -855,23 +853,23 @@ msgstr "Poznaj wszystkich ekspertów"
 
 #: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:52
 msgid "Expert profile"
-msgstr ""
+msgstr "Profil eksperta"
 
 #: foundation_cms/templates/patterns/pages/profiles/expert_hub_page.html:59
 msgid "Go to profile"
-msgstr ""
+msgstr "Przejdź do profilu"
 
 #: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:41
 msgid "Topic Areas"
-msgstr ""
+msgstr "Obszary tematyczne"
 
 #: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:129
 msgid "Show more results"
-msgstr ""
+msgstr "Pokaż więcej wyników"
 
 #: foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:145
 msgid "External Links"
-msgstr ""
+msgstr "Linki zewnętrzne"
 
 #: foundation_cms/templates/search/_search_results.html:10
 msgid "Illustration placeholder"
@@ -880,7 +878,7 @@ msgstr "Symbol zastępczy ilustracji"
 #: foundation_cms/templates/search/_search_results.html:44 foundation_cms/templates/search/_search_results.html:54
 msgctxt "Byline prefix"
 msgid "By"
-msgstr "Przez"
+msgstr "Od"
 
 #: foundation_cms/templates/search/_search_summary.html:6
 msgid "of"

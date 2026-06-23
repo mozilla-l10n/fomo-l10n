@@ -100,11 +100,11 @@ msgstr "Dodaj zrzut ekranu, aby pomóc nam odpowiedzieć (opcjonalnie)"
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:111
 msgid "JPG, PNG and BMP files only"
-msgstr "Tylko pliki JPG, PNG i BMP"
+msgstr "Tylko pliki JPG, PNG i BMP"
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:116
 msgid "Name"
-msgstr "Imię i nazwisko"
+msgstr "Imię"
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:119 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:35
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:69 foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:51
@@ -160,7 +160,7 @@ msgstr "reCAPTCHA pomaga zapobiegać automatycznemu spamowaniu komentarzy."
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:146
 msgid "The submit button will be disabled until you complete the CAPTCHA."
-msgstr "Przycisk będzie wyłączony do czasu ukończenia CAPTCHA."
+msgstr "Przycisk \"Wyślij\" będzie wyłączony, dopóki nie ukończysz CAPTCHA."
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:149
 msgid "Submit"
@@ -196,8 +196,8 @@ msgid ""
 "Contributions go to the <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, a 501(c)(3) organization based in San Francisco, California, to be used in its discretion for its charitable purposes. "
 "They are tax-deductible in the U.S. to the fullest extent permitted by law."
 msgstr ""
-"Datki są przekazywane <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, organizacji non-profit z siedzibą w San Francisco, Kalifornia, do użytku według jej uznania w jej celach charytatywnych. "
-"Datki można odliczać od podatku w Stanach Zjednoczonych w najszerszym zakresie dozwolonym przez prawo."
+"Datki są przekazywane <a href=\"%(mozilla_url)s\">Mozilla Foundation</a>, organizacji 501(c)(3) non-profit z siedzibą w San Francisco, Kalifornia, do użytku według jej uznania w jej celach "
+"charytatywnych. Datki można odliczać od podatku w Stanach Zjednoczonych w najszerszym zakresie dozwolonym przez prawo."
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/nav.html:3 foundation_cms/legacy_apps/templates/fragments/primary_nav.html:16
 msgid "Home"
@@ -214,7 +214,7 @@ msgstr ""
 
 #: foundation_cms/legacy_apps/templates/donate/pages/help_page.html:23
 msgid "Contact Us"
-msgstr "Kontakt z nami"
+msgstr "Kontakt z nami"
 
 #: foundation_cms/legacy_apps/templates/donate/pages/help_page.html:26
 msgid "Thank you for contacting us."
@@ -231,7 +231,7 @@ msgstr "przedstawiony obraz"
 #: foundation_cms/legacy_apps/templates/fragments/blog_index_feature.html:10
 msgctxt "icon description for screen readers"
 msgid "video"
-msgstr "film"
+msgstr "wideo"
 
 #: foundation_cms/legacy_apps/templates/fragments/blog_index_feature.html:31
 msgctxt "icon description for screen readers"
@@ -245,11 +245,11 @@ msgstr "o sekcjach"
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/about_nav.html:12
 msgid "How to use this guide"
-msgstr "Jak korzystać z przewodnika *Prywatność do nabycia osobno"
+msgstr "Jak korzystać z przewodnika"
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/about_nav.html:13
 msgid "Why we made this guide"
-msgstr "Dlaczego napisaliśmy przewodnik *Prywatność do nabycia osobno"
+msgstr "Dlaczego napisaliśmy przewodnik"
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/about_nav.html:14
 msgid "Methodology"
@@ -329,7 +329,7 @@ msgstr "Odnośnik otwiera się w nowej karcie"
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/featured_page.html:52
 msgctxt "Article author attribution"
 msgid "By"
-msgstr "Autorzy:"
+msgstr "Od"
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/in_the_press.html:4
 msgid "In the press"
@@ -403,7 +403,7 @@ msgstr "O nas"
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_nav_links.html:20 foundation_cms/legacy_apps/templates/fragments/footer.html:50
 #: foundation_cms/legacy_apps/templates/fragments/primary_nav.html:58
 msgid "Donate"
-msgstr "Przekaż datek"
+msgstr "Przekaż darowiznę"
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:7 foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_newsletter_box.html:8
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/privacy_ding.html:7 foundation_cms/legacy_apps/templates/fragments/buyersguide/privacy_ding.html:8
@@ -429,7 +429,7 @@ msgstr "Dołącz do naszej listy Aktualności Mozilli, aby otrzymywać powiadomi
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_sort_dropdown.html:8
 msgid "Sort by "
-msgstr "Sortuj według"
+msgstr "Sortuj według "
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/pni_sort_dropdown.html:20
 msgid "Sort by creepiness"
@@ -655,7 +655,7 @@ msgstr "Wyślij produkt tutaj."
 
 #: foundation_cms/legacy_apps/templates/fragments/byline.html:9
 msgid "By"
-msgstr "Autorzy:"
+msgstr "Od"
 
 #: foundation_cms/legacy_apps/templates/fragments/continuous_scrolling_next.html:6
 msgctxt "String followed by the next page title the user will reach by scrolling down"
@@ -724,7 +724,7 @@ msgstr "Ciasteczka"
 
 #: foundation_cms/legacy_apps/templates/fragments/footer.html:54
 msgid "Legal"
-msgstr "Kwestie prawne"
+msgstr "Informacje prawne"
 
 #: foundation_cms/legacy_apps/templates/fragments/footer.html:55
 msgid "Participation Guidelines"
@@ -775,7 +775,7 @@ msgstr "Wróć do treści"
 #: foundation_cms/legacy_apps/templates/fragments/libraries/filter_button.html:34
 msgctxt "Button"
 msgid "Filter"
-msgstr "Filtruj"
+msgstr "Filtr"
 
 #: foundation_cms/legacy_apps/templates/fragments/libraries/rcc/search_bar.html:2
 msgctxt "Search input placeholder text"
@@ -820,7 +820,7 @@ msgstr "Otwórz menu"
 
 #: foundation_cms/legacy_apps/templates/fragments/primary_nav.html:41
 msgid "Mozilla Foundation Homepage"
-msgstr "Główna strona Mozilla Foundation"
+msgstr "Główna strona Fundacji Mozilla"
 
 #: foundation_cms/legacy_apps/templates/fragments/responsive_screen_wide_image.html:60
 msgid "Hero Image"
@@ -915,7 +915,7 @@ msgstr "Spróbuj go <a href=\"#top\" class=\"tw-underline tw-text-blue-80\">wysz
 #, python-format
 msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
 msgid "*Privacy Not Included - %(product.title)s"
-msgstr "*Prywatność do nabycia osobno — %(product.title)s"
+msgstr "*Prywatność do nabycia osobno – %(product.title)s"
 
 #: foundation_cms/legacy_apps/templates/pages/buyersguide/product_page.html:52
 msgid "<strong>Warning</strong>: *Privacy Not Included with this product"
@@ -1010,7 +1010,7 @@ msgstr "Zamknij"
 
 #: foundation_cms/legacy_apps/templates/pages/libraries/library_page.html:92
 msgid "Filter"
-msgstr "Filtruj"
+msgstr "Filtr"
 
 #: foundation_cms/legacy_apps/templates/pages/libraries/library_page.html:101
 msgctxt "Button"
@@ -1069,7 +1069,7 @@ msgstr "O nie!"
 
 #: foundation_cms/legacy_apps/templates/partials/404.html:9
 msgid "We’re sorry, this page does not exist."
-msgstr ""
+msgstr "Przepraszamy, ta strona nie istnieje."
 
 #: foundation_cms/legacy_apps/templates/partials/404.html:10
 #, python-format
@@ -1078,7 +1078,7 @@ msgstr "<a href=\"mailto:%(email)s\">Skontaktuj się z nami</a> lub…"
 
 #: foundation_cms/legacy_apps/templates/partials/404.html:11
 msgid "Back to our homepage"
-msgstr ""
+msgstr "Wróć na naszą stronę główną"
 
 #: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:75
 msgid "Related reading"
@@ -1321,7 +1321,7 @@ msgstr "Podpisując się, akceptujesz, że Mozilla przetwarza Twoje dane w spos�
 
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/highlights.html:9
 msgid "Read more"
-msgstr "Więcej informacji"
+msgstr "Czytaj więcej"
 
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/highlights.html:88
 msgid "Read more news"
@@ -1449,7 +1449,7 @@ msgstr "Wygląda na to, że osiągnięto godzinne ograniczenie. Spróbuj ponowni
 
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/petition.html:26
 msgid " * indicates a required field "
-msgstr "* wskazuje pole obowiązkowe"
+msgstr "* wskazuje pole obowiązkowe "
 
 #: foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:11 foundation_cms/legacy_apps/wagtailpages/templatetags/bg_selector_tags.py:27
 msgid "No"
