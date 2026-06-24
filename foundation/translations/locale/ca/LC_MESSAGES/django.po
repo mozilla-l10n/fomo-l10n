@@ -116,7 +116,7 @@ msgstr "Vaja! Aquesta pàgina no existeix."
 
 #: foundation_cms/templates/404.html:20
 msgid "Back to our homepage"
-msgstr ""
+msgstr "Torna a la pàgina d’inici"
 
 #: foundation_cms/templates/base/themes/nothing_personal/base.html:14 foundation_cms/templates/base/themes/nothing_personal/base.html:17
 msgid "Nothing Personal by Mozilla Foundation Logo"
@@ -789,8 +789,8 @@ msgstr "Més projectes"
 #, python-format
 msgid "Showing %(total_pages_count)s result for:"
 msgid_plural "Showing %(total_pages_count)s results for:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "S’està mostrant %(total_pages_count)s resultat per a:"
+msgstr[1] "S’estan mostrant %(total_pages_count)s resultats per a:"
 
 #: foundation_cms/templates/patterns/pages/nothing_personal/article_collection_page.html:11 foundation_cms/templates/patterns/pages/profiles/expert_profile_page.html:117
 msgid "Articles"
@@ -896,7 +896,13 @@ msgid_plural ""
 "            %(total_results)s results\n"
 "          "
 msgstr[0] ""
+"\n"
+"            %(total_results)s resultat\n"
+"          "
 msgstr[1] ""
+"\n"
+"            %(total_results)s resultats\n"
+"          "
 
 #: foundation_cms/templates/search/_search_summary.html:14 foundation_cms/templates/search/_search_summary.html:24
 msgid "for:"
@@ -913,7 +919,13 @@ msgid_plural ""
 "          %(total_results)s results\n"
 "        "
 msgstr[0] ""
+"\n"
+"          %(total_results)s resultat\n"
+"        "
 msgstr[1] ""
+"\n"
+"          %(total_results)s resultats\n"
+"        "
 
 #: foundation_cms/templates/search/_search_summary.html:32
 #, python-format
