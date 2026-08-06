@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-20 12:03+0000\n"
+"POT-Creation-Date: 2026-08-06 12:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,11 +22,11 @@ msgstr ""
 msgid "Keep Contributing"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/share.html:11
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/share.html:12
 msgid "I will share instead"
 msgstr ""
 
-#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/skip.html:11
+#: foundation_cms/campaigns/templates/campaigns/components/campaign_page/action/skip.html:12
 msgid "Maybe later"
 msgstr ""
 
@@ -66,6 +66,7 @@ msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:35
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:114
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:46
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:28
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:29
 msgid "Email"
@@ -73,6 +74,7 @@ msgstr ""
 
 #: foundation_cms/campaigns/templates/campaigns/components/formassembly_body.html:39
 #: foundation_cms/gallery_hub/models/gallery_page.py:136
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:61
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:38
 #: foundation_cms/templates/patterns/pages/profiles/_expert_filter.html:21
 msgid "Country"
@@ -252,7 +254,8 @@ msgid "Mozilla will only use your submitted information for purposes of communic
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/donor_help_contact_us_form/formassembly_body.html:120
-#: foundation_cms/templates/patterns/components/language_switcher.html:9
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:69
+#: foundation_cms/templates/patterns/components/language_switcher.html:11
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:45
 msgid "Language"
 msgstr ""
@@ -343,6 +346,42 @@ msgstr ""
 #: foundation_cms/templates/patterns/blocks/themes/default/fragments/pagination_controls.html:14
 #: foundation_cms/templates/patterns/components/carousel_controls.html:9
 msgid "Next"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:12
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:73
+#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
+msgid "Loading..."
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:34
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:8
+msgid "Something went wrong and your signup wasn't completed. Please try again later."
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:49
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:33
+#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:81
+#, python-format
+msgid "I'm okay with Mozilla handling my info as explained in this <a href=\"%(privacy_link)s\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Notice</a>."
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:88
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:62
+msgid "Please check this box if you want to proceed."
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:109
+#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:90
+msgid "Thank you!"
+msgstr ""
+
+#: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:111
+msgid "If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. Please check your inbox or spam filter for an email from us to click and confirm your subscription."
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_bottom_line_block.html:7
@@ -460,8 +499,7 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/donate_banner/close_button.html:6
 #: foundation_cms/templates/patterns/components/donate_banner/close_button.html:9
 #: foundation_cms/templates/patterns/components/donate_banner/lightbox_banner.html:19
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:56
-#: foundation_cms/templates/patterns/components/primary_nav.html:63
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:57
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:183
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:210
 msgid "Close"
@@ -479,7 +517,6 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/footer.html:8
 #: foundation_cms/templates/patterns/components/footer/footer_content.html:11
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:28
-#: foundation_cms/templates/patterns/components/primary_nav.html:22
 msgid "Mozilla Foundation Logo"
 msgstr ""
 
@@ -521,8 +558,7 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/footer.html:40
 #: foundation_cms/templates/patterns/components/footer/footer_content.html:47
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:63
-#: foundation_cms/templates/patterns/components/primary_nav.html:69
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:64
 msgid "Donate"
 msgstr ""
 
@@ -549,58 +585,31 @@ msgid "Section navigation"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:14
-#: foundation_cms/templates/patterns/components/primary_nav.html:8
 msgid "Toggle navigation"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:25
-#: foundation_cms/templates/patterns/components/primary_nav.html:20
 msgid "Mozilla Foundation homepage"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:32
-#: foundation_cms/templates/patterns/components/primary_nav.html:23
 msgid "Mozilla Foundation Symbol"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:48
-#: foundation_cms/templates/patterns/components/primary_nav.html:60
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:49
 msgid "Toggle search input"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:52
-#: foundation_cms/templates/patterns/components/primary_nav.html:62
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:53
 #: foundation_cms/templates/search/_search_form.html:3
 #: foundation_cms/templates/search/_search_form.html:4
 #: foundation_cms/templates/search/search_page.html:6
 msgid "Search"
 msgstr ""
 
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:8
-msgid "Something went wrong and your signup wasn't completed. Please try again later."
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:33
-#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:31
-msgid "Please enter a valid email address."
-msgstr ""
-
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:55
 #, python-format
 msgid "I'm okay with Mozilla handling my info as explained in this <a href=\"%(privacy_link)s\" target=\"_blank\" class=\"newsletter-signup__link\">Privacy Notice</a>."
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:62
-msgid "Please check this box if you want to proceed."
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:73
-#: foundation_cms/templates/patterns/components/newsletter_unsubscribe_form.html:41
-msgid "Loading..."
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/newsletter_signup_form.html:90
-msgid "Thank you!"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/newsletter_signup_form.html:93
@@ -650,30 +659,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/nothing_personal/product_review_page/toc_nav.html:5
 msgid "In This Review"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:34
-msgid "Meet Mozilla"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:38
-msgid "What We Do"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:41
-msgid "Imagine"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:42
-msgid "Co-create"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:43
-msgid "Mobilize"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/primary_nav.html:48
-msgid "Join Us"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/profiles/expert_hub_cta.html:6
