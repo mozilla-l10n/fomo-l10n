@@ -389,7 +389,7 @@ msgstr "Veuillez saisir une adresse e-mail valide."
 #: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:81
 #, python-format
 msgid "I'm okay with Mozilla handling my info as explained in this <a href=\"%(privacy_link)s\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Notice</a>."
-msgstr ""
+msgstr "J’accepte que Mozilla utilise mes informations conformément à <a href=\"%(privacy_link)s\" target=\"_blank\" rel=\"noopener noreferrer\">cette politique de confidentialité</a>."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/illustrated_newsletter_signup_block.html:88 foundation_cms/templates/patterns/components/newsletter_signup_form.html:62
 msgid "Please check this box if you want to proceed."
@@ -404,6 +404,8 @@ msgid ""
 "If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. Please check your inbox or spam filter for an email from us to click and"
 " confirm your subscription."
 msgstr ""
+"Si vous n’avez pas précédemment confirmé votre abonnement aux e-mails liés à la Fondation Mozilla, vous devrez peut-être le faire maintenant. Veuillez vérifier votre boîte de réception ou vos "
+"courriers indésirables et recherchez un message de notre part pour confirmer votre abonnement."
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_bottom_line_block.html:7
 msgid "The Bottom Line"
