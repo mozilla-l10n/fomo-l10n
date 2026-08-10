@@ -885,23 +885,23 @@ msgstr "Contenu"
 
 #: foundation_cms/templates/search/_search_filter_content_type.html:21
 msgid "Research"
-msgstr "Rechercher"
+msgstr "Recherche"
 
 #: foundation_cms/templates/search/_search_filter_content_type.html:30
 msgid "Press Release"
-msgstr ""
+msgstr "Communiqué de presse"
 
 #: foundation_cms/templates/search/_search_filter_content_type.html:39
 msgid "Event"
-msgstr ""
+msgstr "Évènement"
 
 #: foundation_cms/templates/search/_search_filter_content_type.html:48
 msgid "All"
-msgstr ""
+msgstr "Tout"
 
 #: foundation_cms/templates/search/_search_filter_drawer.html:27 foundation_cms/templates/search/search_page.html:55
 msgid "Filter & Sort"
-msgstr ""
+msgstr "Filtrer et trier"
 
 #: foundation_cms/templates/search/_search_filter_drawer.html:31
 msgid "Close filter and sort"
@@ -909,23 +909,23 @@ msgstr ""
 
 #: foundation_cms/templates/search/_search_filter_sort.html:5 foundation_cms/templates/search/_search_sort_form.html:15
 msgid "Sort"
-msgstr ""
+msgstr "Trier par"
 
 #: foundation_cms/templates/search/_search_filter_sort.html:14
 msgid "Relevance"
-msgstr ""
+msgstr "Pertinence"
 
 #: foundation_cms/templates/search/_search_filter_sort.html:23
 msgid "Newest First"
-msgstr ""
+msgstr "Les plus récents d’abord"
 
 #: foundation_cms/templates/search/_search_filter_sort.html:32
 msgid "Oldest First"
-msgstr ""
+msgstr "Les plus anciens d’abord"
 
 #: foundation_cms/templates/search/_search_filter_topics.html:5
 msgid "Topic Tag"
-msgstr ""
+msgstr "Étiquette de sujet"
 
 #: foundation_cms/templates/search/_search_results.html:10
 msgid "Illustration placeholder"
@@ -938,15 +938,15 @@ msgstr "Par"
 
 #: foundation_cms/templates/search/_search_results_sidebar.html:3
 msgid "Search filters"
-msgstr ""
+msgstr "Filtres de recherche"
 
 #: foundation_cms/templates/search/_search_suggestions.html:5
 msgid "Explore our ideas"
-msgstr ""
+msgstr "Explorez nos idées"
 
 #: foundation_cms/templates/search/_search_suggestions.html:22
 msgid "Quick Links"
-msgstr ""
+msgstr "Liens rapides"
 
 #: foundation_cms/templates/search/_search_summary.html:6
 msgid "Showing"
@@ -1001,7 +1001,7 @@ msgstr[1] ""
 #: foundation_cms/templates/search/_zero_results.html:6
 #, python-format
 msgid "Sorry, no results for “%(query)s”"
-msgstr ""
+msgstr "Désolé, aucun résultat pour « %(query)s »"
 
 #: foundation_cms/templates/search/_zero_results.html:22
 msgid "We couldn’t find what you’re looking for. Check your spelling, try a new search term or use our suggested links below:"
@@ -1019,4 +1019,4 @@ msgstr "Page %(page_number)s sur %(total_pages)s"
 #: foundation_cms/templates/search/search_page.html:51
 #, python-format
 msgid "Filter & Sort (%(filter_count)s)"
-msgstr ""
+msgstr "Filtrer et trier (%(filter_count)s)"
