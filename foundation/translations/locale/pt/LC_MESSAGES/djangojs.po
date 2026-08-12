@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-08 15:14+0000\n"
+"POT-Creation-Date: 2026-08-12 13:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,3 +60,15 @@ msgstr ""
 #: foundation_cms/static/js/components/copy_to_clipboard.js:24
 msgid "Copy failed"
 msgstr ""
+
+#: foundation_cms/static/js/controllers/character_countdown_controller.js:156
+msgid "%(count)s character over limit"
+msgid_plural "%(count)s characters over limit"
+msgstr[0] ""
+msgstr[1] ""
+
+#: foundation_cms/static/js/controllers/character_countdown_controller.js:161
+msgid "%(count)s character remaining"
+msgid_plural "%(count)s characters remaining"
+msgstr[0] ""
+msgstr[1] ""

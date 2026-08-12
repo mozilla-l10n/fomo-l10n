@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-10 15:57+0000\n"
+"POT-Creation-Date: 2026-08-12 13:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,6 +112,26 @@ msgstr ""
 
 #: foundation_cms/gallery_hub/models/gallery_page.py:130
 msgid "Year"
+msgstr ""
+
+#: foundation_cms/nothing_personal/models/product_review_page.py:233
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:7
+msgid "What You Should Know"
+msgstr ""
+
+#: foundation_cms/nothing_personal/models/product_review_page.py:236
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:7
+msgid "The Good and The Bad"
+msgstr ""
+
+#: foundation_cms/nothing_personal/models/product_review_page.py:237
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_reduce_your_risks_block.html:7
+msgid "Reduce Your Risks"
+msgstr ""
+
+#: foundation_cms/nothing_personal/models/product_review_page.py:238
+#: foundation_cms/templates/patterns/blocks/themes/default/product_review_bottom_line_block.html:7
+msgid "The Bottom Line"
 msgstr ""
 
 #: foundation_cms/templates/404.html:4
@@ -384,17 +404,9 @@ msgstr ""
 msgid "If you haven’t previously confirmed your opt-in to a Mozilla Foundation-related email subscription you may have to do so now. Please check your inbox or spam filter for an email from us to click and confirm your subscription."
 msgstr ""
 
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_bottom_line_block.html:7
-msgid "The Bottom Line"
-msgstr ""
-
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:27
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_carousel_block.html:28
 msgid "Pause carousel autoplay"
-msgstr ""
-
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:7
-msgid "The Good and The Bad"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:12
@@ -403,14 +415,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_good_and_bad_block.html:17
 msgid "The Bad"
-msgstr ""
-
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_reduce_your_risks_block.html:7
-msgid "Reduce Your Risks"
-msgstr ""
-
-#: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:7
-msgid "What You Should Know"
 msgstr ""
 
 #: foundation_cms/templates/patterns/blocks/themes/default/product_review_what_you_should_know_block.html:13
@@ -1007,4 +1011,20 @@ msgstr ""
 #: foundation_cms/templates/search/search_page.html:51
 #, python-format
 msgid "Filter & Sort (%(filter_count)s)"
+msgstr ""
+
+#: foundation_cms/templates/wagtailcore/password_required.html:4
+msgid "Password required"
+msgstr ""
+
+#: foundation_cms/templates/wagtailcore/password_required.html:26
+msgid "This is a password protected page."
+msgstr ""
+
+#: foundation_cms/templates/wagtailcore/password_required.html:42
+msgid "Password"
+msgstr ""
+
+#: foundation_cms/templates/wagtailcore/password_required.html:58
+msgid "Enter"
 msgstr ""
