@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-06 12:46+0000\n"
+"POT-Creation-Date: 2026-09-14 06:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -246,7 +246,6 @@ msgid "Methodology"
 msgstr ""
 
 #: foundation_cms/legacy_apps/templates/fragments/buyersguide/about_nav.html:15
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:228
 msgid "Contact us"
 msgstr ""
 
@@ -1101,103 +1100,6 @@ msgstr ""
 
 #: foundation_cms/legacy_apps/templates/partials/404.html:11
 msgid "Back to our homepage"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:75
-msgid "Related reading"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:195
-msgctxt "*Privacy Not Included can be localized."
-msgid "How to use *Privacy Not Included | Mozilla Foundation"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:205
-msgctxt "*Privacy Not Included can be localized."
-msgid "Why we made *Privacy Not Included | Mozilla Foundation"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:214
-msgctxt "Noun, media"
-msgid "Press"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:218
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:232
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:246
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:260
-msgctxt "This can be localized. This is a reference to the “*batteries not included” mention on toys."
-msgid "*Privacy Not Included | Mozilla Foundation"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:242
-msgid "Our methodology"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/homepage.py:256
-msgid "Contest terms and conditions"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:125
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:123
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:148
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:193
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:238
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:251
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:389
-msgid "Not creepy"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:126
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:124
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:149
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:194
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:265
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:390
-msgid "A little creepy"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:127
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:125
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:150
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:159
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:195
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:204
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:280
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:391
-msgid "Somewhat creepy"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:128
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:126
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:151
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:196
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:294
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:392
-msgid "Very creepy"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:129
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:127
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:152
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:197
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:307
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:319
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:393
-msgid "Super creepy"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:241
-#: foundation_cms/legacy_apps/wagtailpages/tests/buyersguide/test_product_page_evaluation.py:226
-msgid "No votes"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:668
-msgid "*Privacy Not Included review:"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/pagemodels/buyersguide/products.py:875
-msgid "Privacy & security guide"
 msgstr ""
 
 #: foundation_cms/legacy_apps/wagtailpages/pagemodels/libraries/constants.py:10
