@@ -8,18 +8,21 @@ touch translations_github_commit_${GITHUB_SHA}
 # Selecting only a file doesn't seem to work, using a dir instead
 mkdir -p to_upload
 
-# Recursive top-down renamer: replace '-' with '_' only in fy-NL/pt-BR directories
+# Recursive top-down renamer: only rename fy-NL and pt-BR directories
 rename_dirs() {
     local dir="$1"
 
-    # Rename current directory only if its basename is fy-NL or pt-BR
     local basename="${dir##*/}"
-    local newdir="$dir"
 
-    if [[ "$basename" == "fy-NL" || "$basename" == "pt-BR" ]]; then
-        newdir="${dir//-/_}"
+    if [[ "$basename" == "fy-NL" ]]; then
+        local newdir="${dir%/*}/fy_NL"
         echo "Renaming: '$dir' -> '$newdir'"
-        mv "$dir" "$newdir" || return 1
+        mv "$dir" "$newdir"
+        dir="$newdir"
+    elif [[ "$basename" == "pt-BR" ]]; then
+        local newdir="${dir%/*}/pt_BR"
+        echo "Renaming: '$dir' -> '$newdir'"
+        mv "$dir" "$newdir"
         dir="$newdir"
     fi
 
