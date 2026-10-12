@@ -552,7 +552,7 @@ msgstr "Paginação"
 #: foundation_cms/templates/patterns/components/_related_content.html:30
 #, python-format
 msgid "By %(author)s"
-msgstr "Por"
+msgstr "Por %(author)s"
 
 #: foundation_cms/templates/patterns/components/buttons/_btn_close.html:7 foundation_cms/templates/patterns/components/buttons/_btn_close.html:11
 #: foundation_cms/templates/patterns/components/donate_banner/_close_button.html:6 foundation_cms/templates/patterns/components/donate_banner/_close_button.html:9
@@ -564,7 +564,7 @@ msgstr "Close"
 #: foundation_cms/templates/patterns/components/buttons/_video_play_button_vimeo_style.html:4
 #, python-format
 msgid "Play %(label)s video"
-msgstr "Reproduzir vídeo"
+msgstr "Reproduzir %(label)s vídeo"
 
 #: foundation_cms/templates/patterns/components/donate_banner/_skip_button.html:3
 msgid "Skip Down"
@@ -671,7 +671,7 @@ msgstr "NESTA ANÁLISE"
 #: foundation_cms/templates/patterns/components/nothing_personal/home_page/_featured_items.html:42
 #, python-format
 msgid "by %(author)s"
-msgstr "por"
+msgstr "por %(author)s"
 
 #: foundation_cms/templates/patterns/components/nothing_personal/home_page/_featured_items.html:52
 msgid "See all articles"
