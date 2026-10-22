@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-14 10:10+0000\n"
+"POT-Creation-Date: 2026-10-22 09:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -549,6 +549,7 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/donate_banner/_close_button.html:6
 #: foundation_cms/templates/patterns/components/donate_banner/_close_button.html:9
 #: foundation_cms/templates/patterns/components/donate_banner/_lightbox_banner.html:19
+#: foundation_cms/templates/patterns/components/donate_banner/_pencil_banner.html:27
 #: foundation_cms/templates/patterns/components/navigation/primary_nav.html:61
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:183
 #: foundation_cms/templates/patterns/pages/gallery_hub/gallery_page.html:210
@@ -558,6 +559,13 @@ msgstr ""
 #: foundation_cms/templates/patterns/components/buttons/_video_play_button_vimeo_style.html:4
 #, python-format
 msgid "Play %(label)s video"
+msgstr ""
+
+#: foundation_cms/templates/patterns/components/donate_banner/_pencil_banner.html:6
+#: foundation_cms/templates/patterns/components/footer.html:40
+#: foundation_cms/templates/patterns/components/footer/_footer_content.html:47
+#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:68
+msgid "Donate"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/donate_banner/_skip_button.html:3
@@ -604,12 +612,6 @@ msgstr ""
 
 #: foundation_cms/templates/patterns/components/footer.html:36
 msgid "Participation guidelines"
-msgstr ""
-
-#: foundation_cms/templates/patterns/components/footer.html:40
-#: foundation_cms/templates/patterns/components/footer/_footer_content.html:47
-#: foundation_cms/templates/patterns/components/navigation/primary_nav.html:68
-msgid "Donate"
 msgstr ""
 
 #: foundation_cms/templates/patterns/components/footer.html:48

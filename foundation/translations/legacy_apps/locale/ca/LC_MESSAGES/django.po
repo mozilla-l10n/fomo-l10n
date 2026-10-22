@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-14 10:10+0000\n"
+"POT-Creation-Date: 2026-10-22 09:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,8 +107,8 @@ msgid "Name"
 msgstr ""
 
 #: foundation_cms/legacy_apps/templates/donate/fragments/formassembly_body.html:119
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:35
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:69
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:35
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/tags/cta/callpower.html:51
 msgid "Email"
 msgstr ""
@@ -688,7 +688,7 @@ msgid "Table of Contents"
 msgstr ""
 
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/bannered_campaign_page.html:55
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/campaign_page.html:75
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/campaign_page.html:70
 msgctxt "Sticky button in mobile view on campaign pages"
 msgid "TAKE ACTION"
 msgstr ""
@@ -745,49 +745,49 @@ msgctxt "Search results page with no results to display."
 msgid "Sorry, we couldn’t find anything with that search term."
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:29
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:63
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:29
 msgid "First Name"
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:32
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:66
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:32
 msgid "Last Name"
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:39
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:73
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:39
 msgid "Country"
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:39
-msgid "Your country"
-msgstr ""
-
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:294
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:315
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:294
 msgid "Postal Code"
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:299
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:320
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:299
 msgid "Comments"
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:303
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:324
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:303
 msgid "Yes, I want to receive email updates about Mozilla’s campaigns."
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:305
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:326
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:305
 msgid "Add my name"
 msgstr ""
 
-#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_camo.html:309
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_legacy.html:330
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:309
 #, python-format
 msgid "By signing you accept Mozilla handling your info as explained in this <a href=\"%(link)s\" target=\"_blank\">Privacy Notice</a>*"
+msgstr ""
+
+#: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/formassembly_body_sailthru.html:39
+msgid "Your country"
 msgstr ""
 
 #: foundation_cms/legacy_apps/wagtailpages/templates/wagtailpages/fragments/highlights.html:9
